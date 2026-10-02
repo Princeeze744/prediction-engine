@@ -1,0 +1,8 @@
+.venv
+backend
+tools
+data
+.github
+*.bat
+*.zip
+README*

@@ -1,0 +1,7 @@
+export type Pick={market:string;consistency:number;neighbours:string;tier:string};
+export type Match={id:string;sport:string,league:string,time:string,home:string,away:string,odds:string[],top:Pick,support:Pick[]};
+export const matches:Match[]=[
+{id:'nga-mad',sport:'football',league:'INTERNATIONAL',time:'18:00',home:'Nigeria',away:'Madagascar',odds:['1.42','4.30','7.80'],top:{market:'Nigeria to score • Over 0.5',consistency:98,neighbours:'49 / 50',tier:'HIGH MODEL'},support:[{market:'Double Chance • 1X',consistency:92,neighbours:'46 / 50',tier:'HIGH'},{market:'Total Goals • Over 2.5',consistency:84,neighbours:'42 / 50',tier:'SUPPORTING'}]},
+{id:'fen-vir',sport:'basketball',league:'EUROPE',time:'20:30',home:'Fenerbahçe',away:'Virtus Bologna',odds:['1.31','3.55'],top:{market:'Fenerbahçe • 70+ Points',consistency:100,neighbours:'40 / 40',tier:'HIGH MODEL'},support:[{market:'Fenerbahçe • 75+ Points',consistency:96,neighbours:'48 / 50',tier:'HIGH'},{market:'Game Total • 150+',consistency:90,neighbours:'90 / 100',tier:'SUPPORTING'}]},
+{id:'swa-bon',sport:'tennis',league:'ITF',time:'14:10',home:'Swaine',away:'Bonding',odds:['3.40','1.29'],top:{market:'Straight Sets • Under 2.5 Sets',consistency:100,neighbours:'20 / 20',tier:'HIGH MODEL'},support:[{market:'Bonding to win a set',consistency:92,neighbours:'46 / 50',tier:'HIGH'},{market:'Bonding Match Winner',consistency:88,neighbours:'35 / 40',tier:'SUPPORTING'}]}
+];

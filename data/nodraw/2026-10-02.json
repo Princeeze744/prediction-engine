@@ -1,0 +1,248 @@
+{
+ "date": "2026-10-02",
+ "created": "2026-10-02 10:08",
+ "items": [
+  {
+   "fid": 1641717,
+   "tier": "Sweet",
+   "home": "Vietnam",
+   "away": "Pakistan",
+   "league": "World: FIFA Asean Cup",
+   "kickoff": "10/2/2026 10:00:00 AM",
+   "fav": 1.1,
+   "o25": 1.35,
+   "odds": 1.03
+  },
+  {
+   "fid": 1556427,
+   "tier": "Sweet",
+   "home": "Minija",
+   "away": "Kauno \u017dalgiris II",
+   "league": "Lithuania: 1 Lyga",
+   "kickoff": "10/2/2026 3:00:00 PM",
+   "fav": 1.13,
+   "o25": 1.4,
+   "odds": 1.06
+  },
+  {
+   "fid": 1350190,
+   "tier": "Sweet",
+   "home": "England U21",
+   "away": "Slovakia U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/2/2026 7:45:00 PM",
+   "fav": 1.18,
+   "o25": 1.4,
+   "odds": 1.06
+  },
+  {
+   "fid": 1350191,
+   "tier": "Wide",
+   "home": "Slovenia U21",
+   "away": "Netherlands U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/2/2026 5:00:00 PM",
+   "fav": 1.27,
+   "o25": 1.59,
+   "odds": 1.11
+  },
+  {
+   "fid": 1642909,
+   "tier": "Wide",
+   "home": "Sparta Praha",
+   "away": "Vyso\u010dina Jihlava",
+   "league": "World: Friendlies Clubs",
+   "kickoff": "10/2/2026 11:00:00 AM",
+   "fav": 1.28,
+   "o25": 1.26,
+   "odds": 1.11
+  },
+  {
+   "fid": 1636372,
+   "tier": "Wide",
+   "home": "Al Ain",
+   "away": "Ajman",
+   "league": "United-Arab-Emirates: League Cup",
+   "kickoff": "10/2/2026 2:15:00 PM",
+   "fav": 1.31,
+   "o25": 1.44,
+   "odds": 1.1
+  },
+  {
+   "fid": 1642901,
+   "tier": "Wide",
+   "home": "Gornik Zabrze",
+   "away": "Odra Opole",
+   "league": "World: Friendlies Clubs",
+   "kickoff": "10/2/2026 10:00:00 AM",
+   "fav": 1.32,
+   "o25": 1.4,
+   "odds": 1.1
+  },
+  {
+   "fid": 1642923,
+   "tier": "Wide",
+   "home": "FC Aarau",
+   "away": "BSC Young Boys",
+   "league": "World: Friendlies Clubs",
+   "kickoff": "10/2/2026 3:30:00 PM",
+   "fav": 1.33,
+   "o25": 1.35,
+   "odds": 1.1
+  },
+  {
+   "fid": 1642922,
+   "tier": "Wide",
+   "home": "Wolfsberger AC",
+   "away": "Voitsberg",
+   "league": "World: Friendlies Clubs",
+   "kickoff": "10/2/2026 2:30:00 PM",
+   "fav": 1.33,
+   "o25": 1.37,
+   "odds": 1.1
+  },
+  {
+   "fid": 1551819,
+   "tier": "Wide",
+   "home": "Helmond Sport",
+   "away": "Heracles",
+   "league": "Netherlands: Eerste Divisie",
+   "kickoff": "10/2/2026 8:00:00 PM",
+   "fav": 1.33,
+   "o25": 1.39,
+   "odds": 1.12
+  },
+  {
+   "fid": 1636373,
+   "tier": "Wide",
+   "home": "Al-Wasl FC",
+   "away": "Al-Ittihad Kalba",
+   "league": "United-Arab-Emirates: League Cup",
+   "kickoff": "10/2/2026 2:15:00 PM",
+   "fav": 1.34,
+   "o25": 1.44,
+   "odds": 1.1
+  },
+  {
+   "fid": 1640048,
+   "tier": "Wide",
+   "home": "1. FC Heidenheim",
+   "away": "W\u00fcrzburger Kickers",
+   "league": "World: Friendlies Clubs",
+   "kickoff": "10/2/2026 12:00:00 PM",
+   "fav": 1.35,
+   "o25": 1.33,
+   "odds": 1.11
+  },
+  {
+   "fid": 1580761,
+   "tier": "Wide",
+   "home": "Caerau (Ely)",
+   "away": "Afan Lido",
+   "league": "Wales: FAW Championship",
+   "kickoff": "10/2/2026 7:45:00 PM",
+   "fav": 1.38,
+   "o25": 1.43,
+   "odds": 1.11
+  },
+  {
+   "fid": 1504567,
+   "tier": "Wide",
+   "home": "Lund",
+   "away": "Laholm",
+   "league": "Sweden: Ettan - S\u00f6dra",
+   "kickoff": "10/2/2026 6:00:00 PM",
+   "fav": 1.4,
+   "o25": 1.48,
+   "odds": 1.12
+  },
+  {
+   "fid": 1511231,
+   "tier": "Wide",
+   "home": "Farsta",
+   "away": "Fittja",
+   "league": "Sweden: Division 2 - S\u00f6dra Svealand",
+   "kickoff": "10/2/2026 7:00:00 PM",
+   "fav": 1.4,
+   "o25": 1.38,
+   "odds": 1.12
+  },
+  {
+   "fid": 1642906,
+   "tier": "Wide",
+   "home": "Aarhus",
+   "away": "Vendsyssel FF",
+   "league": "World: Friendlies Clubs",
+   "kickoff": "10/2/2026 11:00:00 AM",
+   "fav": 1.4,
+   "o25": 1.44,
+   "odds": 1.12
+  },
+  {
+   "fid": 1642926,
+   "tier": "Wide",
+   "home": "Red Bull Salzburg",
+   "away": "FC BW Linz",
+   "league": "World: Friendlies Clubs",
+   "kickoff": "10/2/2026 4:30:00 PM",
+   "fav": 1.4,
+   "o25": 1.42,
+   "odds": 1.13
+  },
+  {
+   "fid": 1642912,
+   "tier": "Wide",
+   "home": "Sturm Graz",
+   "away": "Floridsdorfer AC",
+   "league": "World: Friendlies Clubs",
+   "kickoff": "10/2/2026 12:00:00 PM",
+   "fav": 1.42,
+   "o25": 1.33,
+   "odds": 1.12
+  },
+  {
+   "fid": 1619700,
+   "tier": "Wide",
+   "home": "San Antonio Bulo Bulo",
+   "away": "ABB",
+   "league": "Bolivia: Copa de la Divisi\u00f3n Profesional",
+   "kickoff": "10/2/2026 8:00:00 PM",
+   "fav": 1.42,
+   "o25": 1.48,
+   "odds": 1.15
+  },
+  {
+   "fid": 1629898,
+   "tier": "Wide",
+   "home": "Tammeka",
+   "away": "Viimsi",
+   "league": "Estonia: Cup",
+   "kickoff": "10/2/2026 4:00:00 PM",
+   "fav": 1.44,
+   "o25": 1.36,
+   "odds": 1.12
+  },
+  {
+   "fid": 1510872,
+   "tier": "Wide",
+   "home": "Kungs\u00e4ngen",
+   "away": "Sunnersta",
+   "league": "Sweden: Division 2 - Norra Svealand",
+   "kickoff": "10/2/2026 6:00:00 PM",
+   "fav": 1.44,
+   "o25": 1.44,
+   "odds": 1.12
+  },
+  {
+   "fid": 1533782,
+   "tier": "Wide",
+   "home": "Gumi Sportstoto W",
+   "away": "Suwon FMC W",
+   "league": "South-Korea: WK-League",
+   "kickoff": "10/2/2026 11:00:00 AM",
+   "fav": 1.44,
+   "o25": 1.68,
+   "odds": 1.14
+  }
+ ]
+}

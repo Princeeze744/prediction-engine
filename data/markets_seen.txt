@@ -1,0 +1,180 @@
+1x2 - 15 minutes
+1x2 - 30 minutes
+1x2 - 60 minutes
+1x2 - 75 minutes
+Anytime Goal Scorer
+Asian Handicap
+Asian Handicap (2nd Half)
+Asian Handicap First Half
+Away Anytime Goal Scorer
+Away Corners Over/Under
+Away First Goal Scorer
+Away Goal Method Header
+Away Highest Scoring Half
+Away Last Goal Scorer
+Away Odd/Even
+Away Player Shots
+Away Player Shots On Target Total
+Away Player Shots Total
+Away Team Exact Goals Number
+Away Team Score a Goal
+Away Team Score a Goal (1st Half)
+Away Team Score a Goal (2nd Half)
+Away Team Total Cards
+Away Team Total Goals(1st Half)
+Away Team Total Goals(2nd Half)
+Away team will score in both halves
+Away Team Yellow Cards
+Away Total Corners (1st Half)
+Away Total Corners (2nd Half)
+Away win both halves
+Both Teams Score
+Both Teams Score - First Half
+Both Teams To Score - Second Half
+Both Teams To Score in Both Halves
+Cards Asian Handicap
+Cards European Handicap
+Cards Over/Under
+Cards over/under between 0 and 10 m
+Clean Sheet - Away
+Clean Sheet - Home
+Corners 1x2
+Corners 1x2 (1st Half)
+Corners 1x2 (2nd Half)
+Corners Asian Handicap
+Corners Asian Handicap (1st Half)
+Corners Asian Handicap (2nd Half)
+Corners Over Under
+Corners Race To
+Corners. Double Chance
+Corners. European Handicap
+Corners. Odd/Even
+Corners. Total (Range)
+Corners. total between 0 and 10m
+Correct Score - First Half
+Correct Score - Second Half
+Double Chance
+Double Chance - First Half
+Double Chance - Second Half
+European Handicap (2nd Half)
+Exact Goals Number
+Exact Goals Number - First Half
+Exact Score
+First 10 min Winner
+First Card Received (3 way)
+First Goal Method
+First Goal Scorer
+First Half Winner
+First Team to Score (3 way) 1st Half
+Fouls. 1x2
+Fouls. Away Total
+Fouls. Double Chance
+Fouls. Handicap
+Fouls. Home Total
+Fouls. Odd/Even
+Fouls. Total
+Game Decided After Penalties
+Game Decided in Extra Time
+Goal in 1-15 minutes
+Goal in 16-30 minutes
+Goal in 31-45 minutes
+Goal in 46-60 minutes
+Goal in 61-75 minutes
+Goal in 76-90 minutes
+Goal Line
+Goal Line (1st Half)
+Goal Method Outside the Box
+Goalkeeper Saves
+Goals Over/Under
+Goals Over/Under - Second Half
+Goals Over/Under First Half
+Handicap Result
+Handicap Result - First Half
+Highest Scoring Half
+Home Anytime Goal Scorer
+Home Corners Over/Under
+Home First Goal Scorer
+Home Goal Method Header
+Home Highest Scoring Half
+Home Last Goal Scorer
+Home Odd/Even
+Home Player Shots
+Home Player Shots On Target Total
+Home Team Exact Goals Number
+Home Team Score a Goal
+Home Team Score a Goal (1st Half)
+Home Team Score a Goal (2nd Half)
+Home Team Total Cards
+Home Team Total Goals(1st Half)
+Home Team Total Goals(2nd Half)
+Home team will score in both halves
+Home Team Yellow Cards
+Home Total Corners (1st Half)
+Home Total Corners (2nd Half)
+Home win both halves
+Home/Away
+HT/FT Double
+Last Goal Scorer
+Match Winner
+Method of Victory
+Multicorners
+Number Of Goals In Match
+Odd/Even
+Odd/Even - First Half
+Odd/Even - Second Half
+Offsides 1x2
+Offsides Away Total
+Offsides Double Chance
+Offsides Handicap
+Offsides Home Total
+Offsides Total
+Own Goal
+Player Assists
+Player Fouls Committed
+Player Singles
+Player to Score or Assist
+Player Triples
+RCARD
+Result/Total Goals
+Results/Both Teams Score
+RTG_H1
+Scoring Draw
+Second Half Exact Goals Number
+Second Half Winner
+ShotOnTarget 1x2
+ShotOnTarget Handicap
+Shots.1x2
+Team To Score First
+Team To Score Last
+To Miss A Penalty
+To Qualify
+To Score A Penalty
+To Score in Both Halves
+To Score In Both Halves By Teams
+To Win Either Half
+To Win From Behind
+Total - Away
+Total - Home
+Total Corners (1st Half)
+Total Corners (2nd Half)
+Total Corners (3 way)
+Total Goals/Both Teams To Score
+Total ShotOnGoal
+Total Shots
+Total Tackles
+Win Both Halves
+Win To Nil
+Win to Nil - Away
+Win to Nil - Home
+Winning Margin
+Yellow Asian Handicap
+Yellow Asian Handicap (1st Half)
+Yellow Asian Handicap (2nd Half)
+Yellow Cards 1x2
+Yellow Cards 1x2 (1st Half)
+Yellow Cards 1x2 (2nd Half)
+Yellow Double Chance
+Yellow Odd/Even
+Yellow Over/Under
+Yellow Over/Under (1st Half)
+Yellow Over/Under (2nd Half)

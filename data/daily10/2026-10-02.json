@@ -1,0 +1,755 @@
+{
+ "date": "2026-10-02",
+ "created": "2026-10-02 06:07",
+ "tickets": [
+  {
+   "no": 1,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.18,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1639976,
+     "kickoff": "10/2/2026 10:00:00 PM",
+     "match": "St. Kitts and Nevis - Cuba",
+     "league": "World: CONCACAF Nations League",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.18,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1555727,
+     "kickoff": "10/2/2026 11:00:00 AM",
+     "match": "Biwako Shiga - Roasso Kumamoto",
+     "league": "Japan: J3 League",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.35,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1643167,
+     "kickoff": "10/2/2026 11:30:00 AM",
+     "match": "Korea DPR W - Japan W",
+     "league": "World: Asian Games Women",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.29,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1629003,
+     "kickoff": "10/2/2026 12:00:00 PM",
+     "match": "South Korea - Venezuela",
+     "league": "World: Friendlies",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.19,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1504566,
+     "kickoff": "10/2/2026 6:00:00 PM",
+     "match": "Kristianstad - AFC Malmo",
+     "league": "Sweden: Ettan - S\u00f6dra",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.3,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.01,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1642901,
+     "kickoff": "10/2/2026 10:00:00 AM",
+     "match": "Gornik Zabrze - Odra Opole",
+     "league": "World: Friendlies Clubs",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.21,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1637598,
+     "kickoff": "10/2/2026 12:35:00 PM",
+     "match": "China - Palestine",
+     "league": "World: Friendlies",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.5,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1643216,
+     "kickoff": "10/2/2026 1:00:00 PM",
+     "match": "Mladost DG - Mornar",
+     "league": "World: Friendlies Clubs",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.36,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1505285,
+     "kickoff": "10/2/2026 6:00:00 PM",
+     "match": "Karlberg - Sollentuna",
+     "league": "Sweden: Ettan - Norra",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.22,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.0,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1642911,
+     "kickoff": "10/2/2026 12:00:00 PM",
+     "match": "FC Augsburg - Hertha BSC",
+     "league": "World: Friendlies Clubs",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.4,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1636202,
+     "kickoff": "10/2/2026 2:30:00 PM",
+     "match": "Dhofar - Oman Club",
+     "league": "Oman: FA Cup",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.3,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1643195,
+     "kickoff": "10/2/2026 3:00:00 PM",
+     "match": "Montenegro U19 - Israel U19",
+     "league": "World: Friendlies",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.27,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1492777,
+     "kickoff": "10/2/2026 7:45:00 PM",
+     "match": "Dundalk - Bohemians",
+     "league": "Ireland: Premier Division",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.3,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.06,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1641716,
+     "kickoff": "10/2/2026 10:00:00 AM",
+     "match": "Thailand - Philippines",
+     "league": "World: FIFA Asean Cup",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.21,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1642905,
+     "kickoff": "10/2/2026 10:30:00 AM",
+     "match": "Rak\u00f3w Cz\u0119stochowa - Polonia Bytom",
+     "league": "World: Friendlies Clubs",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.29,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1619156,
+     "kickoff": "10/2/2026 1:00:00 PM",
+     "match": "Fleetwood Town U21 - Sheffield Wednesday U21",
+     "league": "England: Professional Development League",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.42,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1350192,
+     "kickoff": "10/2/2026 5:00:00 PM",
+     "match": "Ukraine U21 - Croatia U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.3,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1350193,
+     "kickoff": "10/2/2026 5:00:00 PM",
+     "match": "Austria U21 - Denmark U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.44,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1545608,
+     "kickoff": "10/2/2026 5:00:00 PM",
+     "match": "Latvia - Montenegro",
+     "league": "World: UEFA Nations League",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.22,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.02,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1642904,
+     "kickoff": "10/2/2026 10:30:00 AM",
+     "match": "FC Lugano - Hellas Verona",
+     "league": "World: Friendlies Clubs",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.3,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1642906,
+     "kickoff": "10/2/2026 11:00:00 AM",
+     "match": "Aarhus - Vendsyssel FF",
+     "league": "World: Friendlies Clubs",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.23,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1533782,
+     "kickoff": "10/2/2026 11:00:00 AM",
+     "match": "Gumi Sportstoto W - Suwon FMC W",
+     "league": "South-Korea: WK-League",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.57,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    },
+    {
+     "fid": 1642918,
+     "kickoff": "10/2/2026 1:30:00 PM",
+     "match": "Grasshoppers - Yverdon Sport",
+     "league": "World: Friendlies Clubs",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.4,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1636203,
+     "kickoff": "10/2/2026 3:25:00 PM",
+     "match": "Al-Shabab - Saham",
+     "league": "Oman: FA Cup",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.2,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1636718,
+     "kickoff": "10/2/2026 5:00:00 PM",
+     "match": "Dukla Praha - FK Jablonec",
+     "league": "Czech-Republic: Cup",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.19,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.15,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1643210,
+     "kickoff": "10/2/2026 10:00:00 AM",
+     "match": "Pardubice - Viktoria \u017di\u017ekov",
+     "league": "World: Friendlies Clubs",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.25,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1642909,
+     "kickoff": "10/2/2026 11:00:00 AM",
+     "match": "Sparta Praha - Vyso\u010dina Jihlava",
+     "league": "World: Friendlies Clubs",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.29,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1642907,
+     "kickoff": "10/2/2026 11:00:00 AM",
+     "match": "AC Horsens - Vejle",
+     "league": "World: Friendlies Clubs",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.3,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1636204,
+     "kickoff": "10/2/2026 3:30:00 PM",
+     "match": "Al-Nahda - Sohar",
+     "league": "Oman: FA Cup",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.25,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1593143,
+     "kickoff": "10/2/2026 5:30:00 PM",
+     "match": "Bayer Leverkusen W - Werder Bremen W",
+     "league": "Germany: Frauen Bundesliga",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.21,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1575806,
+     "kickoff": "10/2/2026 6:00:00 PM",
+     "match": "Fremad Amager - B 93",
+     "league": "Denmark: 2. Division",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.25,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1492985,
+     "kickoff": "10/2/2026 7:45:00 PM",
+     "match": "Athlone Town - Cork City",
+     "league": "Ireland: First Division",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.3,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 10.4,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1643212,
+     "kickoff": "10/2/2026 10:00:00 AM",
+     "match": "Zlin - Prost\u011bjov",
+     "league": "World: Friendlies Clubs",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.23,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1641717,
+     "kickoff": "10/2/2026 10:00:00 AM",
+     "match": "Vietnam - Pakistan",
+     "league": "World: FIFA Asean Cup",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.22,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1640829,
+     "kickoff": "10/2/2026 11:00:00 AM",
+     "match": "Wales U19 - Norway U19",
+     "league": "World: Friendlies",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.33,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1642913,
+     "kickoff": "10/2/2026 2:00:00 PM",
+     "match": "HNK Gorica - Bravo",
+     "league": "World: Friendlies Clubs",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.59,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1632088,
+     "kickoff": "10/2/2026 3:00:00 PM",
+     "match": "Portugal U20 - Czechia U20",
+     "league": "World: U20 Elite League",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.32,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1350191,
+     "kickoff": "10/2/2026 5:00:00 PM",
+     "match": "Slovenia U21 - Netherlands U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.8,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    },
+    {
+     "fid": 1495963,
+     "kickoff": "10/2/2026 6:00:00 PM",
+     "match": "Ranheim - Egersund",
+     "league": "Norway: 1. Division",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.38,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 10.32,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1568513,
+     "kickoff": "10/2/2026 11:00:00 AM",
+     "match": "Zag\u0142\u0119bie Lubin II - G\u00f3rnik Polkowice",
+     "league": "Poland: III Liga - Group 3",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.27,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1640048,
+     "kickoff": "10/2/2026 12:00:00 PM",
+     "match": "1. FC Heidenheim - W\u00fcrzburger Kickers",
+     "league": "World: Friendlies Clubs",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.52,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1642912,
+     "kickoff": "10/2/2026 12:00:00 PM",
+     "match": "Sturm Graz - Floridsdorfer AC",
+     "league": "World: Friendlies Clubs",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.54,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1642927,
+     "kickoff": "10/2/2026 5:00:00 PM",
+     "match": "Rapid - Genoa",
+     "league": "World: Friendlies Clubs",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.62,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1511414,
+     "kickoff": "10/2/2026 6:00:00 PM",
+     "match": "Hestrafor - Onsala",
+     "league": "Sweden: Division 2 - V\u00e4stra G\u00f6taland",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.35,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1607973,
+     "kickoff": "10/2/2026 6:00:00 PM",
+     "match": "Velden - Treibach",
+     "league": "Austria: Regionalliga - South",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.27,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1510872,
+     "kickoff": "10/2/2026 6:00:00 PM",
+     "match": "Kungs\u00e4ngen - Sunnersta",
+     "league": "Sweden: Division 2 - Norra Svealand",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.25,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 10.02,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1640497,
+     "kickoff": "10/2/2026 11:00:00 AM",
+     "match": "1. FC N\u00fcrnberg - FC Ingolstadt 04",
+     "league": "World: Friendlies Clubs",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.29,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1636372,
+     "kickoff": "10/2/2026 2:15:00 PM",
+     "match": "Al Ain - Ajman",
+     "league": "United-Arab-Emirates: League Cup",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.38,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1642995,
+     "kickoff": "10/2/2026 5:00:00 PM",
+     "match": "Serbia U21 - Russia U21",
+     "league": "World: Friendlies",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.72,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1511030,
+     "kickoff": "10/2/2026 6:00:00 PM",
+     "match": "Staffanstorp United - S\u00f6lvesborg",
+     "league": "Sweden: Division 2 - S\u00f6dra G\u00f6taland",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.67,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1511236,
+     "kickoff": "10/2/2026 6:00:00 PM",
+     "match": "Smedby - Nyk\u00f6ping",
+     "league": "Sweden: Division 2 - S\u00f6dra Svealand",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.62,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1492989,
+     "kickoff": "10/2/2026 7:45:00 PM",
+     "match": "Wexford - Longford Town",
+     "league": "Ireland: First Division",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.21,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "tier": "20 odds",
+   "target": 20.0,
+   "odds": 20.38,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1640106,
+     "kickoff": "10/2/2026 10:00:00 AM",
+     "match": "PWD Sports Club - Brothers Union",
+     "league": "Bangladesh: Premier League",
+     "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+     "model": "M4",
+     "odds": 1.72,
+     "market": "Goals Over/Under First Half",
+     "selection": "Over 1.0"
+    },
+    {
+     "fid": 1640779,
+     "kickoff": "10/2/2026 10:30:00 PM",
+     "match": "Sportivo Carapegu\u00e1 - Deportivo Capiata",
+     "league": "Paraguay: Division Intermedia",
+     "pick": "Away Team Odd/Even - Even",
+     "model": "M7",
+     "odds": 1.67,
+     "market": "Away Odd/Even",
+     "selection": "Even"
+    },
+    {
+     "fid": 1642908,
+     "kickoff": "10/2/2026 11:00:00 AM",
+     "match": "Radomiak Radom - Pogo\u0144 Grod. Mazowiecki",
+     "league": "World: Friendlies Clubs",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.23,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1520560,
+     "kickoff": "10/2/2026 11:00:00 AM",
+     "match": "Daejeon Korail - Gangneung City",
+     "league": "South-Korea: K3 League",
+     "pick": "Away Team Odd/Even - Even",
+     "model": "M7",
+     "odds": 1.61,
+     "market": "Away Odd/Even",
+     "selection": "Even"
+    },
+    {
+     "fid": 1636373,
+     "kickoff": "10/2/2026 2:15:00 PM",
+     "match": "Al-Wasl FC - Al-Ittihad Kalba",
+     "league": "United-Arab-Emirates: League Cup",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.39,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1566107,
+     "kickoff": "10/2/2026 5:30:00 PM",
+     "match": "M\u0160K Senec - Spartak Myjava",
+     "league": "Slovakia: 3. liga - West",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.49,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1575807,
+     "kickoff": "10/2/2026 6:00:00 PM",
+     "match": "Naestved - Nykobing FC",
+     "league": "Denmark: 2. Division",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.73,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    }
+   ]
+  }
+ ]
+}

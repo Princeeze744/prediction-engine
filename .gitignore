@@ -1,0 +1,20 @@
+node_modules/
+.next/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.zip
+*.log
+tsconfig.tsbuildinfo
+.vercel
+# raw downloads that are too big or not needed (the build uses data/odds_all.csv.gz)
+data/odds.csv
+data/odds_all.csv
+data/odds_all_done.txt
+data/predictions*.csv
+data/injuries.csv
+data/prematch/predictions_*.csv
+data/prematch/odds_2*.csv
+data/prematch/paper_nodraw_*.csv
