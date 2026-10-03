@@ -21,7 +21,7 @@ $Markets = @('Match Winner','Goals Over/Under','To Win Either Half','Away Team T
              'Clean Sheet - Home','Clean Sheet - Away','Away team will score in both halves','Both Teams Score - First Half','Asian Handicap')
 $ErrorActionPreference = 'Stop'
 if (-not $env:APIFOOTBALL_KEY) { $env:APIFOOTBALL_KEY = Read-Host 'API-Football key' }
-$Headers = @{ 'x-apisports-key' = "$env:APIFOOTBALL_KEY".Trim() }   # Trim: a pasted key often carries a hidden line break
+$Headers = @{ 'x-apisports-key' = ("$env:APIFOOTBALL_KEY" -replace '\s', '') }   # strips any hidden spaces or line breaks from a pasted key
 $Base = 'https://v3.football.api-sports.io'
 New-Item -ItemType Directory -Force -Path $OutDir | Out-Null
 $day = (Get-Date).AddDays($DayOffset).ToString('yyyy-MM-dd'); $stamp = (Get-Date).ToString('yyyy-MM-dd HH:mm:ss')

@@ -33,6 +33,8 @@ jobs:
         shell: pwsh
         run: |
           if (-not $env:APIFOOTBALL_KEY) { Write-Error 'APIFOOTBALL_KEY secret is missing. Add it under Settings > Secrets and variables > Actions.'; exit 1 }
+          $k = $env:APIFOOTBALL_KEY -replace '\s', ''
+          Write-Host "Key check: $($k.Length) characters after cleaning ($($env:APIFOOTBALL_KEY.Length) as saved). Robot version 3."
           tzutil /s "W. Central Africa Standard Time"
           Get-Date
       - name: Results for the last 2 days
