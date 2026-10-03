@@ -4702,9 +4702,11 @@
        "cat": "1X",
        "consistency": 94,
        "neighbours": "47 / 50",
-       "odds": 1.19
+       "odds": 1.19,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-0"
     },
     {
      "fid": 1643230,
@@ -8307,9 +8309,11 @@
         "cat": "1X",
         "consistency": 94,
         "neighbours": "47 / 50",
-        "odds": 1.19
+        "odds": 1.19,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-0"
      },
      {
       "fid": 1643230,
@@ -9865,17 +9869,17 @@
    }
   ],
   "live": {
+   "1X": {
+    "picks": 13,
+    "won": 10
+   },
+   "TOP FINGERPRINT": {
+    "picks": 59,
+    "won": 46
+   },
    "HOME 1+": {
     "picks": 16,
     "won": 13
-   },
-   "TOP FINGERPRINT": {
-    "picks": 58,
-    "won": 45
-   },
-   "1X": {
-    "picks": 12,
-    "won": 9
    },
    "OVER 2.5": {
     "picks": 14,
@@ -44319,7 +44323,7 @@
    "about": "Mixed markets, built until the ticket reaches 20 odds. Rare wins, big payout."
   }
  },
- "generated": "2026-10-03 14:26",
+ "generated": "2026-10-03 14:48",
  "split": "2026-09-26",
  "note": "Candidates only. Selected as the best of 21,335 tested patterns over 6 days; some of this record is luck and will fade. Flat 1-unit stakes at the typical (median) bookmaker price. Prices captured about 1 hour before kick-off.",
  "models": [
@@ -111632,15 +111636,15 @@
    "selection": "Over 1.0",
    "rule": "X3.3-3.7 and senior  ->  Goals Over/Under First Half | Over 1.0",
    "record": {
-    "picks": 429,
+    "picks": 430,
     "won": 170,
     "lost": 97,
-    "void": 162,
+    "void": 163,
     "hit": 63.7,
     "avg_odds": 1.71,
     "profit": 18.68,
-    "roi": 4.4,
-    "roi_best": 5.8
+    "roi": 4.3,
+    "roi_best": 5.7
    },
    "found": {
     "picks": 208,
@@ -111654,10 +111658,10 @@
     "roi_best": 6.3
    },
    "unseen": {
-    "picks": 221,
+    "picks": 222,
     "won": 80,
     "lost": 47,
-    "void": 94,
+    "void": 95,
     "hit": 63.0,
     "avg_odds": 1.74,
     "profit": 9.53,
@@ -111665,8 +111669,20 @@
     "roi_best": 5.2
    },
    "days_positive": 5,
-   "days": 7,
+   "days": 8,
    "daily": [
+    {
+     "date": "2026-10-02",
+     "picks": 1,
+     "won": 0,
+     "lost": 0,
+     "void": 1,
+     "hit": null,
+     "avg_odds": 1.73,
+     "profit": 0.0,
+     "roi": 0.0,
+     "roi_best": 0.0
+    },
     {
      "date": "2026-10-01",
      "picks": 26,
@@ -112748,6 +112764,19 @@
     }
    ],
    "picks": [
+    {
+     "fid": 1601401,
+     "date": "2026-10-02",
+     "match": "Cariari Pococi - Santa Ana",
+     "league": "Costa-Rica: Liga de Ascenso",
+     "score": "1-2",
+     "ht": "0-1",
+     "odds": 1.73,
+     "best": 1.79,
+     "status": "VOID",
+     "profit": 0.0,
+     "profit_best": 0.0
+    },
     {
      "fid": 1493716,
      "date": "2026-10-01",
@@ -126748,15 +126777,15 @@
    "selection": "Even",
    "rule": "O2.5@1.80-2.10 and league  ->  Away Odd/Even | Even",
    "record": {
-    "picks": 332,
-    "won": 211,
+    "picks": 333,
+    "won": 212,
     "lost": 121,
     "void": 0,
-    "hit": 63.6,
+    "hit": 63.7,
     "avg_odds": 1.67,
-    "profit": 18.89,
-    "roi": 5.7,
-    "roi_best": 5.9
+    "profit": 19.59,
+    "roi": 5.9,
+    "roi_best": 6.1
    },
    "found": {
     "picks": 121,
@@ -126770,19 +126799,31 @@
     "roi_best": 7.7
    },
    "unseen": {
-    "picks": 211,
-    "won": 133,
+    "picks": 212,
+    "won": 134,
     "lost": 78,
     "void": 0,
-    "hit": 63.0,
+    "hit": 63.2,
     "avg_odds": 1.66,
-    "profit": 10.01,
-    "roi": 4.7,
-    "roi_best": 4.9
+    "profit": 10.71,
+    "roi": 5.1,
+    "roi_best": 5.2
    },
-   "days_positive": 5,
-   "days": 7,
+   "days_positive": 6,
+   "days": 8,
    "daily": [
+    {
+     "date": "2026-10-02",
+     "picks": 1,
+     "won": 1,
+     "lost": 0,
+     "void": 0,
+     "hit": 100.0,
+     "avg_odds": 1.7,
+     "profit": 0.7,
+     "roi": 70.0,
+     "roi_best": 70.0
+    },
     {
      "date": "2026-10-01",
      "picks": 22,
@@ -127392,6 +127433,19 @@
     }
    ],
    "picks": [
+    {
+     "fid": 1601401,
+     "date": "2026-10-02",
+     "match": "Cariari Pococi - Santa Ana",
+     "league": "Costa-Rica: Liga de Ascenso",
+     "score": "1-2",
+     "ht": "0-1",
+     "odds": 1.7,
+     "best": 1.7,
+     "status": "WON",
+     "profit": 0.7,
+     "profit_best": 0.7
+    },
     {
      "fid": 1350184,
      "date": "2026-10-01",
