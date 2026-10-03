@@ -1,0 +1,3604 @@
+{
+ "date": "2026-10-03",
+ "created": "2026-10-03 13:52",
+ "items": [
+  {
+   "fid": 1492310,
+   "home": "Atletico-MG",
+   "away": "RB Bragantino",
+   "league": "Brazil: Serie A",
+   "kickoff": "10/3/2026 10:30:00 PM",
+   "odds": [
+    1.95,
+    3.61,
+    3.9
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.36
+    }
+   ]
+  },
+  {
+   "fid": 1493156,
+   "home": "Defensa Y Justicia",
+   "away": "San Lorenzo",
+   "league": "Argentina: Liga Profesional Argentina",
+   "kickoff": "10/3/2026 6:45:00 PM",
+   "odds": [
+    2.11,
+    2.96,
+    4.08
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1493163,
+   "home": "Newells Old Boys",
+   "away": "Lanus",
+   "league": "Argentina: Liga Profesional Argentina",
+   "kickoff": "10/3/2026 9:00:00 PM",
+   "odds": [
+    2.79,
+    2.9,
+    2.86
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1495960,
+   "home": "Haugesund",
+   "away": "Stabaek",
+   "league": "Norway: 1. Division",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.75,
+    4.48,
+    3.65
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1495966,
+   "home": "Stromsgodset",
+   "away": "Asane",
+   "league": "Norway: 1. Division",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.12,
+    9.95,
+    14.54
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1496166,
+   "home": "Notodden",
+   "away": "Eik-T\u00f8nsberg",
+   "league": "Norway: 2. Division - Group 1",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    1.3,
+    5.19,
+    7.38
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1496892,
+   "home": "F\u00f8rde",
+   "away": "Fyllingsdalen",
+   "league": "Norway: 3. Division - Girone 3",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    1.18,
+    7.6,
+    11.5
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": null
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1498847,
+   "home": "Acassuso",
+   "away": "Ciudad de Bol\u00edvar",
+   "league": "Argentina: Primera Nacional",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    2.27,
+    2.89,
+    3.45
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1498854,
+   "home": "Colon Santa Fe",
+   "away": "CA Estudiantes",
+   "league": "Argentina: Primera Nacional",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    1.94,
+    3.04,
+    4.23
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1498855,
+   "home": "Deportivo Moron",
+   "away": "All Boys",
+   "league": "Argentina: Primera Nacional",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    1.88,
+    2.92,
+    4.89
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1498864,
+   "home": "Tristan Suarez",
+   "away": "Quilmes",
+   "league": "Argentina: Primera Nacional",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    2.14,
+    2.71,
+    4.12
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1499662,
+   "home": "Defensores Unidos",
+   "away": "Argentino Quilmes",
+   "league": "Argentina: Primera B Metropolitana",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    2.34,
+    2.69,
+    3.21
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1499664,
+   "home": "Deportivo Camioneros",
+   "away": "Deportivo Laferrere",
+   "league": "Argentina: Primera B Metropolitana",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    2.34,
+    2.9,
+    3.08
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1499666,
+   "home": "Liniers",
+   "away": "Excursionistas",
+   "league": "Argentina: Primera B Metropolitana",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    3.92,
+    2.99,
+    1.92
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1499667,
+   "home": "Real Pilar",
+   "away": "Villa Dalmine",
+   "league": "Argentina: Primera B Metropolitana",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    2.45,
+    2.7,
+    3.09
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1499668,
+   "home": "San Mart\u00edn Burzaco",
+   "away": "Argentino de Merlo",
+   "league": "Argentina: Primera B Metropolitana",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    2.17,
+    2.85,
+    3.45
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1499671,
+   "home": "Villa San Carlos",
+   "away": "Arsenal Sarandi",
+   "league": "Argentina: Primera B Metropolitana",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    3.53,
+    2.77,
+    2.14
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1500141,
+   "home": "Deportivo Paraguayo",
+   "away": "Mercedes",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    4.08,
+    2.7,
+    2.0
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1500142,
+   "home": "El Porvenir",
+   "away": "Canuelas",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    3.46,
+    2.79,
+    2.21
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1500144,
+   "home": "Juventud Unida",
+   "away": "Berazategui",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    3.45,
+    2.82,
+    2.21
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1504565,
+   "home": "Jonkopings Sodra",
+   "away": "Eskilsminne",
+   "league": "Sweden: Ettan - S\u00f6dra",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.67,
+    3.8,
+    4.25
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1504569,
+   "home": "Sk\u00f6vde AIK",
+   "away": "Utsikten",
+   "league": "Sweden: Ettan - S\u00f6dra",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.42,
+    5.02,
+    5.8
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1508566,
+   "home": "Racing Louisville W",
+   "away": "Utah Royals W",
+   "league": "USA: NWSL Women",
+   "kickoff": "10/3/2026 9:00:00 PM",
+   "odds": [
+    3.03,
+    3.75,
+    1.97
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.28
+    }
+   ]
+  },
+  {
+   "fid": 1510870,
+   "home": "Gute",
+   "away": "Skiljebo",
+   "league": "Sweden: Division 2 - Norra Svealand",
+   "kickoff": "10/3/2026 5:00:00 PM",
+   "odds": [
+    4.72,
+    4.55,
+    1.48
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.4
+    }
+   ]
+  },
+  {
+   "fid": 1511611,
+   "home": "Deportes Copiapo",
+   "away": "D. Puerto Montt",
+   "league": "Chile: Primera B",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    1.86,
+    3.38,
+    3.72
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.31
+    }
+   ]
+  },
+  {
+   "fid": 1520901,
+   "home": "Atletico Goianiense",
+   "away": "America Mineiro",
+   "league": "Brazil: Serie B",
+   "kickoff": "10/3/2026 8:00:00 PM",
+   "odds": [
+    1.27,
+    5.38,
+    10.06
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.69
+    }
+   ]
+  },
+  {
+   "fid": 1520902,
+   "home": "Avai",
+   "away": "Ceara",
+   "league": "Brazil: Serie B",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.29,
+    3.05,
+    3.37
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1520903,
+   "home": "Botafogo SP",
+   "away": "Vila Nova",
+   "league": "Brazil: Serie B",
+   "kickoff": "10/3/2026 10:30:00 PM",
+   "odds": [
+    2.47,
+    3.02,
+    3.04
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1520904,
+   "home": "Cuiaba",
+   "away": "Ponte Preta",
+   "league": "Brazil: Serie B",
+   "kickoff": "10/3/2026 9:00:00 PM",
+   "odds": [
+    1.17,
+    7.22,
+    15.96
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.52
+    }
+   ]
+  },
+  {
+   "fid": 1528932,
+   "home": "Finland",
+   "away": "Albania",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    2.44,
+    3.04,
+    3.3
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1528934,
+   "home": "Belarus",
+   "away": "San Marino",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/3/2026 5:00:00 PM",
+   "odds": [
+    1.06,
+    12.85,
+    43.22
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.15
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.52
+    }
+   ]
+  },
+  {
+   "fid": 1528936,
+   "home": "Spain",
+   "away": "Czechia",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/3/2026 7:45:00 PM",
+   "odds": [
+    1.07,
+    14.09,
+    36.24
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.25
+    }
+   ]
+  },
+  {
+   "fid": 1545609,
+   "home": "Estonia",
+   "away": "Luxembourg",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/3/2026 5:00:00 PM",
+   "odds": [
+    3.01,
+    2.95,
+    2.7
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1545653,
+   "home": "Switzerland",
+   "away": "Slovenia",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/3/2026 7:45:00 PM",
+   "odds": [
+    1.27,
+    5.78,
+    13.32
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.86
+    }
+   ]
+  },
+  {
+   "fid": 1545660,
+   "home": "FYR Macedonia",
+   "away": "Scotland",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/3/2026 7:45:00 PM",
+   "odds": [
+    5.98,
+    3.73,
+    1.64
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1549807,
+   "home": "Deportes Tolima",
+   "away": "Chico",
+   "league": "Colombia: Primera A",
+   "kickoff": "10/3/2026 10:05:00 PM",
+   "odds": [
+    1.32,
+    4.99,
+    9.35
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1551823,
+   "home": "FC Eindhoven",
+   "away": "De Graafschap",
+   "league": "Netherlands: Eerste Divisie",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    2.81,
+    3.72,
+    2.22
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1556867,
+   "home": "Morton",
+   "away": "Raith Rovers",
+   "league": "Scotland: Championship",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    5.6,
+    4.09,
+    1.54
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.07
+    }
+   ]
+  },
+  {
+   "fid": 1556868,
+   "home": "Partick",
+   "away": "Arbroath",
+   "league": "Scotland: Championship",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.34,
+    4.88,
+    7.88
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1557050,
+   "home": "Ross County",
+   "away": "Alloa Athletic",
+   "league": "Scotland: League One",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.31,
+    5.59,
+    7.55
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.12
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.5
+    }
+   ]
+  },
+  {
+   "fid": 1557301,
+   "home": "Gent W",
+   "away": "Zulte-Waregem W",
+   "league": "Belgium: Super League Women",
+   "kickoff": "10/3/2026 6:30:00 PM",
+   "odds": [
+    3.77,
+    3.68,
+    1.75
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.66
+    }
+   ]
+  },
+  {
+   "fid": 1557792,
+   "home": "Spartans",
+   "away": "Kelty Hearts",
+   "league": "Scotland: League Two",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.62,
+    4.04,
+    4.33
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1558956,
+   "home": "Tabor Se\u017eana",
+   "away": "Krka",
+   "league": "Slovenia: 2. SNL",
+   "kickoff": "10/3/2026 5:00:00 PM",
+   "odds": [
+    1.31,
+    5.0,
+    9.3
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1562083,
+   "home": "Glentoran",
+   "away": "Dungannon Swifts",
+   "league": "Northern-Ireland: Premiership",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.69,
+    4.1,
+    4.17
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1562085,
+   "home": "Portadown",
+   "away": "Limavady United",
+   "league": "Northern-Ireland: Premiership",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.79,
+    3.58,
+    2.3
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.21
+    }
+   ]
+  },
+  {
+   "fid": 1562653,
+   "home": "\u010cesk\u00e9 Bud\u011bjovice",
+   "away": "Bene\u0161ov",
+   "league": "Czech-Republic: 3. liga - CFL A",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.33,
+    5.14,
+    6.67
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1564885,
+   "home": "Warrenpoint Town",
+   "away": "Annagh United",
+   "league": "Northern-Ireland: Championship",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.99,
+    3.44,
+    2.09
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.29
+    }
+   ]
+  },
+  {
+   "fid": 1565735,
+   "home": "N\u00e1mestovo",
+   "away": "Podkonice",
+   "league": "Slovakia: 3. liga - Center",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    1.31,
+    4.95,
+    6.94
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1568192,
+   "home": "Jaros\u0142aw",
+   "away": "Naprz\u00f3d",
+   "league": "Poland: III Liga - Group 4",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    1.6,
+    4.05,
+    4.2
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1568507,
+   "home": "Odra Bytom Odrza\u0144ski",
+   "away": "Zaglebie Sosnowiec",
+   "league": "Poland: III Liga - Group 3",
+   "kickoff": "10/3/2026 6:00:00 PM",
+   "odds": [
+    2.56,
+    3.47,
+    2.38
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1569119,
+   "home": "\u0141om\u017ca",
+   "away": "Olimpia Elbl\u0105g",
+   "league": "Poland: III Liga - Group 1",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.65,
+    3.55,
+    2.25
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1570768,
+   "home": "Barakaldo",
+   "away": "Arenas Getxo",
+   "league": "Spain: Primera Divisi\u00f3n RFEF - Group 1",
+   "kickoff": "10/3/2026 3:30:00 PM",
+   "odds": [
+    1.62,
+    3.73,
+    4.85
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1570770,
+   "home": "Racing Ferrol",
+   "away": "Pontevedra",
+   "league": "Spain: Primera Divisi\u00f3n RFEF - Group 1",
+   "kickoff": "10/3/2026 3:30:00 PM",
+   "odds": [
+    2.28,
+    2.96,
+    3.15
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1570772,
+   "home": "Real Uni\u00f3n",
+   "away": "UD Ourense",
+   "league": "Spain: Primera Divisi\u00f3n RFEF - Group 1",
+   "kickoff": "10/3/2026 3:30:00 PM",
+   "odds": [
+    1.38,
+    4.66,
+    7.05
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.07
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1571146,
+   "home": "Alcorcon",
+   "away": "Juventud Torremolinos",
+   "league": "Spain: Primera Divisi\u00f3n RFEF - Group 2",
+   "kickoff": "10/3/2026 5:45:00 PM",
+   "odds": [
+    1.26,
+    4.9,
+    9.62
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.07
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1571148,
+   "home": "FC Cartagena",
+   "away": "\u00c1guilas",
+   "league": "Spain: Primera Divisi\u00f3n RFEF - Group 2",
+   "kickoff": "10/3/2026 5:45:00 PM",
+   "odds": [
+    2.12,
+    2.9,
+    3.56
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1571153,
+   "home": "Sant Andreu",
+   "away": "Antequera",
+   "league": "Spain: Primera Divisi\u00f3n RFEF - Group 2",
+   "kickoff": "10/3/2026 5:45:00 PM",
+   "odds": [
+    1.79,
+    3.29,
+    4.12
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.3
+    }
+   ]
+  },
+  {
+   "fid": 1572072,
+   "home": "Portugalete",
+   "away": "Deportivo Alav\u00e9s II",
+   "league": "Spain: Segunda Divisi\u00f3n RFEF - Group 1",
+   "kickoff": "10/3/2026 5:00:00 PM",
+   "odds": [
+    2.67,
+    2.93,
+    2.61
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1572374,
+   "home": "Espanyol II",
+   "away": "N\u00e1xara",
+   "league": "Spain: Segunda Divisi\u00f3n RFEF - Group 2",
+   "kickoff": "10/3/2026 5:00:00 PM",
+   "odds": [
+    1.11,
+    6.6,
+    17.1
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.56
+    }
+   ]
+  },
+  {
+   "fid": 1572985,
+   "home": "Estepona",
+   "away": "Don Benito",
+   "league": "Spain: Segunda Divisi\u00f3n RFEF - Group 4",
+   "kickoff": "10/3/2026 6:00:00 PM",
+   "odds": [
+    1.94,
+    3.15,
+    3.8
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1573293,
+   "home": "Atl\u00e9tico Paso",
+   "away": "Real Madrid III",
+   "league": "Spain: Segunda Divisi\u00f3n RFEF - Group 5",
+   "kickoff": "10/3/2026 7:30:00 PM",
+   "odds": [
+    3.39,
+    3.02,
+    2.13
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.16
+    }
+   ]
+  },
+  {
+   "fid": 1573865,
+   "home": "Rheindorf Altach II",
+   "away": "Hohenems",
+   "league": "Austria: Regionalliga - West",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    5.6,
+    4.82,
+    1.4
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": null
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.38
+    }
+   ]
+  },
+  {
+   "fid": 1573867,
+   "home": "Kufstein",
+   "away": "Imst",
+   "league": "Austria: Regionalliga - West",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    5.28,
+    4.38,
+    1.46
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.07
+    }
+   ]
+  },
+  {
+   "fid": 1575972,
+   "home": "Airbus UK",
+   "away": "Trefelin",
+   "league": "Wales: Premier League",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    1.42,
+    4.89,
+    5.9
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1575974,
+   "home": "Briton Ferry",
+   "away": "Colwyn Bay",
+   "league": "Wales: Premier League",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    4.92,
+    3.92,
+    1.59
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1575979,
+   "home": "The New Saints",
+   "away": "Cambrian & Clydach",
+   "league": "Wales: Premier League",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    1.04,
+    11.72,
+    23.0
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.16
+    }
+   ]
+  },
+  {
+   "fid": 1579254,
+   "home": "Nov\u00e9 Sady",
+   "away": "Brumov",
+   "league": "Czech-Republic: 4. liga - Divizie E",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    2.46,
+    3.73,
+    2.27
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1579486,
+   "home": "ROHDA Raalte",
+   "away": "GVVV Veenendaal",
+   "league": "Netherlands: Tweede Divisie",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    4.38,
+    4.65,
+    1.54
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1579489,
+   "home": "Spakenburg",
+   "away": "AFC Amsterdam",
+   "league": "Netherlands: Tweede Divisie",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    1.6,
+    4.62,
+    4.15
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.42
+    }
+   ]
+  },
+  {
+   "fid": 1579827,
+   "home": "Albert Qu\u00e9vy-Mons",
+   "away": "Fl\u00e9nu",
+   "league": "Belgium: First Amateur Division",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    1.19,
+    6.17,
+    11.92
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": null
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.46
+    }
+   ]
+  },
+  {
+   "fid": 1579963,
+   "home": "Hoogstraten",
+   "away": "Houtvenne",
+   "league": "Belgium: First Amateur Division",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    2.44,
+    3.56,
+    2.44
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1580520,
+   "home": "Buckley Town",
+   "away": "Ruthin Town",
+   "league": "Wales: FAW Championship",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    1.46,
+    4.67,
+    5.1
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1580522,
+   "home": "Guilsfield",
+   "away": "Llanuwchllyn",
+   "league": "Wales: FAW Championship",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    1.33,
+    5.3,
+    6.87
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.35
+    }
+   ]
+  },
+  {
+   "fid": 1580523,
+   "home": "Mold Alexandra",
+   "away": "Newtown AFC",
+   "league": "Wales: FAW Championship",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    2.54,
+    3.68,
+    2.29
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.16
+    }
+   ]
+  },
+  {
+   "fid": 1580762,
+   "home": "Cardiff Draconians",
+   "away": "Newport City",
+   "league": "Wales: FAW Championship",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    2.64,
+    3.58,
+    2.3
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1580763,
+   "home": "Pontypridd Town",
+   "away": "Aberystwyth Town",
+   "league": "Wales: FAW Championship",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    2.51,
+    3.57,
+    2.43
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1583935,
+   "home": "Amkar",
+   "away": "Torpedo Miass",
+   "league": "Russia: Second League A - Division A Silver",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.69,
+    4.08,
+    4.02
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1583937,
+   "home": "Tyumen",
+   "away": "Zenit 2",
+   "league": "Russia: Second League A - Division A Silver",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    2.62,
+    3.65,
+    2.33
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1585270,
+   "home": "Barrow",
+   "away": "Wealdstone",
+   "league": "England: National League",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.72,
+    3.85,
+    4.08
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.16
+    }
+   ]
+  },
+  {
+   "fid": 1585272,
+   "home": "Eastleigh",
+   "away": "Woking",
+   "league": "England: National League",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.78,
+    3.59,
+    2.24
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1585273,
+   "home": "Gateshead",
+   "away": "Worthing",
+   "league": "England: National League",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    6.58,
+    5.17,
+    1.36
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1585279,
+   "home": "Southend",
+   "away": "AFC Fylde",
+   "league": "England: National League",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.78,
+    4.19,
+    3.59
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1588881,
+   "home": "Colchester",
+   "away": "Luton",
+   "league": "England: EFL Trophy",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    4.97,
+    4.29,
+    1.54
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1589725,
+   "home": "Ra\u010de",
+   "away": "Ljutomer",
+   "league": "Slovenia: 3. SNL - East",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    1.71,
+    3.94,
+    3.75
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.46
+    }
+   ]
+  },
+  {
+   "fid": 1589770,
+   "home": "NK Ormoz",
+   "away": "Dobrovce",
+   "league": "Slovenia: 3. SNL - East",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    1.27,
+    6.64,
+    7.75
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.07
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.35
+    }
+   ]
+  },
+  {
+   "fid": 1593144,
+   "home": "Eintracht Frankfurt W",
+   "away": "Bayern Munich W",
+   "league": "Germany: Frauen Bundesliga",
+   "kickoff": "10/3/2026 4:55:00 PM",
+   "odds": [
+    5.45,
+    4.55,
+    1.44
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.07
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.4
+    }
+   ]
+  },
+  {
+   "fid": 1595247,
+   "home": "Kri\u017eevci",
+   "away": "Solin",
+   "league": "Croatia: Second NL",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    1.93,
+    3.4,
+    3.4
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.36
+    }
+   ]
+  },
+  {
+   "fid": 1595251,
+   "home": "Varteks Vara\u017edin",
+   "away": "Koprivnica",
+   "league": "Croatia: Second NL",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    2.65,
+    3.5,
+    2.25
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1595992,
+   "home": "Burgess Hill Town",
+   "away": "Maldon & Tiptree",
+   "league": "England: Non League Premier - Isthmian",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.69,
+    4.29,
+    3.85
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1595999,
+   "home": "Welling United",
+   "away": "Whyteleafe",
+   "league": "England: Non League Premier - Isthmian",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.7,
+    3.92,
+    3.89
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1596038,
+   "home": "Lewes",
+   "away": "Whitehawk",
+   "league": "England: Non League Premier - Isthmian",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.85,
+    3.83,
+    3.26
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1596453,
+   "home": "Bamber Bridge",
+   "away": "Quorn",
+   "league": "England: Non League Premier - Northern",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.31,
+    3.82,
+    2.43
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1596458,
+   "home": "Hyde United",
+   "away": "Stockton Town",
+   "league": "England: Non League Premier - Northern",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.44,
+    3.54,
+    2.42
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1596909,
+   "home": "Rushall Olympic",
+   "away": "Needham Market",
+   "league": "England: Non League Premier - Southern Central",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.65,
+    3.49,
+    2.31
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1600685,
+   "home": "Provincial Ovalle",
+   "away": "Deportes Rengo",
+   "league": "Chile: Segunda Divisi\u00f3n",
+   "kickoff": "10/3/2026 9:00:00 PM",
+   "odds": [
+    1.87,
+    3.41,
+    3.51
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.28
+    }
+   ]
+  },
+  {
+   "fid": 1601042,
+   "home": "Lucksta",
+   "away": "IFK \u00d6stersund",
+   "league": "Sweden: Division 2 - Norrland",
+   "kickoff": "10/3/2026 1:00:00 PM",
+   "odds": [
+    2.95,
+    4.14,
+    1.99
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1601255,
+   "home": "Roma W",
+   "away": "Lazio W",
+   "league": "Italy: Serie A Women",
+   "kickoff": "10/3/2026 5:00:00 PM",
+   "odds": [
+    1.38,
+    4.68,
+    6.6
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1602097,
+   "home": "Planaltina DF",
+   "away": "Legi\u00e3o",
+   "league": "Brazil: Brasiliense B",
+   "kickoff": "10/3/2026 7:30:00 PM",
+   "odds": [
+    2.5,
+    3.2,
+    2.55
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.23
+    }
+   ]
+  },
+  {
+   "fid": 1602098,
+   "home": "Taguatinga EC",
+   "away": "Luzi\u00e2nia",
+   "league": "Brazil: Brasiliense B",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    1.48,
+    3.92,
+    6.75
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.23
+    }
+   ]
+  },
+  {
+   "fid": 1602141,
+   "home": "Dreams",
+   "away": "Hearts of Oak",
+   "league": "Ghana: Premier League",
+   "kickoff": "10/3/2026 4:00:00 PM",
+   "odds": [
+    2.4,
+    2.88,
+    2.91
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1608302,
+   "home": "Arzignano Valchiampo",
+   "away": "Pergolettese",
+   "league": "Italy: Serie C - Girone A",
+   "kickoff": "10/3/2026 4:30:00 PM",
+   "odds": [
+    1.92,
+    3.0,
+    3.98
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.2
+    }
+   ]
+  },
+  {
+   "fid": 1608305,
+   "home": "Folgore Caratese",
+   "away": "Desenzano Calvina",
+   "league": "Italy: Serie C - Girone A",
+   "kickoff": "10/3/2026 7:30:00 PM",
+   "odds": [
+    2.12,
+    3.02,
+    3.44
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1611079,
+   "home": "Bratstvo Gra\u010danica",
+   "away": "TO\u0160K Te\u0161anj",
+   "league": "Bosnia: 1st League - FBiH",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    1.79,
+    3.42,
+    4.05
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.25
+    }
+   ]
+  },
+  {
+   "fid": 1612745,
+   "home": "Silva",
+   "away": "Villalb\u00e9s",
+   "league": "Spain: Tercera Divisi\u00f3n RFEF - Group 1",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.8,
+    2.96,
+    2.46
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1613970,
+   "home": "Tona",
+   "away": "Badalona",
+   "league": "Spain: Tercera Divisi\u00f3n RFEF - Group 5",
+   "kickoff": "10/3/2026 3:30:00 PM",
+   "odds": [
+    2.86,
+    2.98,
+    2.41
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1615805,
+   "home": "Platges Calvi\u00e0",
+   "away": "Migjorn",
+   "league": "Spain: Tercera Divisi\u00f3n RFEF - Group 11",
+   "kickoff": "10/3/2026 3:30:00 PM",
+   "odds": [
+    1.2,
+    5.4,
+    11.75
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.19
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.67
+    }
+   ]
+  },
+  {
+   "fid": 1617943,
+   "home": "La Solana",
+   "away": "Villarrobledo",
+   "league": "Spain: Tercera Divisi\u00f3n RFEF - Group 18",
+   "kickoff": "10/3/2026 6:00:00 PM",
+   "odds": [
+    3.01,
+    3.03,
+    2.33
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.15
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.28
+    }
+   ]
+  },
+  {
+   "fid": 1618366,
+   "home": "Staphorst",
+   "away": "TEC",
+   "league": "Netherlands: Derde Divisie",
+   "kickoff": "10/3/2026 1:30:00 PM",
+   "odds": [
+    2.97,
+    3.91,
+    1.94
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.28
+    }
+   ]
+  },
+  {
+   "fid": 1618377,
+   "home": "EVV",
+   "away": "Noordwijk",
+   "league": "Netherlands: Derde Divisie",
+   "kickoff": "10/3/2026 6:30:00 PM",
+   "odds": [
+    4.88,
+    4.24,
+    1.52
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1619703,
+   "home": "Nacional Potos\u00ed",
+   "away": "Real Oruro",
+   "league": "Bolivia: Copa de la Divisi\u00f3n Profesional",
+   "kickoff": "10/3/2026 10:15:00 PM",
+   "odds": [
+    1.25,
+    5.6,
+    8.15
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.23
+    }
+   ]
+  },
+  {
+   "fid": 1628535,
+   "home": "Kano Pillars",
+   "away": "Sporting Lagos",
+   "league": "Nigeria: NPFL",
+   "kickoff": "10/3/2026 4:00:00 PM",
+   "odds": [
+    1.64,
+    3.3,
+    5.05
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.21
+    }
+   ]
+  },
+  {
+   "fid": 1630567,
+   "home": "Mufulira Wanderers",
+   "away": "Green Eagles",
+   "league": "Zambia: Super League",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    2.65,
+    2.6,
+    2.96
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1630568,
+   "home": "NAPSA Stars",
+   "away": "Man Utd Zambia Academy",
+   "league": "Zambia: Super League",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    2.0,
+    2.77,
+    4.06
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.07
+    }
+   ]
+  },
+  {
+   "fid": 1631751,
+   "home": "Artesanos Metepec",
+   "away": "Ca\u00f1oneros Marina",
+   "league": "Mexico: Liga Premier Serie A",
+   "kickoff": "10/3/2026 11:00:00 PM",
+   "odds": [
+    1.03,
+    8.2,
+    34.0
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.11
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.5
+    }
+   ]
+  },
+  {
+   "fid": 1632355,
+   "home": "India",
+   "away": "Brazil",
+   "league": "World: Friendlies",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    42.45,
+    21.98,
+    1.02
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1633127,
+   "home": "Tunari",
+   "away": "Viitorul Corbeanca",
+   "league": "Romania: Liga III - Serie 3",
+   "kickoff": "10/3/2026 1:00:00 PM",
+   "odds": [
+    1.07,
+    7.7,
+    18.0
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": null
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.13
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.53
+    }
+   ]
+  },
+  {
+   "fid": 1635429,
+   "home": "Reipas",
+   "away": "Union Plaani",
+   "league": "Finland: Kakkonen - Lohko A",
+   "kickoff": "10/3/2026 4:00:00 PM",
+   "odds": [
+    2.12,
+    3.96,
+    2.63
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1635482,
+   "home": "SJK-juniorit",
+   "away": "JS Hercules",
+   "league": "Finland: Kakkonen - Lohko C",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    1.23,
+    7.55,
+    8.85
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1637848,
+   "home": "Floresta",
+   "away": "Botafogo PB",
+   "league": "Brazil: Serie C",
+   "kickoff": "10/3/2026 9:00:00 PM",
+   "odds": [
+    2.13,
+    2.94,
+    3.42
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1637849,
+   "home": "Santa Cruz",
+   "away": "Maring\u00e1",
+   "league": "Brazil: Serie C",
+   "kickoff": "10/3/2026 9:00:00 PM",
+   "odds": [
+    2.44,
+    2.77,
+    2.96
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1637850,
+   "home": "Inter De Limeira",
+   "away": "Brusque",
+   "league": "Brazil: Serie C",
+   "kickoff": "10/3/2026 11:30:00 PM",
+   "odds": [
+    1.98,
+    2.97,
+    3.75
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1639513,
+   "home": "Tranent Juniors",
+   "away": "Turriff United",
+   "league": "Scotland: FA Cup",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.19,
+    5.45,
+    9.76
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.05
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.46
+    }
+   ]
+  },
+  {
+   "fid": 1640051,
+   "home": "FC St. Pauli",
+   "away": "Borussia M\u00f6nchengladbach",
+   "league": "World: Friendlies Clubs",
+   "kickoff": "10/3/2026 2:30:00 PM",
+   "odds": [
+    3.1,
+    3.79,
+    2.04
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.33
+    }
+   ]
+  },
+  {
+   "fid": 1640076,
+   "home": "Russia",
+   "away": "Namibia",
+   "league": "World: Friendlies",
+   "kickoff": "10/3/2026 4:00:00 PM",
+   "odds": [
+    1.12,
+    9.39,
+    24.54
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.12
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.43
+    }
+   ]
+  },
+  {
+   "fid": 1640789,
+   "home": "Hassania Agadir",
+   "away": "Maghreb F\u00e8s",
+   "league": "Morocco: Botola Pro",
+   "kickoff": "10/3/2026 5:00:00 PM",
+   "odds": [
+    3.37,
+    2.55,
+    2.37
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1640790,
+   "home": "CODM Mekn\u00e8s",
+   "away": "Kawkab Marrakech",
+   "league": "Morocco: Botola Pro",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    2.36,
+    2.84,
+    3.09
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1640791,
+   "home": "Difaa EL Jadida",
+   "away": "Wydad AC",
+   "league": "Morocco: Botola Pro",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    3.7,
+    3.09,
+    2.0
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1640792,
+   "home": "Raja Casablanca",
+   "away": "CR Khemis Zemamra",
+   "league": "Morocco: Botola Pro",
+   "kickoff": "10/3/2026 9:00:00 PM",
+   "odds": [
+    1.68,
+    3.34,
+    5.0
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1641100,
+   "home": "Barton Town Old Boys",
+   "away": "Chorley",
+   "league": "England: FA Cup",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    6.35,
+    5.0,
+    1.4
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1641103,
+   "home": "Bury Town",
+   "away": "Spalding United",
+   "league": "England: FA Cup",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    3.0,
+    3.51,
+    2.02
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.28
+    }
+   ]
+  },
+  {
+   "fid": 1641104,
+   "home": "Buxton",
+   "away": "South Shields",
+   "league": "England: FA Cup",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.63,
+    4.03,
+    2.06
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1641113,
+   "home": "Leiston",
+   "away": "Coventry United",
+   "league": "England: FA Cup",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.64,
+    4.07,
+    3.97
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1641119,
+   "home": "Plymouth Parkway",
+   "away": "Horsham",
+   "league": "England: FA Cup",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.46,
+    3.53,
+    2.4
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1641121,
+   "home": "Salisbury",
+   "away": "Dulwich Hamlet",
+   "league": "England: FA Cup",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.65,
+    4.16,
+    3.92
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.14
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.54
+    }
+   ]
+  },
+  {
+   "fid": 1641126,
+   "home": "Tonbridge Angels",
+   "away": "Torquay",
+   "league": "England: FA Cup",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.54,
+    3.5,
+    2.3
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1641128,
+   "home": "Weymouth",
+   "away": "SE Dons",
+   "league": "England: FA Cup",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.28,
+    5.3,
+    8.5
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.4
+    }
+   ]
+  },
+  {
+   "fid": 1641149,
+   "home": "Uni\u00e3o S\u00e3o Jo\u00e3o",
+   "away": "Gr\u00eamio Prudente",
+   "league": "Brazil: Copa Paulista",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    2.46,
+    2.77,
+    3.0
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1641166,
+   "home": "Mouloudia Oujda",
+   "away": "Olympique Dche\u00efra",
+   "league": "Morocco: Botola 2",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    2.37,
+    2.84,
+    3.11
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1641278,
+   "home": "Cruzeiro U20",
+   "away": "Athletic Club MG U20",
+   "league": "Brazil: Mineiro U20",
+   "kickoff": "10/3/2026 7:00:00 PM",
+   "odds": [
+    1.62,
+    3.8,
+    4.6
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1641627,
+   "home": "Cray Wanderers",
+   "away": "Chippenham Town",
+   "league": "England: FA Cup",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.68,
+    4.15,
+    3.9
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1641633,
+   "home": "Worksop Town",
+   "away": "United of Manchester",
+   "league": "England: FA Cup",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.58,
+    4.33,
+    4.12
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.34
+    }
+   ]
+  },
+  {
+   "fid": 1641760,
+   "home": "Tunisia U20",
+   "away": "Libya U20",
+   "league": "World: Africa Cup of Nations U20",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    1.31,
+    4.65,
+    9.41
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1641868,
+   "home": "Tacuarembo",
+   "away": "Atenas",
+   "league": "Uruguay: Segunda Divisi\u00f3n",
+   "kickoff": "10/3/2026 11:00:00 PM",
+   "odds": [
+    3.04,
+    3.01,
+    2.25
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1641999,
+   "home": "GC Mascara",
+   "away": "Blida",
+   "league": "Algeria: Ligue 2",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.26,
+    2.88,
+    3.12
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1642001,
+   "home": "Hussein Dey",
+   "away": "RC Kouba",
+   "league": "Algeria: Ligue 2",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    3.33,
+    2.8,
+    2.29
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1642003,
+   "home": "MC Saida",
+   "away": "ASM Oran",
+   "league": "Algeria: Ligue 2",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    2.19,
+    2.82,
+    3.42
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1642005,
+   "home": "WA Tlemcen",
+   "away": "RC Arba",
+   "league": "Algeria: Ligue 2",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    1.86,
+    2.89,
+    4.25
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1642956,
+   "home": "FC Winterthur",
+   "away": "FC Basel 1893",
+   "league": "World: Friendlies Clubs",
+   "kickoff": "10/3/2026 3:00:00 PM",
+   "odds": [
+    4.34,
+    4.76,
+    1.56
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1643227,
+   "home": "Fakel",
+   "away": "FC Vitebsk",
+   "league": "World: Friendlies Clubs",
+   "kickoff": "10/3/2026 12:30:00 PM",
+   "odds": [
+    1.73,
+    3.84,
+    4.71
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1643230,
+   "home": "Austria Lustenau",
+   "away": "FC Schalke 04",
+   "league": "World: Friendlies Clubs",
+   "kickoff": "10/3/2026 2:00:00 PM",
+   "odds": [
+    6.42,
+    4.48,
+    1.42
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1643344,
+   "home": "Rahimo",
+   "away": "Douanes",
+   "league": "Burkina-Faso: Ligue 1",
+   "kickoff": "10/3/2026 4:30:00 PM",
+   "odds": [
+    1.63,
+    3.09,
+    5.85
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.1
+    }
+   ]
+  }
+ ]
+}

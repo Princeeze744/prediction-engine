@@ -1,0 +1,766 @@
+{
+ "date": "2026-10-03",
+ "created": "2026-10-03 13:52",
+ "tickets": [
+  {
+   "no": 1,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.01,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1639982,
+     "kickoff": "10/3/2026 10:00:00 PM",
+     "match": "Sint Maarten - St. Vincent / Grenadines",
+     "league": "World: CONCACAF Nations League",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.19,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1619703,
+     "kickoff": "10/3/2026 10:15:00 PM",
+     "match": "Nacional Potos\u00ed - Real Oruro",
+     "league": "Bolivia: Copa de la Divisi\u00f3n Profesional",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.31,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1635982,
+     "kickoff": "10/3/2026 10:30:00 PM",
+     "match": "Zacatepec 1948 - Reboceros La Piedad",
+     "league": "Mexico: Primera Premier",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.32,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1493728,
+     "kickoff": "10/3/2026 11:00:00 PM",
+     "match": "Loudoun United - Indy Eleven",
+     "league": "USA: USL Championship",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.2,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    },
+    {
+     "fid": 1561669,
+     "kickoff": "10/3/2026 2:15:00 PM",
+     "match": "Hutnik Krak\u00f3w - Tychy 71",
+     "league": "Poland: II Liga - East",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.22,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.11,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1632024,
+     "kickoff": "10/3/2026 11:15:00 PM",
+     "match": "Deportivo Recoleta - Libertad Asuncion",
+     "league": "Paraguay: Division Profesional - Clausura",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.4,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    },
+    {
+     "fid": 1579825,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Union Saint-Gilloise II - RWDM",
+     "league": "Belgium: First Amateur Division",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.24,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1641760,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Tunisia U20 - Libya U20",
+     "league": "World: Africa Cup of Nations U20",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.3,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1563783,
+     "kickoff": "10/3/2026 3:00:00 PM",
+     "match": "Crewe - Bristol Rovers",
+     "league": "England: League Two",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.38,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.36,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1641618,
+     "kickoff": "10/3/2026 10:00:00 PM",
+     "match": "Deportivo Maldonado - Central Espanol",
+     "league": "Uruguay: Primera Divisi\u00f3n",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.18,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1508567,
+     "kickoff": "10/3/2026 11:30:00 PM",
+     "match": "Kansas City W - Bay FC W",
+     "league": "USA: NWSL Women",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.24,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1495577,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "V\u00e4xj\u00f6 W - Kristianstad W",
+     "league": "Sweden: Damallsvenskan",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.44,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    },
+    {
+     "fid": 1625611,
+     "kickoff": "10/3/2026 3:00:00 PM",
+     "match": "Terranuova Traiana - Prato",
+     "league": "Italy: Serie D - Girone E",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.19,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1641101,
+     "kickoff": "10/3/2026 3:00:00 PM",
+     "match": "Brackley Town - Chelmsford City",
+     "league": "England: FA Cup",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.34,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.13,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1635984,
+     "kickoff": "10/3/2026 11:00:00 PM",
+     "match": "Tapachula - Chapulineros",
+     "league": "Mexico: Primera Premier",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.3,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1618365,
+     "kickoff": "10/3/2026 1:30:00 PM",
+     "match": "Rijnvogels - Groene Ster",
+     "league": "Netherlands: Derde Divisie",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.29,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1496708,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Aalesund II - NTNUI",
+     "league": "Norway: 3. Division - Girone 2",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.37,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1575973,
+     "kickoff": "10/3/2026 2:30:00 PM",
+     "match": "Ammanford AFC - Holywell",
+     "league": "Wales: Premier League",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.2,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1641108,
+     "kickoff": "10/3/2026 3:00:00 PM",
+     "match": "Guiseley AFC - Bradford (Park Avenue)",
+     "league": "England: FA Cup",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.24,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1572682,
+     "kickoff": "10/3/2026 3:15:00 PM",
+     "match": "Elche II - Ucam Murcia",
+     "league": "Spain: Segunda Divisi\u00f3n RFEF - Group 3",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.19,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1572073,
+     "kickoff": "10/3/2026 3:30:00 PM",
+     "match": "Racing Santander II - Eibar II",
+     "league": "Spain: Segunda Divisi\u00f3n RFEF - Group 1",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.26,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.1,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1496166,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Notodden - Eik-T\u00f8nsberg",
+     "league": "Norway: 2. Division - Group 1",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.21,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1497078,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Vindbjart - Flekker\u00f8y",
+     "league": "Norway: 3. Division - Girone 4",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.37,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1505284,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "FBK Karlstad - AFC Eskilstuna",
+     "league": "Sweden: Ettan - Norra",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.36,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1575974,
+     "kickoff": "10/3/2026 2:30:00 PM",
+     "match": "Briton Ferry - Colwyn Bay",
+     "league": "Wales: Premier League",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.44,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    },
+    {
+     "fid": 1641114,
+     "kickoff": "10/3/2026 3:00:00 PM",
+     "match": "Macclesfield - Scarborough Athletic",
+     "league": "England: FA Cup",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.2,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1573605,
+     "kickoff": "10/3/2026 5:00:00 PM",
+     "match": "Madrid CFF W - Athletic Club W",
+     "league": "Spain: Primera Divisi\u00f3n Femenina",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.31,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.4,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1635983,
+     "kickoff": "10/3/2026 10:30:00 PM",
+     "match": "Pioneros de Canc\u00fan - Monta\u00f1eses",
+     "league": "Mexico: Primera Premier",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.25,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1496892,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "F\u00f8rde - Fyllingsdalen",
+     "league": "Norway: 3. Division - Girone 3",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.27,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1561150,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Humenn\u00e9 - Pohronie",
+     "league": "Slovakia: 2. liga",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.44,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1561152,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Inter Bratislava - Zlat\u00e9 Moravce",
+     "league": "Slovakia: 2. liga",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.28,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1641115,
+     "kickoff": "10/3/2026 3:00:00 PM",
+     "match": "Marine - Warrington Town",
+     "league": "England: FA Cup",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.23,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1505286,
+     "kickoff": "10/3/2026 3:00:00 PM",
+     "match": "Pite\u00e5 - IF Karlstad",
+     "league": "Sweden: Ettan - Norra",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.5,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 10.09,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1549807,
+     "kickoff": "10/3/2026 10:05:00 PM",
+     "match": "Deportes Tolima - Chico",
+     "league": "Colombia: Primera A",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.23,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1511412,
+     "kickoff": "10/3/2026 12:00:00 PM",
+     "match": "\u00c5storp - Dalstorps",
+     "league": "Sweden: Division 2 - V\u00e4stra G\u00f6taland",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.29,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1607975,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Bleiburg - Donau Klagenfurt",
+     "league": "Austria: Regionalliga - South",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.33,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1496163,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Kvik Halden - Bjarg",
+     "league": "Norway: 2. Division - Group 1",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.44,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1561151,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Galanta - Pova\u017esk\u00e1 Bystrica",
+     "league": "Slovakia: 2. liga",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.58,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1575977,
+     "kickoff": "10/3/2026 2:30:00 PM",
+     "match": "Haverfordwest County AFC - Flint Town United",
+     "league": "Wales: Premier League",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.24,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1641120,
+     "kickoff": "10/3/2026 3:00:00 PM",
+     "match": "Redditch United - Berkhamsted",
+     "league": "England: FA Cup",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.21,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1495961,
+     "kickoff": "10/3/2026 3:00:00 PM",
+     "match": "hodd - ODD Ballklubb",
+     "league": "Norway: 1. Division",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.4,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 10.01,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1568817,
+     "kickoff": "10/3/2026 1:00:00 PM",
+     "match": "Note\u0107 Czarnk\u00f3w - Flota \u015awinouj\u015bcie",
+     "league": "Poland: III Liga - Group 2",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.25,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1565735,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "N\u00e1mestovo - Podkonice",
+     "league": "Slovakia: 3. liga - Center",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.45,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1568510,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "\u015al\u0119za Wroc\u0142aw - Karkonosze Jelenia G\u00f3ra",
+     "league": "Poland: III Liga - Group 3",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.47,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1569125,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Weszlo - Olimpia Zambr\u00f3w",
+     "league": "Poland: III Liga - Group 1",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.52,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1580525,
+     "kickoff": "10/3/2026 2:30:00 PM",
+     "match": "Porthmadog - Bangor City 1876 FC",
+     "league": "Wales: FAW Championship",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.43,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1575978,
+     "kickoff": "10/3/2026 2:30:00 PM",
+     "match": "Llandudno - Cardiff MET",
+     "league": "Wales: Premier League",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.3,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1556867,
+     "kickoff": "10/3/2026 3:00:00 PM",
+     "match": "Morton - Raith Rovers",
+     "league": "Scotland: Championship",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.33,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 10.03,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1618367,
+     "kickoff": "10/3/2026 1:30:00 PM",
+     "match": "Dovo - ADO '20",
+     "league": "Netherlands: Derde Divisie",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.25,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1579489,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Spakenburg - AFC Amsterdam",
+     "league": "Netherlands: Tweede Divisie",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.6,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1568511,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Stilon Gorz\u00f3w - Barycz Su\u0142\u00f3w",
+     "league": "Poland: III Liga - Group 3",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.46,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1595245,
+     "kickoff": "10/3/2026 2:30:00 PM",
+     "match": "Grobni\u010dan \u010cavle - Hrvatski Dragovoljac",
+     "league": "Croatia: Second NL",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.31,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1557047,
+     "kickoff": "10/3/2026 3:00:00 PM",
+     "match": "East Fife - East Kilbride",
+     "league": "Scotland: League One",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.57,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1557049,
+     "kickoff": "10/3/2026 3:00:00 PM",
+     "match": "Queen of the South - Cove Rangers",
+     "league": "Scotland: League One",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.67,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "tier": "20 odds",
+   "target": 20.0,
+   "odds": 22.55,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1559655,
+     "kickoff": "10/3/2026 10:00:00 PM",
+     "match": "Cob\u00e1n Imperial - Malacateco",
+     "league": "Guatemala: Liga Nacional",
+     "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+     "model": "M4",
+     "odds": 1.86,
+     "market": "Goals Over/Under First Half",
+     "selection": "Over 1.0"
+    },
+    {
+     "fid": 1494022,
+     "kickoff": "10/3/2026 11:00:00 PM",
+     "match": "Richmond Kickers - One Knoxville",
+     "league": "USA: USL League One",
+     "pick": "1st Half - Home Team Over 0.5",
+     "model": "M5",
+     "odds": 2.29,
+     "market": "Home Team Total Goals(1st Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1565736,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Rimavsk\u00e1 Sobota - Fi\u013eakovo",
+     "league": "Slovakia: 3. liga - Center",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.25,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1635482,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "SJK-juniorit - JS Hercules",
+     "league": "Finland: Kakkonen - Lohko C",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.53,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1583937,
+     "kickoff": "10/3/2026 2:00:00 PM",
+     "match": "Tyumen - Zenit 2",
+     "league": "Russia: Second League A - Division A Silver",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.6,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1562085,
+     "kickoff": "10/3/2026 3:00:00 PM",
+     "match": "Portadown - Limavady United",
+     "league": "Northern-Ireland: Premiership",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.73,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    }
+   ]
+  }
+ ]
+}
