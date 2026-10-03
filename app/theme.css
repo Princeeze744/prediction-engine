@@ -284,6 +284,10 @@ section[id],div[id].section{scroll-margin-top:140px}
 .install-help li b{color:var(--chalk)}.install-help li svg{vertical-align:-3px;color:var(--lime)}
 .install-help li::before{content:counter(s);position:absolute;left:0;top:-2px;width:26px;height:26px;border-radius:50%;display:grid;place-items:center;background:var(--lime);color:var(--night);font-weight:800;font-size:14px}
 
+.track.results a{display:block;padding:20px 22px;border-right:1px solid var(--line-soft);transition:background .2s}.track.results a:last-child{border-right:0}.track.results a:hover{background:rgba(182,255,60,.05)}
+.track.results b small{font-size:.45em;color:var(--dim);font-family:var(--body);font-weight:600}
+.daybar{padding-bottom:0}
+
 @media(max-width:1000px){
   .member{display:none}
   .hero{grid-template-columns:1fr}
@@ -302,6 +306,7 @@ section[id],div[id].section{scroll-margin-top:140px}
   .nd-top{grid-template-columns:1fr}.nd-tiers{grid-template-columns:1fr}
   .nd-row .nd-tag{grid-column:2/-1;grid-row:3;justify-self:start}
   .jump{top:62px}
+  .track.results a:nth-child(2n){border-right:0}.track.results a{border-bottom:1px solid var(--line-soft)}
   .install{bottom:92px}
   .brand{font-size:19px}
   .tiers,.track,.history-kpis{grid-template-columns:1fr 1fr}

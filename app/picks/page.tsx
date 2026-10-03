@@ -7,7 +7,7 @@ const label=catLabel;
 
 export default function Picks(){
  const {data,err}=useData();const [cat,setCat]=useState('TOP FINGERPRINT'),[day,setDay]=useState('');
- useEffect(()=>{const m=new URLSearchParams(window.location.search).get('m');if(m)setCat(m)},[]);
+ useEffect(()=>{const q=new URLSearchParams(window.location.search),m=q.get('m'),d=q.get('d');if(m)setCat(m);if(d)setDay(d)},[]);
  const F=data?.free;
  const D=F?(F.history.find(d=>d.date===day)||F.today||F.history[0]||null):null;
  const rows=useMemo(()=>{if(!D)return [] as {it:FreeItem;p:FreePick}[];const r:{it:FreeItem;p:FreePick}[]=[];
@@ -25,7 +25,7 @@ export default function Picks(){
   <div className="chips" role="tablist" aria-label="Markets">{F.cats.map(c=><button key={c} role="tab" aria-selected={cat===c} className={`chip${cat===c?' on':''}`} onClick={()=>setCat(c)}>{label(c)}<i>{count(c)}</i></button>)}</div>
   <div className="history-controls" style={{marginTop:0}}>
    <p style={{margin:0,color:'var(--dim)'}}>{D?niceDate(D.date):''}. {rows.length} {rows.length===1?'pick':'picks'}{settled.length?`, ${won} of ${settled.length} won so far`:''}. {rec?`Past record for this market: ${rec.hit}% of ${rec.picks} picks won.`:''}{live?.picks?` Live: ${live.won} of ${live.picks}.`:''}</p>
-   {F.history.length>1?<div className="history-selects"><select aria-label="Day" value={D?.date||''} onChange={e=>setDay(e.target.value)}>{F.history.map(d=><option key={d.date} value={d.date}>{niceDate(d.date)}</option>)}</select></div>:null}
+   {F.history.length>1?<div className="chips daybar" role="tablist" aria-label="Day">{F.history.slice(0,7).map((d,i)=><button key={d.date} role="tab" aria-selected={D?.date===d.date} className={`chip${D?.date===d.date?' on':''}`} onClick={()=>setDay(d.date)}>{F.today&&d.date===F.today.date?'Today':i===1&&F.today&&F.history[0].date===F.today.date?'Yesterday':niceDate(d.date).split(' ').slice(0,2).join(' ')}</button>)}</div>:null}
   </div>
 
   <div className="picks">{rows.length?rows.map(({it,p},i)=><div className="pick" key={it.fid+p.option+i}>

@@ -39,6 +39,19 @@ export default function HomePage(){
     </div>
    </section>
 
+   {(()=>{const yd=data?.daily10.history.find(d=>d.date!==T?.date&&d.tickets.some(t=>t.status==='WON'||t.status==='LOST'));if(!yd)return null;
+    const w=yd.tickets.filter(t=>t.status==='WON'),l=yd.tickets.filter(t=>t.status==='LOST');
+    const fd=data?.free.history.find(d=>d.date===yd.date);let fw=0,fn=0;fd?.items.forEach(it=>{const p=it.picks[0];if(p?.status){fn++;if(p.status==='WON')fw++}});
+    const nd=data?.nodraw?.history.find(d=>d.date===yd.date);const ns=nd?nd.items.filter(i=>i.status):[],nw=ns.filter(i=>i.status==='WON').length;
+    return <section className="section" style={{marginTop:36}}>
+     <div className="section-head"><div><h2 className="h2">Last results</h2><p>{niceDate(yd.date)}. Every ticket and pick, won or lost.</p></div><Link href="/tickets#record" className="ghost-link">See every ticket</Link></div>
+     <div className="track results">
+      <Link href="/tickets#record"><b style={{color:'var(--won)'}}>{w.length}<small> of {yd.tickets.length}</small></b><span>VIP tickets won{w.length?': '+w.map(t=>t.tier+' @ '+t.odds.toFixed(2)).join(', '):''}</span></Link>
+      <Link href="/tickets#record"><b style={{color:'var(--lost)'}}>{l.length}</b><span>VIP tickets lost{yd.tickets.length-w.length-l.length?`, ${yd.tickets.length-w.length-l.length} still pending`:''}</span></Link>
+      <Link href={'/picks?d='+yd.date}><b>{fn?Math.round(fw/fn*100):0}%</b><span>Free top picks won: {fw} of {fn}</span></Link>
+      <Link href="/nodraw"><b style={{color:'var(--rose)'}}>{ns.length?nw+'/'+ns.length:'·'}</b><span>No Draw picks won</span></Link>
+     </div></section>})()}
+
    {data?<div className="section"><NoDrawCard data={data} limit={4}/></div>:null}
 
    <section className="section">
