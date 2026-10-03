@@ -26,7 +26,7 @@ param(
 
 $ErrorActionPreference = 'Stop'
 if (-not $env:APIFOOTBALL_KEY) { $env:APIFOOTBALL_KEY = Read-Host 'API-Football key' }
-$Headers = @{ 'x-apisports-key' = $env:APIFOOTBALL_KEY }
+$Headers = @{ 'x-apisports-key' = "$env:APIFOOTBALL_KEY".Trim() }   # Trim: a pasted key often carries a hidden line break
 $Base = 'https://v3.football.api-sports.io'
 New-Item -ItemType Directory -Force -Path $OutDir | Out-Null
 $FixturesCsv = Join-Path $OutDir 'fixtures.csv'

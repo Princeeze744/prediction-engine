@@ -1,9 +1,13 @@
 # QuantSport daily robot: collects matches, builds today's tickets and publishes them. No PC needed.
-# Runs Monday to Saturday at about 06:10 Lagos time. Can also be started by hand from the Actions tab ("Run workflow").
+# Runs Monday to Saturday from about 05:10 Lagos time. Can also be started by hand from the Actions tab ("Run workflow").
 name: Daily tickets
 on:
   schedule:
-    - cron: '10 5 * * 1-6'      # 05:10 UTC = 06:10 Lagos
+    # GitHub often starts scheduled runs late, so we ask three times. The first run that works freezes the day's tickets;
+    # later runs only refresh results and never change them.
+    - cron: '10 4 * * 1-6'      # 05:10 Lagos
+    - cron: '10 5 * * 1-6'      # 06:10 Lagos
+    - cron: '30 6 * * 1-6'      # 07:30 Lagos
   workflow_dispatch:
 permissions:
   contents: write
