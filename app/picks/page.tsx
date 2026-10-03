@@ -34,7 +34,7 @@ export default function Picks(){
     <span className="pick-market">{p.option}<small>1 {it.odds[0].toFixed(2)} · X {it.odds[1].toFixed(2)} · 2 {it.odds[2].toFixed(2)}</small></span>
     <span className="meter-wrap"><span className="meter"><i style={{width:p.consistency+'%'}}/></span><small>{p.consistency}% · {p.neighbours} similar matches</small></span>
     <span className="pick-odds">{p.odds?p.odds.toFixed(2):'·'}</span>
-    <span className="pick-status">{p.status?<span className={`status ${p.status.toLowerCase()}`}>{p.status==='WON'?'Won':'Lost'}</span>:<span className="status pending">Pending</span>}</span>
+    <span className="pick-status">{p.status?<span className={`status ${p.status.toLowerCase()}`}>{p.status==='WON'?'Won':'Lost'}{it.score?' '+it.score:''}</span>:<span className="status pending">Pending</span>}</span>
    </div>):<div className="empty-state"><b>No {label(cat).toLowerCase()} picks for this day.</b>Try another market above.</div>}</div>
 
   <p className="note"><b>About the percentages.</b> The bar shows how often this market came in across the 50 most similar past matches. It is a measure of consistency, not a promise. Most of these picks have short odds, so use them as building blocks, not as a way to get rich.</p>

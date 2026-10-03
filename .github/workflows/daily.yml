@@ -1,13 +1,17 @@
-# QuantSport daily robot: collects matches, builds today's tickets and publishes them. No PC needed.
-# Runs Monday to Saturday from about 05:10 Lagos time. Can also be started by hand from the Actions tab ("Run workflow").
+# QuantSport robot. No PC needed.
+#  - Morning (Mon-Sat): collects matches, builds and freezes the day's tickets, free picks and No Draw list.
+#  - Through the day (every day): refreshes scores so every match is marked Won/Lost soon after it ends.
+#  - Sunday: results only, no new tickets.
+# Can also be started by hand from the Actions tab ("Run workflow"). Robot version 4.
 name: Daily tickets
 on:
   schedule:
-    # GitHub often starts scheduled runs late, so we ask three times. The first run that works freezes the day's tickets;
-    # later runs only refresh results and never change them.
-    - cron: '10 4 * * 1-6'      # 05:10 Lagos
-    - cron: '10 5 * * 1-6'      # 06:10 Lagos
-    - cron: '30 6 * * 1-6'      # 07:30 Lagos
+    # GitHub often starts scheduled runs late, so the morning is asked three times. The first run that works
+    # freezes the day's tickets; later runs only refresh results and never change them.
+    - cron: '10 4 * * *'        # 05:10 Lagos
+    - cron: '10 5 * * *'        # 06:10 Lagos
+    - cron: '30 6 * * *'        # 07:30 Lagos
+    - cron: '5 9-22 * * *'      # results refresh every hour, 10:05 to 23:05 Lagos
   workflow_dispatch:
 permissions:
   contents: write
@@ -34,21 +38,31 @@ jobs:
         run: |
           if (-not $env:APIFOOTBALL_KEY) { Write-Error 'APIFOOTBALL_KEY secret is missing. Add it under Settings > Secrets and variables > Actions.'; exit 1 }
           $k = $env:APIFOOTBALL_KEY -replace '\s', ''
-          Write-Host "Key check: $($k.Length) characters after cleaning ($($env:APIFOOTBALL_KEY.Length) as saved). Robot version 3."
+          Write-Host "Key check: $($k.Length) characters after cleaning ($($env:APIFOOTBALL_KEY.Length) as saved). Robot version 4."
           tzutil /s "W. Central Africa Standard Time"
-          Get-Date
-      - name: Results for the last 2 days
+      - name: Latest scores (today and yesterday)
+        shell: pwsh
+        run: |
+          python tools/refresh_results.py
+          if ($LASTEXITCODE -ne 0) { Write-Host 'Score refresh failed this time - carrying on with what we have.' }
+          exit 0
+      - name: Full results for the last 2 days
         shell: pwsh
         run: ./tools/collectors/QS_Collect_APIFootball.ps1 -DaysBack 2 -OutDir "$env:QS_DATA"
-      - name: Today's pre-match prices
+      - name: Today's pre-match prices (only until the day's tickets are frozen, never on Sunday)
         shell: pwsh
-        run: ./tools/collectors/QS_Today_AllMarkets.ps1 -OutDir "$env:QS_DATA\prematch"
-      - name: Build today's tickets, free picks and No Draw list
+        run: |
+          $today = Get-Date -Format 'yyyy-MM-dd'
+          if ((Get-Date).DayOfWeek -eq 'Sunday') { Write-Host 'Sunday: results only.'; exit 0 }
+          if (Test-Path "$env:QS_DATA\daily10\$today.json") { Write-Host "Tickets for $today are already frozen - skipping."; exit 0 }
+          ./tools/collectors/QS_Today_AllMarkets.ps1 -OutDir "$env:QS_DATA\prematch"
+      - name: Build tickets, free picks, No Draw list and settle results
         shell: pwsh
         run: |
           python tools/build_models.py
           if ($LASTEXITCODE -ne 0) { exit 1 }
-          if (-not (Test-Path "$env:QS_DATA\daily10\$(Get-Date -Format 'yyyy-MM-dd').json")) { Write-Error "Today's tickets were not created."; exit 1 }
+          $today = Get-Date -Format 'yyyy-MM-dd'
+          if ((Get-Date).DayOfWeek -ne 'Sunday' -and -not (Test-Path "$env:QS_DATA\daily10\$today.json")) { Write-Error "Today's tickets were not created."; exit 1 }
       - name: Save and publish
         shell: pwsh
         run: |
@@ -58,5 +72,6 @@ jobs:
           git add data public/research/models.json
           git diff --cached --quiet
           if ($LASTEXITCODE -eq 0) { Write-Host 'Nothing new to publish.'; exit 0 }
-          git commit -m "Daily update $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
+          git commit -m "Update $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
+          git pull --rebase
           git push

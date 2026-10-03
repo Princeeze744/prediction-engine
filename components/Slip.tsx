@@ -15,13 +15,13 @@ export default function Slip({t,day,vip=true,animate=false,compact=false}:{t:Tic
  return <article className={`slip slip-${st}${vip?' slip-vip':''}${compact?' slip-compact':''}`}>
   <header className="slip-head">
    <div><span className="slip-tier">{t.tier}</span><span className="slip-no">Ticket {t.no}</span></div>
-   {t.status&&t.status!=='PENDING'?<span className={`badge badge-${st}`}>{t.status==='WON'?'Won':'Lost'}</span>:<span className="slip-count">{t.legs.length} picks</span>}
+   {t.status&&t.status!=='PENDING'?<span className={`badge badge-${st}`}>{t.status==='WON'?'Ticket won':'Ticket lost'}</span>:<span className="slip-count">{(()=>{const w=t.legs.filter(l=>l.status==='WON').length;return w?`${w} of ${t.legs.length} won so far`:`${t.legs.length} picks`})()}</span>}
   </header>
   <ol className="slip-legs">
    {t.legs.map((l,i)=><li key={i} className={`leg${i<shown?' leg-in':''}${l.status?' leg-'+l.status.toLowerCase():''}`}>
     <span className="leg-time">{kick(l.kickoff)||'·'}</span>
-    <span className="leg-main"><b>{l.match}</b><em>{l.pick}</em>{l.score?<small>Full time {l.score}, half time {l.ht}</small>:null}</span>
-    <span className="leg-odds">{l.odds.toFixed(2)}</span>
+    <span className="leg-main"><b>{l.match}</b><em>{l.pick}</em>{l.score?<small>Full time {l.score}{l.ht?`, half time ${l.ht}`:''}</small>:null}</span>
+    <span className="leg-end"><span className="leg-odds">{l.odds.toFixed(2)}</span>{l.status==='WON'||l.status==='LOST'?<span className={`res res-${l.status.toLowerCase()}`}>{l.status==='WON'?'Won':'Lost'}{l.score?' '+l.score:''}</span>:l.status==='VOID'?<span className="res">Void</span>:null}</span>
    </li>)}
   </ol>
   <div className="slip-tear" aria-hidden="true"/>

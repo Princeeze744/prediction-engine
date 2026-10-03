@@ -222,7 +222,11 @@ def main():
         sys.exit(f'odds_all.csv not found in {DATA} - run QS_Collect_AllMarkets.ps1 first')
     odds = pd.read_csv(oa).drop_duplicates(['fixture_id', 'bookmaker', 'market', 'selection'])
     odds = odds[pd.to_numeric(odds.odd, errors='coerce') > 1.0]
-    fr = [pd.read_csv(DATA / 'fixtures.csv')]
+    fr = []
+    if (DATA / 'live_results.csv').exists():          # same-day scores from refresh_results.py: freshest, so they come first
+        lv = pd.read_csv(DATA / 'live_results.csv')
+        fr.append(lv[lv.status.isin(['FT', 'AET', 'PEN'])])
+    fr.append(pd.read_csv(DATA / 'fixtures.csv'))
     if (DATA / 'history.csv').exists():
         fr.append(pd.read_csv(DATA / 'history.csv'))
     fxt = pd.concat(fr).drop_duplicates('fixture_id').set_index('fixture_id')
