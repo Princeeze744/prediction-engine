@@ -1,0 +1,270 @@
+{
+ "date": "2026-10-04",
+ "created": "2026-10-04 13:06",
+ "items": [
+  {
+   "fid": 1639987,
+   "tier": "Sweet",
+   "home": "Puerto Rico",
+   "away": "Cayman Islands",
+   "league": "World: CONCACAF Nations League",
+   "kickoff": "10/4/2026 11:00:00 PM",
+   "fav": 1.05,
+   "o25": 1.24,
+   "odds": 1.06
+  },
+  {
+   "fid": 1643511,
+   "tier": "Sweet",
+   "home": "Zenit",
+   "away": "Bate Borisov",
+   "league": "World: Friendlies Clubs",
+   "kickoff": "10/4/2026 5:00:00 PM",
+   "fav": 1.08,
+   "o25": 1.19,
+   "odds": 1.04
+  },
+  {
+   "fid": 1511028,
+   "tier": "Sweet",
+   "home": "IFK Trelleborg",
+   "away": "R\u00e4ppe",
+   "league": "Sweden: Division 2 - S\u00f6dra G\u00f6taland",
+   "kickoff": "10/4/2026 2:00:00 PM",
+   "fav": 1.09,
+   "o25": 1.3,
+   "odds": 1.02
+  },
+  {
+   "fid": 1639316,
+   "tier": "Sweet",
+   "home": "Vukovar",
+   "away": "Dinamo Zagreb",
+   "league": "Croatia: Cup",
+   "kickoff": "10/4/2026 3:00:00 PM",
+   "fav": 1.09,
+   "o25": 1.29,
+   "odds": 1.07
+  },
+  {
+   "fid": 1639984,
+   "tier": "Sweet",
+   "home": "Guyana",
+   "away": "Dominica",
+   "league": "World: CONCACAF Nations League",
+   "kickoff": "10/4/2026 8:00:00 PM",
+   "fav": 1.1,
+   "o25": 1.25,
+   "odds": 1.04
+  },
+  {
+   "fid": 1573600,
+   "tier": "Sweet",
+   "home": "Barcelona W",
+   "away": "Real Madrid W",
+   "league": "Spain: Primera Divisi\u00f3n Femenina",
+   "kickoff": "10/4/2026 6:00:00 PM",
+   "fav": 1.12,
+   "o25": 1.28,
+   "odds": 1.07
+  },
+  {
+   "fid": 1557302,
+   "tier": "Sweet",
+   "home": "OH Leuven W",
+   "away": "RAAL La Louviere W",
+   "league": "Belgium: Super League Women",
+   "kickoff": "10/4/2026 4:00:00 PM",
+   "fav": 1.12,
+   "o25": 1.36,
+   "odds": 1.02
+  },
+  {
+   "fid": 1579256,
+   "tier": "Sweet",
+   "home": "Str\u00e1n\u00ed",
+   "away": "\u0160ternberk",
+   "league": "Czech-Republic: 4. liga - Divizie E",
+   "kickoff": "10/4/2026 2:00:00 PM",
+   "fav": 1.12,
+   "o25": 1.25,
+   "odds": 1.07
+  },
+  {
+   "fid": 1528940,
+   "tier": "Sweet",
+   "home": "Netherlands",
+   "away": "Serbia",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/4/2026 7:45:00 PM",
+   "fav": 1.15,
+   "o25": 1.36,
+   "odds": 1.09
+  },
+  {
+   "fid": 1607696,
+   "tier": "Sweet",
+   "home": "West Ham W",
+   "away": "Chelsea W",
+   "league": "England: FA WSL",
+   "kickoff": "10/4/2026 2:00:00 PM",
+   "fav": 1.17,
+   "o25": 1.38,
+   "odds": 1.02
+  },
+  {
+   "fid": 1628537,
+   "tier": "Sweet",
+   "home": "Niger Tornadoes",
+   "away": "Kun Khalifat FC",
+   "league": "Nigeria: NPFL",
+   "kickoff": "10/4/2026 3:00:00 PM",
+   "fav": 1.17,
+   "o25": 1.5,
+   "odds": 1.06
+  },
+  {
+   "fid": 1496164,
+   "tier": "Sweet",
+   "home": "Lysekloster",
+   "away": "jerv",
+   "league": "Norway: 2. Division - Group 1",
+   "kickoff": "10/4/2026 4:00:00 PM",
+   "fav": 1.17,
+   "o25": 1.32,
+   "odds": 1.03
+  },
+  {
+   "fid": 1495574,
+   "tier": "Sweet",
+   "home": "Hammarby W",
+   "away": "Brommapojkarna W",
+   "league": "Sweden: Damallsvenskan",
+   "kickoff": "10/4/2026 2:00:00 PM",
+   "fav": 1.18,
+   "o25": 1.36,
+   "odds": 1.03
+  },
+  {
+   "fid": 1601451,
+   "tier": "Sweet",
+   "home": "ADR Jicaral",
+   "away": "AD Cofutpa",
+   "league": "Costa-Rica: Liga de Ascenso",
+   "kickoff": "10/4/2026 6:00:00 PM",
+   "fav": 1.19,
+   "o25": 1.5,
+   "odds": 1.05
+  },
+  {
+   "fid": 1607694,
+   "tier": "Sweet",
+   "home": "Brighton W",
+   "away": "Charlton Athletic W",
+   "league": "England: FA WSL",
+   "kickoff": "10/4/2026 2:00:00 PM",
+   "fav": 1.21,
+   "o25": 1.44,
+   "odds": 1.05
+  },
+  {
+   "fid": 1562080,
+   "tier": "Sweet",
+   "home": "Bangor",
+   "away": "Coleraine FC",
+   "league": "Northern-Ireland: Premiership",
+   "kickoff": "10/4/2026 3:00:00 PM",
+   "fav": 1.23,
+   "o25": 1.44,
+   "odds": 1.05
+  },
+  {
+   "fid": 1569951,
+   "tier": "Sweet",
+   "home": "Castell\u00f3n",
+   "away": "AD Ceuta FC",
+   "league": "Spain: Segunda Divisi\u00f3n",
+   "kickoff": "10/4/2026 5:30:00 PM",
+   "fav": 1.25,
+   "o25": 1.33,
+   "odds": 1.11
+  },
+  {
+   "fid": 1626215,
+   "tier": "Wide",
+   "home": "Ancona",
+   "away": "Sporting Trestina",
+   "league": "Italy: Serie D - Girone F",
+   "kickoff": "10/4/2026 2:00:00 PM",
+   "fav": 1.34,
+   "o25": 1.69,
+   "odds": 1.14
+  },
+  {
+   "fid": 1562524,
+   "tier": "Wide",
+   "home": "Spartak Police n/Metuj\u00ed",
+   "away": "Letohrad",
+   "league": "Czech-Republic: 4. liga - Divizie C",
+   "kickoff": "10/4/2026 3:00:00 PM",
+   "fav": 1.35,
+   "o25": 1.38,
+   "odds": 1.1
+  },
+  {
+   "fid": 1508570,
+   "tier": "Wide",
+   "home": "Chicago Red Stars W",
+   "away": "Denver Summit W",
+   "league": "USA: NWSL Women",
+   "kickoff": "10/4/2026 9:00:00 PM",
+   "fav": 1.35,
+   "o25": 1.42,
+   "odds": 1.09
+  },
+  {
+   "fid": 1562778,
+   "tier": "Wide",
+   "home": "Varnsdorf",
+   "away": "Slovan Liberec II",
+   "league": "Czech-Republic: 3. liga - CFL B",
+   "kickoff": "10/4/2026 3:00:00 PM",
+   "fav": 1.39,
+   "o25": 1.32,
+   "odds": 1.09
+  },
+  {
+   "fid": 1496713,
+   "tier": "Wide",
+   "home": "Spjelkavik",
+   "away": "Ranheim II",
+   "league": "Norway: 3. Division - Girone 2",
+   "kickoff": "10/4/2026 2:30:00 PM",
+   "fav": 1.4,
+   "o25": 1.14,
+   "odds": 1.08
+  },
+  {
+   "fid": 1495575,
+   "tier": "Wide",
+   "home": "Malm\u00f6 FF W",
+   "away": "Roseng\u00e5rd W",
+   "league": "Sweden: Damallsvenskan",
+   "kickoff": "10/4/2026 2:00:00 PM",
+   "fav": 1.42,
+   "o25": 1.69,
+   "odds": 1.13
+  },
+  {
+   "fid": 1639988,
+   "tier": "Wide",
+   "home": "Trinidad and Tobago",
+   "away": "Cura\u00e7ao",
+   "league": "World: CONCACAF Nations League",
+   "kickoff": "10/4/2026 11:00:00 PM",
+   "fav": 1.44,
+   "o25": 1.51,
+   "odds": 1.16
+  }
+ ]
+}
