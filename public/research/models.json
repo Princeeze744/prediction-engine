@@ -3233,7 +3233,11 @@
      "o25": 1.25,
      "odds": 1.04,
      "fav_side": "Home",
-     "o15": 1.04
+     "o15": 1.04,
+     "score": "8-1",
+     "status": "WON",
+     "o15_status": "WON",
+     "fav_status": "WON"
     },
     {
      "fid": 1573600,
@@ -3246,7 +3250,11 @@
      "o25": 1.28,
      "odds": 1.07,
      "fav_side": "Home",
-     "o15": 1.05
+     "o15": 1.05,
+     "score": "7-0",
+     "status": "WON",
+     "o15_status": "WON",
+     "fav_status": "WON"
     },
     {
      "fid": 1557302,
@@ -3293,7 +3301,11 @@
      "o25": 1.36,
      "odds": 1.09,
      "fav_side": "Home",
-     "o15": 1.09
+     "o15": 1.09,
+     "score": "2-1",
+     "status": "WON",
+     "o15_status": "WON",
+     "fav_status": "WON"
     },
     {
      "fid": 1607696,
@@ -3374,7 +3386,11 @@
      "o25": 1.5,
      "odds": 1.05,
      "fav_side": "Home",
-     "o15": 1.14
+     "o15": 1.14,
+     "score": "3-1",
+     "status": "WON",
+     "o15_status": "WON",
+     "fav_status": "WON"
     },
     {
      "fid": 1607694,
@@ -3472,7 +3488,11 @@
      "o25": 1.42,
      "odds": 1.09,
      "fav_side": "Away",
-     "o15": 1.11
+     "o15": 1.11,
+     "score": "0-3",
+     "status": "WON",
+     "o15_status": "WON",
+     "fav_status": "WON"
     },
     {
      "fid": 1562778,
@@ -3621,7 +3641,11 @@
       "o25": 1.25,
       "odds": 1.04,
       "fav_side": "Home",
-      "o15": 1.04
+      "o15": 1.04,
+      "score": "8-1",
+      "status": "WON",
+      "o15_status": "WON",
+      "fav_status": "WON"
      },
      {
       "fid": 1573600,
@@ -3634,7 +3658,11 @@
       "o25": 1.28,
       "odds": 1.07,
       "fav_side": "Home",
-      "o15": 1.05
+      "o15": 1.05,
+      "score": "7-0",
+      "status": "WON",
+      "o15_status": "WON",
+      "fav_status": "WON"
      },
      {
       "fid": 1557302,
@@ -3681,7 +3709,11 @@
       "o25": 1.36,
       "odds": 1.09,
       "fav_side": "Home",
-      "o15": 1.09
+      "o15": 1.09,
+      "score": "2-1",
+      "status": "WON",
+      "o15_status": "WON",
+      "fav_status": "WON"
      },
      {
       "fid": 1607696,
@@ -3762,7 +3794,11 @@
       "o25": 1.5,
       "odds": 1.05,
       "fav_side": "Home",
-      "o15": 1.14
+      "o15": 1.14,
+      "score": "3-1",
+      "status": "WON",
+      "o15_status": "WON",
+      "fav_status": "WON"
      },
      {
       "fid": 1607694,
@@ -3860,7 +3896,11 @@
       "o25": 1.42,
       "odds": 1.09,
       "fav_side": "Away",
-      "o15": 1.11
+      "o15": 1.11,
+      "score": "0-3",
+      "status": "WON",
+      "o15_status": "WON",
+      "fav_status": "WON"
      },
      {
       "fid": 1562778,
@@ -4929,12 +4969,12 @@
   ],
   "live": {
    "Sweet": {
-    "picks": 27,
-    "won": 23
+    "picks": 31,
+    "won": 27
    },
    "Wide": {
-    "picks": 74,
-    "won": 68
+    "picks": 79,
+    "won": 73
    }
   },
   "extras": {
@@ -5000,9 +5040,11 @@
        "cat": "UNDER 3.5",
        "consistency": 80,
        "neighbours": "40 / 50",
-       "odds": 1.15
+       "odds": 1.15,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-0"
     },
     {
      "fid": 1493165,
@@ -5021,9 +5063,11 @@
        "cat": "UNDER 3.5",
        "consistency": 80,
        "neighbours": "40 / 50",
-       "odds": 1.14
+       "odds": 1.14,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "0-1"
     },
     {
      "fid": 1495407,
@@ -5187,9 +5231,11 @@
        "cat": "UNDER 3.5",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.15
+       "odds": 1.15,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "0-0"
     },
     {
      "fid": 1498849,
@@ -5229,9 +5275,11 @@
        "cat": "UNDER 3.5",
        "consistency": 86,
        "neighbours": "43 / 50",
-       "odds": 1.12
+       "odds": 1.12,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-0"
     },
     {
      "fid": 1498852,
@@ -5271,9 +5319,11 @@
        "cat": "UNDER 3.5",
        "consistency": 86,
        "neighbours": "43 / 50",
-       "odds": 1.12
+       "odds": 1.12,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "0-1"
     },
     {
      "fid": 1498857,
@@ -5334,9 +5384,11 @@
        "cat": "UNDER 3.5",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.1
+       "odds": 1.1,
+       "status": "LOST"
       }
-     ]
+     ],
+     "score": "3-2"
     },
     {
      "fid": 1499661,
@@ -5355,9 +5407,11 @@
        "cat": "UNDER 3.5",
        "consistency": 84,
        "neighbours": "42 / 50",
-       "odds": 1.09
+       "odds": 1.09,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-1"
     },
     {
      "fid": 1499669,
@@ -5376,16 +5430,19 @@
        "cat": "UNDER 3.5",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.08
+       "odds": 1.08,
+       "status": "WON"
       },
       {
        "option": "X2",
        "cat": "X2",
        "consistency": 80,
        "neighbours": "40 / 50",
-       "odds": 1.28
+       "odds": 1.28,
+       "status": "LOST"
       }
-     ]
+     ],
+     "score": "2-0"
     },
     {
      "fid": 1500137,
@@ -5404,9 +5461,11 @@
        "cat": "UNDER 3.5",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.21
+       "odds": 1.21,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-0"
     },
     {
      "fid": 1500147,
@@ -5425,9 +5484,11 @@
        "cat": "UNDER 3.5",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.06
+       "odds": 1.06,
+       "status": "LOST"
       }
-     ]
+     ],
+     "score": "1-4"
     },
     {
      "fid": 1508570,
@@ -5446,9 +5507,11 @@
        "cat": "X2",
        "consistency": 92,
        "neighbours": "46 / 50",
-       "odds": 1.03
+       "odds": 1.03,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "0-3"
     },
     {
      "fid": 1511028,
@@ -5529,30 +5592,35 @@
        "cat": "1X",
        "consistency": 100,
        "neighbours": "50 / 50",
-       "odds": 1.02
+       "odds": 1.02,
+       "status": "WON"
       },
       {
        "option": "Home team to score 1+",
        "cat": "HOME 1+",
        "consistency": 100,
        "neighbours": "50 / 50",
-       "odds": 1.02
+       "odds": 1.02,
+       "status": "WON"
       },
       {
        "option": "Over 1.5",
        "cat": "OVER 1.5",
        "consistency": 92,
        "neighbours": "46 / 50",
-       "odds": 1.09
+       "odds": 1.09,
+       "status": "WON"
       },
       {
        "option": "Over 2.5",
        "cat": "OVER 2.5",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.36
+       "odds": 1.36,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "2-1"
     },
     {
      "fid": 1545610,
@@ -5904,23 +5972,27 @@
        "cat": "HOME 1+",
        "consistency": 98,
        "neighbours": "49 / 50",
-       "odds": 1.08
+       "odds": 1.08,
+       "status": "WON"
       },
       {
        "option": "1X",
        "cat": "1X",
        "consistency": 94,
        "neighbours": "47 / 50",
-       "odds": 1.02
+       "odds": 1.02,
+       "status": "WON"
       },
       {
        "option": "Over 1.5",
        "cat": "OVER 1.5",
        "consistency": 92,
        "neighbours": "46 / 50",
-       "odds": 1.29
+       "odds": 1.29,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "4-1"
     },
     {
      "fid": 1572068,
@@ -6062,23 +6134,27 @@
        "cat": "HOME 1+",
        "consistency": 100,
        "neighbours": "50 / 50",
-       "odds": 1.03
+       "odds": 1.03,
+       "status": "WON"
       },
       {
        "option": "1X",
        "cat": "1X",
        "consistency": 96,
        "neighbours": "48 / 50",
-       "odds": 1.02
+       "odds": 1.02,
+       "status": "WON"
       },
       {
        "option": "Over 2.5",
        "cat": "OVER 2.5",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.28
+       "odds": 1.28,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "7-0"
     },
     {
      "fid": 1579132,
@@ -6226,23 +6302,27 @@
        "cat": "1X",
        "consistency": 94,
        "neighbours": "47 / 50",
-       "odds": 1.04
+       "odds": 1.04,
+       "status": "WON"
       },
       {
        "option": "Home team to score 1+",
        "cat": "HOME 1+",
        "consistency": 94,
        "neighbours": "47 / 50",
-       "odds": 1.02
+       "odds": 1.02,
+       "status": "WON"
       },
       {
        "option": "Over 2.5",
        "cat": "OVER 2.5",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.5
+       "odds": 1.5,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "3-1"
     },
     {
      "fid": 1602138,
@@ -7107,30 +7187,35 @@
        "cat": "HOME 1+",
        "consistency": 100,
        "neighbours": "50 / 50",
-       "odds": 1.02
+       "odds": 1.02,
+       "status": "WON"
       },
       {
        "option": "1X",
        "cat": "1X",
        "consistency": 98,
        "neighbours": "49 / 50",
-       "odds": 1.02
+       "odds": 1.02,
+       "status": "WON"
       },
       {
        "option": "Over 1.5",
        "cat": "OVER 1.5",
        "consistency": 90,
        "neighbours": "45 / 50",
-       "odds": 1.04
+       "odds": 1.04,
+       "status": "WON"
       },
       {
        "option": "Over 2.5",
        "cat": "OVER 2.5",
        "consistency": 80,
        "neighbours": "40 / 50",
-       "odds": 1.25
+       "odds": 1.25,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "8-1"
     },
     {
      "fid": 1639987,
@@ -7281,9 +7366,11 @@
        "cat": "UNDER 3.5",
        "consistency": 84,
        "neighbours": "42 / 50",
-       "odds": 1.04
+       "odds": 1.04,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-2"
     },
     {
      "fid": 1641619,
@@ -7392,16 +7479,19 @@
        "cat": "1X",
        "consistency": 92,
        "neighbours": "46 / 50",
-       "odds": 1.01
+       "odds": 1.01,
+       "status": "WON"
       },
       {
        "option": "Over 2.5",
        "cat": "OVER 2.5",
        "consistency": 76,
        "neighbours": "38 / 50",
-       "odds": 1.85
+       "odds": 1.85,
+       "status": "LOST"
       }
-     ]
+     ],
+     "score": "1-1"
     },
     {
      "fid": 1642964,
@@ -7586,9 +7676,11 @@
         "cat": "UNDER 3.5",
         "consistency": 80,
         "neighbours": "40 / 50",
-        "odds": 1.15
+        "odds": 1.15,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-0"
      },
      {
       "fid": 1493165,
@@ -7607,9 +7699,11 @@
         "cat": "UNDER 3.5",
         "consistency": 80,
         "neighbours": "40 / 50",
-        "odds": 1.14
+        "odds": 1.14,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "0-1"
      },
      {
       "fid": 1495407,
@@ -7773,9 +7867,11 @@
         "cat": "UNDER 3.5",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.15
+        "odds": 1.15,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "0-0"
      },
      {
       "fid": 1498849,
@@ -7815,9 +7911,11 @@
         "cat": "UNDER 3.5",
         "consistency": 86,
         "neighbours": "43 / 50",
-        "odds": 1.12
+        "odds": 1.12,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-0"
      },
      {
       "fid": 1498852,
@@ -7857,9 +7955,11 @@
         "cat": "UNDER 3.5",
         "consistency": 86,
         "neighbours": "43 / 50",
-        "odds": 1.12
+        "odds": 1.12,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "0-1"
      },
      {
       "fid": 1498857,
@@ -7920,9 +8020,11 @@
         "cat": "UNDER 3.5",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.1
+        "odds": 1.1,
+        "status": "LOST"
        }
-      ]
+      ],
+      "score": "3-2"
      },
      {
       "fid": 1499661,
@@ -7941,9 +8043,11 @@
         "cat": "UNDER 3.5",
         "consistency": 84,
         "neighbours": "42 / 50",
-        "odds": 1.09
+        "odds": 1.09,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-1"
      },
      {
       "fid": 1499669,
@@ -7962,16 +8066,19 @@
         "cat": "UNDER 3.5",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.08
+        "odds": 1.08,
+        "status": "WON"
        },
        {
         "option": "X2",
         "cat": "X2",
         "consistency": 80,
         "neighbours": "40 / 50",
-        "odds": 1.28
+        "odds": 1.28,
+        "status": "LOST"
        }
-      ]
+      ],
+      "score": "2-0"
      },
      {
       "fid": 1500137,
@@ -7990,9 +8097,11 @@
         "cat": "UNDER 3.5",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.21
+        "odds": 1.21,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-0"
      },
      {
       "fid": 1500147,
@@ -8011,9 +8120,11 @@
         "cat": "UNDER 3.5",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.06
+        "odds": 1.06,
+        "status": "LOST"
        }
-      ]
+      ],
+      "score": "1-4"
      },
      {
       "fid": 1508570,
@@ -8032,9 +8143,11 @@
         "cat": "X2",
         "consistency": 92,
         "neighbours": "46 / 50",
-        "odds": 1.03
+        "odds": 1.03,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "0-3"
      },
      {
       "fid": 1511028,
@@ -8115,30 +8228,35 @@
         "cat": "1X",
         "consistency": 100,
         "neighbours": "50 / 50",
-        "odds": 1.02
+        "odds": 1.02,
+        "status": "WON"
        },
        {
         "option": "Home team to score 1+",
         "cat": "HOME 1+",
         "consistency": 100,
         "neighbours": "50 / 50",
-        "odds": 1.02
+        "odds": 1.02,
+        "status": "WON"
        },
        {
         "option": "Over 1.5",
         "cat": "OVER 1.5",
         "consistency": 92,
         "neighbours": "46 / 50",
-        "odds": 1.09
+        "odds": 1.09,
+        "status": "WON"
        },
        {
         "option": "Over 2.5",
         "cat": "OVER 2.5",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.36
+        "odds": 1.36,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "2-1"
      },
      {
       "fid": 1545610,
@@ -8490,23 +8608,27 @@
         "cat": "HOME 1+",
         "consistency": 98,
         "neighbours": "49 / 50",
-        "odds": 1.08
+        "odds": 1.08,
+        "status": "WON"
        },
        {
         "option": "1X",
         "cat": "1X",
         "consistency": 94,
         "neighbours": "47 / 50",
-        "odds": 1.02
+        "odds": 1.02,
+        "status": "WON"
        },
        {
         "option": "Over 1.5",
         "cat": "OVER 1.5",
         "consistency": 92,
         "neighbours": "46 / 50",
-        "odds": 1.29
+        "odds": 1.29,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "4-1"
      },
      {
       "fid": 1572068,
@@ -8648,23 +8770,27 @@
         "cat": "HOME 1+",
         "consistency": 100,
         "neighbours": "50 / 50",
-        "odds": 1.03
+        "odds": 1.03,
+        "status": "WON"
        },
        {
         "option": "1X",
         "cat": "1X",
         "consistency": 96,
         "neighbours": "48 / 50",
-        "odds": 1.02
+        "odds": 1.02,
+        "status": "WON"
        },
        {
         "option": "Over 2.5",
         "cat": "OVER 2.5",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.28
+        "odds": 1.28,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "7-0"
      },
      {
       "fid": 1579132,
@@ -8812,23 +8938,27 @@
         "cat": "1X",
         "consistency": 94,
         "neighbours": "47 / 50",
-        "odds": 1.04
+        "odds": 1.04,
+        "status": "WON"
        },
        {
         "option": "Home team to score 1+",
         "cat": "HOME 1+",
         "consistency": 94,
         "neighbours": "47 / 50",
-        "odds": 1.02
+        "odds": 1.02,
+        "status": "WON"
        },
        {
         "option": "Over 2.5",
         "cat": "OVER 2.5",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.5
+        "odds": 1.5,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "3-1"
      },
      {
       "fid": 1602138,
@@ -9693,30 +9823,35 @@
         "cat": "HOME 1+",
         "consistency": 100,
         "neighbours": "50 / 50",
-        "odds": 1.02
+        "odds": 1.02,
+        "status": "WON"
        },
        {
         "option": "1X",
         "cat": "1X",
         "consistency": 98,
         "neighbours": "49 / 50",
-        "odds": 1.02
+        "odds": 1.02,
+        "status": "WON"
        },
        {
         "option": "Over 1.5",
         "cat": "OVER 1.5",
         "consistency": 90,
         "neighbours": "45 / 50",
-        "odds": 1.04
+        "odds": 1.04,
+        "status": "WON"
        },
        {
         "option": "Over 2.5",
         "cat": "OVER 2.5",
         "consistency": 80,
         "neighbours": "40 / 50",
-        "odds": 1.25
+        "odds": 1.25,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "8-1"
      },
      {
       "fid": 1639987,
@@ -9867,9 +10002,11 @@
         "cat": "UNDER 3.5",
         "consistency": 84,
         "neighbours": "42 / 50",
-        "odds": 1.04
+        "odds": 1.04,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-2"
      },
      {
       "fid": 1641619,
@@ -9978,16 +10115,19 @@
         "cat": "1X",
         "consistency": 92,
         "neighbours": "46 / 50",
-        "odds": 1.01
+        "odds": 1.01,
+        "status": "WON"
        },
        {
         "option": "Over 2.5",
         "cat": "OVER 2.5",
         "consistency": 76,
         "neighbours": "38 / 50",
-        "odds": 1.85
+        "odds": 1.85,
+        "status": "LOST"
        }
-      ]
+      ],
+      "score": "1-1"
      },
      {
       "fid": 1642964,
@@ -15618,33 +15758,33 @@
    }
   ],
   "live": {
-   "1X": {
-    "picks": 57,
-    "won": 50
+   "UNDER 3.5": {
+    "picks": 108,
+    "won": 83
    },
    "TOP FINGERPRINT": {
-    "picks": 270,
-    "won": 225
+    "picks": 288,
+    "won": 241
+   },
+   "1X": {
+    "picks": 63,
+    "won": 56
    },
    "HOME 1+": {
-    "picks": 59,
-    "won": 54
+    "picks": 64,
+    "won": 59
    },
    "OVER 1.5": {
-    "picks": 70,
-    "won": 62
+    "picks": 73,
+    "won": 65
    },
    "OVER 2.5": {
-    "picks": 50,
-    "won": 32
+    "picks": 55,
+    "won": 36
    },
    "X2": {
-    "picks": 43,
-    "won": 37
-   },
-   "UNDER 3.5": {
-    "picks": 97,
-    "won": 74
+    "picks": 45,
+    "won": 38
    },
    "AWAY 1+": {
     "picks": 6,
@@ -16103,7 +16243,9 @@
        "odds": 1.32,
        "market": "Goals Over/Under",
        "selection": "Over 1.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "2-0",
+       "ht": "0-0"
       }
      ],
      "status": "LOST",
@@ -17072,7 +17214,9 @@
         "odds": 1.32,
         "market": "Goals Over/Under",
         "selection": "Over 1.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "2-0",
+        "ht": "0-0"
        }
       ],
       "status": "LOST",
@@ -19709,20 +19853,20 @@
     "hit": 45.5
    },
    {
+    "id": "A8",
+    "name": "Cup Game Over 1.5",
+    "sporty": "Over/Under - Over 1.5",
+    "picks": 10,
+    "won": 9,
+    "hit": 90.0
+   },
+   {
     "id": "A5",
     "name": "Away Favourite X2",
     "sporty": "Double Chance - Draw or Away",
     "picks": 10,
     "won": 8,
     "hit": 80.0
-   },
-   {
-    "id": "A8",
-    "name": "Cup Game Over 1.5",
-    "sporty": "Over/Under - Over 1.5",
-    "picks": 9,
-    "won": 8,
-    "hit": 88.9
    },
    {
     "id": "A1",
@@ -50741,7 +50885,7 @@
    "about": "Mixed markets, built until the ticket reaches 20 odds. Rare wins, big payout."
   }
  },
- "generated": "2026-10-04 19:36",
+ "generated": "2026-10-04 23:17",
  "split": "2026-09-26",
  "note": "Candidates only. Selected as the best of 21,335 tested patterns over 6 days; some of this record is luck and will fade. Flat 1-unit stakes at the typical (median) bookmaker price. Prices captured about 1 hour before kick-off.",
  "models": [
