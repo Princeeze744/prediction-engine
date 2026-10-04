@@ -83,137 +83,137 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1637658,2026-10-04,2026-10-04T09:30:00+01:00,FT,275,Liga 2,Indonesia,2026,Regular Season - 4,Barito Putera,Persela Lamongan,2453,2450,0,1,0,0,,,,,0,1
 1637659,2026-10-04,2026-10-04T09:30:00+01:00,FT,275,Liga 2,Indonesia,2026,Regular Season - 4,Deltras,Persiba Balikpapan,15771,2457,2,0,0,0,,,,,2,0
 1566365,2026-10-04,2026-10-04T09:45:00+01:00,NS,745,Oberliga - Hamburg,Germany,2026,Hamburg - 10,Paloma,ETSV Hamburg,12828,20851,,,,,,,,,,
-1497257,2026-10-04,2026-10-04T10:00:00+01:00,2H,778,3. Division - Girone 5,Norway,2026,Regular Season - 22,Skjervøy,Fauske Sprint,7024,27277,,,2,0,,,,,3,0
-1536482,2026-10-04,2026-10-04T10:00:00+01:00,2H,652,Second League - Group 2,Russia,2026,Group 2 - 26,Yenisey II,Chertanovo Moscow,17724,2014,,,0,1,,,,,1,1
-1555724,2026-10-04,2026-10-04T10:00:00+01:00,2H,100,J3 League,Japan,2026,Regular Season - 9,Kagoshima United,Fukushima United,2236,4318,,,2,0,,,,,3,1
-1562777,2026-10-04,2026-10-04T10:00:00+01:00,2H,685,3. liga - CFL B,Czech-Republic,2026,Group B - 9,Teplice II,Neratovice-Byškovice,12877,7320,,,0,0,,,,,0,2
+1497257,2026-10-04,2026-10-04T10:00:00+01:00,FT,778,3. Division - Girone 5,Norway,2026,Regular Season - 22,Skjervøy,Fauske Sprint,7024,27277,3,0,2,0,,,,,3,0
+1536482,2026-10-04,2026-10-04T10:00:00+01:00,FT,652,Second League - Group 2,Russia,2026,Group 2 - 26,Yenisey II,Chertanovo Moscow,17724,2014,2,1,0,1,,,,,2,1
+1555724,2026-10-04,2026-10-04T10:00:00+01:00,FT,100,J3 League,Japan,2026,Regular Season - 9,Kagoshima United,Fukushima United,2236,4318,3,2,2,0,,,,,3,2
+1562777,2026-10-04,2026-10-04T10:00:00+01:00,FT,685,3. liga - CFL B,Czech-Republic,2026,Group B - 9,Teplice II,Neratovice-Byškovice,12877,7320,0,2,0,0,,,,,0,2
 1567261,2026-10-04,2026-10-04T10:00:00+01:00,NS,939,Oberliga - Bayern Süd,Germany,2026,Bayern Süd - 13,Hankofen-Hailing,Landshut,12780,27898,,,,,,,,,,
-1572681,2026-10-04,2026-10-04T10:00:00+01:00,2H,877,Segunda División RFEF - Group 3,Spain,2026,Group 3 - 5,Deportiva Minera,La Nucía,9811,9393,,,1,0,,,,,1,0
-1594389,2026-10-04,2026-10-04T10:00:00+01:00,2H,1023,NB III - Southeast,Hungary,2026,Southeast - 10,Honvéd II,III. Kerületi TUE,11853,5102,,,0,0,,,,,1,0
+1572681,2026-10-04,2026-10-04T10:00:00+01:00,FT,877,Segunda División RFEF - Group 3,Spain,2026,Group 3 - 5,Deportiva Minera,La Nucía,9811,9393,2,0,1,0,,,,,2,0
+1594389,2026-10-04,2026-10-04T10:00:00+01:00,FT,1023,NB III - Southeast,Hungary,2026,Southeast - 10,Honvéd II,III. Kerületi TUE,11853,5102,1,0,0,0,,,,,1,0
 1607023,2026-10-04,2026-10-04T10:00:00+01:00,NS,1034,2. Frauen Bundesliga,Germany,2026,Regular Season - 8,Ingolstadt W,Bochum W,20483,20473,,,,,,,,,,
-1616415,2026-10-04,2026-10-04T10:00:00+01:00,2H,451,Tercera División RFEF - Group 13,Spain,2026,Group 13 - 5,Cartagena LU II,Algar,17715,20438,,,1,0,,,,,1,2
-1630094,2026-10-04,2026-10-04T10:00:00+01:00,2H,1241,U19 league,Serbia,2026,Regular Season - 8,Partizan U19,Vojvodina U19,22398,28270,,,0,0,,,,,1,2
+1616415,2026-10-04,2026-10-04T10:00:00+01:00,FT,451,Tercera División RFEF - Group 13,Spain,2026,Group 13 - 5,Cartagena LU II,Algar,17715,20438,1,2,1,0,,,,,1,2
+1630094,2026-10-04,2026-10-04T10:00:00+01:00,FT,1241,U19 league,Serbia,2026,Regular Season - 8,Partizan U19,Vojvodina U19,22398,28270,1,2,0,0,,,,,1,2
 1637228,2026-10-04,2026-10-04T10:00:00+01:00,NS,1243,Super League Women,South-Africa,2026,Group Stage,University of Johannesburg W,Tshwane University W,28363,28361,,,,,,,,,,
-1643004,2026-10-04,2026-10-04T10:00:00+01:00,2H,10,Friendlies,World,2026,Friendly International,Brazil U20,Mexico U20,16200,10293,,,0,0,,,,,3,0
-1572686,2026-10-04,2026-10-04T10:30:00+01:00,HT,877,Segunda División RFEF - Group 3,Spain,2026,Group 3 - 5,Valencia II,Peña Deportiva,9594,9405,,,2,2,,,,,2,2
-1572990,2026-10-04,2026-10-04T10:30:00+01:00,HT,878,Segunda División RFEF - Group 4,Spain,2026,Group 4 - 5,Sevilla Atletico,Badajoz,730,9382,,,2,1,,,,,2,1
-1581923,2026-10-04,2026-10-04T10:30:00+01:00,1H,334,Persha Liga,Ukraine,2026,Regular Season - 10,Kolos Kovalivka II,Oleksandria,24585,3619,,,0,1,,,,,0,1
+1643004,2026-10-04,2026-10-04T10:00:00+01:00,FT,10,Friendlies,World,2026,Friendly International,Brazil U20,Mexico U20,16200,10293,4,0,0,0,,,,,4,0
+1572686,2026-10-04,2026-10-04T10:30:00+01:00,2H,877,Segunda División RFEF - Group 3,Spain,2026,Group 3 - 5,Valencia II,Peña Deportiva,9594,9405,,,2,2,,,,,3,2
+1572990,2026-10-04,2026-10-04T10:30:00+01:00,2H,878,Segunda División RFEF - Group 4,Spain,2026,Group 4 - 5,Sevilla Atletico,Badajoz,730,9382,,,2,1,,,,,2,1
+1581923,2026-10-04,2026-10-04T10:30:00+01:00,2H,334,Persha Liga,Ukraine,2026,Regular Season - 10,Kolos Kovalivka II,Oleksandria,24585,3619,,,0,1,,,,,0,1
 1582138,2026-10-04,2026-10-04T10:30:00+01:00,2H,638,Kvindeliga,Denmark,2026,Regular Season - 10,Odense Q W,Fortuna Hjørring W,13984,10890,,,0,2,,,,,0,2
-1614575,2026-10-04,2026-10-04T10:30:00+01:00,HT,445,Tercera División RFEF - Group 7,Spain,2026,Group 7 - 5,Torrejón,Unión Adarve,9717,9719,,,2,0,,,,,2,0
-1614581,2026-10-04,2026-10-04T10:30:00+01:00,2H,445,Tercera División RFEF - Group 7,Spain,2026,Group 7 - 5,RC Alcobendas,Rayo Vallecano II,28105,9715,,,2,0,,,,,2,0
-1614583,2026-10-04,2026-10-04T10:30:00+01:00,2H,445,Tercera División RFEF - Group 7,Spain,2026,Group 7 - 5,Trival Valderas,Las Rozas,9718,9395,,,0,1,,,,,0,1
-1616418,2026-10-04,2026-10-04T10:30:00+01:00,HT,451,Tercera División RFEF - Group 13,Spain,2026,Group 13 - 5,Atlético Pulpileño,Santomera,9808,24655,,,1,0,,,,,1,0
+1614575,2026-10-04,2026-10-04T10:30:00+01:00,2H,445,Tercera División RFEF - Group 7,Spain,2026,Group 7 - 5,Torrejón,Unión Adarve,9717,9719,,,2,0,,,,,3,0
+1614581,2026-10-04,2026-10-04T10:30:00+01:00,2H,445,Tercera División RFEF - Group 7,Spain,2026,Group 7 - 5,RC Alcobendas,Rayo Vallecano II,28105,9715,,,2,0,,,,,4,1
+1614583,2026-10-04,2026-10-04T10:30:00+01:00,2H,445,Tercera División RFEF - Group 7,Spain,2026,Group 7 - 5,Trival Valderas,Las Rozas,9718,9395,,,0,1,,,,,1,1
+1616418,2026-10-04,2026-10-04T10:30:00+01:00,2H,451,Tercera División RFEF - Group 13,Spain,2026,Group 13 - 5,Atlético Pulpileño,Santomera,9808,24655,,,1,0,,,,,2,2
 1617941,2026-10-04,2026-10-04T10:30:00+01:00,2H,456,Tercera División RFEF - Group 18,Spain,2026,Group 18 - 5,Manchego,Almansa,9905,9896,,,0,0,,,,,1,0
 1620392,2026-10-04,2026-10-04T10:30:00+01:00,NS,580,Gamma Ethniki - Group 5,Greece,2026,Group 5 - 2,Asteras Stavros,Diagoras Agias,20048,28160,,,,,,,,,,
-1643199,2026-10-04,2026-10-04T10:30:00+01:00,2H,10,Friendlies,World,2026,Friendly International,Faroe Islands U19,United Arab Emirates U19,10362,22439,,,1,2,,,,,2,2
-1572679,2026-10-04,2026-10-04T10:45:00+01:00,1H,877,Segunda División RFEF - Group 3,Spain,2026,Group 3 - 5,Castellonense,Real Murcia II,22138,9820,,,2,0,,,,,2,0
-1614576,2026-10-04,2026-10-04T10:45:00+01:00,HT,445,Tercera División RFEF - Group 7,Spain,2026,Group 7 - 5,Móstoles,Leganés II,9712,9710,,,0,1,,,,,0,1
-1639093,2026-10-04,2026-10-04T10:45:00+01:00,HT,765,PFL,Philippines,2027,Group Stage,Davao Aguilas,Tuloy,22754,21580,,,2,0,,,,,2,0
-1501498,2026-10-04,2026-10-04T11:00:00+01:00,1H,736,Elitettan,Sweden,2026,Regular Season - 21,Umeå W,Husqvarna W,11081,16033,,,0,0,,,,,0,0
-1511234,2026-10-04,2026-10-04T11:00:00+01:00,1H,595,Division 2 - Södra Svealand,Sweden,2026,Södra Svealand - 24,Nacka Iliria,Karlslund,14510,11660,,,1,2,,,,,1,2
-1570767,2026-10-04,2026-10-04T11:00:00+01:00,1H,435,Primera División RFEF - Group 1,Spain,2026,Group 1 - 6,Athletic Club II,Extremadura 1924,9579,24612,,,1,2,,,,,1,2
-1570773,2026-10-04,2026-10-04T11:00:00+01:00,1H,435,Primera División RFEF - Group 1,Spain,2026,Group 1 - 6,UD Logroñés,Deportivo La Coruña II,5280,9610,,,0,1,,,,,0,1
-1571151,2026-10-04,2026-10-04T11:00:00+01:00,1H,436,Primera División RFEF - Group 2,Spain,2026,Group 2 - 6,Real Murcia,Gimnastic,5275,714,,,1,0,,,,,1,0
-1571154,2026-10-04,2026-10-04T11:00:00+01:00,1H,436,Primera División RFEF - Group 2,Spain,2026,Group 2 - 6,Villarreal II,Ibiza,9595,9390,,,0,0,,,,,0,0
-1572678,2026-10-04,2026-10-04T11:00:00+01:00,1H,877,Segunda División RFEF - Group 3,Spain,2026,Group 3 - 5,Atlético Baleares,Poblense,9381,5273,,,0,0,,,,,0,0
-1572680,2026-10-04,2026-10-04T11:00:00+01:00,1H,877,Segunda División RFEF - Group 3,Spain,2026,Group 3 - 5,Intercity,Yeclano,8160,5283,,,1,0,,,,,1,0
-1572684,2026-10-04,2026-10-04T11:00:00+01:00,1H,877,Segunda División RFEF - Group 3,Spain,2026,Group 3 - 5,Mallorca II,Alcoyano,9783,9686,,,0,0,,,,,0,0
-1572988,2026-10-04,2026-10-04T11:00:00+01:00,1H,878,Segunda División RFEF - Group 4,Spain,2026,Group 4 - 5,Recreativo Huelva,Las Palmas II,9410,9574,,,1,0,,,,,1,0
-1572989,2026-10-04,2026-10-04T11:00:00+01:00,1H,878,Segunda División RFEF - Group 4,Spain,2026,Group 4 - 5,Sanluqueño,Mijas Las Lagunas,9601,22569,,,0,1,,,,,0,1
-1572992,2026-10-04,2026-10-04T11:00:00+01:00,1H,878,Segunda División RFEF - Group 4,Spain,2026,Group 4 - 5,Xerez,Tenerife II,9770,9802,,,0,1,,,,,0,1
-1573294,2026-10-04,2026-10-04T11:00:00+01:00,1H,879,Segunda División RFEF - Group 5,Spain,2026,Group 5 - 5,Getafe II,Numancia,9572,717,,,0,0,,,,,0,0
-1573296,2026-10-04,2026-10-04T11:00:00+01:00,1H,879,Segunda División RFEF - Group 5,Spain,2026,Group 5 - 5,RSD Alcalá,Navalcarnero,9714,5271,,,0,2,,,,,0,2
-1573297,2026-10-04,2026-10-04T11:00:00+01:00,1H,879,Segunda División RFEF - Group 5,Spain,2026,Group 5 - 5,SS Reyes,Real Ávila,9412,9736,,,1,0,,,,,1,0
-1573298,2026-10-04,2026-10-04T11:00:00+01:00,1H,879,Segunda División RFEF - Group 5,Spain,2026,Group 5 - 5,Real Valladolid II,Calvo Sotelo,9587,9899,,,2,0,,,,,2,0
-1573601,2026-10-04,2026-10-04T11:00:00+01:00,1H,142,Primera División Femenina,Spain,2026,Regular Season - 6,Granad. Tenerife W,Edf Logrono W,1913,1923,,,0,0,,,,,0,0
-1573604,2026-10-04,2026-10-04T11:00:00+01:00,1H,142,Primera División Femenina,Spain,2026,Regular Season - 6,Granada,Eibar W,22018,15225,,,0,0,,,,,0,0
-1576482,2026-10-04,2026-10-04T11:00:00+01:00,1H,95,Segunda Liga,Portugal,2026,Regular Season - 5,Farense,Chaves,231,223,,,1,0,,,,,1,0
+1643199,2026-10-04,2026-10-04T10:30:00+01:00,2H,10,Friendlies,World,2026,Friendly International,Faroe Islands U19,United Arab Emirates U19,10362,22439,,,1,2,,,,,2,4
+1572679,2026-10-04,2026-10-04T10:45:00+01:00,2H,877,Segunda División RFEF - Group 3,Spain,2026,Group 3 - 5,Castellonense,Real Murcia II,22138,9820,,,2,0,,,,,2,0
+1614576,2026-10-04,2026-10-04T10:45:00+01:00,2H,445,Tercera División RFEF - Group 7,Spain,2026,Group 7 - 5,Móstoles,Leganés II,9712,9710,,,0,1,,,,,1,1
+1639093,2026-10-04,2026-10-04T10:45:00+01:00,2H,765,PFL,Philippines,2027,Group Stage,Davao Aguilas,Tuloy,22754,21580,,,2,0,,,,,2,0
+1501498,2026-10-04,2026-10-04T11:00:00+01:00,2H,736,Elitettan,Sweden,2026,Regular Season - 21,Umeå W,Husqvarna W,11081,16033,,,1,0,,,,,1,0
+1511234,2026-10-04,2026-10-04T11:00:00+01:00,HT,595,Division 2 - Södra Svealand,Sweden,2026,Södra Svealand - 24,Nacka Iliria,Karlslund,14510,11660,,,1,4,,,,,1,4
+1570767,2026-10-04,2026-10-04T11:00:00+01:00,HT,435,Primera División RFEF - Group 1,Spain,2026,Group 1 - 6,Athletic Club II,Extremadura 1924,9579,24612,,,1,2,,,,,1,2
+1570773,2026-10-04,2026-10-04T11:00:00+01:00,HT,435,Primera División RFEF - Group 1,Spain,2026,Group 1 - 6,UD Logroñés,Deportivo La Coruña II,5280,9610,,,1,1,,,,,1,1
+1571151,2026-10-04,2026-10-04T11:00:00+01:00,2H,436,Primera División RFEF - Group 2,Spain,2026,Group 2 - 6,Real Murcia,Gimnastic,5275,714,,,1,0,,,,,1,0
+1571154,2026-10-04,2026-10-04T11:00:00+01:00,2H,436,Primera División RFEF - Group 2,Spain,2026,Group 2 - 6,Villarreal II,Ibiza,9595,9390,,,0,0,,,,,0,0
+1572678,2026-10-04,2026-10-04T11:00:00+01:00,HT,877,Segunda División RFEF - Group 3,Spain,2026,Group 3 - 5,Atlético Baleares,Poblense,9381,5273,,,0,0,,,,,0,0
+1572680,2026-10-04,2026-10-04T11:00:00+01:00,2H,877,Segunda División RFEF - Group 3,Spain,2026,Group 3 - 5,Intercity,Yeclano,8160,5283,,,1,0,,,,,1,0
+1572684,2026-10-04,2026-10-04T11:00:00+01:00,2H,877,Segunda División RFEF - Group 3,Spain,2026,Group 3 - 5,Mallorca II,Alcoyano,9783,9686,,,0,0,,,,,0,0
+1572988,2026-10-04,2026-10-04T11:00:00+01:00,2H,878,Segunda División RFEF - Group 4,Spain,2026,Group 4 - 5,Recreativo Huelva,Las Palmas II,9410,9574,,,1,0,,,,,1,0
+1572989,2026-10-04,2026-10-04T11:00:00+01:00,HT,878,Segunda División RFEF - Group 4,Spain,2026,Group 4 - 5,Sanluqueño,Mijas Las Lagunas,9601,22569,,,0,2,,,,,0,2
+1572992,2026-10-04,2026-10-04T11:00:00+01:00,2H,878,Segunda División RFEF - Group 4,Spain,2026,Group 4 - 5,Xerez,Tenerife II,9770,9802,,,0,1,,,,,0,1
+1573294,2026-10-04,2026-10-04T11:00:00+01:00,2H,879,Segunda División RFEF - Group 5,Spain,2026,Group 5 - 5,Getafe II,Numancia,9572,717,,,0,0,,,,,0,0
+1573296,2026-10-04,2026-10-04T11:00:00+01:00,2H,879,Segunda División RFEF - Group 5,Spain,2026,Group 5 - 5,RSD Alcalá,Navalcarnero,9714,5271,,,0,2,,,,,0,2
+1573297,2026-10-04,2026-10-04T11:00:00+01:00,2H,879,Segunda División RFEF - Group 5,Spain,2026,Group 5 - 5,SS Reyes,Real Ávila,9412,9736,,,1,0,,,,,1,0
+1573298,2026-10-04,2026-10-04T11:00:00+01:00,2H,879,Segunda División RFEF - Group 5,Spain,2026,Group 5 - 5,Real Valladolid II,Calvo Sotelo,9587,9899,,,2,0,,,,,2,0
+1573601,2026-10-04,2026-10-04T11:00:00+01:00,HT,142,Primera División Femenina,Spain,2026,Regular Season - 6,Granad. Tenerife W,Edf Logrono W,1913,1923,,,0,0,,,,,0,0
+1573604,2026-10-04,2026-10-04T11:00:00+01:00,2H,142,Primera División Femenina,Spain,2026,Regular Season - 6,Granada,Eibar W,22018,15225,,,0,0,,,,,0,0
+1576482,2026-10-04,2026-10-04T11:00:00+01:00,HT,95,Segunda Liga,Portugal,2026,Regular Season - 5,Farense,Chaves,231,223,,,2,0,,,,,2,0
 1581722,2026-10-04,2026-10-04T11:00:00+01:00,NS,1033,Ekstraliga Women,Poland,2026,Regular Season - 7,Pogon Szczecin W,Rekord Bielsko-Biala W,22259,22261,,,,,,,,,,
 1581723,2026-10-04,2026-10-04T11:00:00+01:00,NS,1033,Ekstraliga Women,Poland,2026,Regular Season - 7,Slask Wroclaw W,Czarni Sosnowiec W,22262,16838,,,,,,,,,,
-1583877,2026-10-04,2026-10-04T11:00:00+01:00,1H,1025,Second League A - Division A Gold,Russia,2026,Fall Season Gold - 12,Novosibirsk,Dinamo Bryansk,6819,6795,,,1,0,,,,,1,0
-1591630,2026-10-04,2026-10-04T11:00:00+01:00,1H,205,2. Lig,Turkey,2026,2. Lig Red Group - 5, Kahramanmaraş İstiklal Spor,Ankara Demirspor,24601,3581,,,0,0,,,,,0,0
-1599242,2026-10-04,2026-10-04T11:00:00+01:00,1H,676,Central Youth League,Poland,2026,Regular Season - 9,Lech Poznań U19,Miedź Legnica U19,7958,20592,,,0,0,,,,,0,0
-1599243,2026-10-04,2026-10-04T11:00:00+01:00,1H,676,Central Youth League,Poland,2026,Regular Season - 9,Polonia Warszawa U19,Legia Warszawa U19,20593,7987,,,0,1,,,,,0,1
-1606685,2026-10-04,2026-10-04T11:00:00+01:00,1H,99,J2 League,Japan,2026,Regular Season - 9,Tegevajaro Miyazaki,Omiya Ardija,10409,313,,,0,0,,,,,0,0
+1583877,2026-10-04,2026-10-04T11:00:00+01:00,2H,1025,Second League A - Division A Gold,Russia,2026,Fall Season Gold - 12,Novosibirsk,Dinamo Bryansk,6819,6795,,,2,0,,,,,2,0
+1591630,2026-10-04,2026-10-04T11:00:00+01:00,HT,205,2. Lig,Turkey,2026,2. Lig Red Group - 5, Kahramanmaraş İstiklal Spor,Ankara Demirspor,24601,3581,,,1,0,,,,,1,0
+1599242,2026-10-04,2026-10-04T11:00:00+01:00,HT,676,Central Youth League,Poland,2026,Regular Season - 9,Lech Poznań U19,Miedź Legnica U19,7958,20592,,,0,1,,,,,0,1
+1599243,2026-10-04,2026-10-04T11:00:00+01:00,HT,676,Central Youth League,Poland,2026,Regular Season - 9,Polonia Warszawa U19,Legia Warszawa U19,20593,7987,,,1,1,,,,,1,1
+1606685,2026-10-04,2026-10-04T11:00:00+01:00,HT,99,J2 League,Japan,2026,Regular Season - 9,Tegevajaro Miyazaki,Omiya Ardija,10409,313,,,1,0,,,,,1,0
 1612747,2026-10-04,2026-10-04T11:00:00+01:00,NS,439,Tercera División RFEF - Group 1,Spain,2026,Group 1 - 5,Viveiro,Celtiga,15307,26533,,,,,,,,,,
-1613048,2026-10-04,2026-10-04T11:00:00+01:00,1H,440,Tercera División RFEF - Group 2,Spain,2026,Group 2 - 5,Sporting Gijón II,Langreo,9577,5265,,,0,0,,,,,0,0
-1613049,2026-10-04,2026-10-04T11:00:00+01:00,1H,440,Tercera División RFEF - Group 2,Spain,2026,Group 2 - 5,Lealtad,Avilés Stadium,9396,15333,,,1,0,,,,,1,0
+1613048,2026-10-04,2026-10-04T11:00:00+01:00,2H,440,Tercera División RFEF - Group 2,Spain,2026,Group 2 - 5,Sporting Gijón II,Langreo,9577,5265,,,0,0,,,,,0,0
+1613049,2026-10-04,2026-10-04T11:00:00+01:00,2H,440,Tercera División RFEF - Group 2,Spain,2026,Group 2 - 5,Lealtad,Avilés Stadium,9396,15333,,,1,0,,,,,1,0
 1613051,2026-10-04,2026-10-04T11:00:00+01:00,NS,440,Tercera División RFEF - Group 2,Spain,2026,Group 2 - 5,Llanes,Condal,9628,9622,,,,,,,,,,
-1613052,2026-10-04,2026-10-04T11:00:00+01:00,1H,440,Tercera División RFEF - Group 2,Spain,2026,Group 2 - 5,Praviano,Caudal,9631,9619,,,0,0,,,,,0,0
-1613657,2026-10-04,2026-10-04T11:00:00+01:00,1H,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 5,Deportivo Alavés III,Sodupe,22134,9666,,,1,0,,,,,1,0
+1613052,2026-10-04,2026-10-04T11:00:00+01:00,HT,440,Tercera División RFEF - Group 2,Spain,2026,Group 2 - 5,Praviano,Caudal,9631,9619,,,0,0,,,,,0,0
+1613657,2026-10-04,2026-10-04T11:00:00+01:00,HT,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 5,Deportivo Alavés III,Sodupe,22134,9666,,,1,0,,,,,1,0
 1613661,2026-10-04,2026-10-04T11:00:00+01:00,NS,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 5,Eibar III,Real Sociedad III,25023,9662,,,,,,,,,,
 1613964,2026-10-04,2026-10-04T11:00:00+01:00,PST,443,Tercera División RFEF - Group 5,Spain,2026,Group 5 - 5,Cerdanyola del Vallès,Martinenc,9670,28101,,,,,,,,,,
 1613967,2026-10-04,2026-10-04T11:00:00+01:00,PST,443,Tercera División RFEF - Group 5,Spain,2026,Group 5 - 5,L'Hospitalet,Mollerussa,9392,18096,,,,,,,,,,
 1613968,2026-10-04,2026-10-04T11:00:00+01:00,PST,443,Tercera División RFEF - Group 5,Spain,2026,Group 5 - 5,Montañesa,L'Escala,15345,17528,,,,,,,,,,
 1613969,2026-10-04,2026-10-04T11:00:00+01:00,PST,443,Tercera División RFEF - Group 5,Spain,2026,Group 5 - 5,San Cristóbal,Grama,9678,15344,,,,,,,,,,
-1614577,2026-10-04,2026-10-04T11:00:00+01:00,1H,445,Tercera División RFEF - Group 7,Spain,2026,Group 7 - 5,Colonia Moscardó,Pozuelo Alarcón,17589,9713,,,4,0,,,,,4,0
-1614578,2026-10-04,2026-10-04T11:00:00+01:00,1H,445,Tercera División RFEF - Group 7,Spain,2026,Group 7 - 5,Fuenlabrada,Villanueva Pardillo,4906,15353,,,1,0,,,,,1,0
-1614886,2026-10-04,2026-10-04T11:00:00+01:00,1H,446,Tercera División RFEF - Group 8,Spain,2026,Group 8 - 5,Cristo Atlético,Unionistas II,9728,26546,,,1,0,,,,,1,0
-1615190,2026-10-04,2026-10-04T11:00:00+01:00,1H,447,Tercera División RFEF - Group 9,Spain,2026,Group 9 - 5,Alhaurino,Melilla,15357,5268,,,1,1,,,,,1,1
-1615191,2026-10-04,2026-10-04T11:00:00+01:00,1H,447,Tercera División RFEF - Group 9,Spain,2026,Group 9 - 5,Huétor Vega,Mancha Real,9747,9749,,,0,0,,,,,0,0
-1615194,2026-10-04,2026-10-04T11:00:00+01:00,1H,447,Tercera División RFEF - Group 9,Spain,2026,Group 9 - 5,Torre del Mar,Arenas Armilla,17558,20272,,,0,1,,,,,0,1
+1614577,2026-10-04,2026-10-04T11:00:00+01:00,HT,445,Tercera División RFEF - Group 7,Spain,2026,Group 7 - 5,Colonia Moscardó,Pozuelo Alarcón,17589,9713,,,4,0,,,,,4,0
+1614578,2026-10-04,2026-10-04T11:00:00+01:00,2H,445,Tercera División RFEF - Group 7,Spain,2026,Group 7 - 5,Fuenlabrada,Villanueva Pardillo,4906,15353,,,1,0,,,,,1,0
+1614886,2026-10-04,2026-10-04T11:00:00+01:00,2H,446,Tercera División RFEF - Group 8,Spain,2026,Group 8 - 5,Cristo Atlético,Unionistas II,9728,26546,,,1,0,,,,,1,0
+1615190,2026-10-04,2026-10-04T11:00:00+01:00,2H,447,Tercera División RFEF - Group 9,Spain,2026,Group 9 - 5,Alhaurino,Melilla,15357,5268,,,1,2,,,,,1,2
+1615191,2026-10-04,2026-10-04T11:00:00+01:00,2H,447,Tercera División RFEF - Group 9,Spain,2026,Group 9 - 5,Huétor Vega,Mancha Real,9747,9749,,,1,0,,,,,1,0
+1615194,2026-10-04,2026-10-04T11:00:00+01:00,HT,447,Tercera División RFEF - Group 9,Spain,2026,Group 9 - 5,Torre del Mar,Arenas Armilla,17558,20272,,,0,1,,,,,0,1
 1615195,2026-10-04,2026-10-04T11:00:00+01:00,NS,447,Tercera División RFEF - Group 9,Spain,2026,Group 9 - 5,UD San Pedro,Motril,17562,9751,,,,,,,,,,
-1615494,2026-10-04,2026-10-04T11:00:00+01:00,1H,448,Tercera División RFEF - Group 10,Spain,2026,Group 10 - 5,Utrera,Cádiz II,9769,9598,,,1,0,,,,,1,0
-1615501,2026-10-04,2026-10-04T11:00:00+01:00,1H,448,Tercera División RFEF - Group 10,Spain,2026,Group 10 - 5,Tomares,Portuense,15528,28111,,,0,1,,,,,0,1
-1615807,2026-10-04,2026-10-04T11:00:00+01:00,1H,449,Tercera División RFEF - Group 11,Spain,2026,Group 11 - 5,Ibiza Islas Pitiusas,Formentera,9781,9780,,,0,0,,,,,0,0
-1616411,2026-10-04,2026-10-04T11:00:00+01:00,1H,451,Tercera División RFEF - Group 13,Spain,2026,Group 13 - 5,Águilas II,Unión Molinense,24656,20278,,,0,0,,,,,0,0
-1616722,2026-10-04,2026-10-04T11:00:00+01:00,1H,452,Tercera División RFEF - Group 14,Spain,2026,Group 14 - 5,Moralo,Gévora,9836,25032,,,0,0,,,,,0,0
-1617639,2026-10-04,2026-10-04T11:00:00+01:00,1H,455,Tercera División RFEF - Group 17,Spain,2026,Group 17 - 5,CD Sietamo,Belchite 97,28122,9880,,,1,0,,,,,1,0
+1615494,2026-10-04,2026-10-04T11:00:00+01:00,HT,448,Tercera División RFEF - Group 10,Spain,2026,Group 10 - 5,Utrera,Cádiz II,9769,9598,,,1,0,,,,,1,0
+1615501,2026-10-04,2026-10-04T11:00:00+01:00,2H,448,Tercera División RFEF - Group 10,Spain,2026,Group 10 - 5,Tomares,Portuense,15528,28111,,,0,1,,,,,0,1
+1615807,2026-10-04,2026-10-04T11:00:00+01:00,2H,449,Tercera División RFEF - Group 11,Spain,2026,Group 11 - 5,Ibiza Islas Pitiusas,Formentera,9781,9780,,,0,0,,,,,0,0
+1616411,2026-10-04,2026-10-04T11:00:00+01:00,2H,451,Tercera División RFEF - Group 13,Spain,2026,Group 13 - 5,Águilas II,Unión Molinense,24656,20278,,,0,0,,,,,0,0
+1616722,2026-10-04,2026-10-04T11:00:00+01:00,HT,452,Tercera División RFEF - Group 14,Spain,2026,Group 14 - 5,Moralo,Gévora,9836,25032,,,1,1,,,,,1,1
+1617639,2026-10-04,2026-10-04T11:00:00+01:00,2H,455,Tercera División RFEF - Group 17,Spain,2026,Group 17 - 5,CD Sietamo,Belchite 97,28122,9880,,,1,0,,,,,1,0
 1617942,2026-10-04,2026-10-04T11:00:00+01:00,1H,456,Tercera División RFEF - Group 18,Spain,2026,Group 18 - 5,Huracán Balazote,San Clemente,15330,17619,,,1,0,,,,,1,0
-1617947,2026-10-04,2026-10-04T11:00:00+01:00,1H,456,Tercera División RFEF - Group 18,Spain,2026,Group 18 - 5,Socuéllamos,Guadalajara II,9414,26555,,,1,0,,,,,1,0
-1617949,2026-10-04,2026-10-04T11:00:00+01:00,1H,456,Tercera División RFEF - Group 18,Spain,2026,Group 18 - 5,Villarrubia,Torrijos,9417,9909,,,0,0,,,,,0,0
+1617947,2026-10-04,2026-10-04T11:00:00+01:00,HT,456,Tercera División RFEF - Group 18,Spain,2026,Group 18 - 5,Socuéllamos,Guadalajara II,9414,26555,,,1,0,,,,,1,0
+1617949,2026-10-04,2026-10-04T11:00:00+01:00,2H,456,Tercera División RFEF - Group 18,Spain,2026,Group 18 - 5,Villarrubia,Torrijos,9417,9909,,,0,1,,,,,0,1
 1620505,2026-10-04,2026-10-04T11:00:00+01:00,NS,581,Gamma Ethniki - Group 6,Greece,2026,Group 6 - 2,Pallixouriakos,Preveza,5060,12393,,,,,,,,,,
-1623504,2026-10-04,2026-10-04T11:00:00+01:00,1H,728,Liga 1 Feminin,Romania,2026,Regular Season - 7,Univ. Craiova W,FC Rapid Bucuresti W,28171,28170,,,0,1,,,,,0,1
-1630095,2026-10-04,2026-10-04T11:00:00+01:00,1H,1241,U19 league,Serbia,2026,Regular Season - 8,TSC U19,Vozdovac U19,28272,28269,,,0,0,,,,,0,0
-1633999,2026-10-04,2026-10-04T11:00:00+01:00,1H,653,Second League - Group 4,Russia,2026,Group 4 - 6,Izhevsk,Orenburg II,27650,14141,,,1,0,,,,,1,0
-1634029,2026-10-04,2026-10-04T11:00:00+01:00,1H,653,Second League - Group 4,Russia,2026,Group 4 - 6,Akron II,Dinamo Barnaul,21535,6794,,,0,0,,,,,0,0
-1634030,2026-10-04,2026-10-04T11:00:00+01:00,1H,653,Second League - Group 4,Russia,2026,Group 4 - 6,KDV,Khimik Dzerzhinsk,25867,16858,,,0,0,,,,,0,0
+1623504,2026-10-04,2026-10-04T11:00:00+01:00,2H,728,Liga 1 Feminin,Romania,2026,Regular Season - 7,Univ. Craiova W,FC Rapid Bucuresti W,28171,28170,,,0,1,,,,,0,1
+1630095,2026-10-04,2026-10-04T11:00:00+01:00,2H,1241,U19 league,Serbia,2026,Regular Season - 8,TSC U19,Vozdovac U19,28272,28269,,,1,0,,,,,1,0
+1633999,2026-10-04,2026-10-04T11:00:00+01:00,2H,653,Second League - Group 4,Russia,2026,Group 4 - 6,Izhevsk,Orenburg II,27650,14141,,,1,0,,,,,1,0
+1634029,2026-10-04,2026-10-04T11:00:00+01:00,2H,653,Second League - Group 4,Russia,2026,Group 4 - 6,Akron II,Dinamo Barnaul,21535,6794,,,1,0,,,,,1,0
+1634030,2026-10-04,2026-10-04T11:00:00+01:00,2H,653,Second League - Group 4,Russia,2026,Group 4 - 6,KDV,Khimik Dzerzhinsk,25867,16858,,,0,0,,,,,0,0
 1638600,2026-10-04,2026-10-04T11:00:00+01:00,NS,10,Friendlies,World,2026,Friendly International,Germany U17,England U17,17954,17949,,,,,,,,,,
-1640846,2026-10-04,2026-10-04T11:00:00+01:00,1H,734,Diski Challenge,South-Africa,2026,Regular Season - 2,Kaizer Chiefs U23,Mamelodi Sundowns U23,15992,15993,,,0,1,,,,,0,1
-1641767,2026-10-04,2026-10-04T11:00:00+01:00,1H,174,Cup,Bulgaria,2026,Round of 64,Belasitsa,Dobrudzha,8540,1427,,,0,1,,,,,0,1
+1640846,2026-10-04,2026-10-04T11:00:00+01:00,2H,734,Diski Challenge,South-Africa,2026,Regular Season - 2,Kaizer Chiefs U23,Mamelodi Sundowns U23,15992,15993,,,0,2,,,,,0,2
+1641767,2026-10-04,2026-10-04T11:00:00+01:00,2H,174,Cup,Bulgaria,2026,Round of 64,Belasitsa,Dobrudzha,8540,1427,,,0,1,,,,,0,1
 1642961,2026-10-04,2026-10-04T11:00:00+01:00,NS,667,Friendlies Clubs,World,2026,Club Friendlies,Dynamo,Rodina Moskva,1088,6822,,,,,,,,,,
 1575084,2026-10-04,2026-10-04T11:15:00+01:00,NS,91,Eredivisie Women,Netherlands,2026,Regular Season - 7,Twente W,Utrecht W,1899,21940,,,,,,,,,,
-1613046,2026-10-04,2026-10-04T11:15:00+01:00,1H,440,Tercera División RFEF - Group 2,Spain,2026,Group 2 - 5,Astur,Mosconia,25030,9629,,,0,0,,,,,0,0
-1616717,2026-10-04,2026-10-04T11:15:00+01:00,1H,452,Tercera División RFEF - Group 14,Spain,2026,Group 14 - 5,Azuaga,Guadiana,9826,28117,,,0,0,,,,,0,0
-1581921,2026-10-04,2026-10-04T11:30:00+01:00,1H,334,Persha Liga,Ukraine,2026,Regular Season - 10,Ahrobiznes Volochysk,UCSA,3620,21957,,,0,0,,,,,0,0
-1601258,2026-10-04,2026-10-04T11:30:00+01:00,1H,139,Serie A Women,Italy,2026,Regular Season - 2,Napoli W,Como 1907 W,14432,27960,,,0,0,,,,,0,0
-1606052,2026-10-04,2026-10-04T11:30:00+01:00,1H,460,Campeonato de Portugal Prio - Group D,Portugal,2026,Group D - 1,Santa Clara B,Real,28044,10149,,,0,0,,,,,0,0
-1608307,2026-10-04,2026-10-04T11:30:00+01:00,1H,138,Serie C - Girone A,Italy,2026,Girone A - 8,Lecco,Union Brescia,6379,26356,,,0,0,,,,,0,0
+1613046,2026-10-04,2026-10-04T11:15:00+01:00,HT,440,Tercera División RFEF - Group 2,Spain,2026,Group 2 - 5,Astur,Mosconia,25030,9629,,,0,0,,,,,0,0
+1616717,2026-10-04,2026-10-04T11:15:00+01:00,1H,452,Tercera División RFEF - Group 14,Spain,2026,Group 14 - 5,Azuaga,Guadiana,9826,28117,,,2,0,,,,,2,0
+1581921,2026-10-04,2026-10-04T11:30:00+01:00,1H,334,Persha Liga,Ukraine,2026,Regular Season - 10,Ahrobiznes Volochysk,UCSA,3620,21957,,,1,1,,,,,1,1
+1601258,2026-10-04,2026-10-04T11:30:00+01:00,1H,139,Serie A Women,Italy,2026,Regular Season - 2,Napoli W,Como 1907 W,14432,27960,,,1,1,,,,,1,1
+1606052,2026-10-04,2026-10-04T11:30:00+01:00,1H,460,Campeonato de Portugal Prio - Group D,Portugal,2026,Group D - 1,Santa Clara B,Real,28044,10149,,,1,0,,,,,1,0
+1608307,2026-10-04,2026-10-04T11:30:00+01:00,1H,138,Serie C - Girone A,Italy,2026,Girone A - 8,Lecco,Union Brescia,6379,26356,,,1,0,,,,,1,0
 1608310,2026-10-04,2026-10-04T11:30:00+01:00,1H,138,Serie C - Girone A,Italy,2026,Girone A - 8,Treviso,Giana Erminio,22319,865,,,0,0,,,,,0,0
 1613047,2026-10-04,2026-10-04T11:30:00+01:00,1H,440,Tercera División RFEF - Group 2,Spain,2026,Group 2 - 5,Covadonga,Siero,9623,9634,,,0,0,,,,,0,0
-1616718,2026-10-04,2026-10-04T11:30:00+01:00,NS,452,Tercera División RFEF - Group 14,Spain,2026,Group 14 - 5,Cabeza Buey,Villanovense,26552,5282,,,,,,,,,,
-1616721,2026-10-04,2026-10-04T11:30:00+01:00,1H,452,Tercera División RFEF - Group 14,Spain,2026,Group 14 - 5,Montijo,Jaraíz,9835,18094,,,0,0,,,,,0,0
-1624675,2026-10-04,2026-10-04T11:30:00+01:00,1H,428,Serie D - Girone C,Italy,2026,Group C - 6,Triestina,FC Obermais,877,17133,,,0,0,,,,,0,0
+1616718,2026-10-04,2026-10-04T11:30:00+01:00,1H,452,Tercera División RFEF - Group 14,Spain,2026,Group 14 - 5,Cabeza Buey,Villanovense,26552,5282,,,0,0,,,,,0,0
+1616721,2026-10-04,2026-10-04T11:30:00+01:00,1H,452,Tercera División RFEF - Group 14,Spain,2026,Group 14 - 5,Montijo,Jaraíz,9835,18094,,,1,0,,,,,1,0
+1624675,2026-10-04,2026-10-04T11:30:00+01:00,1H,428,Serie D - Girone C,Italy,2026,Group C - 6,Triestina,FC Obermais,877,17133,,,2,0,,,,,2,0
 1495403,2026-10-04,2026-10-04T12:00:00+01:00,NS,725,Toppserien,Norway,2026,Regular Season - 18,Hønefoss W,Bodø / Glimt W,18991,22858,,,,,,,,,,
 1495404,2026-10-04,2026-10-04T12:00:00+01:00,NS,725,Toppserien,Norway,2026,Regular Season - 18,Lyn W,Haugesund W,15955,25760,,,,,,,,,,
 1495405,2026-10-04,2026-10-04T12:00:00+01:00,NS,725,Toppserien,Norway,2026,Regular Season - 18,Molde W,Stabæk W,25761,15953,,,,,,,,,,
 1495406,2026-10-04,2026-10-04T12:00:00+01:00,NS,725,Toppserien,Norway,2026,Regular Season - 18,Røa W,LSK Kvinner W,18379,10894,,,,,,,,,,
 1496346,2026-10-04,2026-10-04T12:00:00+01:00,NS,474,2. Division - Group 2,Norway,2026,Regular Season - 22,Rana,Eidsvold,16229,6978,,,,,,,,,,
-1497076,2026-10-04,2026-10-04T12:00:00+01:00,NS,777,3. Division - Girone 4,Norway,2026,Regular Season - 22,Stabæk II,Haugesund II,16231,18439,,,,,,,,,,
-1497256,2026-10-04,2026-10-04T12:00:00+01:00,NS,778,3. Division - Girone 5,Norway,2026,Regular Season - 22,Lillestrøm II,Strømsgodset II,16207,12865,,,,,,,,,,
-1501493,2026-10-04,2026-10-04T12:00:00+01:00,NS,736,Elitettan,Sweden,2026,Regular Season - 21,Göteborg W,Alingsås W,10893,16001,,,,,,,,,,
-1504568,2026-10-04,2026-10-04T12:00:00+01:00,NS,564,Ettan - Södra,Sweden,2026,Södra - 25,Olympic,Trelleborg,12601,369,,,,,,,,,,
-1505290,2026-10-04,2026-10-04T12:00:00+01:00,NS,563,Ettan - Norra,Sweden,2026,Norra - 25,Vasalund,Arlanda,6708,16597,,,,,,,,,,
-1510869,2026-10-04,2026-10-04T12:00:00+01:00,NS,593,Division 2 - Norra Svealand,Sweden,2026,Norra Svealand - 24,Angby,Helges,27410,27386,,,,,,,,,,
+1497076,2026-10-04,2026-10-04T12:00:00+01:00,1H,777,3. Division - Girone 4,Norway,2026,Regular Season - 22,Stabæk II,Haugesund II,16231,18439,,,0,0,,,,,0,0
+1497256,2026-10-04,2026-10-04T12:00:00+01:00,1H,778,3. Division - Girone 5,Norway,2026,Regular Season - 22,Lillestrøm II,Strømsgodset II,16207,12865,,,0,0,,,,,0,0
+1501493,2026-10-04,2026-10-04T12:00:00+01:00,1H,736,Elitettan,Sweden,2026,Regular Season - 21,Göteborg W,Alingsås W,10893,16001,,,0,0,,,,,0,0
+1504568,2026-10-04,2026-10-04T12:00:00+01:00,1H,564,Ettan - Södra,Sweden,2026,Södra - 25,Olympic,Trelleborg,12601,369,,,0,1,,,,,0,1
+1505290,2026-10-04,2026-10-04T12:00:00+01:00,1H,563,Ettan - Norra,Sweden,2026,Norra - 25,Vasalund,Arlanda,6708,16597,,,0,0,,,,,0,0
+1510869,2026-10-04,2026-10-04T12:00:00+01:00,1H,593,Division 2 - Norra Svealand,Sweden,2026,Norra Svealand - 24,Angby,Helges,27410,27386,,,0,0,,,,,0,0
 1510871,2026-10-04,2026-10-04T12:00:00+01:00,NS,593,Division 2 - Norra Svealand,Sweden,2026,Norra Svealand - 24,Korsnäs,Franke,18427,6665,,,,,,,,,,
-1511416,2026-10-04,2026-10-04T12:00:00+01:00,NS,596,Division 2 - Västra Götaland,Sweden,2026,Västra Götaland - 24,Astrio,Västra Frölunda,6657,12609,,,,,,,,,,
-1561673,2026-10-04,2026-10-04T12:00:00+01:00,NS,109,II Liga - East,Poland,2026,Regular Season - 10,Znicz Pruszków,Stal Stalowa Wola,6964,6958,,,,,,,,,,
+1511416,2026-10-04,2026-10-04T12:00:00+01:00,1H,596,Division 2 - Västra Götaland,Sweden,2026,Västra Götaland - 24,Astrio,Västra Frölunda,6657,12609,,,0,0,,,,,0,0
+1561673,2026-10-04,2026-10-04T12:00:00+01:00,1H,109,II Liga - East,Poland,2026,Regular Season - 10,Znicz Pruszków,Stal Stalowa Wola,6964,6958,,,0,0,,,,,0,0
 1566367,2026-10-04,2026-10-04T12:00:00+01:00,NS,745,Oberliga - Hamburg,Germany,2026,Hamburg - 10,Pinneberg,Süderelbe,27365,14796,,,,,,,,,,
-1572991,2026-10-04,2026-10-04T12:00:00+01:00,NS,878,Segunda División RFEF - Group 4,Spain,2026,Group 4 - 5,Tamaraceite,Antoniano,9415,7522,,,,,,,,,,
-1574115,2026-10-04,2026-10-04T12:00:00+01:00,NS,221,Regionalliga - Ost,Austria,2026,Ost - 10,Scheiblingkirchen,Leobendorf,4982,4951,,,,,,,,,,
-1574628,2026-10-04,2026-10-04T12:00:00+01:00,NS,484,Frauenliga,Austria,2026,Regular Season - 9,Austria Wien W,SK Rapid W,17575,27906,,,,,,,,,,
-1593030,2026-10-04,2026-10-04T12:00:00+01:00,NS,336,Druha Liga,Ukraine,2026,Regular Season - 9,Ruh Lviv,Bratslav Vinnytsia,3632,28006,,,,,,,,,,
-1594152,2026-10-04,2026-10-04T12:00:00+01:00,NS,635,NB III - Northwest,Hungary,2026,Northwest - 10,1908 SZAC,SC Sopron,5068,7557,,,,,,,,,,
-1594391,2026-10-04,2026-10-04T12:00:00+01:00,NS,1023,NB III - Southeast,Hungary,2026,Southeast - 10,Dabas,Csepel,5083,5081,,,,,,,,,,
+1572991,2026-10-04,2026-10-04T12:00:00+01:00,1H,878,Segunda División RFEF - Group 4,Spain,2026,Group 4 - 5,Tamaraceite,Antoniano,9415,7522,,,0,0,,,,,0,0
+1574115,2026-10-04,2026-10-04T12:00:00+01:00,1H,221,Regionalliga - Ost,Austria,2026,Ost - 10,Scheiblingkirchen,Leobendorf,4982,4951,,,1,0,,,,,1,0
+1574628,2026-10-04,2026-10-04T12:00:00+01:00,1H,484,Frauenliga,Austria,2026,Regular Season - 9,Austria Wien W,SK Rapid W,17575,27906,,,0,0,,,,,0,0
+1593030,2026-10-04,2026-10-04T12:00:00+01:00,1H,336,Druha Liga,Ukraine,2026,Regular Season - 9,Ruh Lviv,Bratslav Vinnytsia,3632,28006,,,0,0,,,,,0,0
+1594152,2026-10-04,2026-10-04T12:00:00+01:00,1H,635,NB III - Northwest,Hungary,2026,Northwest - 10,1908 SZAC,SC Sopron,5068,7557,,,0,0,,,,,0,0
+1594391,2026-10-04,2026-10-04T12:00:00+01:00,1H,1023,NB III - Southeast,Hungary,2026,Southeast - 10,Dabas,Csepel,5083,5081,,,0,0,,,,,0,0
 1601047,2026-10-04,2026-10-04T12:00:00+01:00,NS,594,Division 2 - Norrland,Sweden,2026,Norrland - Relegation Round,Fransta,Storfors,27459,16604,,,,,,,,,,
-1609395,2026-10-04,2026-10-04T12:00:00+01:00,NS,699,Women's Championship,England,2026,Regular Season - 5,Durham W,Newcastle United W,15403,15515,,,,,,,,,,
-1616105,2026-10-04,2026-10-04T12:00:00+01:00,NS,450,Tercera División RFEF - Group 12,Spain,2026,Group 12 - 5,Marino,Playas Sotavento,9799,25036,,,,,,,,,,
+1609395,2026-10-04,2026-10-04T12:00:00+01:00,1H,699,Women's Championship,England,2026,Regular Season - 5,Durham W,Newcastle United W,15403,15515,,,0,0,,,,,0,0
+1616105,2026-10-04,2026-10-04T12:00:00+01:00,1H,450,Tercera División RFEF - Group 12,Spain,2026,Group 12 - 5,Marino,Playas Sotavento,9799,25036,,,0,0,,,,,0,0
 1616111,2026-10-04,2026-10-04T12:00:00+01:00,NS,450,Tercera División RFEF - Group 12,Spain,2026,Group 12 - 5,UD San Fernando,Estrella,9804,20275,,,,,,,,,,
 1620504,2026-10-04,2026-10-04T12:00:00+01:00,NS,581,Gamma Ethniki - Group 6,Greece,2026,Group 6 - 2,Levante,Plataria,28408,28164,,,,,,,,,,
-1634031,2026-10-04,2026-10-04T12:00:00+01:00,NS,653,Second League - Group 4,Russia,2026,Group 4 - 6,Pobeda Nizhniy Novgorod,Krylya Sovetov II,27651,14140,,,,,,,,,,
+1634031,2026-10-04,2026-10-04T12:00:00+01:00,1H,653,Second League - Group 4,Russia,2026,Group 4 - 6,Pobeda Nizhniy Novgorod,Krylya Sovetov II,27651,14140,,,0,0,,,,,0,0
 1639192,2026-10-04,2026-10-04T12:00:00+01:00,NS,143,Copa del Rey,Spain,2026,1/128-finals,Güímar,Hortaleza,9794,28411,,,,,,,,,,
-1641773,2026-10-04,2026-10-04T12:00:00+01:00,NS,174,Cup,Bulgaria,2026,Round of 64,FK Minyor Pernik,Beroe,6392,857,,,,,,,,,,
-1641776,2026-10-04,2026-10-04T12:00:00+01:00,NS,174,Cup,Bulgaria,2026,Round of 64,Oborishte,Yantra 2019,1411,8528,,,,,,,,,,
+1641773,2026-10-04,2026-10-04T12:00:00+01:00,1H,174,Cup,Bulgaria,2026,Round of 64,FK Minyor Pernik,Beroe,6392,857,,,0,0,,,,,0,0
+1641776,2026-10-04,2026-10-04T12:00:00+01:00,1H,174,Cup,Bulgaria,2026,Round of 64,Oborishte,Yantra 2019,1411,8528,,,0,0,,,,,0,0
 1577619,2026-10-04,2026-10-04T12:30:00+01:00,NS,236,First League,Russia,2026,Regular Season - 21,Veles,Volga Ulyanovsk,6833,6834,,,,,,,,,,
 1593033,2026-10-04,2026-10-04T12:30:00+01:00,NS,336,Druha Liga,Ukraine,2026,Regular Season - 9,Metalurh Zaporizhya,Karbon Cherkasy,5627,26451,,,,,,,,,,
 1643436,2026-10-04,2026-10-04T12:30:00+01:00,NS,1201,IFA Shield,India,2026,Semi-finals,ATK Mohun Bagan,Minerva Punjab,15516,3466,,,,,,,,,,
