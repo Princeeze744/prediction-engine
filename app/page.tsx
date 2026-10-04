@@ -41,8 +41,8 @@ export default function HomePage(){
 
    {(()=>{const yd=data?.daily10.history.find(d=>d.date!==T?.date&&d.tickets.some(t=>t.status==='WON'||t.status==='LOST'));if(!yd)return null;
     const w=yd.tickets.filter(t=>t.status==='WON'),l=yd.tickets.filter(t=>t.status==='LOST');
-    const fd=data?.free.history.find(d=>d.date===yd.date);let fw=0,fn=0;fd?.items.forEach(it=>{const p=it.picks[0];if(p?.status){fn++;if(p.status==='WON')fw++}});
-    const nd=data?.nodraw?.history.find(d=>d.date===yd.date);const ns=nd?nd.items.filter(i=>i.status):[],nw=ns.filter(i=>i.status==='WON').length;
+    const fd=data?.free.history.find(d=>d.date===yd.date);let fw=0,fn=0;fd?.items.forEach(it=>{const p=it.picks[0];if(p?.status==='WON'||p?.status==='LOST'){fn++;if(p.status==='WON')fw++}});
+    const nd=data?.nodraw?.history.find(d=>d.date===yd.date);const ns=nd?nd.items.filter(i=>i.status==='WON'||i.status==='LOST'):[],nw=ns.filter(i=>i.status==='WON').length;
     return <section className="section" style={{marginTop:36}}>
      <div className="section-head"><div><h2 className="h2">Last results</h2><p>{niceDate(yd.date)}. Every ticket and pick, won or lost.</p></div><Link href="/tickets#record" className="ghost-link">See every ticket</Link></div>
      <div className="track results">

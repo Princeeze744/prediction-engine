@@ -21,7 +21,7 @@ export default function Slip({t,day,vip=true,animate=false,compact=false}:{t:Tic
    {t.legs.map((l,i)=><li key={i} className={`leg${i<shown?' leg-in':''}${l.status?' leg-'+l.status.toLowerCase():''}`}>
     <span className="leg-time">{kick(l.kickoff)||'·'}</span>
     <span className="leg-main"><b>{l.match}</b><em>{l.pick}</em>{l.score?<small>Full time {l.score}{l.ht?`, half time ${l.ht}`:''}</small>:null}</span>
-    <span className="leg-end"><span className="leg-odds">{l.odds.toFixed(2)}</span>{l.status==='WON'||l.status==='LOST'?<span className={`res res-${l.status.toLowerCase()}`}>{l.status==='WON'?'Won':'Lost'}{l.score?' '+l.score:''}</span>:l.status==='VOID'?<span className="res">Void</span>:null}</span>
+    <span className="leg-end"><span className="leg-odds">{l.odds.toFixed(2)}</span>{l.status==='WON'||l.status==='LOST'?<span className={`res res-${l.status.toLowerCase()}`}>{l.status==='WON'?'Won':'Lost'}{l.score?' '+l.score:''}</span>:l.status==='VOID'?<span className="res">{l.score?'Void '+l.score:'Postponed'}</span>:null}</span>
    </li>)}
   </ol>
   <div className="slip-tear" aria-hidden="true"/>

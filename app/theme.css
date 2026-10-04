@@ -293,6 +293,17 @@ section[id],div[id].section{scroll-margin-top:140px}
 .res-won{background:rgba(61,240,162,.16);color:var(--won)}.res-lost{background:rgba(255,107,94,.16);color:var(--lost)}
 .status{white-space:nowrap}
 
+.acc{display:grid;grid-template-columns:1.2fr 1fr;gap:12px;margin:6px 0 16px}
+.acc-box{padding:16px 20px;border-radius:18px;border:1px solid var(--line-soft);background:rgba(10,31,23,.6)}
+.acc-main{border-color:color-mix(in srgb,var(--sky) 40%,transparent);box-shadow:0 0 34px color-mix(in srgb,var(--sky) 10%,transparent)}
+.acc-box span{font-size:13px;font-weight:700;color:var(--dim)}.acc-main span{color:var(--sky)}
+.acc-box b{display:block;font-family:var(--display);font-weight:900;font-size:clamp(40px,6vw,60px);line-height:.95;margin:4px 0 6px;font-variant-numeric:tabular-nums}
+.acc-main b{color:var(--sky);text-shadow:0 0 30px color-mix(in srgb,var(--sky) 35%,transparent)}
+.acc-main.won b{color:var(--won)}.acc-main.lost b{color:var(--lost);text-decoration:line-through}
+.acc-box small{display:block;font-size:12px;color:var(--dim)}
+.pick-star{background:color-mix(in srgb,var(--sky) 6%,transparent)}.pick-star .pick-teams b{color:var(--sky)}
+.status.void{background:rgba(238,245,239,.07);color:var(--dim)}
+
 @media(max-width:1000px){
   .member{display:none}
   .hero{grid-template-columns:1fr}
@@ -311,6 +322,7 @@ section[id],div[id].section{scroll-margin-top:140px}
   .nd-top{grid-template-columns:1fr}.nd-tiers{grid-template-columns:1fr}
   .nd-row .nd-tag{grid-column:2/-1;grid-row:3;justify-self:start}
   .jump{top:62px}
+  .acc{grid-template-columns:1fr}
   .track.results a:nth-child(2n){border-right:0}.track.results a{border-bottom:1px solid var(--line-soft)}
   .install{bottom:92px}
   .brand{font-size:19px}

@@ -1,5 +1,5 @@
 """QuantSport - quick results refresh.
-Fetches the scores of today's and yesterday's matches (2 API calls) and saves them to data/live_results.csv,
+Fetches the scores of today's matches and the two days before (3 API calls) and saves them to data/live_results.csv,
 so tickets and picks can be marked Won/Lost on the same day, a couple of hours after each match ends.
 Usage:  python tools/refresh_results.py      (needs APIFOOTBALL_KEY; uses QS_DATA like build_models.py)
 """
@@ -27,21 +27,41 @@ def day_rows(day):
                s['penalty']['home'], s['penalty']['away'], m['goals']['home'], m['goals']['away']]
 
 
+FINAL = ('FT', 'AET', 'PEN', 'PST', 'CANC', 'ABD', 'AWD', 'WO')
+
+
 def main():
+    """Fetch today and the two days before, and merge into live_results.csv. Rows of matches that have ended
+    (or were postponed/cancelled) are kept for 45 days, so a late finisher is never left 'pending'."""
     if not KEY:
         sys.exit('APIFOOTBALL_KEY is not set')
     now = datetime.now()
-    rows = []
-    for back in (0, 1):
+    out = DATA / 'live_results.csv'
+    keep = {}
+    if out.exists():
+        cutoff = (now - timedelta(days=45)).strftime('%Y-%m-%d')
+        with open(out, newline='', encoding='utf-8') as f:
+            for r in csv.reader(f):
+                if r and r[0] != 'fixture_id' and len(r) == len(COLS) and r[3] in FINAL and r[1] >= cutoff:
+                    keep[str(r[0])] = r
+    fetched = 0
+    for back in (0, 1, 2):
         day = (now - timedelta(days=back)).strftime('%Y-%m-%d')
-        got = list(day_rows(day)); rows += got
+        try:
+            got = list(day_rows(day))
+        except Exception as e:
+            print(f'  {day}: could not fetch ({e})'); continue
+        fetched += len(got)
+        for r in got:
+            keep[str(r[0])] = r
         print(f'  {day}: {len(got)} matches, {sum(1 for r in got if r[3] in ("FT", "AET", "PEN"))} finished')
-    if not rows:
+    if not fetched:
         sys.exit('No matches returned - keeping the previous file')
     DATA.mkdir(parents=True, exist_ok=True)
-    with open(DATA / 'live_results.csv', 'w', newline='', encoding='utf-8') as f:
+    rows = sorted(keep.values(), key=lambda r: (str(r[1]), int(r[0])))
+    with open(out, 'w', newline='', encoding='utf-8') as f:
         w = csv.writer(f); w.writerow(COLS); w.writerows(rows)
-    print(f'Saved {len(rows)} rows to {DATA / "live_results.csv"}')
+    print(f'Saved {len(rows)} rows to {out}')
 
 
 if __name__ == '__main__':

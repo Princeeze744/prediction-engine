@@ -14,7 +14,7 @@ export default function NoDrawPage(){
  const D=N.history.find(d=>d.date===day)||N.today||N.history[0]||null;
  const items=D?D.items.filter(i=>tier==='All'||i.tier===tier).sort((a,b)=>(a.tier===b.tier?0:a.tier==='Sweet'?-1:1)||(a.kickoff||'').localeCompare(b.kickoff||'')):[];
  const n=(t:string)=>D?D.items.filter(i=>t==='All'||i.tier===t).length:0;
- const settled=items.filter(i=>i.status),won=settled.filter(i=>i.status==='WON').length;
+ const settled=items.filter(i=>i.status==='WON'||i.status==='LOST'),won=settled.filter(i=>i.status==='WON').length;
  return <main className="wrap">
   <div className="page-title"><span className="nd-kicker">Special pick</span><h1>No Draw Sweet</h1>
    <p>Some matches almost never end level. For those, we pick <b style={{color:'var(--chalk)'}}>Home or Away</b>: you win if either team wins and lose only on a draw. On SportyBet choose Double Chance, then 12.</p></div>

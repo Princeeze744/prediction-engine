@@ -9,7 +9,7 @@ export function NDRow({it}:{it:NDItem}){const st=(it.status||'').toLowerCase();
   <span className="pick-market">Home or Away (12)<small>Favourite {it.fav.toFixed(2)} · Over 2.5 at {it.o25.toFixed(2)}</small></span>
   <span className="nd-tag">{it.tier==='Sweet'?'Sweet':'Wide'}</span>
   <span className="pick-odds">{it.odds.toFixed(2)}</span>
-  <span className="pick-status">{it.status?<span className={`status ${st}`}>{it.status==='WON'?'Won':'Lost'}{it.score?' '+it.score:''}</span>:<span className="status pending">Pending</span>}</span></div>}
+  <span className="pick-status">{it.status?<span className={`status ${st}`}>{it.status==='WON'?'Won':it.status==='VOID'?'Postponed':'Lost'}{it.score?' '+it.score:''}</span>:<span className="status pending">Pending</span>}</span></div>}
 export default function NoDrawCard({data,limit=4}:{data:Data;limit?:number}){
  const N=data.nodraw;if(!N||!N.tiers?.length)return null;
  const T=N.today,sweet=T?T.items.filter(i=>i.tier==='Sweet'):[],wide=T?T.items.filter(i=>i.tier!=='Sweet'):[];

@@ -214,6 +214,18 @@ def pnl(odd, r):
     return odd - 1 if r == 1 else -1.0 if r == 0 else 0.0
 
 
+VOID_IDS = set()
+
+
+def settle_leg(l, r):
+    """Settle one ticket leg from a result row. Works without a half-time score when the market does not depend on it."""
+    hg, ag = int(r.ft_home), int(r.ft_away)
+    if pd.notna(r.ht_home) and pd.notna(r.ht_away):
+        return settle(l['market'], l['selection'], hg, ag, int(r.ht_home), int(r.ht_away)), f'{int(r.ht_home)}-{int(r.ht_away)}'
+    vs = {settle(l['market'], l['selection'], hg, ag, h1, a1) for h1 in range(hg + 1) for a1 in range(ag + 1)}
+    return (vs.pop() if len(vs) == 1 else 0.5), ''
+
+
 def main():
     oa = DATA / 'odds_all.csv'
     if not oa.exists():
@@ -226,6 +238,9 @@ def main():
     if (DATA / 'live_results.csv').exists():          # same-day scores from refresh_results.py: freshest, so they come first
         lv = pd.read_csv(DATA / 'live_results.csv')
         fr.append(lv[lv.status.isin(['FT', 'AET', 'PEN'])])
+        # matches that will not be played as scheduled: their picks are void (stake back), not pending for ever
+        off = lv[lv.status.isin(['PST', 'CANC', 'ABD', 'AWD', 'WO']) & (lv.date.astype(str) < pd.Timestamp.now().strftime('%Y-%m-%d'))]
+        VOID_IDS.update(int(i) for i in off.fixture_id)
     fr.append(pd.read_csv(DATA / 'fixtures.csv'))
     if (DATA / 'history.csv').exists():
         fr.append(pd.read_csv(DATA / 'history.csv'))
@@ -425,7 +440,7 @@ def main():
             lf.write_text(json.dumps(today_set, indent=1, default=str), encoding='utf-8')
 
     # settle every frozen day from the results file
-    res = fxt[fxt.status.isin(['FT', 'AET', 'PEN'])].dropna(subset=['ft_home', 'ft_away', 'ht_home', 'ht_away'])
+    res = fxt[fxt.status.isin(['FT', 'AET', 'PEN'])].dropna(subset=['ft_home', 'ft_away'])
     history = []
     for lf in sorted(ledger_dir.glob('*.json'), reverse=True)[:40]:
         d = json.loads(lf.read_text(encoding='utf-8'))
@@ -433,8 +448,10 @@ def main():
             for l in t['legs']:
                 if l['fid'] in res.index:
                     r = res.loc[l['fid']]
-                    v = settle(l['market'], l['selection'], int(r.ft_home), int(r.ft_away), int(r.ht_home), int(r.ht_away))
-                    l['status'] = 'WON' if v == 1 else 'LOST' if v == 0 else 'VOID'; l['score'] = f'{int(r.ft_home)}-{int(r.ft_away)}'; l['ht'] = f'{int(r.ht_home)}-{int(r.ht_away)}'
+                    v, ht_ = settle_leg(l, r)
+                    l['status'] = 'WON' if v == 1 else 'LOST' if v == 0 else 'VOID'; l['score'] = f'{int(r.ft_home)}-{int(r.ft_away)}'; l['ht'] = ht_
+                elif l['fid'] in VOID_IDS:
+                    l['status'] = 'VOID'
                 else:
                     l['status'] = 'PENDING'
             sts = [l['status'] for l in t['legs']]
@@ -528,11 +545,14 @@ def main():
                     r = done_ft.loc[it['fid']]; it['score'] = f'{int(r.ft_home)}-{int(r.ft_away)}'
                     for pk in it['picks']:
                         pk['status'] = 'WON' if free_won(pk['option'], int(r.ft_home), int(r.ft_away)) else 'LOST'
+                elif it['fid'] in VOID_IDS:
+                    for pk in it['picks']:
+                        pk['status'] = 'VOID'
             free['history'].append(d)
         for d in free['history']:
             for it in d['items']:
                 for n_, pk in enumerate(it['picks']):
-                    if 'status' not in pk:
+                    if pk.get('status') not in ('WON', 'LOST'):
                         continue
                     for c in ([pk['cat']] + (['TOP FINGERPRINT'] if n_ == 0 else [])):
                         a = free['live'].setdefault(c, dict(picks=0, won=0)); a['picks'] += 1; a['won'] += pk['status'] == 'WON'
@@ -578,6 +598,8 @@ def main():
                     r = done_nd.loc[it['fid']]; it['score'] = f'{int(r.ft_home)}-{int(r.ft_away)}'; it['status'] = 'WON' if r.ft_home != r.ft_away else 'LOST'
                     for t in ([it['tier']] + (['Wide'] if it['tier'] == 'Sweet' else [])):
                         a = nodraw['live'].setdefault(t, dict(picks=0, won=0)); a['picks'] += 1; a['won'] += it['status'] == 'WON'
+                elif it['fid'] in VOID_IDS:
+                    it['status'] = 'VOID'
             nodraw['history'].append(d)
         if upcoming:
             nodraw['today'] = next((d for d in nodraw['history'] if d['date'] == upcoming[0]), None)
