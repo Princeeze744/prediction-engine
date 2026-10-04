@@ -18,7 +18,8 @@ $Markets = @('Match Winner','Goals Over/Under','To Win Either Half','Away Team T
              'Goals Over/Under First Half','Home Team Total Goals(1st Half)','Asian Handicap First Half','Away Odd/Even',
              'Away Team Total Goals(1st Half)','To Score In Both Halves By Teams','Double Chance','Both Teams Score',
              'Handicap Result','Total - Home','Total - Away','Win to Nil - Home','Goals Over/Under - Second Half','Both Teams To Score in Both Halves',
-             'Clean Sheet - Home','Clean Sheet - Away','Away team will score in both halves','Both Teams Score - First Half','Asian Handicap')
+             'Clean Sheet - Home','Clean Sheet - Away','Away team will score in both halves','Both Teams Score - First Half','Asian Handicap',
+             'Handicap Result - First Half','Home win both halves')
 $ErrorActionPreference = 'Stop'
 if (-not $env:APIFOOTBALL_KEY) { $env:APIFOOTBALL_KEY = Read-Host 'API-Football key' }
 $Headers = @{ 'x-apisports-key' = ("$env:APIFOOTBALL_KEY" -replace '\s', '') }   # strips any hidden spaces or line breaks from a pasted key

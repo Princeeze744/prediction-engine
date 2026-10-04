@@ -3,7 +3,7 @@ import {useEffect,useState} from 'react';
 import type {Ticket} from '@/lib/qs';
 import {kick} from '@/lib/qs';
 /* The betting slip: the one object the whole site is built around. */
-export default function Slip({t,day,vip=true,animate=false,compact=false}:{t:Ticket;day:string;vip?:boolean;animate?:boolean;compact?:boolean}){
+export default function Slip({t,day,vip=true,animate=false,compact=false,label,tone,plain=false}:{t:Ticket;day:string;vip?:boolean;animate?:boolean;compact?:boolean;label?:string;tone?:string;plain?:boolean}){
  const [copied,setCopied]=useState(false);
  const [shown,setShown]=useState(animate?0:t.legs.length);
  useEffect(()=>{if(!animate)return;if(window.matchMedia('(prefers-reduced-motion: reduce)').matches){setShown(t.legs.length);return}
@@ -12,9 +12,9 @@ export default function Slip({t,day,vip=true,animate=false,compact=false}:{t:Tic
  const total=animate&&shown<t.legs.length?running:t.odds;
  const st=(t.status||'PENDING').toLowerCase();
  const copy=()=>{const txt=`QuantSport ${t.tier} ticket, ${day}, total odds ${t.odds.toFixed(2)}\n`+t.legs.map((l,i)=>`${i+1}. ${l.match}: ${l.pick} @ ${l.odds.toFixed(2)}`).join('\n');navigator.clipboard?.writeText(txt);setCopied(true);setTimeout(()=>setCopied(false),1600)};
- return <article className={`slip slip-${st}${vip?' slip-vip':''}${compact?' slip-compact':''}`}>
+ return <article className={`slip slip-${st}${vip?' slip-vip':''}${compact?' slip-compact':''}${tone?' slip-'+tone:''}${t.tier.length>9?' slip-long':''}`}>
   <header className="slip-head">
-   <div><span className="slip-tier">{t.tier}</span><span className="slip-no">Ticket {t.no}</span></div>
+   <div><span className="slip-tier">{t.tier}</span><span className="slip-no">{label??`Ticket ${t.no}`}</span></div>
    {t.status&&t.status!=='PENDING'?<span className={`badge badge-${st}`}>{t.status==='WON'?'Ticket won':'Ticket lost'}</span>:<span className="slip-count">{(()=>{const w=t.legs.filter(l=>l.status==='WON').length;return w?`${w} of ${t.legs.length} won so far`:`${t.legs.length} picks`})()}</span>}
   </header>
   <ol className="slip-legs">
@@ -30,6 +30,6 @@ export default function Slip({t,day,vip=true,animate=false,compact=false}:{t:Tic
    {!compact&&<button className="btn btn-ghost" onClick={copy} aria-live="polite">{copied?'Copied':'Copy ticket'}</button>}
   </footer>
   {!compact&&t.repeats?<p className="slip-note">Few matches today, so this ticket shares a match with another ticket.</p>:null}
-  {!compact&&!t.reached?<p className="slip-note">Not enough qualifying matches to reach {t.target} odds today.</p>:null}
+  {!compact&&!plain&&!t.reached?<p className="slip-note">Not enough qualifying matches to reach {t.target} odds today.</p>:null}
  </article>;
 }

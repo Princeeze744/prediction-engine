@@ -2,6 +2,7 @@
 import {useEffect,useMemo,useState} from 'react';
 import Link from 'next/link';
 import {Loader} from '@/components/Ball';
+import Slip from '@/components/Slip';
 import {useData,kick,niceDate,catLabel,type FreeItem,type FreePick} from '@/lib/qs';
 const label=catLabel;
 
@@ -21,7 +22,8 @@ export default function Picks(){
  const priced=rows.filter(r=>r.p.odds&&r.p.odds>1&&r.p.status!=='VOID');
  const acc=(l:typeof priced)=>l.reduce((a,r)=>a*(r.p.odds as number),1);
  const fmt=(x:number)=>x>=1e6?(x/1e6).toFixed(1)+'M':x>=10000?Math.round(x).toLocaleString('en-GB'):x.toFixed(2);
- const best5=[...priced].sort((a,b)=>b.p.consistency-a.p.consistency||(a.p.odds as number)-(b.p.odds as number)).slice(0,5);
+ const solid=priced.filter(r=>(r.p.odds as number)>=1.1);
+ const best5=[...(solid.length>=5?solid:priced)].sort((a,b)=>b.p.consistency-a.p.consistency||(a.p.odds as number)-(b.p.odds as number)).slice(0,5);
  const best5ids=new Set(best5.map(r=>r.it.fid+r.p.option));
  const b5st=best5.some(r=>r.p.status==='LOST')?'lost':best5.length&&best5.every(r=>r.p.status==='WON')?'won':'';
  return <main className="wrap">
@@ -35,7 +37,8 @@ export default function Picks(){
   </div>
 
   {priced.length?<div className="acc">
-   <div className={`acc-box acc-main ${b5st}`}><span>Best {best5.length} together</span><b>{fmt(acc(best5))}</b><small>Accumulated odds of the {best5.length} most consistent {label(cat).toLowerCase()} picks, marked ★ below{b5st==='won'?'. All won.':b5st==='lost'?'. Lost.':''}</small></div>
+   <Slip vip={false} tone="sky" plain day={D?.date||''} label={`Best ${best5.length} · free ticket`} t={{no:1,tier:label(cat),target:0,odds:acc(best5),reached:true,repeats:false,status:b5st==='won'?'WON':b5st==='lost'?'LOST':'PENDING',
+    legs:[...best5].sort((a,b)=>(a.it.kickoff||'').localeCompare(b.it.kickoff||'')).map(r=>({fid:r.it.fid,kickoff:r.it.kickoff,match:`${r.it.home} - ${r.it.away}`,pick:r.p.option,model:'FREE',odds:r.p.odds as number,status:r.p.status,score:r.it.score}))}}/>
    <div className="acc-box"><span>All {priced.length} together</span><b>{fmt(acc(priced))}</b><small>Accumulated odds if every {label(cat).toLowerCase()} pick is played on one ticket. The more picks, the harder it is to win.</small></div>
   </div>:null}
 

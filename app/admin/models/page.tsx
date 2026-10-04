@@ -58,6 +58,7 @@ export default function Models(){
    <button className={grp==='HIGH HIT'?'active':''} onClick={()=>setGrp('HIGH HIT')}>🎯 High hit-rate models (90%+)</button>
    <button className={grp==='ACCA 1.20-1.50'?'active':''} onClick={()=>setGrp('ACCA 1.20-1.50')}>🎟️ Accumulator models (odds 1.20–1.50)</button>
    <button className={grp==='VALUE'?'active':''} onClick={()=>setGrp('VALUE')}>💰 Value models (higher odds)</button>
+   <button className={grp==='NEW'?'active':''} onClick={()=>setGrp('NEW')}>🆕 New models (4 Oct)</button>
   </div></div>
   <section className="history-table">
    <div className="history-row history-head"><span>MODEL · SPORTYBET MARKET</span><span>PICKS · HIT RATE</span><span>AVG ODDS</span><span>ROI · FIRST / UNSEEN DAYS</span><span>DAYS IN PROFIT</span></div>

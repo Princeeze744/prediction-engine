@@ -119,7 +119,25 @@ ACCA = [
 ]
 for _m in MODELS:
     _m['group'] = 'VALUE'
-MODELS = HIGH_HIT + ACCA + MODELS
+# NEW (4 Oct): the next five, found by the same search (9,814 market/condition pairs, each checked on first days vs later unseen days).
+NEW = [
+ dict(id='S1', group='NEW', name='Home +2 Start in an Even Game', sporty='Handicap 2:0 - Home (2:0)',
+      why='When neither side is a strong favourite (favourite at 1.70-2.00), the home team with a two-goal head start very rarely loses.',
+      cond={'favB': 'fav1.70-2.00'}, market='Handicap Result', selection='Home +2'),
+ dict(id='S2', group='NEW', name='Quiet First Half', sporty='1st Half - Over/Under - Under 2.5',
+      why='Away favourite with a draw price of 3.7-4.3: three first-half goals are rare.',
+      cond={'favS': 'awayFav', 'drawB': 'X3.7-4.3'}, market='Goals Over/Under First Half', selection='Under 2.5'),
+ dict(id='S3', group='NEW', name='Home Favourite +1 at Half-Time', sporty='1st Half - Handicap 1:0 - Home (1:0)',
+      why='Home favourite in a fairly open game: with a one-goal start it is almost never behind at the break.',
+      cond={'favS': 'homeFav', 'o25B': 'O2.5@1.55-1.80'}, market='Handicap Result - First Half', selection='Home +1'),
+ dict(id='S4', group='NEW', name='Away Team Under 2.5 Goals', sporty='Away Team Total - Under 2.5',
+      why='League games with a very long draw price (4.3+): the away side scoring three is rarer than its price says.',
+      cond={'drawB': 'X4.3+', 'comp': 'league'}, market='Total - Away', selection='Under 2.5'),
+ dict(id='S5', group='NEW', name='Home Will Not Win Both Halves', sporty='Home To Win Both Halves - No',
+      why='Even in high-scoring league games the home side seldom wins both halves.',
+      cond={'o25B': 'O2.5@<1.55', 'comp': 'league'}, market='Home win both halves', selection='No'),
+]
+MODELS = HIGH_HIT + ACCA + MODELS + NEW
 
 
 def ou(v, side, L):
@@ -157,6 +175,11 @@ def settle(m, s, hg, ag, h1, a1):
     if m == 'Handicap Result':
         side, h = s.split(' ')
         return float(res3(hg + int(float(h)), ag) == side)
+    if m == 'Handicap Result - First Half':
+        side, h = s.split(' ')
+        return float(res3(h1 + int(float(h)), a1) == side)
+    if m == 'Home win both halves':
+        return float((h1 > a1 and h2 > a2) == (s == 'Yes'))
     if m == 'Double Chance':
         return float(res3(hg, ag) in s.split('/'))
     if m == 'Win to Nil - Home':
@@ -472,6 +495,82 @@ def main():
     daily = dict(today=today_set, history=history, live=live, backtest=tier_bt,
                  tiers=[dict(tier=x[0], target=x[1], count=x[2]) for x in TIERS])
 
+    # live scoreboard: how each model's picks have done inside the published VIP tickets
+    bym = {}
+    for d in history:
+        for t in d['tickets']:
+            for l in t['legs']:
+                if l.get('status') in ('WON', 'LOST') and l.get('model') in by_id:
+                    a = bym.setdefault(l['model'], dict(id=l['model'], name=by_id[l['model']]['name'], sporty=by_id[l['model']]['sporty'], picks=0, won=0))
+                    a['picks'] += 1; a['won'] += l['status'] == 'WON'
+    for a in bym.values():
+        a['hit'] = round(a['won'] / a['picks'] * 100, 1)
+    daily['by_model'] = sorted(bym.values(), key=lambda a: (-a['picks'], -a['hit']))
+
+    # ---------- SPECIALS: one-market tickets from the five models with the best long-run record that have enough matches today ----------
+    # Ranked on the whole record (and held up on unseen days), NOT on yesterday alone: tested, yesterday's form does not carry over.
+    specials = dict(today=None, history=[], live={}, target=3.0)
+    try:
+        sdir = DATA / 'specials'; sdir.mkdir(parents=True, exist_ok=True)
+        if upcoming:
+            day = upcoming[0]; sf = sdir / f'{day}.json'
+            if not sf.exists() or '--rebuild' in sys.argv:
+                cands = []
+                for m in out:
+                    r_, u_ = m['record'], m['unseen']
+                    if r_.get('picks', 0) < 90 or not r_.get('avg_odds') or r_['avg_odds'] < 1.15 or r_.get('hit') is None or u_.get('hit') is None:
+                        continue
+                    if min(r_['hit'], u_['hit']) < 78:                                    # specials are for options that come in often
+                        continue
+                    tp = [p for p in m['today'] if 1.12 <= p['odds'] <= 1.9]
+                    if len(tp) < 4:
+                        continue
+                    edge = min(r_['hit'], u_['hit']) - 100 / r_['avg_odds']          # hit rate above the break-even rate, on the weaker of the two periods
+                    cands.append((edge, m, tp))
+                tks, seen_mk, n_models = [], set(), 0
+                for edge, m, tp in sorted(cands, key=lambda z: -z[0]):
+                    if (m['market'], m['selection']) in seen_mk or n_models >= 5:      # same bet under two model names counts once
+                        continue
+                    seen_mk.add((m['market'], m['selection'])); n_models += 1
+                    tp = sorted(tp, key=lambda z: (z['kickoff'], z['fid'])); cur, prod, made = [], 1.0, 0
+                    for p_ in tp:
+                        cur.append(p_); prod *= p_['odds']
+                        if prod >= specials['target'] and len(cur) >= 3:
+                            tks.append((m, cur, prod)); cur, prod, made = [], 1.0, made + 1
+                            if made >= 2:
+                                break
+                    if made == 0 and len(cur) >= 3:
+                        tks.append((m, cur, prod))
+                sset = dict(date=day, created=pd.Timestamp.now().strftime('%Y-%m-%d %H:%M'),
+                            tickets=[dict(no=n + 1, model=m['id'], tier=m['name'], sporty=m['sporty'], target=specials['target'], odds=round(pr_, 2), reached=bool(pr_ >= specials['target']), repeats=False,
+                                          record=dict(hit=m['record']['hit'], picks=m['record']['picks'], avg_odds=m['record']['avg_odds']),
+                                          legs=[dict(fid=l['fid'], kickoff=l['kickoff'], match=l['match'], league=l['league'], pick=m['sporty'], model=m['id'], odds=l['odds'], market=m['market'], selection=m['selection']) for l in legs])
+                                     for n, (m, legs, pr_) in enumerate(tks)])
+                sf.write_text(json.dumps(sset, indent=1, default=str), encoding='utf-8')
+        for sf in sorted(sdir.glob('*.json'), reverse=True)[:30]:
+            d = json.loads(sf.read_text(encoding='utf-8'))
+            for t in d['tickets']:
+                for l in t['legs']:
+                    if l['fid'] in res.index:
+                        r = res.loc[l['fid']]; v, ht_ = settle_leg(l, r)
+                        l['status'] = 'WON' if v == 1 else 'LOST' if v == 0 else 'VOID'; l['score'] = f'{int(r.ft_home)}-{int(r.ft_away)}'; l['ht'] = ht_
+                    elif l['fid'] in VOID_IDS:
+                        l['status'] = 'VOID'
+                    else:
+                        l['status'] = 'PENDING'
+                sts = [l['status'] for l in t['legs']]
+                t['status'] = 'LOST' if 'LOST' in sts else 'PENDING' if 'PENDING' in sts else 'WON'
+                if t['status'] != 'PENDING':
+                    a = specials['live'].setdefault(t['model'], dict(name=t['tier'], tickets=0, won=0)); a['tickets'] += 1; a['won'] += t['status'] == 'WON'
+            specials['history'].append(d)
+        if upcoming:
+            specials['today'] = next((d for d in specials['history'] if d['date'] == upcoming[0]), None)
+        if specials['today']:
+            print(f"  SPECIALS for {specials['today']['date']}: " + ', '.join(f"{t['model']} {t['odds']} ({len(t['legs'])})" for t in specials['today']['tickets']))
+    except Exception as e:
+        specials['error'] = str(e)
+        print('  SPECIALS skipped:', e)
+
     # ---------- FREE PICKS: the original v10.8 Core, run automatically on today's API fixtures (no pasting) ----------
     CATS = ['TOP FINGERPRINT', 'HOME 1+', 'AWAY 1+', 'OVER 1.5', 'OVER 2.5', 'UNDER 3.5', '1X', 'X2']
     CAT_OF = {'Home team to score 1+': 'HOME 1+', 'Away team to score 1+': 'AWAY 1+', 'Over 1.5': 'OVER 1.5', 'Over 2.5': 'OVER 2.5', 'Under 3.5': 'UNDER 3.5', '1X': '1X', 'X2': 'X2'}
@@ -573,7 +672,23 @@ def main():
             fav = f[['H', 'A']].min(axis=1); f = f.assign(fav=fav)
             f['tier'] = np.where((fav < 1.25) & (f.O25 < 1.55), 'Sweet', np.where((fav < 1.45) & (f.O25 < 1.70), 'Wide', ''))
             return f[f.tier != '']
+        def med_of(od, mk, sels):
+            return od[(od.market == mk) & od.selection.isin(sels)].groupby('fixture_id').odd.median()
+
+        def nd_extras(od):
+            return dict(o15=med_of(od, 'Goals Over/Under', ['Over 1.5']), h=med_of(od, 'Match Winner', ['Home']), a=med_of(od, 'Match Winner', ['Away']))
         past = nd_pick(fx, odds); past = past.assign(won=(past.ft_home != past.ft_away).astype(int))
+        # companion picks on the same matches: Over 1.5 and Favourite to win (record on past matches)
+        ex_ = nd_extras(odds)
+        pe = past.assign(o15=ex_['o15'].reindex(past.index), fw=np.where(past.H <= past.A, past.H, past.A),
+                         o15w=((past.ft_home + past.ft_away) >= 2).astype(int),
+                         fww=np.where(past.H <= past.A, past.ft_home > past.ft_away, past.ft_away > past.ft_home).astype(int))
+        nodraw['extras'] = {}
+        for nm in ('Sweet', 'Wide'):
+            s_ = pe if nm == 'Wide' else pe[pe.tier == 'Sweet']
+            o_ = s_.dropna(subset=['o15'])
+            nodraw['extras'][nm] = dict(over15=dict(picks=int(len(o_)), won=int(o_.o15w.sum()), hit=round(o_.o15w.mean() * 100, 1) if len(o_) else None, avg_odds=round(float(o_.o15.mean()), 2) if len(o_) else None),
+                                        favwin=dict(picks=int(len(s_)), won=int(s_.fww.sum()), hit=round(s_.fww.mean() * 100, 1) if len(s_) else None, avg_odds=round(float(s_.fw.mean()), 2) if len(s_) else None))
         for nm, fa, o, rule in ND_TIERS:
             s_ = past if nm == 'Wide' else past[past.tier == 'Sweet']        # Wide includes the Sweet matches
             if len(s_):
@@ -587,15 +702,35 @@ def main():
             nf = ndir / f'{day}.json'
             if not nf.exists() or '--rebuild' in sys.argv:
                 t_ = nd_pick(ufx, uo).sort_values(['tier', 'fav'])
+                ue = nd_extras(uo)
                 its = [dict(fid=int(i), tier=r.tier, home=r.home, away=r.away, league=f'{r.country}: {r.league}', kickoff=str(r.kickoff), fav=round(float(r.fav), 2),
-                            o25=round(float(r.O25), 2), odds=round(float(r.p12), 2)) for i, r in t_.iterrows()]
+                            o25=round(float(r.O25), 2), odds=round(float(r.p12), 2), fav_side='Home' if r.H <= r.A else 'Away',
+                            o15=(round(float(ue['o15'][i]), 2) if i in ue['o15'].index else None)) for i, r in t_.iterrows()]
                 nf.write_text(json.dumps(dict(date=day, created=pd.Timestamp.now().strftime('%Y-%m-%d %H:%M'), items=its), indent=1), encoding='utf-8')
         done_nd = fxt[fxt.status.isin(['FT', 'AET', 'PEN'])].dropna(subset=['ft_home', 'ft_away'])
         for nf in sorted(ndir.glob('*.json'), reverse=True)[:30]:
             d = json.loads(nf.read_text(encoding='utf-8'))
+            # days saved before the Over 1.5 / Favourite companions existed: fill them in from that day's saved pre-match prices and say so
+            if any('fav_side' not in it for it in d['items']):
+                pf = DATA / 'prematch' / f"oddsall_{d['date']}.csv"
+                if pf.exists():
+                    po = pd.read_csv(pf); po = po[pd.to_numeric(po.odd, errors='coerce') > 1.0]; pe_ = nd_extras(po)
+                    for it in d['items']:
+                        if 'fav_side' in it:
+                            continue
+                        h_, a_ = pe_['h'].get(it['fid']), pe_['a'].get(it['fid'])
+                        if h_ is None or a_ is None:
+                            continue
+                        it['fav_side'] = 'Home' if h_ <= a_ else 'Away'
+                        it['o15'] = round(float(pe_['o15'][it['fid']]), 2) if it['fid'] in pe_['o15'].index else None
+                    d['companions_added'] = pd.Timestamp.now().strftime('%Y-%m-%d %H:%M')
+                    nf.write_text(json.dumps(d, indent=1), encoding='utf-8')
             for it in d['items']:
                 if it['fid'] in done_nd.index:
                     r = done_nd.loc[it['fid']]; it['score'] = f'{int(r.ft_home)}-{int(r.ft_away)}'; it['status'] = 'WON' if r.ft_home != r.ft_away else 'LOST'
+                    it['o15_status'] = 'WON' if r.ft_home + r.ft_away >= 2 else 'LOST'
+                    if it.get('fav_side'):
+                        it['fav_status'] = 'WON' if (r.ft_home > r.ft_away if it['fav_side'] == 'Home' else r.ft_away > r.ft_home) else 'LOST'
                     for t in ([it['tier']] + (['Wide'] if it['tier'] == 'Sweet' else [])):
                         a = nodraw['live'].setdefault(t, dict(picks=0, won=0)); a['picks'] += 1; a['won'] += it['status'] == 'WON'
                 elif it['fid'] in VOID_IDS:
@@ -610,7 +745,7 @@ def main():
     except Exception as e:
         nodraw['error'] = str(e)
         print('  NO DRAW spotlight skipped:', e)
-    data = dict(nodraw=nodraw, free=free, daily10=daily, tickets=tickets, generated=pd.Timestamp.now().strftime('%Y-%m-%d %H:%M'), split=SPLIT,
+    data = dict(specials=specials, nodraw=nodraw, free=free, daily10=daily, tickets=tickets, generated=pd.Timestamp.now().strftime('%Y-%m-%d %H:%M'), split=SPLIT,
                 note='Candidates only. Selected as the best of 21,335 tested patterns over 6 days; some of this record is luck and will fade. '
                      'Flat 1-unit stakes at the typical (median) bookmaker price. Prices captured about 1 hour before kick-off.',
                 models=out)
