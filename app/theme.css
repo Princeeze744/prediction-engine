@@ -29,10 +29,10 @@ button{font:inherit;cursor:pointer}
 :focus-visible{outline:2px solid var(--lime);outline-offset:3px;border-radius:6px}
 ::selection{background:var(--lime);color:var(--night)}
 .qs-particles{position:fixed;inset:0;width:100%;height:100%;z-index:0;pointer-events:none;opacity:.8;transform:translateZ(0)}
-header,main,footer{position:relative;z-index:1}
+body>header,main,body>footer{position:relative;z-index:1}
 
 /* ---------- header ---------- */
-header{position:sticky;top:0;z-index:40;height:72px;padding:0 var(--pad);display:flex;align-items:center;justify-content:space-between;gap:20px;
+body>header{position:sticky;top:0;z-index:40;height:72px;padding:0 var(--pad);display:flex;align-items:center;justify-content:space-between;gap:20px;
   background:rgba(4,16,12,.94);border-bottom:1px solid var(--line)}
 .brand{display:flex;align-items:center;gap:12px;font-family:var(--display);font-weight:800;font-size:22px;letter-spacing:.04em}
 .brand b{color:var(--lime)}
@@ -105,7 +105,7 @@ main{animation:pageIn .45s cubic-bezier(.2,.7,.2,1) both}
 .leg-in{opacity:1;transform:none}
 .leg-time{white-space:nowrap;font-size:12px;color:var(--faint);font-variant-numeric:tabular-nums}
 .leg-main{min-width:0;display:flex;flex-direction:column;gap:1px}
-.leg-main b{font-size:15px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.leg-main b{font-size:15px;font-weight:700;line-height:1.25;overflow-wrap:anywhere}
 .leg-main em{font-style:normal;font-size:13px;color:var(--dim)}
 .leg-main small{font-size:12px;color:var(--faint)}
 .leg-odds{font-family:var(--display);font-weight:800;font-size:22px;font-variant-numeric:tabular-nums}
@@ -153,7 +153,7 @@ main{animation:pageIn .45s cubic-bezier(.2,.7,.2,1) both}
 .pick:first-child{border-top:0}
 .pick:hover{background:rgba(182,255,60,.045)}
 .pick-time{white-space:nowrap;font-size:13px;color:var(--faint);font-variant-numeric:tabular-nums}
-.pick-teams b{display:block;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pick-teams b{display:block;font-weight:700;line-height:1.25;overflow-wrap:anywhere}
 .pick-teams small{color:var(--faint);font-size:12px}
 .pick-market{font-weight:700;color:var(--lime)}
 .pick-market small{display:block;color:var(--dim);font-weight:500;font-size:12px}
@@ -193,7 +193,7 @@ code{background:rgba(238,245,239,.08);padding:2px 7px;border-radius:6px;font-siz
 .rate em{font-style:normal;text-align:right;color:var(--dim);font-variant-numeric:tabular-nums}
 
 /* ---------- footer + mobile nav ---------- */
-footer{border-top:1px solid var(--line);padding:38px var(--pad) 110px;color:var(--dim);font-size:14px}
+body>footer{border-top:1px solid var(--line);padding:38px var(--pad) 110px;color:var(--dim);font-size:14px}
 .foot{max-width:var(--max);margin:0 auto;display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap}
 .foot b{color:var(--chalk);font-family:var(--display);font-size:20px;letter-spacing:.04em}
 .foot nav{display:flex;gap:4px;flex-wrap:wrap}
@@ -284,7 +284,7 @@ section[id],div[id].section{scroll-margin-top:140px}
 .install-help li b{color:var(--chalk)}.install-help li svg{vertical-align:-3px;color:var(--lime)}
 .install-help li::before{content:counter(s);position:absolute;left:0;top:-2px;width:26px;height:26px;border-radius:50%;display:grid;place-items:center;background:var(--lime);color:var(--night);font-weight:800;font-size:14px}
 
-.track.results a{display:block;padding:20px 22px;border-right:1px solid var(--line-soft);transition:background .2s}.track.results a:last-child{border-right:0}.track.results a:hover{background:rgba(182,255,60,.05)}
+.track.results a{cursor:pointer;display:block;padding:20px 22px;border-right:1px solid var(--line-soft);transition:background .2s}.track.results a:last-child{border-right:0}.track.results a:hover{background:rgba(182,255,60,.05)}
 .track.results b small{font-size:.45em;color:var(--dim);font-family:var(--body);font-weight:600}
 .daybar{padding-bottom:0}
 
@@ -309,11 +309,30 @@ section[id],div[id].section{scroll-margin-top:140px}
 .slip-won.slip-rose .slip-total,.slip-won.slip-sky .slip-total{color:var(--won)}.slip-lost.slip-rose .slip-total,.slip-lost.slip-sky .slip-total{color:var(--faint);text-shadow:none}
 .slip-tier{display:inline-block}
 .slip-head>div{min-width:0}.badge{white-space:nowrap}
-.slip-long .slip-head{align-items:flex-start;padding-top:18px}.slip-long .slip-tier{display:block;font-size:21px;line-height:1.08;margin:0 0 5px}
+.slip-head{border-bottom:1px solid var(--line-soft)}.slip-head>div{display:flex;flex-wrap:wrap;align-items:baseline;gap:2px 12px}.slip-tier{margin-right:0}
+.slip-no{line-height:1.3}.slip-count{white-space:nowrap}
+.slip-long .slip-head{align-items:flex-start;padding-top:18px}.slip-long .slip-head>div{display:block}.slip-long .slip-tier{display:block;font-size:22px;line-height:1.1;margin:0 0 4px}.slip-long .slip-no{display:block}
 .nd-slipwrap{max-width:560px;margin:8px 0 22px}
 .nd-opts{padding-bottom:6px}.nd-comp{font-size:14px;color:var(--dim)}.nd-comp b{color:var(--chalk)}
 .slip-under{font-size:12px;color:var(--dim);margin:8px 4px 0}
 .history-row.sb{grid-template-columns:minmax(0,2.4fr) .7fr .7fr 1fr}
+
+/* ---------- home hub: the four places to go ---------- */
+.hub{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.hub a{position:relative;display:grid;grid-template-rows:auto auto 1fr auto;gap:6px;padding:20px 20px 18px;border-radius:20px;border:1px solid var(--line-soft);background:rgba(10,31,23,.72);transition:border-color .2s,transform .2s,box-shadow .2s}
+.hub a:hover{border-color:var(--c);transform:translateY(-3px);box-shadow:0 0 34px color-mix(in srgb,var(--c) 18%,transparent)}
+.hub-ico{display:grid;place-items:center;width:42px;height:42px;border-radius:13px;color:var(--c);background:color-mix(in srgb,var(--c) 14%,transparent);box-shadow:inset 0 0 0 1px color-mix(in srgb,var(--c) 35%,transparent)}
+.hub b{font-size:18px;margin-top:8px}.hub span{font-size:13px;color:var(--dim)}.hub .hub-ico{color:var(--c)}
+.hub em{font-style:normal;font-size:13px;font-weight:700;color:var(--c);margin-top:8px}
+/* ---------- section tabs (one group on screen at a time) ---------- */
+.tabs{position:sticky;top:72px;z-index:20;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;margin:14px calc(var(--pad)*-1) 20px;padding:10px var(--pad);background:rgba(4,16,12,.97);border-bottom:1px solid var(--line-soft)}
+.tabs::-webkit-scrollbar{display:none}
+.tabs button{--c:var(--gold);white-space:nowrap;padding:10px 16px;border-radius:999px;border:1px solid var(--line-soft);background:rgba(238,245,239,.03);font-size:14px;font-weight:700;color:var(--dim);transition:all .2s}
+.tabs button i{font-style:normal;opacity:.7;margin-left:6px}
+.tabs button.on{background:var(--c);border-color:var(--c);color:var(--night);box-shadow:0 0 24px color-mix(in srgb,var(--c) 35%,transparent)}
+.tab-intro{color:var(--dim);margin:0 0 18px;max-width:70ch}.tab-intro b{color:var(--chalk)}
+.linkcard{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:18px 20px;border-radius:18px;border:1px solid color-mix(in srgb,var(--c) 35%,transparent);background:color-mix(in srgb,var(--c) 7%,transparent);margin-top:14px}
+.linkcard b{display:block;font-size:16px}.linkcard span{font-size:13px;color:var(--dim)}.linkcard em{font-style:normal;font-weight:800;color:var(--c);white-space:nowrap}
 
 @media(max-width:1000px){
   .member{display:none}
@@ -327,12 +346,14 @@ section[id],div[id].section{scroll-margin-top:140px}
   .pick-market{grid-column:2/-1;grid-row:2}
 }
 @media(max-width:720px){
-  header{height:62px}
+  body>header{height:62px}
   header nav,.member{display:none}
   .steps{grid-template-columns:1fr 1fr}
   .nd-top{grid-template-columns:1fr}.nd-tiers{grid-template-columns:1fr}
   .nd-row .nd-tag{grid-column:2/-1;grid-row:3;justify-self:start}
   .jump{top:62px}
+  .tabs{top:62px}
+  .hub{grid-template-columns:1fr 1fr}.hub a{padding:16px}
   .acc{grid-template-columns:1fr}
   .history-row.sb{grid-template-columns:minmax(0,1fr) 44px 44px 64px}.history-row.sb>span:nth-child(n+3){font-size:15px;color:inherit}
   .track.results a:nth-child(2n){border-right:0}.track.results a{border-bottom:1px solid var(--line-soft)}

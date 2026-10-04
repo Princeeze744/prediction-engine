@@ -19,7 +19,7 @@ export default function Layout({children}:{children:React.ReactNode}){return <ht
  <Link href="/tickets" className="member">Today’s 10 tickets</Link></header>
 {children}
 <footer><div className="foot"><div><b>QUANTSPORT AI</b><p>Picks and tickets are saved before kick-off and never edited. Every loss stays on the site. Bet only what you can afford to lose. 18+.</p></div>
- <nav aria-label="Footer"><Link href="/picks">Free picks</Link><Link href="/tickets">VIP tickets</Link><Link href="/nodraw">No Draw</Link><Link href="/models">Models</Link></nav></div></footer>
+ <nav aria-label="Footer"><Link href="/picks">Free picks</Link><Link href="/tickets">VIP tickets</Link><Link href="/nodraw">No Draw</Link><Link href="/results">Results</Link><Link href="/models">How the models work</Link></nav></div></footer>
 <Install/>
 <MobileNav/>
 </body></html>}

@@ -18,6 +18,7 @@ export function NDRow({it,opt='nd'}:{it:NDItem;opt?:NDOpt}){const o=ndOf(it,opt)
 export function ndTicket(items:NDItem[],opt:NDOpt,title:string):Ticket|null{
  const legs=items.map(it=>({it,o:ndOf(it,opt)})).filter(x=>x.o.odds&&x.o.odds>1&&x.o.status!=='VOID').map(({it,o})=>({fid:it.fid,kickoff:it.kickoff,match:`${it.home} - ${it.away}`,league:it.league,pick:o.pick,model:'ND',odds:o.odds as number,status:o.status,score:it.score}));
  if(!legs.length)return null;
+ const tm=(k?:string)=>{const d=new Date(k||'');return isNaN(d.getTime())?0:d.getTime()};legs.sort((a,b)=>tm(a.kickoff)-tm(b.kickoff));
  const sts=legs.map(l=>l.status||'PENDING');
  return {no:1,tier:title,target:0,odds:legs.reduce((a,l)=>a*l.odds,1),reached:true,repeats:false,legs,status:sts.includes('LOST')?'LOST':sts.every(s=>s==='WON')?'WON':'PENDING'}}
 export function NDSlip({day,opt,tier='Sweet'}:{day:NDDay;opt:NDOpt;tier?:string}){

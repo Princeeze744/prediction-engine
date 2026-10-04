@@ -1,5 +1,6 @@
 'use client';
 import Link from 'next/link';
+import {ListChecks,Ticket,ShieldCheck,Trophy} from 'lucide-react';
 import Slip from '@/components/Slip';
 import NoDrawCard from '@/components/NoDraw';
 import {useData,planOf,kick,niceDate,catLabel} from '@/lib/qs';
@@ -25,11 +26,11 @@ export default function HomePage(){
   </section>
 
   <div className="wrap" style={{paddingTop:0}}>
-   <section className="steps" aria-label="How to use QuantSport">
-    <Link href="/picks" className="step" data-c="sky"><i>1</i><b>Start with free picks</b><span>Single picks in eight markets. Good for building your own ticket.</span></Link>
-    <Link href="/tickets" className="step" data-c="gold"><i>2</i><b>Take a ready ticket</b><span>Ten mixed tickets a day at 3, 5, 10 and 20 odds. Copy and play.</span></Link>
-    <Link href="/nodraw" className="step" data-c="rose"><i>3</i><b>Add a No Draw leg</b><span>Our special pick: matches that almost never end level.</span></Link>
-    <Link href="/tickets#record" className="step" data-c="lime"><i>4</i><b>Check the record</b><span>Every ticket stays on the site with its result, won or lost.</span></Link>
+   <section className="hub" aria-label="Where to go">
+    <Link href="/picks" data-c="sky"><span className="hub-ico"><ListChecks size={22}/></span><b>Free picks</b><span>Single picks in eight markets, with a free best-5 ticket in each.</span><em>{F?`${F.items.length} matches today`:'Open'}</em></Link>
+    <Link href="/tickets" data-c="gold"><span className="hub-ico"><Ticket size={22}/></span><b>VIP tickets</b><span>Ready-made mixed tickets at 3, 5, 10 and 20 odds, plus Specials.</span><em>{T?`${T.tickets.length} tickets today`:'Open'}</em></Link>
+    <Link href="/nodraw" data-c="rose"><span className="hub-ico"><ShieldCheck size={22}/></span><b>No Draw</b><span>Matches that almost never end level, with Over 1.5 and Favourite wins.</span><em>{data?.nodraw?.today?`${data.nodraw.today.items.filter(i=>i.tier==='Sweet').length} Sweet today`:'Open'}</em></Link>
+    <Link href="/results" data-c="lime"><span className="hub-ico"><Trophy size={22}/></span><b>Results</b><span>Every ticket and pick with its final score, won or lost.</span><em>See past days</em></Link>
    </section>
    <section className="section" style={{marginTop:28}}>
     <div className="section-head"><div><h2 className="h2">Today’s VIP tickets</h2><p>Open to everyone for now. Tap a size to see its tickets.</p></div><Link href="/tickets" className="ghost-link">See all 10 tickets</Link></div>
@@ -44,10 +45,10 @@ export default function HomePage(){
     const fd=data?.free.history.find(d=>d.date===yd.date);let fw=0,fn=0;fd?.items.forEach(it=>{const p=it.picks[0];if(p?.status==='WON'||p?.status==='LOST'){fn++;if(p.status==='WON')fw++}});
     const nd=data?.nodraw?.history.find(d=>d.date===yd.date);const ns=nd?nd.items.filter(i=>i.status==='WON'||i.status==='LOST'):[],nw=ns.filter(i=>i.status==='WON').length;
     return <section className="section" style={{marginTop:36}}>
-     <div className="section-head"><div><h2 className="h2">Last results</h2><p>{niceDate(yd.date)}. Every ticket and pick, won or lost.</p></div><Link href="/tickets#record" className="ghost-link">See every ticket</Link></div>
+     <div className="section-head"><div><h2 className="h2">Last results</h2><p>{niceDate(yd.date)}. Every ticket and pick, won or lost.</p></div><Link href="/results" className="ghost-link">See every ticket</Link></div>
      <div className="track results">
-      <Link href="/tickets#record"><b style={{color:'var(--won)'}}>{w.length}<small> of {yd.tickets.length}</small></b><span>VIP tickets won{w.length?': '+w.map(t=>t.tier+' @ '+t.odds.toFixed(2)).join(', '):''}</span></Link>
-      <Link href="/tickets#record"><b style={{color:'var(--lost)'}}>{l.length}</b><span>VIP tickets lost{yd.tickets.length-w.length-l.length?`, ${yd.tickets.length-w.length-l.length} still pending`:''}</span></Link>
+      <Link href="/results"><b style={{color:'var(--won)'}}>{w.length}<small> of {yd.tickets.length}</small></b><span>VIP tickets won{w.length?': '+w.map(t=>t.tier+' @ '+t.odds.toFixed(2)).join(', '):''}</span></Link>
+      <Link href="/results"><b style={{color:'var(--lost)'}}>{l.length}</b><span>VIP tickets lost{yd.tickets.length-w.length-l.length?`, ${yd.tickets.length-w.length-l.length} still pending`:''}</span></Link>
       <Link href={'/picks?d='+yd.date}><b>{fn?Math.round(fw/fn*100):0}%</b><span>Free top picks won: {fw} of {fn}</span></Link>
       <Link href="/nodraw"><b style={{color:'var(--rose)'}}>{ns.length?nw+'/'+ns.length:'·'}</b><span>No Draw picks won</span></Link>
      </div></section>})()}
@@ -70,7 +71,7 @@ export default function HomePage(){
    <section className="section">
     <div className="band">
      <div><h2 className="h2">We show the losses too.</h2><p className="lede">Bigger odds win less often, and nobody wins every ticket. So every ticket is locked before kick-off, settled from the final score, and left on the site whether it won or lost.</p>
-      <p style={{marginTop:18}}><Link href="/tickets#record" className="ghost-link">Open the full record</Link></p></div>
+      <p style={{marginTop:18}}><Link href="/results" className="ghost-link">Open the full record</Link></p></div>
      <div className="rates">{(data?.daily10.tiers||[]).map(x=>{const r=data?.tickets[planOf[x.tier]]?.record;const h=r?.hit||0;return <div className="rate" key={x.tier}><b>{x.tier}</b><span className="meter"><i style={{width:Math.max(h,3)+'%'}}/></span><em>{h}%</em></div>})}
       <small style={{color:'var(--dim)'}}>Share of test tickets that won, by ticket size.</small></div>
     </div>
