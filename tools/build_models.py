@@ -512,41 +512,62 @@ def main():
     specials = dict(today=None, history=[], live={}, target=3.0)
     try:
         sdir = DATA / 'specials'; sdir.mkdir(parents=True, exist_ok=True)
+        def special_set(day, picks_of):
+            cands = []
+            for m in out:
+                r_, u_ = m['record'], m['unseen']
+                if r_.get('picks', 0) < 90 or not r_.get('avg_odds') or r_['avg_odds'] < 1.15 or r_.get('hit') is None or u_.get('hit') is None:
+                    continue
+                if min(r_['hit'], u_['hit']) < 78:                                    # specials are for options that come in often
+                    continue
+                tp = [p for p in picks_of(m) if 1.12 <= p['odds'] <= 1.9]
+                if len(tp) < 4:
+                    continue
+                edge = min(r_['hit'], u_['hit']) - 100 / r_['avg_odds']          # hit rate above the break-even rate, on the weaker of the two periods
+                cands.append((edge, m, tp))
+            tks, seen_mk, n_models = [], set(), 0
+            for edge, m, tp in sorted(cands, key=lambda z: -z[0]):
+                if (m['market'], m['selection']) in seen_mk or n_models >= 5:      # same bet under two model names counts once
+                    continue
+                seen_mk.add((m['market'], m['selection'])); n_models += 1
+                tp = sorted(tp, key=lambda z: (z['kickoff'], z['fid'])); cur, prod, made = [], 1.0, 0
+                for p_ in tp:
+                    cur.append(p_); prod *= p_['odds']
+                    if prod >= specials['target'] and len(cur) >= 3:
+                        tks.append((m, cur, prod)); cur, prod, made = [], 1.0, made + 1
+                        if made >= 2:
+                            break
+                if made == 0 and len(cur) >= 3:
+                    tks.append((m, cur, prod))
+            return dict(date=day, created=pd.Timestamp.now().strftime('%Y-%m-%d %H:%M'),
+                        tickets=[dict(no=n + 1, model=m['id'], tier=m['name'], sporty=m['sporty'], target=specials['target'], odds=round(pr_, 2), reached=bool(pr_ >= specials['target']), repeats=False,
+                                      record=dict(hit=m['record']['hit'], picks=m['record']['picks'], avg_odds=m['record']['avg_odds']),
+                                      legs=[dict(fid=l['fid'], kickoff=l['kickoff'], match=l['match'], league=l['league'], pick=m['sporty'], model=m['id'], odds=l['odds'], market=m['market'], selection=m['selection']) for l in legs])
+                                 for n, (m, legs, pr_) in enumerate(tks)])
+
         if upcoming:
             day = upcoming[0]; sf = sdir / f'{day}.json'
             if not sf.exists() or '--rebuild' in sys.argv:
-                cands = []
-                for m in out:
-                    r_, u_ = m['record'], m['unseen']
-                    if r_.get('picks', 0) < 90 or not r_.get('avg_odds') or r_['avg_odds'] < 1.15 or r_.get('hit') is None or u_.get('hit') is None:
-                        continue
-                    if min(r_['hit'], u_['hit']) < 78:                                    # specials are for options that come in often
-                        continue
-                    tp = [p for p in m['today'] if 1.12 <= p['odds'] <= 1.9]
-                    if len(tp) < 4:
-                        continue
-                    edge = min(r_['hit'], u_['hit']) - 100 / r_['avg_odds']          # hit rate above the break-even rate, on the weaker of the two periods
-                    cands.append((edge, m, tp))
-                tks, seen_mk, n_models = [], set(), 0
-                for edge, m, tp in sorted(cands, key=lambda z: -z[0]):
-                    if (m['market'], m['selection']) in seen_mk or n_models >= 5:      # same bet under two model names counts once
-                        continue
-                    seen_mk.add((m['market'], m['selection'])); n_models += 1
-                    tp = sorted(tp, key=lambda z: (z['kickoff'], z['fid'])); cur, prod, made = [], 1.0, 0
-                    for p_ in tp:
-                        cur.append(p_); prod *= p_['odds']
-                        if prod >= specials['target'] and len(cur) >= 3:
-                            tks.append((m, cur, prod)); cur, prod, made = [], 1.0, made + 1
-                            if made >= 2:
-                                break
-                    if made == 0 and len(cur) >= 3:
-                        tks.append((m, cur, prod))
-                sset = dict(date=day, created=pd.Timestamp.now().strftime('%Y-%m-%d %H:%M'),
-                            tickets=[dict(no=n + 1, model=m['id'], tier=m['name'], sporty=m['sporty'], target=specials['target'], odds=round(pr_, 2), reached=bool(pr_ >= specials['target']), repeats=False,
-                                          record=dict(hit=m['record']['hit'], picks=m['record']['picks'], avg_odds=m['record']['avg_odds']),
-                                          legs=[dict(fid=l['fid'], kickoff=l['kickoff'], match=l['match'], league=l['league'], pick=m['sporty'], model=m['id'], odds=l['odds'], market=m['market'], selection=m['selection']) for l in legs])
-                                     for n, (m, legs, pr_) in enumerate(tks)])
-                sf.write_text(json.dumps(sset, indent=1, default=str), encoding='utf-8')
+                sf.write_text(json.dumps(special_set(day, lambda m: m['today']), indent=1, default=str), encoding='utf-8')
+        # days before Specials existed: build what they would have been from that morning's saved prices, and label them as added afterwards
+        defs = {md['id']: md for md in MODELS}
+        for pf in sorted(glob.glob(str(DATA / 'prematch' / 'oddsall_*.csv')), reverse=True)[:10]:
+            pday = Path(pf).stem.replace('oddsall_', '')
+            if (sdir / f'{pday}.json').exists() or (upcoming and pday == upcoming[0]):
+                continue
+            try:
+                po = pd.read_csv(pf); po = po[pd.to_numeric(po.odd, errors='coerce') > 1.0]
+                pfx_ = pd.read_csv(DATA / 'prematch' / f'fixtures_{pday}.csv').drop_duplicates('fixture_id').set_index('fixture_id')
+                pfx_ = pfx_[pfx_.status == 'NS'] if 'status' in pfx_.columns else pfx_
+                pft = features(po[po.fixture_id.isin(pfx_.index)], pfx_[['league', 'country', 'home', 'away', 'kickoff']])
+
+                def past_picks(m, po=po, pft=pft):
+                    t = model_rows(defs[m['id']], po, pft)
+                    return [dict(fid=int(i), kickoff=str(x.kickoff), match=f'{x.home} - {x.away}', league=f'{x.country}: {x.league}', odds=round(float(x.typical), 2)) for i, x in t.iterrows()]
+                bs = special_set(pday, past_picks); bs['backfilled'] = bs['created']
+                (sdir / f'{pday}.json').write_text(json.dumps(bs, indent=1, default=str), encoding='utf-8')
+            except Exception as e:
+                print(f'  SPECIALS backfill for {pday} skipped: {e}')
         for sf in sorted(sdir.glob('*.json'), reverse=True)[:30]:
             d = json.loads(sf.read_text(encoding='utf-8'))
             for t in d['tickets']:
@@ -560,7 +581,7 @@ def main():
                         l['status'] = 'PENDING'
                 sts = [l['status'] for l in t['legs']]
                 t['status'] = 'LOST' if 'LOST' in sts else 'PENDING' if 'PENDING' in sts else 'WON'
-                if t['status'] != 'PENDING':
+                if t['status'] != 'PENDING' and not d.get('backfilled'):      # only tickets that were really published count in the live record
                     a = specials['live'].setdefault(t['model'], dict(name=t['tier'], tickets=0, won=0)); a['tickets'] += 1; a['won'] += t['status'] == 'WON'
             specials['history'].append(d)
         if upcoming:

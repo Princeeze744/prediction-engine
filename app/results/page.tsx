@@ -26,7 +26,7 @@ export default function Results(){
 
   <div className="track results">
    <a onClick={()=>setShow('vip')}><b style={{color:'var(--won)'}}>{w.length}<small> of {D.tickets.length}</small></b><span>VIP tickets won{w.length?': '+w.map(t=>t.tier+' @ '+t.odds.toFixed(2)).join(', '):''}{p?`. ${p} still in play`:''}</span></a>
-   <a onClick={()=>setShow(sp?.tickets.length?'sp':'vip')}><b>{sp?.tickets.length?<>{sw}<small> of {sp.tickets.length}</small></>:'–'}</b><span>Specials won</span></a>
+   <a onClick={()=>setShow(sp?.tickets.length?'sp':'vip')}><b>{sp?.tickets.length?<>{sw}<small> of {sp.tickets.length}</small></>:'–'}</b><span>Specials won{sp?.backfilled?' (added afterwards)':''}</span></a>
    <Link href={'/picks?d='+D.date}><b>{fn?Math.round(fw/fn*100)+'%':'–'}</b><span>Free top picks won{fn?`: ${fw} of ${fn}`:''}</span></Link>
    <a onClick={()=>setShow(nd?.items.length?'nd':'vip')}><b style={{color:'var(--rose)'}}>{ns.length?nw+'/'+ns.length:'–'}</b><span>No Draw picks won</span></a>
   </div>
@@ -35,6 +35,7 @@ export default function Results(){
 
   {show==='vip'?<><p className="tab-intro"><b>{niceDate(D.date)}.</b> Locked at {D.created.slice(11)}. {w.length} won, {l.length} lost{p?`, ${p} still in play`:''}.</p>
    <div className="slip-grid">{D.tickets.map(t=><Slip key={t.no} t={t} day={D.date}/>)}</div></>:null}
+  {show==='sp'&&sp?.backfilled?<p className="note"><b>Shown for the record, not published at the time.</b> Specials started on Sunday 4 October. These are the tickets the same rules would have made on {niceDate(sp.date)}, built on {sp.backfilled} from that morning’s saved prices. They are not counted in the Specials win record.</p>:null}
   {show==='sp'&&sp?<div className="slip-grid">{sp.tickets.map(t=><Slip key={t.no} t={t} day={sp.date} plain label={t.sporty}/>)}</div>:null}
   {show==='nd'&&nd?<><div className="nd-slipwrap"><NDSlip day={nd} opt="nd" tier="Sweet"/></div><p><Link href="/nodraw" className="ghost-link nd-link">Open the No Draw page for Over 1.5, Favourite wins and the Wide list</Link></p></>:null}
   {show==='opt'?<><p className="tab-intro"><b>Which options are delivering.</b> Every pick that has appeared on a published VIP ticket, all days together, counted by option.</p>
