@@ -1,0 +1,632 @@
+{
+ "date": "2026-10-04",
+ "created": "2026-10-04 14:29",
+ "tickets": [
+  {
+   "no": 1,
+   "model": "A7",
+   "tier": "Away Favourite +1 Start",
+   "sporty": "Handicap 0:1 - Away (0:1)",
+   "target": 3.0,
+   "odds": 3.92,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.8,
+    "picks": 111,
+    "avg_odds": 1.29
+   },
+   "legs": [
+    {
+     "fid": 1600621,
+     "kickoff": "10/4/2026 10:00:00 PM",
+     "match": "Platense - Municipal Lime\u00f1o",
+     "league": "El-Salvador: Primera Division",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.28,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1549849,
+     "kickoff": "10/4/2026 10:05:00 PM",
+     "match": "Internacional de Bogota - Once Caldas",
+     "league": "Colombia: Primera A",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.41,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1608688,
+     "kickoff": "10/4/2026 1:30:00 PM",
+     "match": "Pianese - Ravenna",
+     "league": "Italy: Serie C - Girone B",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.15,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1609064,
+     "kickoff": "10/4/2026 1:30:00 PM",
+     "match": "Cosenza - Foggia",
+     "league": "Italy: Serie C - Girone C",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.36,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1624065,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Borgosesia - Sestri Levante",
+     "league": "Italy: Serie D - Girone A",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.39,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "model": "A7",
+   "tier": "Away Favourite +1 Start",
+   "sporty": "Handicap 0:1 - Away (0:1)",
+   "target": 3.0,
+   "odds": 3.82,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.8,
+    "picks": 111,
+    "avg_odds": 1.29
+   },
+   "legs": [
+    {
+     "fid": 1624066,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Celle Varazze - Chisola",
+     "league": "Italy: Serie D - Girone A",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.31,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1624979,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Milazzo - Siracusa",
+     "league": "Italy: Serie D - Girone I",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.27,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1625608,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Sasso Marconi Zola - Scandicci",
+     "league": "Italy: Serie D - Girone E",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.35,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1625911,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Gladiator - Turris",
+     "league": "Italy: Serie D - Girone H",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.25,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1624676,
+     "kickoff": "10/4/2026 2:30:00 PM",
+     "match": "Virtus Bolzano - Calvi Noale",
+     "league": "Italy: Serie D - Girone C",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.36,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "model": "A3",
+   "tier": "Underdog Will Not Score in Both Halves",
+   "sporty": "Away Team to Score in Both Halves - No",
+   "target": 3.0,
+   "odds": 3.21,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 85.9,
+    "picks": 99,
+    "avg_odds": 1.25
+   },
+   "legs": [
+    {
+     "fid": 1639988,
+     "kickoff": "10/4/2026 11:00:00 PM",
+     "match": "Trinidad and Tobago - Cura\u00e7ao",
+     "league": "World: CONCACAF Nations League",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.69,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    },
+    {
+     "fid": 1620174,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Thyella Katsikas - PAS Giannina",
+     "league": "Greece: Gamma Ethniki - Group 3",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.46,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    },
+    {
+     "fid": 1496713,
+     "kickoff": "10/4/2026 2:30:00 PM",
+     "match": "Spjelkavik - Ranheim II",
+     "league": "Norway: 3. Division - Girone 2",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.3,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "model": "A5",
+   "tier": "Away Favourite X2",
+   "sporty": "Double Chance - Draw or Away",
+   "target": 3.0,
+   "odds": 3.74,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.8,
+    "picks": 130,
+    "avg_odds": 1.25
+   },
+   "legs": [
+    {
+     "fid": 1600621,
+     "kickoff": "10/4/2026 10:00:00 PM",
+     "match": "Platense - Municipal Lime\u00f1o",
+     "league": "El-Salvador: Primera Division",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.28,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1549849,
+     "kickoff": "10/4/2026 10:05:00 PM",
+     "match": "Internacional de Bogota - Once Caldas",
+     "league": "Colombia: Primera A",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.37,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1609064,
+     "kickoff": "10/4/2026 1:30:00 PM",
+     "match": "Cosenza - Foggia",
+     "league": "Italy: Serie C - Girone C",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.29,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1559382,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Berane - Jedinstvo",
+     "league": "Montenegro: Second League",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.19,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1624065,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Borgosesia - Sestri Levante",
+     "league": "Italy: Serie D - Girone A",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.39,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "model": "A5",
+   "tier": "Away Favourite X2",
+   "sporty": "Double Chance - Draw or Away",
+   "target": 3.0,
+   "odds": 3.43,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.8,
+    "picks": 130,
+    "avg_odds": 1.25
+   },
+   "legs": [
+    {
+     "fid": 1624066,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Celle Varazze - Chisola",
+     "league": "Italy: Serie D - Girone A",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.3,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1624979,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Milazzo - Siracusa",
+     "league": "Italy: Serie D - Girone I",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.27,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1625304,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "USD Casatese - Pistoiese",
+     "league": "Italy: Serie D - Girone D",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.14,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1625305,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Varesina - Pro Patria",
+     "league": "Italy: Serie D - Girone D",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.13,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1625608,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Sasso Marconi Zola - Scandicci",
+     "league": "Italy: Serie D - Girone E",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.29,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1625911,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Gladiator - Turris",
+     "league": "Italy: Serie D - Girone H",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.25,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "model": "A1",
+   "tier": "Away Favourite Scores",
+   "sporty": "Home Team Clean Sheet - No",
+   "target": 3.0,
+   "odds": 3.13,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 87.6,
+    "picks": 217,
+    "avg_odds": 1.2
+   },
+   "legs": [
+    {
+     "fid": 1549849,
+     "kickoff": "10/4/2026 10:05:00 PM",
+     "match": "Internacional de Bogota - Once Caldas",
+     "league": "Colombia: Primera A",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.3,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1641622,
+     "kickoff": "10/4/2026 11:30:00 PM",
+     "match": "Racing Montevideo - Penarol",
+     "league": "Uruguay: Primera Divisi\u00f3n",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.3,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1608688,
+     "kickoff": "10/4/2026 1:30:00 PM",
+     "match": "Pianese - Ravenna",
+     "league": "Italy: Serie C - Girone B",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.14,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1609064,
+     "kickoff": "10/4/2026 1:30:00 PM",
+     "match": "Cosenza - Foggia",
+     "league": "Italy: Serie C - Girone C",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.33,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1510689,
+     "kickoff": "10/4/2026 3:00:00 PM",
+     "match": "IF Karlstad II - Tord",
+     "league": "Sweden: Division 2 - Norra G\u00f6taland",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.22,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "model": "A1",
+   "tier": "Away Favourite Scores",
+   "sporty": "Home Team Clean Sheet - No",
+   "target": 3.0,
+   "odds": 3.42,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 87.6,
+    "picks": 217,
+    "avg_odds": 1.2
+   },
+   "legs": [
+    {
+     "fid": 1570769,
+     "kickoff": "10/4/2026 3:30:00 PM",
+     "match": "Ponferradina - Mirandes",
+     "league": "Spain: Primera Divisi\u00f3n RFEF - Group 1",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.36,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1643423,
+     "kickoff": "10/4/2026 3:30:00 PM",
+     "match": "Al Fujairah SC - Dibba Al Hisn",
+     "league": "United-Arab-Emirates: Presidents Cup",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.17,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1608304,
+     "kickoff": "10/4/2026 4:30:00 PM",
+     "match": "Dolomiti Bellunesi - Novara",
+     "league": "Italy: Serie C - Girone A",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.4,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1528938,
+     "kickoff": "10/4/2026 5:00:00 PM",
+     "match": "Kosovo - Austria",
+     "league": "World: UEFA Nations League",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.2,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1641620,
+     "kickoff": "10/4/2026 5:00:00 PM",
+     "match": "Boston River - Juventud",
+     "league": "Uruguay: Primera Divisi\u00f3n",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.28,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "model": "A2",
+   "tier": "Home Favourite Not Behind at Half-Time",
+   "sporty": "1st Half - Double Chance - Home or Draw",
+   "target": 3.0,
+   "odds": 3.04,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.1,
+    "picks": 177,
+    "avg_odds": 1.26
+   },
+   "legs": [
+    {
+     "fid": 1493729,
+     "kickoff": "10/4/2026 11:00:00 PM",
+     "match": "New Mexico United - Phoenix Rising",
+     "league": "USA: USL Championship",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.31,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1618380,
+     "kickoff": "10/4/2026 1:00:00 PM",
+     "match": "Gemert - FC Lisse",
+     "league": "Netherlands: Derde Divisie",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.35,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1608682,
+     "kickoff": "10/4/2026 1:30:00 PM",
+     "match": "Campobasso FC - Torres",
+     "league": "Italy: Serie C - Girone B",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.29,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1635987,
+     "kickoff": "10/4/2026 2:00:00 AM",
+     "match": "Los Cabos United - Cordob\u00e9s",
+     "league": "Mexico: Primera Premier",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.19,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1495575,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Malm\u00f6 FF W - Roseng\u00e5rd W",
+     "league": "Sweden: Damallsvenskan",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.12,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "model": "A2",
+   "tier": "Home Favourite Not Behind at Half-Time",
+   "sporty": "1st Half - Double Chance - Home or Draw",
+   "target": 3.0,
+   "odds": 3.06,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.1,
+    "picks": 177,
+    "avg_odds": 1.26
+   },
+   "legs": [
+    {
+     "fid": 1558955,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Bistrica - Rudar",
+     "league": "Slovenia: 2. SNL",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.33,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1579136,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "\u017d\u010f\u00e1r nad S\u00e1zavou - Sokol Tasovice",
+     "league": "Czech-Republic: 4. liga - Divizie D",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.31,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1579830,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Onhaye - Sporting Charleroi II",
+     "league": "Belgium: First Amateur Division",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.33,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1579968,
+     "kickoff": "10/4/2026 2:00:00 PM",
+     "match": "Tienen - Merelbeke",
+     "league": "Belgium: First Amateur Division",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.32,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    }
+   ]
+  }
+ ]
+}
