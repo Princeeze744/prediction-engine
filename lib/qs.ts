@@ -14,7 +14,10 @@ export const ndOf=(it:NDItem,o:NDOpt)=>o==='o15'?{pick:'Over 1.5 goals',odds:it.
 export type XRec={picks:number;won:number;hit:number|null;avg_odds:number|null};
 export type Special=Ticket&{model:string;sporty:string;record:{hit:number;picks:number;avg_odds:number}};
 export type NDTier={tier:string;rule:string;picks:number;won:number;hit:number;avg_odds:number;found:number|null;unseen:number|null;per_day:number;worst_day:number};
+export type DareLeg=Leg&{model:string};
+export type DareModel={id:string;name:string;sporty:string;why:string;test:{picks:number;hit:number;avg_odds:number;roi:number};live:{picks:number;won:number;hit:number;avg_odds:number;profit:number;roi:number}|null};
 export type Data={generated:string;
+ dare?:{models:DareModel[];history:{date:string;created:string;picks:DareLeg[]}[];started:string|null};
  nodraw?:{tiers:NDTier[];today:NDDay|null;history:NDDay[];live:Record<string,Rec>;extras?:Record<string,{over15:XRec;favwin:XRec}>};
  specials?:{today:{date:string;created:string;tickets:Special[];backfilled?:string}|null;history:{date:string;created:string;tickets:Special[];backfilled?:string}[];live:Record<string,{name:string;tickets:number;won:number}>;target:number};
  daily10:{today:DaySet|null;history:DaySet[];live:Record<string,Rec>;backtest:Record<string,Rec>;tiers:{tier:string;target:number;count:number}[];by_model?:{id:string;name:string;sporty:string;picks:number;won:number;hit:number}[]};

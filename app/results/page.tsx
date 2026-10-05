@@ -44,6 +44,7 @@ export default function Results(){
     {(data.daily10.by_model||[]).slice(0,20).map(m=><div className="history-row sb" key={m.id}><span><b>{m.name}</b><small>{m.sporty}</small></span><span>{m.picks}</span><span style={{color:'var(--won)'}}>{m.won}</span><span><b>{m.hit}%</b>{m.picks<30?<small>few picks yet</small>:null}</span></div>)}
    </div></>:null}
 
+  <Link href="/dare" className="linkcard" data-c="sky"><div><b>Dare: high-odds picks on trial</b><span>Singles at 3 to 5 odds each, tracked on paper before we recommend them.</span></div><em>Open</em></Link>
   <Link href="/models" className="linkcard" data-c="chalk"><div><b>How the models work</b><span>Every model, its rule, its test record and today’s picks.</span></div><em>Open</em></Link>
  </main>;
 }

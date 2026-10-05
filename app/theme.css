@@ -334,6 +334,8 @@ section[id],div[id].section{scroll-margin-top:140px}
 .linkcard{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:18px 20px;border-radius:18px;border:1px solid color-mix(in srgb,var(--c) 35%,transparent);background:color-mix(in srgb,var(--c) 7%,transparent);margin-top:14px}
 .linkcard b{display:block;font-size:16px}.linkcard span{font-size:13px;color:var(--dim)}.linkcard em{font-style:normal;font-weight:800;color:var(--c);white-space:nowrap}
 
+.history-row.dr{grid-template-columns:minmax(0,2.2fr) 1fr 1fr 1fr}
+
 @media(max-width:1000px){
   .member{display:none}
   .hero{grid-template-columns:1fr}
@@ -355,6 +357,7 @@ section[id],div[id].section{scroll-margin-top:140px}
   .tabs{top:62px}
   .hub{grid-template-columns:1fr 1fr}.hub a{padding:16px}
   .acc{grid-template-columns:1fr}
+  .history-row.dr{grid-template-columns:1fr 1fr 1fr}.history-row.dr>span:first-child{grid-column:1/-1}.history-row.dr>span:nth-child(n+2){font-size:14px;color:inherit}
   .history-row.sb{grid-template-columns:minmax(0,1fr) 44px 44px 64px}.history-row.sb>span:nth-child(n+3){font-size:15px;color:inherit}
   .track.results a:nth-child(2n){border-right:0}.track.results a{border-bottom:1px solid var(--line-soft)}
   .install{bottom:92px}

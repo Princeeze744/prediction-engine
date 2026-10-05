@@ -137,7 +137,28 @@ NEW = [
       why='Even in high-scoring league games the home side seldom wins both halves.',
       cond={'o25B': 'O2.5@<1.55', 'comp': 'league'}, market='Home win both halves', selection='No'),
 ]
-MODELS = HIGH_HIT + ACCA + MODELS + NEW
+# DARE (5 Oct): high-odds singles (3 to 5 odds each). They win roughly 1 time in 3 or 4, so they are tracked ON PAPER first.
+# Chosen from 192 high-odds patterns that showed a profit on both the first and the later test days, out of thousands tried - expect some to fade.
+DARE = [
+ dict(id='D1', group='DARE', name='Slow-Start Favourite: Draw at Half-Time, Home Wins', sporty='Half Time/Full Time - Draw/Home',
+      why='With a strong home favourite (draw priced 4.3+), the favourite is level at the break and wins in the end more often than priced.',
+      cond={'drawB': 'X4.3+', 'favS': 'homeFav'}, market='HT/FT Double', selection='Draw/Home'),
+ dict(id='D2', group='DARE', name='Goalless First Half with a Strong Favourite', sporty='1st Half - Over/Under - Under 0.5',
+      why='When the favourite is 1.25-1.45, a 0-0 first half happens more often than its price of about 3.5 suggests.',
+      cond={'favB': 'fav1.25-1.45'}, market='Goals Over/Under First Half', selection='Under 0.5'),
+ dict(id='D3', group='DARE', name='Exactly 3 Goals in a Tight Game', sporty='Exact Goals - 3',
+      why='When the draw is priced under 3.3 (an even game), exactly three goals lands more often than priced.',
+      cond={'drawB': 'X<3.3'}, market='Exact Goals Number', selection='3'),
+ dict(id='D4', group='DARE', name='Slight Home Favourite Wins to Nil', sporty='Home Team to Win to Nil - Yes',
+      why='A slight home favourite (2.00-2.40) winning without conceding is priced near 4.0 and landed about 1 time in 3.',
+      cond={'favB': 'fav2.00-2.40', 'favS': 'homeFav'}, market='Win To Nil', selection='Home'),
+ dict(id='D5', group='DARE', name='Away Win and Both Teams Score', sporty='1X2 & GG/NG - Away & Yes',
+      why='With the draw priced 3.3-3.7, the away side winning a game where both score is priced near 5.0 and landed 1 time in 4.',
+      cond={'drawB': 'X3.3-3.7'}, market='Results/Both Teams Score', selection='Away/Yes'),
+]
+for _d in DARE:
+    _d.update(min_odds=2.2, max_odds=8.0)
+MODELS = HIGH_HIT + ACCA + MODELS + NEW + DARE
 
 
 def ou(v, side, L):
@@ -180,6 +201,16 @@ def settle(m, s, hg, ag, h1, a1):
         return float(res3(h1 + int(float(h)), a1) == side)
     if m == 'Home win both halves':
         return float((h1 > a1 and h2 > a2) == (s == 'Yes'))
+    if m == 'HT/FT Double':
+        a_, b_ = s.split('/')
+        return float(res3(h1, a1) == a_ and res3(hg, ag) == b_)
+    if m == 'Exact Goals Number':
+        return float((hg + ag >= 7) if s.startswith('more') else (hg + ag == int(s)))
+    if m == 'Results/Both Teams Score':
+        a_, b_ = s.split('/')
+        return float(res3(hg, ag) == a_ and ((hg > 0 and ag > 0) == (b_ == 'Yes')))
+    if m == 'Win To Nil':
+        return float((hg > ag and ag == 0) if s == 'Home' else (ag > hg and hg == 0))
     if m == 'Double Chance':
         return float(res3(hg, ag) in s.split('/'))
     if m == 'Win to Nil - Home':
@@ -230,7 +261,10 @@ def model_rows(model, odds, fx):
     sels = [model['selection']] + {'Home/Draw': ['Draw/Home'], 'Home/Away': ['Away/Home'], 'Draw/Away': ['Away/Draw']}.get(model['selection'], [])
     o = odds[(odds.market == model['market']) & odds.selection.isin(sels) & odds.fixture_id.isin(m.index) & (odds.odd >= 1.02)]
     p = o.groupby('fixture_id').odd.agg(typical='median', best='max')
-    return m.join(p, how='inner')
+    out_ = m.join(p, how='inner')
+    if model.get('max_odds'):                       # high-odds models: ignore freak prices (the long-shot side of a mismatch)
+        out_ = out_[(out_.typical <= model['max_odds']) & (out_.typical >= model.get('min_odds', 1))]
+    return out_
 
 
 def pnl(odd, r):
@@ -766,7 +800,42 @@ def main():
     except Exception as e:
         nodraw['error'] = str(e)
         print('  NO DRAW spotlight skipped:', e)
-    data = dict(specials=specials, nodraw=nodraw, free=free, daily10=daily, tickets=tickets, generated=pd.Timestamp.now().strftime('%Y-%m-%d %H:%M'), split=SPLIT,
+    # ---------- DARE: paper ledger. Every day's high-odds picks are saved before kick-off and settled, so the record builds on real, unseen days ----------
+    dare = dict(models=[], history=[], started=None)
+    try:
+        ddir = DATA / 'dare'; ddir.mkdir(parents=True, exist_ok=True)
+        dm = [m for m in out if m['group'] == 'DARE']
+        if upcoming:
+            day = upcoming[0]; df_ = ddir / f'{day}.json'
+            if not df_.exists() or '--rebuild' in sys.argv:
+                df_.write_text(json.dumps(dict(date=day, created=pd.Timestamp.now().strftime('%Y-%m-%d %H:%M'),
+                                              picks=[dict(model=m['id'], fid=p_['fid'], kickoff=p_['kickoff'], match=p_['match'], league=p_['league'], pick=m['sporty'], odds=p_['odds'], market=m['market'], selection=m['selection'])
+                                                     for m in dm for p_ in m['today'] if p_['odds'] >= 2.2]), indent=1, default=str), encoding='utf-8')
+        lv = {}
+        for df_ in sorted(ddir.glob('*.json'), reverse=True)[:60]:
+            d = json.loads(df_.read_text(encoding='utf-8'))
+            for l in d['picks']:
+                if l['fid'] in res.index:
+                    r = res.loc[l['fid']]; v, ht_ = settle_leg(l, r)
+                    l['status'] = 'WON' if v == 1 else 'LOST' if v == 0 else 'VOID'; l['score'] = f'{int(r.ft_home)}-{int(r.ft_away)}'; l['ht'] = ht_
+                    if l['status'] != 'VOID':
+                        a = lv.setdefault(l['model'], dict(picks=0, won=0, profit=0.0, odds=0.0)); a['picks'] += 1; a['won'] += l['status'] == 'WON'
+                        a['profit'] += (l['odds'] - 1) if l['status'] == 'WON' else -1.0; a['odds'] += l['odds']
+                elif l['fid'] in VOID_IDS:
+                    l['status'] = 'VOID'
+            dare['history'].append(d)
+        if dare['history']:
+            dare['started'] = dare['history'][-1]['date']
+        for m in dm:
+            a = lv.get(m['id'])
+            dare['models'].append(dict(id=m['id'], name=m['name'], sporty=m['sporty'], why=m['why'], test=dict(picks=m['record'].get('picks'), hit=m['record'].get('hit'), avg_odds=m['record'].get('avg_odds'), roi=m['record'].get('roi')),
+                                       live=(dict(picks=a['picks'], won=a['won'], hit=round(a['won'] / a['picks'] * 100, 1), avg_odds=round(a['odds'] / a['picks'], 2), profit=round(a['profit'], 2), roi=round(a['profit'] / a['picks'] * 100, 1)) if a else None)))
+        if dare['history']:
+            print(f"  DARE (paper): {len(dare['history'][0]['picks'])} picks saved for {dare['history'][0]['date']} | live so far: " + (', '.join(f"{k} {v['won']}/{v['picks']}" for k, v in sorted(lv.items())) or 'no results yet'))
+    except Exception as e:
+        dare['error'] = str(e)
+        print('  DARE skipped:', e)
+    data = dict(dare=dare, specials=specials, nodraw=nodraw, free=free, daily10=daily, tickets=tickets, generated=pd.Timestamp.now().strftime('%Y-%m-%d %H:%M'), split=SPLIT,
                 note='Candidates only. Selected as the best of 21,335 tested patterns over 6 days; some of this record is luck and will fade. '
                      'Flat 1-unit stakes at the typical (median) bookmaker price. Prices captured about 1 hour before kick-off.',
                 models=out)
