@@ -1,0 +1,50 @@
+{
+ "date": "2026-10-05",
+ "created": "2026-10-05 19:13",
+ "picks": [
+  {
+   "model": "D2",
+   "fid": 1350194,
+   "kickoff": "10/5/2026 3:30:00 PM",
+   "match": "Montenegro U21 - Armenia U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "pick": "1st Half - Over/Under - Under 0.5",
+   "odds": 3.24,
+   "market": "Goals Over/Under First Half",
+   "selection": "Under 0.5"
+  },
+  {
+   "model": "D2",
+   "fid": 1554181,
+   "kickoff": "10/5/2026 5:00:00 PM",
+   "match": "TSC Backa Topola - Grafi\u010dar",
+   "league": "Serbia: Prva Liga",
+   "pick": "1st Half - Over/Under - Under 0.5",
+   "odds": 3.3,
+   "market": "Goals Over/Under First Half",
+   "selection": "Under 0.5"
+  },
+  {
+   "model": "D2",
+   "fid": 1350196,
+   "kickoff": "10/5/2026 5:30:00 PM",
+   "match": "Sweden U21 - North Macedonia U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "pick": "1st Half - Over/Under - Under 0.5",
+   "odds": 3.5,
+   "market": "Goals Over/Under First Half",
+   "selection": "Under 0.5"
+  },
+  {
+   "model": "D2",
+   "fid": 1528945,
+   "kickoff": "10/5/2026 7:45:00 PM",
+   "match": "Italy - T\u00fcrkiye",
+   "league": "World: UEFA Nations League",
+   "pick": "1st Half - Over/Under - Under 0.5",
+   "odds": 3.66,
+   "market": "Goals Over/Under First Half",
+   "selection": "Under 0.5"
+  }
+ ]
+}
