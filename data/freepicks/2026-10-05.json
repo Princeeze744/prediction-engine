@@ -1,0 +1,622 @@
+{
+ "date": "2026-10-05",
+ "created": "2026-10-05 12:26",
+ "items": [
+  {
+   "fid": 1350194,
+   "home": "Montenegro U21",
+   "away": "Armenia U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/5/2026 3:30:00 PM",
+   "odds": [
+    1.36,
+    4.84,
+    7.64
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1350196,
+   "home": "Sweden U21",
+   "away": "North Macedonia U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/5/2026 5:30:00 PM",
+   "odds": [
+    1.26,
+    5.64,
+    9.73
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.15
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.56
+    }
+   ]
+  },
+  {
+   "fid": 1495962,
+   "home": "Moss",
+   "away": "Kongsvinger",
+   "league": "Norway: 1. Division",
+   "kickoff": "10/5/2026 6:00:00 PM",
+   "odds": [
+    3.84,
+    4.54,
+    1.69
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1496891,
+   "home": "Fana",
+   "away": "\u00c5sane II",
+   "league": "Norway: 3. Division - Girone 3",
+   "kickoff": "10/5/2026 5:00:00 PM",
+   "odds": [
+    1.49,
+    5.67,
+    4.3
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1498858,
+   "home": "Nueva Chicago",
+   "away": "Deportivo Maipu",
+   "league": "Argentina: Primera Nacional",
+   "kickoff": "10/5/2026 9:00:00 PM",
+   "odds": [
+    2.41,
+    2.81,
+    3.26
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1499663,
+   "home": "Deportivo Merlo",
+   "away": "Brown DE Adrogue",
+   "league": "Argentina: Primera B Metropolitana",
+   "kickoff": "10/5/2026 11:00:00 PM",
+   "odds": [
+    2.92,
+    2.72,
+    2.58
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.07
+    }
+   ]
+  },
+  {
+   "fid": 1500141,
+   "home": "Deportivo Paraguayo",
+   "away": "Mercedes",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/5/2026 7:00:00 PM",
+   "odds": [
+    3.3,
+    2.75,
+    2.23
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1500142,
+   "home": "El Porvenir",
+   "away": "Canuelas",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/5/2026 7:00:00 PM",
+   "odds": [
+    3.3,
+    2.81,
+    2.23
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1528944,
+   "home": "France",
+   "away": "Belgium",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/5/2026 7:45:00 PM",
+   "odds": [
+    1.48,
+    4.85,
+    6.38
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.07
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1528945,
+   "home": "Italy",
+   "away": "T\u00fcrkiye",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/5/2026 7:45:00 PM",
+   "odds": [
+    1.42,
+    5.13,
+    7.2
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.07
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1528946,
+   "home": "Ukraine",
+   "away": "Hungary",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/5/2026 7:45:00 PM",
+   "odds": [
+    2.62,
+    3.1,
+    2.97
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1528947,
+   "home": "Northern Ireland",
+   "away": "Georgia",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/5/2026 7:45:00 PM",
+   "odds": [
+    2.45,
+    3.04,
+    3.26
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1549652,
+   "home": "Bogota FC",
+   "away": "Envigado",
+   "league": "Colombia: Primera B",
+   "kickoff": "10/5/2026 11:00:00 PM",
+   "odds": [
+    2.73,
+    2.91,
+    2.68
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1554179,
+   "home": "Semendrija 1924",
+   "away": "FK Vozdovac",
+   "league": "Serbia: Prva Liga",
+   "kickoff": "10/5/2026 2:00:00 PM",
+   "odds": [
+    1.83,
+    3.27,
+    3.76
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.25
+    }
+   ]
+  },
+  {
+   "fid": 1554181,
+   "home": "TSC Backa Topola",
+   "away": "Grafi\u010dar",
+   "league": "Serbia: Prva Liga",
+   "kickoff": "10/5/2026 5:00:00 PM",
+   "odds": [
+    1.25,
+    4.87,
+    8.5
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1569952,
+   "home": "Cordoba",
+   "away": "Tenerife",
+   "league": "Spain: Segunda Divisi\u00f3n",
+   "kickoff": "10/5/2026 7:30:00 PM",
+   "odds": [
+    1.92,
+    3.55,
+    4.03
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.34
+    }
+   ]
+  },
+  {
+   "fid": 1582345,
+   "home": "Nacional AC MG",
+   "away": "Nova Lavras",
+   "league": "Brazil: Mineiro - 3",
+   "kickoff": "10/5/2026 11:30:00 PM",
+   "odds": [
+    1.8,
+    3.3,
+    4.08
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.31
+    }
+   ]
+  },
+  {
+   "fid": 1610880,
+   "home": "Liechtenstein",
+   "away": "Gibraltar",
+   "league": "World: Friendlies",
+   "kickoff": "10/5/2026 7:45:00 PM",
+   "odds": [
+    2.65,
+    2.89,
+    2.87
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1632818,
+   "home": "Be'sat Kermanshah",
+   "away": "Naft Bandar Abbas",
+   "league": "Iran: Azadegan League",
+   "kickoff": "10/5/2026 1:30:00 PM",
+   "odds": [
+    2.75,
+    2.93,
+    2.62
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1632819,
+   "home": "Niroye Zamini",
+   "away": "Mes Kerman",
+   "league": "Iran: Azadegan League",
+   "kickoff": "10/5/2026 12:30:00 PM",
+   "odds": [
+    2.56,
+    2.85,
+    2.9
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1632821,
+   "home": "Mes Rafsanjan",
+   "away": "Ario Eslamshahr",
+   "league": "Iran: Azadegan League",
+   "kickoff": "10/5/2026 2:30:00 PM",
+   "odds": [
+    2.83,
+    2.94,
+    2.55
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1636934,
+   "home": "Nestos Chrisoupolis",
+   "away": "Marko",
+   "league": "Greece: Super League 2",
+   "kickoff": "10/5/2026 1:00:00 PM",
+   "odds": [
+    4.75,
+    3.3,
+    1.73
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1639992,
+   "home": "Guadeloupe",
+   "away": "St. Lucia",
+   "league": "World: CONCACAF Nations League",
+   "kickoff": "10/5/2026 8:00:00 PM",
+   "odds": [
+    3.54,
+    3.8,
+    1.82
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.62
+    }
+   ]
+  },
+  {
+   "fid": 1642031,
+   "home": "SAT Moreno",
+   "away": "Deportivo Metalurgico",
+   "league": "Argentina: Torneo Promocional Amateur",
+   "kickoff": "10/5/2026 5:00:00 PM",
+   "odds": [
+    2.81,
+    2.96,
+    2.5
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.16
+    }
+   ]
+  },
+  {
+   "fid": 1642263,
+   "home": "Namibia U23",
+   "away": "Angola U23",
+   "league": "World: CAF U23 Cup of Nations",
+   "kickoff": "10/5/2026 2:00:00 PM",
+   "odds": [
+    2.51,
+    3.27,
+    2.63
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.27
+    }
+   ]
+  },
+  {
+   "fid": 1643345,
+   "home": "SONABEL",
+   "away": "Como\u00e9",
+   "league": "Burkina-Faso: Ligue 1",
+   "kickoff": "10/5/2026 4:30:00 PM",
+   "odds": [
+    2.45,
+    2.78,
+    2.9
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1643811,
+   "home": "Indonesia",
+   "away": "Thailand",
+   "league": "World: FIFA Asean Cup",
+   "kickoff": "10/5/2026 2:00:00 PM",
+   "odds": [
+    1.9,
+    3.46,
+    3.81
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.29
+    }
+   ]
+  }
+ ]
+}

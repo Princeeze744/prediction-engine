@@ -1,0 +1,722 @@
+{
+ "date": "2026-10-05",
+ "created": "2026-10-05 12:26",
+ "tickets": [
+  {
+   "no": 1,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.15,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1499663,
+     "kickoff": "10/5/2026 11:00:00 PM",
+     "match": "Deportivo Merlo - Brown DE Adrogue",
+     "league": "Argentina: Primera B Metropolitana",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.5,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1496891,
+     "kickoff": "10/5/2026 5:00:00 PM",
+     "match": "Fana - \u00c5sane II",
+     "league": "Norway: 3. Division - Girone 3",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.5,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1528949,
+     "kickoff": "10/5/2026 7:45:00 PM",
+     "match": "Romania - Sweden",
+     "league": "World: UEFA Nations League",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.4,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.39,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1350195,
+     "kickoff": "10/5/2026 5:15:00 PM",
+     "match": "Italy U21 - Poland U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.22,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1495962,
+     "kickoff": "10/5/2026 6:00:00 PM",
+     "match": "Moss - Kongsvinger",
+     "league": "Norway: 1. Division",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.45,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1528948,
+     "kickoff": "10/5/2026 7:45:00 PM",
+     "match": "Bosnia & Herzegovina - Poland",
+     "league": "World: UEFA Nations League",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.41,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1639992,
+     "kickoff": "10/5/2026 8:00:00 PM",
+     "match": "Guadeloupe - St. Lucia",
+     "league": "World: CONCACAF Nations League",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.36,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.61,
+   "reached": true,
+   "repeats": true,
+   "legs": [
+    {
+     "fid": 1496891,
+     "kickoff": "10/5/2026 5:00:00 PM",
+     "match": "Fana - \u00c5sane II",
+     "league": "Norway: 3. Division - Girone 3",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.5,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1350195,
+     "kickoff": "10/5/2026 5:15:00 PM",
+     "match": "Italy U21 - Poland U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.22,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1528949,
+     "kickoff": "10/5/2026 7:45:00 PM",
+     "match": "Romania - Sweden",
+     "league": "World: UEFA Nations League",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.4,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    },
+    {
+     "fid": 1528948,
+     "kickoff": "10/5/2026 7:45:00 PM",
+     "match": "Bosnia & Herzegovina - Poland",
+     "league": "World: UEFA Nations League",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.41,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.85,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1639993,
+     "kickoff": "10/5/2026 10:00:00 PM",
+     "match": "Cuba - St. Kitts and Nevis",
+     "league": "World: CONCACAF Nations League",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.3,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1643437,
+     "kickoff": "10/5/2026 12:30:00 PM",
+     "match": "East Bengal II - NorthEast United",
+     "league": "India: IFA Shield",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.28,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1619157,
+     "kickoff": "10/5/2026 2:00:00 PM",
+     "match": "Sheffield United U21 - Bolton Wanderers Res.",
+     "league": "England: Professional Development League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.38,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1640078,
+     "kickoff": "10/5/2026 2:00:00 PM",
+     "match": "Uganda - Congo DR",
+     "league": "World: Friendlies",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.25,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1642263,
+     "kickoff": "10/5/2026 2:00:00 PM",
+     "match": "Namibia U23 - Angola U23",
+     "league": "World: CAF U23 Cup of Nations",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.34,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1497441,
+     "kickoff": "10/5/2026 6:00:00 PM",
+     "match": "Lyn II - R\u00e5de",
+     "league": "Norway: 3. Division - Girone 6",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.52,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.07,
+   "reached": true,
+   "repeats": true,
+   "legs": [
+    {
+     "fid": 1639993,
+     "kickoff": "10/5/2026 10:00:00 PM",
+     "match": "Cuba - St. Kitts and Nevis",
+     "league": "World: CONCACAF Nations League",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.3,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1643437,
+     "kickoff": "10/5/2026 12:30:00 PM",
+     "match": "East Bengal II - NorthEast United",
+     "league": "India: IFA Shield",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.28,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1496891,
+     "kickoff": "10/5/2026 5:00:00 PM",
+     "match": "Fana - \u00c5sane II",
+     "league": "Norway: 3. Division - Girone 3",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.5,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1495962,
+     "kickoff": "10/5/2026 6:00:00 PM",
+     "match": "Moss - Kongsvinger",
+     "league": "Norway: 1. Division",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.45,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1528948,
+     "kickoff": "10/5/2026 7:45:00 PM",
+     "match": "Bosnia & Herzegovina - Poland",
+     "league": "World: UEFA Nations League",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.4,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.63,
+   "reached": true,
+   "repeats": true,
+   "legs": [
+    {
+     "fid": 1639993,
+     "kickoff": "10/5/2026 10:00:00 PM",
+     "match": "Cuba - St. Kitts and Nevis",
+     "league": "World: CONCACAF Nations League",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.3,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1643437,
+     "kickoff": "10/5/2026 12:30:00 PM",
+     "match": "East Bengal II - NorthEast United",
+     "league": "India: IFA Shield",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.28,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1619157,
+     "kickoff": "10/5/2026 2:00:00 PM",
+     "match": "Sheffield United U21 - Bolton Wanderers Res.",
+     "league": "England: Professional Development League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.38,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1642263,
+     "kickoff": "10/5/2026 2:00:00 PM",
+     "match": "Namibia U23 - Angola U23",
+     "league": "World: CAF U23 Cup of Nations",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.34,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1496891,
+     "kickoff": "10/5/2026 5:00:00 PM",
+     "match": "Fana - \u00c5sane II",
+     "league": "Norway: 3. Division - Girone 3",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.5,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1350195,
+     "kickoff": "10/5/2026 5:15:00 PM",
+     "match": "Italy U21 - Poland U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.22,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 11.15,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1643424,
+     "kickoff": "10/5/2026 11:05:00 PM",
+     "match": "Chapelton - Waterhouse",
+     "league": "Jamaica: Premier League",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.56,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1640783,
+     "kickoff": "10/5/2026 11:30:00 PM",
+     "match": "Fernando De La Mora - General Caballero",
+     "league": "Paraguay: Division Intermedia",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.52,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1643811,
+     "kickoff": "10/5/2026 2:00:00 PM",
+     "match": "Indonesia - Thailand",
+     "league": "World: FIFA Asean Cup",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.29,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1643201,
+     "kickoff": "10/5/2026 3:00:00 PM",
+     "match": "Montenegro U19 - Israel U19",
+     "league": "World: Friendlies",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.57,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1350194,
+     "kickoff": "10/5/2026 3:30:00 PM",
+     "match": "Montenegro U21 - Armenia U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.3,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1500142,
+     "kickoff": "10/5/2026 7:00:00 PM",
+     "match": "El Porvenir - Canuelas",
+     "league": "Argentina: Primera C",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.44,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1528944,
+     "kickoff": "10/5/2026 7:45:00 PM",
+     "match": "France - Belgium",
+     "league": "World: UEFA Nations League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.24,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 10.12,
+   "reached": true,
+   "repeats": true,
+   "legs": [
+    {
+     "fid": 1639993,
+     "kickoff": "10/5/2026 10:00:00 PM",
+     "match": "Cuba - St. Kitts and Nevis",
+     "league": "World: CONCACAF Nations League",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.3,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1643424,
+     "kickoff": "10/5/2026 11:05:00 PM",
+     "match": "Chapelton - Waterhouse",
+     "league": "Jamaica: Premier League",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.56,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1640783,
+     "kickoff": "10/5/2026 11:30:00 PM",
+     "match": "Fernando De La Mora - General Caballero",
+     "league": "Paraguay: Division Intermedia",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.52,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1619157,
+     "kickoff": "10/5/2026 2:00:00 PM",
+     "match": "Sheffield United U21 - Bolton Wanderers Res.",
+     "league": "England: Professional Development League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.38,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1640078,
+     "kickoff": "10/5/2026 2:00:00 PM",
+     "match": "Uganda - Congo DR",
+     "league": "World: Friendlies",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.5,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1350194,
+     "kickoff": "10/5/2026 3:30:00 PM",
+     "match": "Montenegro U21 - Armenia U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.3,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1350195,
+     "kickoff": "10/5/2026 5:15:00 PM",
+     "match": "Italy U21 - Poland U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.22,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 10.1,
+   "reached": true,
+   "repeats": true,
+   "legs": [
+    {
+     "fid": 1639993,
+     "kickoff": "10/5/2026 10:00:00 PM",
+     "match": "Cuba - St. Kitts and Nevis",
+     "league": "World: CONCACAF Nations League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.26,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1499663,
+     "kickoff": "10/5/2026 11:00:00 PM",
+     "match": "Deportivo Merlo - Brown DE Adrogue",
+     "league": "Argentina: Primera B Metropolitana",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.5,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1643424,
+     "kickoff": "10/5/2026 11:05:00 PM",
+     "match": "Chapelton - Waterhouse",
+     "league": "Jamaica: Premier League",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.56,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1640078,
+     "kickoff": "10/5/2026 2:00:00 PM",
+     "match": "Uganda - Congo DR",
+     "league": "World: Friendlies",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.5,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1350194,
+     "kickoff": "10/5/2026 3:30:00 PM",
+     "match": "Montenegro U21 - Armenia U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.3,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1350195,
+     "kickoff": "10/5/2026 5:15:00 PM",
+     "match": "Italy U21 - Poland U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.22,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1500142,
+     "kickoff": "10/5/2026 7:00:00 PM",
+     "match": "El Porvenir - Canuelas",
+     "league": "Argentina: Primera C",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.44,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "tier": "20 odds",
+   "target": 20.0,
+   "odds": 20.83,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1493158,
+     "kickoff": "10/5/2026 11:00:00 PM",
+     "match": "Estudiantes L.P. - Gimnasia M.",
+     "league": "Argentina: Liga Profesional Argentina",
+     "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+     "model": "M4",
+     "odds": 2.01,
+     "market": "Goals Over/Under First Half",
+     "selection": "Over 1.0"
+    },
+    {
+     "fid": 1639994,
+     "kickoff": "10/5/2026 11:00:00 PM",
+     "match": "Martinique - El Salvador",
+     "league": "World: CONCACAF Nations League",
+     "pick": "Away Team Odd/Even - Even",
+     "model": "M7",
+     "odds": 1.73,
+     "market": "Away Odd/Even",
+     "selection": "Even"
+    },
+    {
+     "fid": 1561149,
+     "kickoff": "10/5/2026 4:00:00 PM",
+     "match": "Liptovsk\u00fd Mikul\u00e1\u0161 - \u0160amor\u00edn",
+     "league": "Slovakia: 2. liga",
+     "pick": "1st Half - Home Team Over 0.5",
+     "model": "M5",
+     "odds": 1.74,
+     "market": "Home Team Total Goals(1st Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1554181,
+     "kickoff": "10/5/2026 5:00:00 PM",
+     "match": "TSC Backa Topola - Grafi\u010dar",
+     "league": "Serbia: Prva Liga",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.32,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1350196,
+     "kickoff": "10/5/2026 5:30:00 PM",
+     "match": "Sweden U21 - North Macedonia U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.28,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1510684,
+     "kickoff": "10/5/2026 6:00:00 PM",
+     "match": "Herrestads - Grebbestad",
+     "league": "Sweden: Division 2 - Norra G\u00f6taland",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.67,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1528945,
+     "kickoff": "10/5/2026 7:45:00 PM",
+     "match": "Italy - T\u00fcrkiye",
+     "league": "World: UEFA Nations League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.22,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    }
+   ]
+  }
+ ]
+}

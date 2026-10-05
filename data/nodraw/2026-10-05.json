@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-05",
+ "created": "2026-10-05 12:26",
+ "items": [
+  {
+   "fid": 1554181,
+   "tier": "Wide",
+   "home": "TSC Backa Topola",
+   "away": "Grafi\u010dar",
+   "league": "Serbia: Prva Liga",
+   "kickoff": "10/5/2026 5:00:00 PM",
+   "fav": 1.25,
+   "o25": 1.57,
+   "odds": 1.09,
+   "fav_side": "Home",
+   "o15": 1.14
+  },
+  {
+   "fid": 1350196,
+   "tier": "Wide",
+   "home": "Sweden U21",
+   "away": "North Macedonia U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/5/2026 5:30:00 PM",
+   "fav": 1.26,
+   "o25": 1.56,
+   "odds": 1.11,
+   "fav_side": "Home",
+   "o15": 1.15
+  },
+  {
+   "fid": 1350194,
+   "tier": "Wide",
+   "home": "Montenegro U21",
+   "away": "Armenia U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/5/2026 3:30:00 PM",
+   "fav": 1.36,
+   "o25": 1.69,
+   "odds": 1.14,
+   "fav_side": "Home",
+   "o15": 1.21
+  },
+  {
+   "fid": 1528945,
+   "tier": "Wide",
+   "home": "Italy",
+   "away": "T\u00fcrkiye",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/5/2026 7:45:00 PM",
+   "fav": 1.42,
+   "o25": 1.52,
+   "odds": 1.19,
+   "fav_side": "Home",
+   "o15": 1.13
+  }
+ ]
+}
