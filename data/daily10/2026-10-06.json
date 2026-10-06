@@ -1,0 +1,799 @@
+{
+ "date": "2026-10-06",
+ "created": "2026-10-06 01:43",
+ "tickets": [
+  {
+   "no": 1,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.41,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1598647,
+     "kickoff": "10/6/2026 11:00:00 AM",
+     "match": "Uni\u00e3o Leiria U23 - Santa Clara U23",
+     "league": "Portugal: Liga Revela\u00e7\u00e3o U23",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.37,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1619709,
+     "kickoff": "10/6/2026 11:00:00 PM",
+     "match": "Real Potos\u00ed - San Antonio Bulo Bulo",
+     "league": "Bolivia: Copa de la Divisi\u00f3n Profesional",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.19,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1497258,
+     "kickoff": "10/6/2026 5:00:00 PM",
+     "match": "Skjetten - Kongsvinger II",
+     "league": "Norway: 3. Division - Girone 5",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.26,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    },
+    {
+     "fid": 1588827,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Rotherham - Bradford",
+     "league": "England: EFL Trophy",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.22,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1588352,
+     "kickoff": "10/6/2026 7:45:00 PM",
+     "match": "Farnham Town - Truro City",
+     "league": "England: National League - South",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.36,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.09,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1640001,
+     "kickoff": "10/6/2026 10:00:00 PM",
+     "match": "St. Vincent / Grenadines - Sint Maarten",
+     "league": "World: CONCACAF Nations League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.23,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1641761,
+     "kickoff": "10/6/2026 2:00:00 PM",
+     "match": "Algeria U20 - Egypt U20",
+     "league": "World: Africa Cup of Nations U20",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.23,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1642267,
+     "kickoff": "10/6/2026 2:00:00 PM",
+     "match": "Tanzania U23 - Kenya U23",
+     "league": "World: CAF U23 Cup of Nations",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.36,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1500145,
+     "kickoff": "10/6/2026 6:00:00 PM",
+     "match": "Leandro N. Alem - Centro Espa\u00f1ol",
+     "league": "Argentina: Primera C",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.5,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.69,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1629005,
+     "kickoff": "10/6/2026 12:00:00 PM",
+     "match": "South Korea - Uzbekistan",
+     "league": "World: Friendlies",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.23,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1619162,
+     "kickoff": "10/6/2026 2:00:00 PM",
+     "match": "Colchester United U21 - Swansea City U21",
+     "league": "England: Professional Development League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.42,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1350214,
+     "kickoff": "10/6/2026 5:30:00 PM",
+     "match": "Wales U21 - Austria U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.19,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1350210,
+     "kickoff": "10/6/2026 6:00:00 PM",
+     "match": "Kosovo U21 - Finland U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.19,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1644165,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Saudi Arabia - United Arab Emirates",
+     "league": "World: Gulf Cup of Nations",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.49,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.3,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1619160,
+     "kickoff": "10/6/2026 1:00:00 PM",
+     "match": "Hull City U21 - Wigan Athletic U21",
+     "league": "England: Professional Development League",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.44,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1619158,
+     "kickoff": "10/6/2026 1:00:00 PM",
+     "match": "Bristol City U21 - Charlton Athletic U21",
+     "league": "England: Professional Development League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.4,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1548378,
+     "kickoff": "10/6/2026 4:00:00 PM",
+     "match": "Trollh\u00e4ttan - Mjallby AIF",
+     "league": "Sweden: Svenska Cupen",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.22,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1612088,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Racing Club Res. - River Plate Res.",
+     "league": "Argentina: Reserve League",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.31,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1644168,
+     "kickoff": "10/6/2026 7:45:00 PM",
+     "match": "Scarborough Athletic - Macclesfield",
+     "league": "England: FA Cup",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.37,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1644169,
+     "kickoff": "10/6/2026 7:45:00 PM",
+     "match": "Spalding United - Bury Town",
+     "league": "England: FA Cup",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.2,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.01,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1632354,
+     "kickoff": "10/6/2026 12:00:00 PM",
+     "match": "Denmark U19 - Netherlands U19",
+     "league": "World: Friendlies",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.32,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1619254,
+     "kickoff": "10/6/2026 1:00:00 PM",
+     "match": "Queens Park Rangers U21 - Coventry City U21",
+     "league": "England: Professional Development League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.44,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1350204,
+     "kickoff": "10/6/2026 5:45:00 PM",
+     "match": "Norway U21 - Israel U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.2,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1350197,
+     "kickoff": "10/6/2026 6:00:00 PM",
+     "match": "Luxembourg U21 - Estonia U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.2,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1588818,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Sheffield Wednesday - Sunderland U21",
+     "league": "England: EFL Trophy",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.29,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1545838,
+     "kickoff": "10/6/2026 8:00:00 PM",
+     "match": "Angola - Malawi",
+     "league": "World: Africa Cup of Nations - Qualification",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.42,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.54,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1528723,
+     "kickoff": "10/6/2026 12:30:00 PM",
+     "match": "Heilongjiang Lava Spring - Meizhou Kejia",
+     "league": "China: League One",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.24,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1350198,
+     "kickoff": "10/6/2026 6:00:00 PM",
+     "match": "France U21 - Switzerland U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.18,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1350202,
+     "kickoff": "10/6/2026 6:00:00 PM",
+     "match": "Republic of Ireland U21 - England U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.53,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    },
+    {
+     "fid": 1588859,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Doncaster - Liverpool U21",
+     "league": "England: EFL Trophy",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.3,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1588821,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Blackpool - Crewe",
+     "league": "England: EFL Trophy",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.24,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1588836,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Port Vale - Mansfield Town",
+     "league": "England: EFL Trophy",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.28,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1588869,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Stevenage - Leicester",
+     "league": "England: EFL Trophy",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.2,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 10.19,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1643425,
+     "kickoff": "10/6/2026 2:00:00 AM",
+     "match": "Arnett Gardens - Portmore United",
+     "league": "Jamaica: Premier League",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.58,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1350205,
+     "kickoff": "10/6/2026 2:45:00 PM",
+     "match": "Azerbaijan U21 - Gibraltar U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.22,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1558951,
+     "kickoff": "10/6/2026 3:00:00 PM",
+     "match": "Bilje - Dekani",
+     "league": "Slovenia: 2. SNL",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.58,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1640471,
+     "kickoff": "10/6/2026 4:00:00 PM",
+     "match": "Raufoss - Start",
+     "league": "Norway: NM Cupen",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.3,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1588876,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Wycombe - Bristol Rovers",
+     "league": "England: EFL Trophy",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.23,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1588845,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Grimsby - Burton Albion",
+     "league": "England: EFL Trophy",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.34,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1588860,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Huddersfield - Rochdale",
+     "league": "England: EFL Trophy",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.22,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1528955,
+     "kickoff": "10/6/2026 7:45:00 PM",
+     "match": "Belarus - Finland",
+     "league": "World: UEFA Nations League",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.28,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 10.15,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1350216,
+     "kickoff": "10/6/2026 5:00:00 PM",
+     "match": "Latvia U21 - Malta U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.28,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1350215,
+     "kickoff": "10/6/2026 5:00:00 PM",
+     "match": "Northern Ireland U21 - Greece U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.18,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1350199,
+     "kickoff": "10/6/2026 6:00:00 PM",
+     "match": "Faroe Islands U21 - Iceland U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.66,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    },
+    {
+     "fid": 1588910,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Milton Keynes Dons - Brentford U21",
+     "league": "England: EFL Trophy",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.24,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1588893,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "AFC Wimbledon - Barnet",
+     "league": "England: EFL Trophy",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.34,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1588884,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Peterborough - Ipswich Town U21",
+     "league": "England: EFL Trophy",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.23,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1588817,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Accrington ST - Salford City",
+     "league": "England: EFL Trophy",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.49,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1619499,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "AFC Hornchurch - Fulham U21",
+     "league": "England: National League Cup",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.33,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 10.35,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1350217,
+     "kickoff": "10/6/2026 5:00:00 PM",
+     "match": "Germany U21 - Georgia U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.2,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1588900,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Cambridge United - Northampton",
+     "league": "England: EFL Trophy",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.22,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1619500,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Solihull Moors - Newcastle United U21",
+     "league": "England: National League Cup",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.35,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1588842,
+     "kickoff": "10/6/2026 7:00:00 PM",
+     "match": "Shrewsbury - Stockport County",
+     "league": "England: EFL Trophy",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.33,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1596003,
+     "kickoff": "10/6/2026 7:45:00 PM",
+     "match": "Cheshunt - Aveley",
+     "league": "England: Non League Premier - Isthmian",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.5,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1528956,
+     "kickoff": "10/6/2026 7:45:00 PM",
+     "match": "Moldova - Slovakia",
+     "league": "World: UEFA Nations League",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.62,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    },
+    {
+     "fid": 1596465,
+     "kickoff": "10/6/2026 7:45:00 PM",
+     "match": "Curzon Ashton - Redcar Athletic",
+     "league": "England: Non League Premier - Northern",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.62,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "tier": "20 odds",
+   "target": 20.0,
+   "odds": 20.83,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1520918,
+     "kickoff": "10/6/2026 11:30:00 PM",
+     "match": "Sport Recife - S\u00e3o Bernardo",
+     "league": "Brazil: Serie B",
+     "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+     "model": "M4",
+     "odds": 1.79,
+     "market": "Goals Over/Under First Half",
+     "selection": "Over 1.0"
+    },
+    {
+     "fid": 1640785,
+     "kickoff": "10/6/2026 11:30:00 PM",
+     "match": "Deportivo Santani - Guairena FC",
+     "league": "Paraguay: Division Intermedia",
+     "pick": "1st Half - Home Team Over 0.5",
+     "model": "M5",
+     "odds": 1.5,
+     "market": "Home Team Total Goals(1st Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1528721,
+     "kickoff": "10/6/2026 12:00:00 PM",
+     "match": "Changchun Yatai - Yanbian Longding",
+     "league": "China: League One",
+     "pick": "Away Team Odd/Even - Even",
+     "model": "M7",
+     "odds": 1.67,
+     "market": "Away Odd/Even",
+     "selection": "Even"
+    },
+    {
+     "fid": 1350206,
+     "kickoff": "10/6/2026 5:30:00 PM",
+     "match": "Portugal U21 - Czech Republic U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.34,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1350213,
+     "kickoff": "10/6/2026 5:30:00 PM",
+     "match": "Denmark U21 - Belgium U21",
+     "league": "World: UEFA U21 Championship - Qualification",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.83,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1580734,
+     "kickoff": "10/6/2026 7:30:00 PM",
+     "match": "Pontypridd Town - Llantwit Major",
+     "league": "Wales: FAW Championship",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.23,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1596467,
+     "kickoff": "10/6/2026 7:45:00 PM",
+     "match": "Ilkeston Town - Guiseley AFC",
+     "league": "England: Non League Premier - Northern",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.54,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    }
+   ]
+  }
+ ]
+}

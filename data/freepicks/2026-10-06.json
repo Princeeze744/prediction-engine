@@ -1,0 +1,1602 @@
+{
+ "date": "2026-10-06",
+ "created": "2026-10-06 01:43",
+ "items": [
+  {
+   "fid": 1350197,
+   "home": "Luxembourg U21",
+   "away": "Estonia U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 6:00:00 PM",
+   "odds": [
+    1.69,
+    3.84,
+    4.38
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.16
+    }
+   ]
+  },
+  {
+   "fid": 1350199,
+   "home": "Faroe Islands U21",
+   "away": "Iceland U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 6:00:00 PM",
+   "odds": [
+    8.3,
+    4.85,
+    1.32
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1350200,
+   "home": "Andorra U21",
+   "away": "Slovakia U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 6:00:00 PM",
+   "odds": [
+    9.97,
+    5.75,
+    1.23
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1350202,
+   "home": "Republic of Ireland U21",
+   "away": "England U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 6:00:00 PM",
+   "odds": [
+    5.14,
+    4.08,
+    1.54
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1350203,
+   "home": "Netherlands U21",
+   "away": "Bosnia-Herzegovina U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 5:45:00 PM",
+   "odds": [
+    1.1,
+    8.45,
+    19.56
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.33
+    }
+   ]
+  },
+  {
+   "fid": 1350205,
+   "home": "Azerbaijan U21",
+   "away": "Gibraltar U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 2:45:00 PM",
+   "odds": [
+    1.13,
+    7.7,
+    15.25
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.35
+    }
+   ]
+  },
+  {
+   "fid": 1350206,
+   "home": "Portugal U21",
+   "away": "Czech Republic U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 5:30:00 PM",
+   "odds": [
+    1.4,
+    4.55,
+    6.84
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1350207,
+   "home": "Bulgaria U21",
+   "away": "Scotland U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 5:30:00 PM",
+   "odds": [
+    2.55,
+    3.27,
+    2.57
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.23
+    }
+   ]
+  },
+  {
+   "fid": 1350208,
+   "home": "Spain U21",
+   "away": "Romania U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 6:00:00 PM",
+   "odds": [
+    1.06,
+    10.5,
+    27.51
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.25
+    }
+   ]
+  },
+  {
+   "fid": 1350209,
+   "home": "Cyprus U21",
+   "away": "San Marino U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 6:00:00 PM",
+   "odds": [
+    1.01,
+    13.7,
+    43.0
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1350211,
+   "home": "Lithuania U21",
+   "away": "Croatia U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 6:00:00 PM",
+   "odds": [
+    11.1,
+    6.0,
+    1.21
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1350215,
+   "home": "Northern Ireland U21",
+   "away": "Greece U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 5:00:00 PM",
+   "odds": [
+    10.0,
+    5.62,
+    1.25
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1350216,
+   "home": "Latvia U21",
+   "away": "Malta U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 5:00:00 PM",
+   "odds": [
+    1.29,
+    5.1,
+    8.63
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.58
+    }
+   ]
+  },
+  {
+   "fid": 1350217,
+   "home": "Germany U21",
+   "away": "Georgia U21",
+   "league": "World: UEFA U21 Championship - Qualification",
+   "kickoff": "10/6/2026 5:00:00 PM",
+   "odds": [
+    1.06,
+    11.0,
+    23.5
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.21
+    }
+   ]
+  },
+  {
+   "fid": 1497258,
+   "home": "Skjetten",
+   "away": "Kongsvinger II",
+   "league": "Norway: 3. Division - Girone 5",
+   "kickoff": "10/6/2026 5:00:00 PM",
+   "odds": [
+    1.37,
+    5.0,
+    5.35
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1500138,
+   "home": "Claypole",
+   "away": "Deportivo Espa\u00f1ol",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/6/2026 6:00:00 PM",
+   "odds": [
+    2.88,
+    2.69,
+    2.49
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1500145,
+   "home": "Leandro N. Alem",
+   "away": "Centro Espa\u00f1ol",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/6/2026 6:00:00 PM",
+   "odds": [
+    7.7,
+    3.98,
+    1.36
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1528724,
+   "home": "Hebei Kungfu",
+   "away": "Dalian Huayi",
+   "league": "China: League One",
+   "kickoff": "10/6/2026 12:30:00 PM",
+   "odds": [
+    2.21,
+    2.98,
+    3.12
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1528951,
+   "home": "Kazakhstan",
+   "away": "Faroe Islands",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/6/2026 3:00:00 PM",
+   "odds": [
+    2.41,
+    3.07,
+    3.26
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1528952,
+   "home": "Croatia",
+   "away": "Spain",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    10.96,
+    6.59,
+    1.25
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1528953,
+   "home": "England",
+   "away": "Czechia",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    1.12,
+    9.6,
+    23.0
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.33
+    }
+   ]
+  },
+  {
+   "fid": 1528954,
+   "home": "Albania",
+   "away": "San Marino",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    1.03,
+    20.12,
+    51.0
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1528956,
+   "home": "Moldova",
+   "away": "Slovakia",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    8.37,
+    4.89,
+    1.4
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1528957,
+   "home": "Estonia",
+   "away": "Iceland",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    5.78,
+    4.1,
+    1.59
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1545655,
+   "home": "Switzerland",
+   "away": "FYR Macedonia",
+   "league": "World: UEFA Nations League",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    1.1,
+    10.1,
+    26.04
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.1
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.39
+    }
+   ]
+  },
+  {
+   "fid": 1545838,
+   "home": "Angola",
+   "away": "Malawi",
+   "league": "World: Africa Cup of Nations - Qualification",
+   "kickoff": "10/6/2026 8:00:00 PM",
+   "odds": [
+    1.36,
+    4.1,
+    9.35
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1548378,
+   "home": "Trollh\u00e4ttan",
+   "away": "Mjallby AIF",
+   "league": "Sweden: Svenska Cupen",
+   "kickoff": "10/6/2026 4:00:00 PM",
+   "odds": [
+    6.5,
+    4.7,
+    1.34
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1588351,
+   "home": "Braintree",
+   "away": "Walton & Hersham",
+   "league": "England: National League - South",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    1.7,
+    4.0,
+    3.71
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.37
+    }
+   ]
+  },
+  {
+   "fid": 1588818,
+   "home": "Sheffield Wednesday",
+   "away": "Sunderland U21",
+   "league": "England: EFL Trophy",
+   "kickoff": "10/6/2026 7:00:00 PM",
+   "odds": [
+    1.36,
+    5.4,
+    5.75
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.28
+    }
+   ]
+  },
+  {
+   "fid": 1588821,
+   "home": "Blackpool",
+   "away": "Crewe",
+   "league": "England: EFL Trophy",
+   "kickoff": "10/6/2026 7:00:00 PM",
+   "odds": [
+    1.62,
+    4.2,
+    4.13
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1588859,
+   "home": "Doncaster",
+   "away": "Liverpool U21",
+   "league": "England: EFL Trophy",
+   "kickoff": "10/6/2026 7:00:00 PM",
+   "odds": [
+    1.43,
+    4.55,
+    5.6
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1588860,
+   "home": "Huddersfield",
+   "away": "Rochdale",
+   "league": "England: EFL Trophy",
+   "kickoff": "10/6/2026 7:00:00 PM",
+   "odds": [
+    1.31,
+    4.9,
+    7.69
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1588869,
+   "home": "Stevenage",
+   "away": "Leicester",
+   "league": "England: EFL Trophy",
+   "kickoff": "10/6/2026 7:00:00 PM",
+   "odds": [
+    2.99,
+    3.35,
+    2.16
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.31
+    }
+   ]
+  },
+  {
+   "fid": 1588884,
+   "home": "Peterborough",
+   "away": "Ipswich Town U21",
+   "league": "England: EFL Trophy",
+   "kickoff": "10/6/2026 7:00:00 PM",
+   "odds": [
+    1.16,
+    6.55,
+    11.72
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.24
+    }
+   ]
+  },
+  {
+   "fid": 1596003,
+   "home": "Cheshunt",
+   "away": "Aveley",
+   "league": "England: Non League Premier - Isthmian",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    3.0,
+    3.64,
+    1.99
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.28
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.59
+    }
+   ]
+  },
+  {
+   "fid": 1596006,
+   "home": "Maldon & Tiptree",
+   "away": "Welling United",
+   "league": "England: Non League Premier - Isthmian",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    5.08,
+    4.4,
+    1.45
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.07
+    }
+   ]
+  },
+  {
+   "fid": 1596469,
+   "home": "Quorn",
+   "away": "Ashton United",
+   "league": "England: Non League Premier - Northern",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    2.5,
+    3.54,
+    2.28
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1596470,
+   "home": "Stockton Town",
+   "away": "Bury",
+   "league": "England: Non League Premier - Northern",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    3.77,
+    3.77,
+    1.71
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1596471,
+   "home": "Warrington Town",
+   "away": "Workington",
+   "league": "England: Non League Premier - Northern",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    2.17,
+    3.54,
+    2.71
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1612087,
+   "home": "Newell's Old Boys Res.",
+   "away": "Estudiantes La Plata Res",
+   "league": "Argentina: Reserve League",
+   "kickoff": "10/6/2026 7:00:00 PM",
+   "odds": [
+    2.21,
+    2.98,
+    3.1
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1612090,
+   "home": "Uni\u00f3n Santa Fe Res.",
+   "away": "Banfield Res.",
+   "league": "Argentina: Reserve League",
+   "kickoff": "10/6/2026 7:00:00 PM",
+   "odds": [
+    1.78,
+    3.29,
+    4.15
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1619158,
+   "home": "Bristol City U21",
+   "away": "Charlton Athletic U21",
+   "league": "England: Professional Development League",
+   "kickoff": "10/6/2026 1:00:00 PM",
+   "odds": [
+    1.77,
+    4.21,
+    3.21
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1629005,
+   "home": "South Korea",
+   "away": "Uzbekistan",
+   "league": "World: Friendlies",
+   "kickoff": "10/6/2026 12:00:00 PM",
+   "odds": [
+    1.71,
+    3.79,
+    4.52
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1636359,
+   "home": "Lam Dong",
+   "away": "Song Lam Nghe An",
+   "league": "Vietnam: Cup",
+   "kickoff": "10/6/2026 9:30:00 AM",
+   "odds": [
+    5.4,
+    3.46,
+    1.55
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.07
+    }
+   ]
+  },
+  {
+   "fid": 1636360,
+   "home": "Pho Hien",
+   "away": "B\u00f3ng \u0111\u00e1 Hu\u1ebf",
+   "league": "Vietnam: Cup",
+   "kickoff": "10/6/2026 12:00:00 PM",
+   "odds": [
+    1.03,
+    8.3,
+    30.0
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.11
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.42
+    }
+   ]
+  },
+  {
+   "fid": 1638469,
+   "home": "Langfang Glory City",
+   "away": "Xi'an Ronghai",
+   "league": "China: League Two",
+   "kickoff": "10/6/2026 12:30:00 PM",
+   "odds": [
+    3.96,
+    2.88,
+    1.94
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.12
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.16
+    }
+   ]
+  },
+  {
+   "fid": 1638508,
+   "home": "Changchun Xidu",
+   "away": "Guangzhou Dandelion",
+   "league": "China: League Two",
+   "kickoff": "10/6/2026 8:00:00 AM",
+   "odds": [
+    2.66,
+    2.69,
+    2.71
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1638509,
+   "home": "BIT",
+   "away": "Chengdu Rongcheng II",
+   "league": "China: League Two",
+   "kickoff": "10/6/2026 8:30:00 AM",
+   "odds": [
+    5.15,
+    3.32,
+    1.59
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.07
+    },
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1638510,
+   "home": "Qingdao Red Lions",
+   "away": "Wuhan Three Towns II",
+   "league": "China: League Two",
+   "kickoff": "10/6/2026 8:30:00 AM",
+   "odds": [
+    2.25,
+    2.72,
+    3.24
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1638511,
+   "home": "Shanghai Second",
+   "away": "Yichun Grand Tiger",
+   "league": "China: League Two",
+   "kickoff": "10/6/2026 8:30:00 AM",
+   "odds": [
+    2.13,
+    2.79,
+    3.44
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1638512,
+   "home": "Hubei Chufeng Heli",
+   "away": "Rizhao Yuqi",
+   "league": "China: League Two",
+   "kickoff": "10/6/2026 10:00:00 AM",
+   "odds": [
+    2.96,
+    2.75,
+    2.41
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.28
+    },
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1638513,
+   "home": "Guangdong Mingtu",
+   "away": "Dalian Yingbo B",
+   "league": "China: League Two",
+   "kickoff": "10/6/2026 12:30:00 PM",
+   "odds": [
+    2.15,
+    2.83,
+    3.39
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1638604,
+   "home": "India",
+   "away": "Uruguay",
+   "league": "World: Friendlies",
+   "kickoff": "10/6/2026 3:00:00 PM",
+   "odds": [
+    50.0,
+    15.0,
+    1.01
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1640082,
+   "home": "Algeria",
+   "away": "Niger",
+   "league": "World: Friendlies",
+   "kickoff": "10/6/2026 6:00:00 PM",
+   "odds": [
+    1.22,
+    5.79,
+    12.75
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.58
+    }
+   ]
+  },
+  {
+   "fid": 1640471,
+   "home": "Raufoss",
+   "away": "Start",
+   "league": "Norway: NM Cupen",
+   "kickoff": "10/6/2026 4:00:00 PM",
+   "odds": [
+    5.46,
+    4.28,
+    1.5
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1640785,
+   "home": "Deportivo Santani",
+   "away": "Guairena FC",
+   "league": "Paraguay: Division Intermedia",
+   "kickoff": "10/6/2026 11:30:00 PM",
+   "odds": [
+    1.34,
+    4.15,
+    7.7
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1642267,
+   "home": "Tanzania U23",
+   "away": "Kenya U23",
+   "league": "World: CAF U23 Cup of Nations",
+   "kickoff": "10/6/2026 2:00:00 PM",
+   "odds": [
+    2.58,
+    3.18,
+    2.42
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.26
+    }
+   ]
+  },
+  {
+   "fid": 1643425,
+   "home": "Arnett Gardens",
+   "away": "Portmore United",
+   "league": "Jamaica: Premier League",
+   "kickoff": "10/6/2026 2:00:00 AM",
+   "odds": [
+    3.0,
+    3.4,
+    2.07
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.28
+    }
+   ]
+  },
+  {
+   "fid": 1643807,
+   "home": "Zoman",
+   "away": "Korhogo",
+   "league": "Ivory-Coast: Ligue 1",
+   "kickoff": "10/6/2026 4:30:00 PM",
+   "odds": [
+    2.33,
+    2.88,
+    2.92
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1644165,
+   "home": "Saudi Arabia",
+   "away": "United Arab Emirates",
+   "league": "World: Gulf Cup of Nations",
+   "kickoff": "10/6/2026 7:00:00 PM",
+   "odds": [
+    2.23,
+    2.88,
+    3.24
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1644168,
+   "home": "Scarborough Athletic",
+   "away": "Macclesfield",
+   "league": "England: FA Cup",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    2.6,
+    3.45,
+    2.25
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.28
+    }
+   ]
+  },
+  {
+   "fid": 1644169,
+   "home": "Spalding United",
+   "away": "Bury Town",
+   "league": "England: FA Cup",
+   "kickoff": "10/6/2026 7:45:00 PM",
+   "odds": [
+    1.66,
+    3.9,
+    3.96
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.75
+    }
+   ]
+  }
+ ]
+}
