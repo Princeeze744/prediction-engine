@@ -2545,11 +2545,11 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1500143,2026-10-06,2026-10-06T18:00:00+01:00,NS,132,Primera C,Argentina,2026,Regular Season - 31,Fénix,Atletico Atlas,8374,1937,,,,,,,,,,
 1500145,2026-10-06,2026-10-06T18:00:00+01:00,NS,132,Primera C,Argentina,2026,Regular Season - 31,Leandro N. Alem,Centro Español,1940,8390,,,,,,,,,,
 1520918,2026-10-06,2026-10-06T23:30:00+01:00,NS,72,Serie B,Brazil,2026,Regular Season - 32,Sport Recife,São Bernardo,123,7865,,,,,,,,,,
-1528721,2026-10-06,2026-10-06T12:00:00+01:00,HT,170,League One,China,2026,Regular Season - 25,Changchun Yatai,Yanbian Longding,834,17271,,,0,1,,,,,0,1
-1528722,2026-10-06,2026-10-06T12:00:00+01:00,HT,170,League One,China,2026,Regular Season - 25,Wuxi Wugou,Suzhou Dongwu,17269,5688,,,0,1,,,,,0,1
-1528723,2026-10-06,2026-10-06T12:30:00+01:00,1H,170,League One,China,2026,Regular Season - 25,Heilongjiang Lava Spring,Meizhou Kejia,1445,1439,,,0,0,,,,,0,0
-1528724,2026-10-06,2026-10-06T12:30:00+01:00,1H,170,League One,China,2026,Regular Season - 25,Hebei Kungfu,Dalian Huayi,17264,5652,,,0,0,,,,,0,0
-1528787,2026-10-06,2026-10-06T12:30:00+01:00,1H,170,League One,China,2026,Regular Season - 25,Nantong Zhiyun,Ningbo Professional,2626,27556,,,0,0,,,,,0,0
+1528721,2026-10-06,2026-10-06T12:00:00+01:00,FT,170,League One,China,2026,Regular Season - 25,Changchun Yatai,Yanbian Longding,834,17271,1,1,0,1,,,,,1,1
+1528722,2026-10-06,2026-10-06T12:00:00+01:00,FT,170,League One,China,2026,Regular Season - 25,Wuxi Wugou,Suzhou Dongwu,17269,5688,2,2,0,1,,,,,2,2
+1528723,2026-10-06,2026-10-06T12:30:00+01:00,FT,170,League One,China,2026,Regular Season - 25,Heilongjiang Lava Spring,Meizhou Kejia,1445,1439,0,0,0,0,,,,,0,0
+1528724,2026-10-06,2026-10-06T12:30:00+01:00,FT,170,League One,China,2026,Regular Season - 25,Hebei Kungfu,Dalian Huayi,17264,5652,1,0,0,0,,,,,1,0
+1528787,2026-10-06,2026-10-06T12:30:00+01:00,FT,170,League One,China,2026,Regular Season - 25,Nantong Zhiyun,Ningbo Professional,2626,27556,1,0,0,0,,,,,1,0
 1528951,2026-10-06,2026-10-06T15:00:00+01:00,NS,5,UEFA Nations League,World,2026,League C - 4,Kazakhstan,Faroe Islands,1095,1098,,,,,,,,,,
 1528952,2026-10-06,2026-10-06T19:45:00+01:00,NS,5,UEFA Nations League,World,2026,League A - 4,Croatia,Spain,3,9,,,,,,,,,,
 1528953,2026-10-06,2026-10-06T19:45:00+01:00,NS,5,UEFA Nations League,World,2026,League A - 4,England,Czechia,10,770,,,,,,,,,,
@@ -2566,11 +2566,11 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1549809,2026-10-06,2026-10-06T01:00:00+01:00,FT,239,Primera A,Colombia,2026,Clausura - 13,Independiente Medellin,Santa Fe,1128,1139,0,1,0,0,,,,,0,1
 1558951,2026-10-06,2026-10-06T15:00:00+01:00,NS,374,2. SNL,Slovenia,2026,Regular Season - 9,Bilje,Dekani,4367,4370,,,,,,,,,,
 1559383,2026-10-06,2026-10-06T14:00:00+01:00,NS,356,Second League,Montenegro,2026,Regular Season - 10,Mladost Lješkopolje,Lovćen,3750,3739,,,,,,,,,,
-1559384,2026-10-06,2026-10-06T14:00:00+01:00,NS,356,Second League,Montenegro,2026,Regular Season - 10,Iskra,Rudar,3738,2258,,,,,,,,,,
+1559384,2026-10-06,2026-10-06T14:00:00+01:00,1H,356,Second League,Montenegro,2026,Regular Season - 10,Iskra,Rudar,3738,2258,,,0,0,,,,,0,0
 1560839,2026-10-06,2026-10-06T20:30:00+01:00,NS,1113,Copa Venezuela,Venezuela,2026,Round 1 - Group B,Real Frontera,Atletico el Vigia FC,2847,2832,,,,,,,,,,
 1580734,2026-10-06,2026-10-06T19:30:00+01:00,NS,111,FAW Championship,Wales,2026,South - 6,Pontypridd Town,Llantwit Major,2192,2196,,,,,,,,,,
 1583782,2026-10-06,2026-10-06T02:00:00+01:00,FT,304,Liga Panameña de Fútbol,Panama,2026,Apertura - 11,Sporting San Miguelito,Union Cocle,2889,27364,3,1,3,1,,,,,3,1
-1586580,2026-10-06,2026-10-06T13:00:00+01:00,NS,84,Regionalliga - Nord,Germany,2026,North - 11,Werder Bremen II,Hannover 96 II,1330,9341,,,,,,,,,,
+1586580,2026-10-06,2026-10-06T13:00:00+01:00,2H,84,Regionalliga - Nord,Germany,2026,North - 11,Werder Bremen II,Hannover 96 II,1330,9341,,,0,1,,,,,0,2
 1588274,2026-10-06,2026-10-06T19:45:00+01:00,NS,51,National League - South,England,2026,National League South - 2,Ebbsfleet United,Folkestone Invicta,1840,7716,,,,,,,,,,
 1588351,2026-10-06,2026-10-06T19:45:00+01:00,NS,51,National League - South,England,2026,National League South - 8,Braintree,Walton & Hersham,1831,8986,,,,,,,,,,
 1588352,2026-10-06,2026-10-06T19:45:00+01:00,NS,51,National League - South,England,2026,National League South - 8,Farnham Town,Truro City,8783,4699,,,,,,,,,,
@@ -2614,50 +2614,50 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1598684,2026-10-06,2026-10-06T16:00:00+01:00,NS,701,Liga Revelação U23,Portugal,2026,Regular Season - 6,Felgueiras U23,Estrela U23,28013,19824,,,,,,,,,,
 1605277,2026-10-06,2026-10-06T19:00:00+01:00,NS,1155,Carioca B2,Brazil,2026,Group Stage - 7,7 de Abril,SE Belford Roxo,17736,22354,,,,,,,,,,
 1605280,2026-10-06,2026-10-06T19:00:00+01:00,NS,1155,Carioca B2,Brazil,2026,Group Stage - 7,Friburguense,Paduano,12295,20007,,,,,,,,,,
-1610853,2026-10-06,2026-10-06T00:15:00+01:00,FT,1037,Paraibano 2,Brazil,2026,Regular Season - 7,Auto Esporte,Serrano PB,18306,7836,3,0,,,,,,,3,0
-1610854,2026-10-06,2026-10-06T00:15:00+01:00,FT,1037,Paraibano 2,Brazil,2026,Regular Season - 7,Guarabira,Spartax,22363,22366,0,1,,,,,,,0,1
+1610853,2026-10-06,2026-10-06T00:15:00+01:00,FT,1037,Paraibano 2,Brazil,2026,Regular Season - 7,Auto Esporte,Serrano PB,18306,7836,3,0,2,0,,,,,3,0
+1610854,2026-10-06,2026-10-06T00:15:00+01:00,FT,1037,Paraibano 2,Brazil,2026,Regular Season - 7,Guarabira,Spartax,22363,22366,0,1,0,1,,,,,0,1
 1611390,2026-10-06,2026-10-06T19:00:00+01:00,PST,186,Ligue 1,Algeria,2026,Regular Season - 2,JS Kabylie,MC Alger,918,906,,,,,,,,,,
 1611393,2026-10-06,2026-10-06T19:00:00+01:00,PST,186,Ligue 1,Algeria,2026,Regular Season - 2,JS Saoura,Khenchela,914,10752,,,,,,,,,,
-1611878,2026-10-06,2026-10-06T13:00:00+01:00,NS,1065,U19 League,Ukraine,2026,Regular Season - 9,Rukh Vynnyky U19,SK Metalurh U19,20240,28082,,,,,,,,,,
+1611878,2026-10-06,2026-10-06T13:00:00+01:00,2H,1065,U19 League,Ukraine,2026,Regular Season - 9,Rukh Vynnyky U19,SK Metalurh U19,20240,28082,,,3,1,,,,,4,1
 1612078,2026-10-06,2026-10-06T19:00:00+01:00,NS,906,Reserve League,Argentina,2026,Clausura - 12,Defensa y Justicia Res.,Quilmes 2,18684,27413,,,,,,,,,,
 1612082,2026-10-06,2026-10-06T19:00:00+01:00,NS,906,Reserve League,Argentina,2026,Clausura - 12,Gimnasia La Plata Res.,Rosario Central Res.,18686,18696,,,,,,,,,,
 1612085,2026-10-06,2026-10-06T19:00:00+01:00,NS,906,Reserve League,Argentina,2026,Clausura - 12,Huracán Res.,Atl. Rafaela 2,18688,27412,,,,,,,,,,
 1612087,2026-10-06,2026-10-06T19:00:00+01:00,NS,906,Reserve League,Argentina,2026,Clausura - 12,Newell's Old Boys Res.,Estudiantes La Plata Res,18691,18685,,,,,,,,,,
 1612088,2026-10-06,2026-10-06T19:00:00+01:00,NS,906,Reserve League,Argentina,2026,Clausura - 12,Racing Club Res.,River Plate Res.,18694,18695,,,,,,,,,,
 1612090,2026-10-06,2026-10-06T19:00:00+01:00,NS,906,Reserve League,Argentina,2026,Clausura - 12,Unión Santa Fe Res.,Banfield Res.,18701,18679,,,,,,,,,,
-1619158,2026-10-06,2026-10-06T13:00:00+01:00,NS,703,Professional Development League,England,2026,Regular Season,Bristol City U21,Charlton Athletic U21,20080,20082,,,,,,,,,,
-1619160,2026-10-06,2026-10-06T13:00:00+01:00,NS,703,Professional Development League,England,2026,Regular Season,Hull City U21,Wigan Athletic U21,20084,20097,,,,,,,,,,
-1619162,2026-10-06,2026-10-06T14:00:00+01:00,NS,703,Professional Development League,England,2026,Regular Season,Colchester United U21,Swansea City U21,20083,11912,,,,,,,,,,
-1619254,2026-10-06,2026-10-06T13:00:00+01:00,NS,703,Professional Development League,England,2026,Regular Season,Queens Park Rangers U21,Coventry City U21,20085,20092,,,,,,,,,,
+1619158,2026-10-06,2026-10-06T13:00:00+01:00,2H,703,Professional Development League,England,2026,Regular Season,Bristol City U21,Charlton Athletic U21,20080,20082,,,1,0,,,,,1,1
+1619160,2026-10-06,2026-10-06T13:00:00+01:00,2H,703,Professional Development League,England,2026,Regular Season,Hull City U21,Wigan Athletic U21,20084,20097,,,0,2,,,,,0,2
+1619162,2026-10-06,2026-10-06T14:00:00+01:00,1H,703,Professional Development League,England,2026,Regular Season,Colchester United U21,Swansea City U21,20083,11912,,,1,0,,,,,1,0
+1619254,2026-10-06,2026-10-06T13:00:00+01:00,2H,703,Professional Development League,England,2026,Regular Season,Queens Park Rangers U21,Coventry City U21,20085,20092,,,0,1,,,,,0,4
 1619499,2026-10-06,2026-10-06T19:00:00+01:00,NS,1156,National League Cup,England,2026,Group Stage,AFC Hornchurch,Fulham U21,7690,7194,,,,,,,,,,
 1619500,2026-10-06,2026-10-06T19:00:00+01:00,NS,1156,National League Cup,England,2026,Group Stage,Solihull Moors,Newcastle United U21,1834,7199,,,,,,,,,,
 1619502,2026-10-06,2026-10-06T19:45:00+01:00,NS,1156,National League Cup,England,2026,Group Stage,Tamworth,Leeds United U21,7752,14430,,,,,,,,,,
 1619708,2026-10-06,2026-10-06T20:00:00+01:00,NS,964,Copa de la División Profesional,Bolivia,2026,Group Stage - 8,Real Oruro,Real Tomayapo,20252,15708,,,,,,,,,,
 1619709,2026-10-06,2026-10-06T23:00:00+01:00,NS,964,Copa de la División Profesional,Bolivia,2026,Group Stage - 8,Real Potosí,San Antonio Bulo Bulo,3708,17760,,,,,,,,,,
 1621344,2026-10-06,2026-10-06T18:20:00+01:00,NS,496,Liga Alef,Israel,2026,North - 4,Tzeirei Umm al-Fahm,Hapoel Umm al-Fahm,20706,4492,,,,,,,,,,
-1629005,2026-10-06,2026-10-06T12:00:00+01:00,HT,10,Friendlies,World,2026,Friendly International,South Korea,Uzbekistan,17,1568,,,1,0,,,,,1,0
-1631988,2026-10-06,2026-10-06T13:00:00+01:00,NS,756,Cup,Macedonia,2026,Round of 32,Krosu Sport Bitola,Tikveš,28312,4348,,,,,,,,,,
+1629005,2026-10-06,2026-10-06T12:00:00+01:00,FT,10,Friendlies,World,2026,Friendly International,South Korea,Uzbekistan,17,1568,2,0,1,0,,,,,2,0
+1631988,2026-10-06,2026-10-06T13:00:00+01:00,2H,756,Cup,Macedonia,2026,Round of 32,Krosu Sport Bitola,Tikveš,28312,4348,,,0,5,,,,,0,9
 1632020,2026-10-06,2026-10-06T21:00:00+01:00,NS,252,Division Profesional - Clausura,Paraguay,2026,Clausura - 13,Sportivo Ameliano,Rubio NU,10487,1185,,,,,,,,,,
 1632023,2026-10-06,2026-10-06T23:15:00+01:00,NS,252,Division Profesional - Clausura,Paraguay,2026,Clausura - 13,Olimpia,Nacional Asuncion,1182,1175,,,,,,,,,,
-1632354,2026-10-06,2026-10-06T12:00:00+01:00,HT,10,Friendlies,World,2026,Friendly International,Denmark U19,Netherlands U19,10331,10340,,,0,0,,,,,0,0
+1632354,2026-10-06,2026-10-06T12:00:00+01:00,FT,10,Friendlies,World,2026,Friendly International,Denmark U19,Netherlands U19,10331,10340,1,1,0,0,,,,,1,1
 1632357,2026-10-06,2026-10-06T12:30:00+01:00,NS,10,Friendlies,World,2026,Friendly International,France U17,Netherlands U17,12507,12514,,,,,,,,,,
 1632358,2026-10-06,2026-10-06T13:00:00+01:00,NS,10,Friendlies,World,2026,Friendly International,Portugal U19,Netherlands U19,10343,10340,,,,,,,,,,
 1635843,2026-10-06,2026-10-06T21:00:00+01:00,NS,1232,Copa De La Liga,Peru,2026,Semi-finals,Alianza Atletico,Sport Boys,2560,2544,,,,,,,,,,
 1635881,2026-10-06,2026-10-06T09:00:00+01:00,FT,335,Cup,Ukraine,2026,Round of 32,Trostianets,Chernihiv,17167,14433,2,4,2,0,,,,,2,4
 1635988,2026-10-06,2026-10-06T03:05:00+01:00,FT,1242,Primera Premier,Mexico,2026,Regular Season - 6,Celaya,Jaguares de Chiapas,2308,2293,0,1,0,1,,,,,0,1
 1636359,2026-10-06,2026-10-06T09:30:00+01:00,FT,341,Cup,Vietnam,2027,Round of 32,Lam Dong,Song Lam Nghe An,28215,3678,0,2,0,0,,,,,0,2
-1636360,2026-10-06,2026-10-06T12:00:00+01:00,HT,341,Cup,Vietnam,2027,Round of 32,Pho Hien,Bóng đá Huế,9166,9162,,,2,0,,,,,2,0
-1636361,2026-10-06,2026-10-06T12:00:00+01:00,HT,341,Cup,Vietnam,2027,Round of 32,Bình Phước,Dong Thap,9161,9164,,,1,2,,,,,1,2
-1638468,2026-10-06,2026-10-06T12:30:00+01:00,1H,929,League Two,China,2026,Promotion Group - 25,Guizhou Zhucheng,Shanghai Port II,25775,23289,,,0,1,,,,,0,1
-1638469,2026-10-06,2026-10-06T12:30:00+01:00,1H,929,League Two,China,2026,Promotion Group - 25,Langfang Glory City,Xi'an Ronghai,23270,20674,,,0,0,,,,,0,0
-1638470,2026-10-06,2026-10-06T12:30:00+01:00,1H,929,League Two,China,2026,Promotion Group - 25,Shenzhen 2028,Shandong Taishan II,25779,23288,,,0,1,,,,,0,1
+1636360,2026-10-06,2026-10-06T12:00:00+01:00,FT,341,Cup,Vietnam,2027,Round of 32,Pho Hien,Bóng đá Huế,9166,9162,4,1,2,0,,,,,4,1
+1636361,2026-10-06,2026-10-06T12:00:00+01:00,FT,341,Cup,Vietnam,2027,Round of 32,Bình Phước,Dong Thap,9161,9164,4,3,1,2,,,,,4,3
+1638468,2026-10-06,2026-10-06T12:30:00+01:00,FT,929,League Two,China,2026,Promotion Group - 25,Guizhou Zhucheng,Shanghai Port II,25775,23289,2,1,1,1,,,,,2,1
+1638469,2026-10-06,2026-10-06T12:30:00+01:00,FT,929,League Two,China,2026,Promotion Group - 25,Langfang Glory City,Xi'an Ronghai,23270,20674,0,0,0,0,,,,,0,0
+1638470,2026-10-06,2026-10-06T12:30:00+01:00,FT,929,League Two,China,2026,Promotion Group - 25,Shenzhen 2028,Shandong Taishan II,25779,23288,0,2,0,2,,,,,0,2
 1638508,2026-10-06,2026-10-06T08:00:00+01:00,FT,929,League Two,China,2026,Relegation Group - 25,Changchun Xidu,Guangzhou Dandelion,23132,25774,1,1,1,0,,,,,1,1
 1638509,2026-10-06,2026-10-06T08:30:00+01:00,FT,929,League Two,China,2026,Relegation Group - 25,BIT,Chengdu Rongcheng II,5647,25839,2,0,2,0,,,,,2,0
 1638510,2026-10-06,2026-10-06T08:30:00+01:00,FT,929,League Two,China,2026,Relegation Group - 25,Qingdao Red Lions,Wuhan Three Towns II,5679,25840,0,2,0,1,,,,,0,2
 1638511,2026-10-06,2026-10-06T08:30:00+01:00,FT,929,League Two,China,2026,Relegation Group - 25,Shanghai Second,Yichun Grand Tiger,27619,17272,1,1,0,1,,,,,1,1
 1638512,2026-10-06,2026-10-06T10:00:00+01:00,FT,929,League Two,China,2026,Relegation Group - 25,Hubei Chufeng Heli,Rizhao Yuqi,5660,21328,2,0,2,0,,,,,2,0
-1638513,2026-10-06,2026-10-06T12:30:00+01:00,1H,929,League Two,China,2026,Relegation Group - 25,Guangdong Mingtu,Dalian Yingbo B,25773,27621,,,0,0,,,,,0,0
-1638603,2026-10-06,2026-10-06T12:35:00+01:00,1H,10,Friendlies,World,2026,Friendly International,China,Tajikistan,1566,1536,,,0,0,,,,,0,0
+1638513,2026-10-06,2026-10-06T12:30:00+01:00,FT,929,League Two,China,2026,Relegation Group - 25,Guangdong Mingtu,Dalian Yingbo B,25773,27621,1,1,0,0,,,,,1,1
+1638603,2026-10-06,2026-10-06T12:35:00+01:00,2H,10,Friendlies,World,2026,Friendly International,China,Tajikistan,1566,1536,,,0,0,,,,,0,1
 1638604,2026-10-06,2026-10-06T15:00:00+01:00,NS,10,Friendlies,World,2026,Friendly International,India,Uruguay,1537,7,,,,,,,,,,
 1639995,2026-10-06,2026-10-06T01:00:00+01:00,FT,536,CONCACAF Nations League,World,2025,League B - 2,Bermuda,Barbados,5158,5527,1,2,0,0,,,,,1,2
 1639996,2026-10-06,2026-10-06T01:00:00+01:00,FT,536,CONCACAF Nations League,World,2025,League B - 3,Grenada,Bonaire,5533,10982,1,4,1,1,,,,,1,4
@@ -2677,21 +2677,21 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1640274,2026-10-06,2026-10-06T19:15:00+01:00,NS,282,Segunda División,Peru,2026,Promotion Group - 2,Minas,Union Comercio,26867,2552,,,,,,,,,,
 1640275,2026-10-06,2026-10-06T21:30:00+01:00,NS,282,Segunda División,Peru,2026,Promotion Group - 2,U. San Martin,Alianza Universidad,2549,2548,,,,,,,,,,
 1640471,2026-10-06,2026-10-06T16:00:00+01:00,NS,105,NM Cupen,Norway,2027,Round of 32,Raufoss,Start,2153,334,,,,,,,,,,
-1640677,2026-10-06,2026-10-06T12:00:00+01:00,HT,206,Türkiye Kupası,Turkey,2026,Round of 16,Bitlis Özgüzelderespor,Silifke Belediyespor,6513,21998,,,1,0,,,,,1,0
+1640677,2026-10-06,2026-10-06T12:00:00+01:00,FT,206,Türkiye Kupası,Turkey,2026,Round of 16,Bitlis Özgüzelderespor,Silifke Belediyespor,6513,21998,6,0,1,0,,,,,6,0
 1640691,2026-10-06,2026-10-06T17:00:00+01:00,NS,206,Türkiye Kupası,Turkey,2026,Round of 16,Karsiyaka,Afyonkarahisarspor,7409,13442,,,,,,,,,,
-1640692,2026-10-06,2026-10-06T12:00:00+01:00,HT,206,Türkiye Kupası,Turkey,2026,Round of 16,Kırklarelispor,Bayburtspor,3596,28378,,,0,0,,,,,0,0
+1640692,2026-10-06,2026-10-06T12:00:00+01:00,ET,206,Türkiye Kupası,Turkey,2026,Round of 16,Kırklarelispor,Bayburtspor,3596,28378,0,0,0,0,0,0,,,0,0
 1640700,2026-10-06,2026-10-06T15:00:00+01:00,NS,206,Türkiye Kupası,Turkey,2026,Round of 16,Sakaryaspor,Arit Kayadibi,3602,28377,,,,,,,,,,
 1640784,2026-10-06,2026-10-06T21:00:00+01:00,NS,251,Division Intermedia,Paraguay,2026,Regular Season - 27,Benjamín Aceval,Independiente F.b.c.,17183,1186,,,,,,,,,,
 1640785,2026-10-06,2026-10-06T23:30:00+01:00,NS,251,Division Intermedia,Paraguay,2026,Regular Season - 27,Deportivo Santani,Guairena FC,1189,2138,,,,,,,,,,
 1641623,2026-10-06,2026-10-06T00:00:00+01:00,FT,268,Primera División,Uruguay,2026,Clausura - 9,Club Nacional,Atletico Torque,2356,2365,2,0,1,0,,,,,2,0
 1641761,2026-10-06,2026-10-06T14:30:00+01:00,NS,538,Africa Cup of Nations U20,World,2026,Qualification - 5,Algeria U20,Egypt U20,11017,11027,,,,,,,,,,
-1641762,2026-10-06,2026-10-06T14:00:00+01:00,NS,538,Africa Cup of Nations U20,World,2026,Qualification - 5,Libya U20,Morocco U20,11036,11039,,,,,,,,,,
-1641873,2026-10-06,2026-10-06T12:30:00+01:00,1H,707,Cup,Albania,2026,Round of 64,Flamurtari,Gramshi,3317,10704,,,3,0,,,,,3,0
-1641877,2026-10-06,2026-10-06T12:30:00+01:00,1H,707,Cup,Albania,2026,Round of 64,Besëlidhja Lezhë,Sopoti Librazhd,3323,3839,,,1,0,,,,,1,0
-1641885,2026-10-06,2026-10-06T12:30:00+01:00,1H,707,Cup,Albania,2026,Round of 64,Skenderbeu Korce,Naftëtari Kuçovë,605,3834,,,1,0,,,,,1,0
-1642265,2026-10-06,2026-10-06T14:00:00+01:00,NS,1015,CAF U23 Cup of Nations,World,2027,Quarter-finals,Congo DR U23,Mauritania U23,17121,20552,,,,,,,,,,
+1641762,2026-10-06,2026-10-06T14:00:00+01:00,1H,538,Africa Cup of Nations U20,World,2026,Qualification - 5,Libya U20,Morocco U20,11036,11039,,,0,1,,,,,0,1
+1641873,2026-10-06,2026-10-06T12:30:00+01:00,FT,707,Cup,Albania,2026,Round of 64,Flamurtari,Gramshi,3317,10704,4,1,3,0,,,,,4,1
+1641877,2026-10-06,2026-10-06T12:30:00+01:00,ET,707,Cup,Albania,2026,Round of 64,Besëlidhja Lezhë,Sopoti Librazhd,3323,3839,1,1,1,1,0,0,,,1,1
+1641885,2026-10-06,2026-10-06T12:30:00+01:00,FT,707,Cup,Albania,2026,Round of 64,Skenderbeu Korce,Naftëtari Kuçovë,605,3834,4,1,3,0,,,,,4,1
+1642265,2026-10-06,2026-10-06T14:00:00+01:00,1H,1015,CAF U23 Cup of Nations,World,2027,Quarter-finals,Congo DR U23,Mauritania U23,17121,20552,,,0,0,,,,,0,0
 1642266,2026-10-06,2026-10-06T14:00:00+01:00,NS,1015,CAF U23 Cup of Nations,World,2027,Quarter-finals,Eswatini U23,Malawi U23,20544,28471,,,,,,,,,,
-1642267,2026-10-06,2026-10-06T14:00:00+01:00,NS,1015,CAF U23 Cup of Nations,World,2027,Quarter-finals,Tanzania U23,Kenya U23,17127,17125,,,,,,,,,,
+1642267,2026-10-06,2026-10-06T14:00:00+01:00,1H,1015,CAF U23 Cup of Nations,World,2027,Quarter-finals,Tanzania U23,Kenya U23,17127,17125,,,1,0,,,,,1,0
 1642268,2026-10-06,2026-10-06T15:00:00+01:00,NS,1015,CAF U23 Cup of Nations,World,2027,Quarter-finals,Botswana U23,Seychelles U23,20541,20558,,,,,,,,,,
 1642269,2026-10-06,2026-10-06T15:00:00+01:00,NS,1015,CAF U23 Cup of Nations,World,2027,Quarter-finals,Sudan U23,Rwanda U23,20560,20557,,,,,,,,,,
 1642270,2026-10-06,2026-10-06T16:00:00+01:00,CANC,1015,CAF U23 Cup of Nations,World,2027,Quarter-finals,Burkina Faso U23,Sierra Leone U23,20542,20559,,,,,,,,,,
@@ -2699,13 +2699,13 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1642272,2026-10-06,2026-10-06T16:00:00+01:00,CANC,1015,CAF U23 Cup of Nations,World,2027,Quarter-finals,Madagascar U23,Comoros U23,20550,28453,,,,,,,,,,
 1642273,2026-10-06,2026-10-06T16:00:00+01:00,NS,1015,CAF U23 Cup of Nations,World,2027,Quarter-finals,Mauritius U23,Zimbabwe U23,20553,28456,,,,,,,,,,
 1642275,2026-10-06,2026-10-06T18:00:00+01:00,NS,1015,CAF U23 Cup of Nations,World,2027,Quarter-finals,Libya U23,Togo U23,20549,20561,,,,,,,,,,
-1642331,2026-10-06,2026-10-06T13:00:00+01:00,NS,276,FKF Premier League,Kenya,2025,Final,Kariobangi Sharks,Mombasa Elite,2468,19485,,,,,,,,,,
+1642331,2026-10-06,2026-10-06T13:00:00+01:00,2H,276,FKF Premier League,Kenya,2025,Final,Kariobangi Sharks,Mombasa Elite,2468,19485,,,2,1,,,,,2,1
 1643012,2026-10-06,2026-10-06T03:00:00+01:00,FT,10,Friendlies,World,2026,Friendly International,Australia U23,Korea Republic U23,10927,10177,2,2,1,2,,,,,2,2
-1643013,2026-10-06,2026-10-06T10:00:00+01:00,NS,10,Friendlies,World,2026,Friendly International,Belgium U18,Norway U19,22425,10342,,,,,,,,,,
-1643014,2026-10-06,2026-10-06T10:00:00+01:00,NS,10,Friendlies,World,2026,Friendly International,USA U18,Netherlands U18,22342,22435,,,,,,,,,,
+1643013,2026-10-06,2026-10-06T10:00:00+01:00,FT,10,Friendlies,World,2026,Friendly International,Belgium U18,Norway U19,22425,10342,0,0,0,0,,,,,0,0
+1643014,2026-10-06,2026-10-06T10:00:00+01:00,FT,10,Friendlies,World,2026,Friendly International,USA U18,Netherlands U18,22342,22435,2,2,1,2,,,,,2,2
 1643015,2026-10-06,2026-10-06T15:00:00+01:00,NS,10,Friendlies,World,2026,Friendly International,Portugal U19,Austria U19,10343,10326,,,,,,,,,,
-1643202,2026-10-06,2026-10-06T12:00:00+01:00,NS,10,Friendlies,World,2026,Friendly International,Ireland U18,Norway U18,27060,21474,,,,,,,,,,
-1643233,2026-10-06,2026-10-06T12:00:00+01:00,1H,667,Friendlies Clubs,World,2026,Club Friendlies,IFK Norrkoping,Kalmar FF,378,374,,,0,0,,,,,0,0
+1643202,2026-10-06,2026-10-06T12:00:00+01:00,FT,10,Friendlies,World,2026,Friendly International,Ireland U18,Norway U18,27060,21474,1,1,0,0,,,,,1,1
+1643233,2026-10-06,2026-10-06T12:00:00+01:00,FT,667,Friendlies Clubs,World,2026,Club Friendlies,IFK Norrkoping,Kalmar FF,378,374,0,0,0,0,,,,,0,0
 1643425,2026-10-06,2026-10-06T02:00:00+01:00,FT,322,Premier League,Jamaica,2026,Regular Season - 4,Arnett Gardens,Portmore United,3436,3443,1,1,1,0,,,,,1,1
 1643806,2026-10-06,2026-10-06T16:30:00+01:00,NS,386,Ligue 1,Ivory-Coast,2026,Regular Season - 2,Mouna,Yamoussoukro,22583,28442,,,,,,,,,,
 1643807,2026-10-06,2026-10-06T16:30:00+01:00,FT,386,Ligue 1,Ivory-Coast,2026,Regular Season - 2,Zoman,Korhogo,22584,18179,1,1,,,,,,,1,1
@@ -2715,7 +2715,7 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1644168,2026-10-06,2026-10-06T19:45:00+01:00,NS,45,FA Cup,England,2026,3rd Round Qualifying Replays,Scarborough Athletic,Macclesfield,7745,1380,,,,,,,,,,
 1644169,2026-10-06,2026-10-06T19:45:00+01:00,NS,45,FA Cup,England,2026,3rd Round Qualifying Replays,Spalding United,Bury Town,7671,7622,,,,,,,,,,
 1644170,2026-10-06,2026-10-06T19:45:00+01:00,NS,45,FA Cup,England,2026,3rd Round Qualifying Replays,Wingate & Finchley,Bedford Town,7759,7616,,,,,,,,,,
-1644409,2026-10-06,2026-10-06T10:00:00+01:00,NS,10,Friendlies,World,2026,Friendly International,North Macedonia U18,Montenegro U18,21472,27263,,,,,,,,,,
-1644410,2026-10-06,2026-10-06T13:00:00+01:00,NS,10,Friendlies,World,2026,Friendly International,Uzbekistan U20,Russia U20,21061,21478,,,,,,,,,,
+1644409,2026-10-06,2026-10-06T10:00:00+01:00,FT,10,Friendlies,World,2026,Friendly International,North Macedonia U18,Montenegro U18,21472,27263,1,0,0,0,,,,,1,0
+1644410,2026-10-06,2026-10-06T13:00:00+01:00,2H,10,Friendlies,World,2026,Friendly International,Uzbekistan U20,Russia U20,21061,21478,,,0,0,,,,,0,1
 1644411,2026-10-06,2026-10-06T16:00:00+01:00,NS,10,Friendlies,World,2026,Friendly International,Ecuador U20,Peru U20,10286,16203,,,,,,,,,,
 1644441,2026-10-06,2026-10-06T10:00:00+01:00,FT,666,Friendlies Women,World,2026,Friendly International Women,Montenegro U19 W,Cyprus U19 W,27151,27091,4,0,1,0,,,,,4,0
