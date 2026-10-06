@@ -45,7 +45,14 @@
      "avg_odds": 4.55,
      "roi": 23.3
     },
-    "live": null
+    "live": {
+     "picks": 3,
+     "won": 0,
+     "hit": 0.0,
+     "avg_odds": 3.91,
+     "profit": -3.0,
+     "roi": -100.0
+    }
    },
    {
     "id": "D4",
@@ -583,7 +590,10 @@
       "pick": "Exact Goals - 3",
       "odds": 4.33,
       "market": "Exact Goals Number",
-      "selection": "3"
+      "selection": "3",
+      "status": "LOST",
+      "score": "1-1",
+      "ht": "0-1"
      },
      {
       "model": "D3",
@@ -726,7 +736,10 @@
       "pick": "Exact Goals - 3",
       "odds": 3.7,
       "market": "Exact Goals Number",
-      "selection": "3"
+      "selection": "3",
+      "status": "LOST",
+      "score": "0-2",
+      "ht": "0-1"
      },
      {
       "model": "D3",
@@ -737,7 +750,10 @@
       "pick": "Exact Goals - 3",
       "odds": 3.7,
       "market": "Exact Goals Number",
-      "selection": "3"
+      "selection": "3",
+      "status": "LOST",
+      "score": "1-1",
+      "ht": "0-1"
      },
      {
       "model": "D3",
@@ -8383,9 +8399,11 @@
        "cat": "X2",
        "consistency": 80,
        "neighbours": "40 / 50",
-       "odds": 1.07
+       "odds": 1.07,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "0-2"
     },
     {
      "fid": 1636360,
@@ -8474,9 +8492,11 @@
        "cat": "UNDER 3.5",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.1
+       "odds": 1.1,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-1"
     },
     {
      "fid": 1638509,
@@ -8495,16 +8515,19 @@
        "cat": "X2",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.07
+       "odds": 1.07,
+       "status": "LOST"
       },
       {
        "option": "Under 3.5",
        "cat": "UNDER 3.5",
        "consistency": 80,
        "neighbours": "40 / 50",
-       "odds": 1.22
+       "odds": 1.22,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "2-0"
     },
     {
      "fid": 1638510,
@@ -8523,9 +8546,11 @@
        "cat": "UNDER 3.5",
        "consistency": 84,
        "neighbours": "42 / 50",
-       "odds": 1.11
+       "odds": 1.11,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "0-2"
     },
     {
      "fid": 1638511,
@@ -8544,9 +8569,11 @@
        "cat": "UNDER 3.5",
        "consistency": 86,
        "neighbours": "43 / 50",
-       "odds": 1.12
+       "odds": 1.12,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-1"
     },
     {
      "fid": 1638512,
@@ -8565,16 +8592,19 @@
        "cat": "X2",
        "consistency": 84,
        "neighbours": "42 / 50",
-       "odds": 1.28
+       "odds": 1.28,
+       "status": "LOST"
       },
       {
        "option": "Under 3.5",
        "cat": "UNDER 3.5",
        "consistency": 80,
        "neighbours": "40 / 50",
-       "odds": 1.12
+       "odds": 1.12,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "2-0"
     },
     {
      "fid": 1638513,
@@ -8747,9 +8777,11 @@
        "cat": "X2",
        "consistency": 84,
        "neighbours": "42 / 50",
-       "odds": 1.28
+       "odds": 1.28,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-1"
     },
     {
      "fid": 1643807,
@@ -8768,9 +8800,11 @@
        "cat": "UNDER 3.5",
        "consistency": 80,
        "neighbours": "40 / 50",
-       "odds": 1.09
+       "odds": 1.09,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-1"
     },
     {
      "fid": 1644165,
@@ -9986,9 +10020,11 @@
         "cat": "X2",
         "consistency": 80,
         "neighbours": "40 / 50",
-        "odds": 1.07
+        "odds": 1.07,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "0-2"
      },
      {
       "fid": 1636360,
@@ -10077,9 +10113,11 @@
         "cat": "UNDER 3.5",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.1
+        "odds": 1.1,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-1"
      },
      {
       "fid": 1638509,
@@ -10098,16 +10136,19 @@
         "cat": "X2",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.07
+        "odds": 1.07,
+        "status": "LOST"
        },
        {
         "option": "Under 3.5",
         "cat": "UNDER 3.5",
         "consistency": 80,
         "neighbours": "40 / 50",
-        "odds": 1.22
+        "odds": 1.22,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "2-0"
      },
      {
       "fid": 1638510,
@@ -10126,9 +10167,11 @@
         "cat": "UNDER 3.5",
         "consistency": 84,
         "neighbours": "42 / 50",
-        "odds": 1.11
+        "odds": 1.11,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "0-2"
      },
      {
       "fid": 1638511,
@@ -10147,9 +10190,11 @@
         "cat": "UNDER 3.5",
         "consistency": 86,
         "neighbours": "43 / 50",
-        "odds": 1.12
+        "odds": 1.12,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-1"
      },
      {
       "fid": 1638512,
@@ -10168,16 +10213,19 @@
         "cat": "X2",
         "consistency": 84,
         "neighbours": "42 / 50",
-        "odds": 1.28
+        "odds": 1.28,
+        "status": "LOST"
        },
        {
         "option": "Under 3.5",
         "cat": "UNDER 3.5",
         "consistency": 80,
         "neighbours": "40 / 50",
-        "odds": 1.12
+        "odds": 1.12,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "2-0"
      },
      {
       "fid": 1638513,
@@ -10350,9 +10398,11 @@
         "cat": "X2",
         "consistency": 84,
         "neighbours": "42 / 50",
-        "odds": 1.28
+        "odds": 1.28,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-1"
      },
      {
       "fid": 1643807,
@@ -10371,9 +10421,11 @@
         "cat": "UNDER 3.5",
         "consistency": 80,
         "neighbours": "40 / 50",
-        "odds": 1.09
+        "odds": 1.09,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-1"
      },
      {
       "fid": 1644165,
@@ -19266,13 +19318,21 @@
    }
   ],
   "live": {
+   "X2": {
+    "picks": 52,
+    "won": 42
+   },
+   "TOP FINGERPRINT": {
+    "picks": 340,
+    "won": 280
+   },
+   "UNDER 3.5": {
+    "picks": 141,
+    "won": 109
+   },
    "HOME 1+": {
     "picks": 70,
     "won": 65
-   },
-   "TOP FINGERPRINT": {
-    "picks": 332,
-    "won": 274
    },
    "1X": {
     "picks": 71,
@@ -19289,14 +19349,6 @@
    "AWAY 1+": {
     "picks": 7,
     "won": 7
-   },
-   "UNDER 3.5": {
-    "picks": 135,
-    "won": 103
-   },
-   "X2": {
-    "picks": 48,
-    "won": 40
    }
   },
   "backtest": {
@@ -19833,7 +19885,9 @@
        "odds": 1.58,
        "market": "Away Team Total Goals(2nd Half)",
        "selection": "Over 0.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "1-1",
+       "ht": "1-0"
       },
       {
        "fid": 1350205,
@@ -20716,7 +20770,9 @@
         "odds": 1.58,
         "market": "Away Team Total Goals(2nd Half)",
         "selection": "Over 0.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "1-1",
+        "ht": "1-0"
        },
        {
         "fid": 1350205,
@@ -25067,20 +25123,20 @@
     "hit": 63.2
    },
    {
+    "id": "M2",
+    "name": "Away Favourite Second-Half Goal",
+    "sporty": "2nd Half - Away Team Over 0.5",
+    "picks": 19,
+    "won": 11,
+    "hit": 57.9
+   },
+   {
     "id": "M1",
     "name": "Away Favourite Wins a Half",
     "sporty": "Away Team to Win Either Half - Yes",
     "picks": 19,
     "won": 9,
     "hit": 47.4
-   },
-   {
-    "id": "M2",
-    "name": "Away Favourite Second-Half Goal",
-    "sporty": "2nd Half - Away Team Over 0.5",
-    "picks": 18,
-    "won": 10,
-    "hit": 55.6
    },
    {
     "id": "A8",
@@ -54588,7 +54644,7 @@
    "about": "Mixed markets, built until the ticket reaches 20 odds. Rare wins, big payout."
   }
  },
- "generated": "2026-10-06 01:43",
+ "generated": "2026-10-06 12:15",
  "split": "2026-09-26",
  "note": "Candidates only. Selected as the best of 21,335 tested patterns over 6 days; some of this record is luck and will fade. Flat 1-unit stakes at the typical (median) bookmaker price. Prices captured about 1 hour before kick-off.",
  "models": [
