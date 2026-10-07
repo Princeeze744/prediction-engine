@@ -33,12 +33,12 @@
      "roi": 26.1
     },
     "live": {
-     "picks": 22,
+     "picks": 24,
      "won": 4,
-     "hit": 18.2,
-     "avg_odds": 3.56,
-     "profit": -8.98,
-     "roi": -40.8
+     "hit": 16.7,
+     "avg_odds": 3.48,
+     "profit": -10.98,
+     "roi": -45.8
     }
    },
    {
@@ -53,12 +53,12 @@
      "roi": 23.3
     },
     "live": {
-     "picks": 23,
+     "picks": 24,
      "won": 3,
-     "hit": 13.0,
-     "avg_odds": 3.89,
-     "profit": -11.09,
-     "roi": -48.2
+     "hit": 12.5,
+     "avg_odds": 3.9,
+     "profit": -12.09,
+     "roi": -50.4
     }
    },
    {
@@ -73,12 +73,12 @@
      "roi": 36.7
     },
     "live": {
-     "picks": 9,
-     "won": 2,
-     "hit": 22.2,
-     "avg_odds": 3.91,
-     "profit": -1.85,
-     "roi": -20.6
+     "picks": 10,
+     "won": 3,
+     "hit": 30.0,
+     "avg_odds": 3.84,
+     "profit": 0.4,
+     "roi": 4.0
     }
    },
    {
@@ -93,12 +93,12 @@
      "roi": 21.2
     },
     "live": {
-     "picks": 15,
+     "picks": 16,
      "won": 1,
-     "hit": 6.7,
-     "avg_odds": 5.12,
-     "profit": -11.25,
-     "roi": -75.0
+     "hit": 6.2,
+     "avg_odds": 5.26,
+     "profit": -12.25,
+     "roi": -76.6
     }
    }
   ],
@@ -270,7 +270,10 @@
       "pick": "1st Half - Over/Under - Under 0.5",
       "odds": 2.75,
       "market": "Goals Over/Under First Half",
-      "selection": "Under 0.5"
+      "selection": "Under 0.5",
+      "status": "LOST",
+      "score": "0-2",
+      "ht": "0-1"
      },
      {
       "model": "D2",
@@ -380,7 +383,10 @@
       "pick": "1st Half - Over/Under - Under 0.5",
       "odds": 2.51,
       "market": "Goals Over/Under First Half",
-      "selection": "Under 0.5"
+      "selection": "Under 0.5",
+      "status": "LOST",
+      "score": "3-0",
+      "ht": "1-0"
      },
      {
       "model": "D3",
@@ -479,7 +485,10 @@
       "pick": "Exact Goals - 3",
       "odds": 4.33,
       "market": "Exact Goals Number",
-      "selection": "3"
+      "selection": "3",
+      "status": "LOST",
+      "score": "1-0",
+      "ht": "0-0"
      },
      {
       "model": "D3",
@@ -589,7 +598,10 @@
       "pick": "Home Team to Win to Nil - Yes",
       "odds": 3.25,
       "market": "Win To Nil",
-      "selection": "Home"
+      "selection": "Home",
+      "status": "WON",
+      "score": "1-0",
+      "ht": "0-0"
      },
      {
       "model": "D4",
@@ -611,7 +623,10 @@
       "pick": "1X2 & GG/NG - Away & Yes",
       "odds": 7.5,
       "market": "Results/Both Teams Score",
-      "selection": "Away/Yes"
+      "selection": "Away/Yes",
+      "status": "LOST",
+      "score": "3-2",
+      "ht": "0-0"
      },
      {
       "model": "D5",
@@ -2037,7 +2052,9 @@
        "odds": 1.16,
        "market": "Handicap Result - First Half",
        "selection": "Home +1",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "3-2",
+       "ht": "0-0"
       },
       {
        "fid": 1635579,
@@ -2241,7 +2258,9 @@
        "odds": 1.12,
        "market": "Clean Sheet - Home",
        "selection": "No",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "3-1",
+       "ht": "1-0"
       },
       {
        "fid": 1640288,
@@ -2307,7 +2326,9 @@
        "odds": 1.2,
        "market": "Asian Handicap First Half",
        "selection": "Home +0.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "3-2",
+       "ht": "0-0"
       },
       {
        "fid": 1635579,
@@ -2482,7 +2503,9 @@
         "odds": 1.16,
         "market": "Handicap Result - First Half",
         "selection": "Home +1",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "3-2",
+        "ht": "0-0"
        },
        {
         "fid": 1635579,
@@ -2686,7 +2709,9 @@
         "odds": 1.12,
         "market": "Clean Sheet - Home",
         "selection": "No",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "3-1",
+        "ht": "1-0"
        },
        {
         "fid": 1640288,
@@ -2752,7 +2777,9 @@
         "odds": 1.2,
         "market": "Asian Handicap First Half",
         "selection": "Home +0.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "3-2",
+        "ht": "0-0"
        },
        {
         "fid": 1635579,
@@ -8746,16 +8773,19 @@
        "cat": "X2",
        "consistency": 96,
        "neighbours": "48 / 50",
-       "odds": 1.02
+       "odds": 1.02,
+       "status": "WON"
       },
       {
        "option": "Away team to score 1+",
        "cat": "AWAY 1+",
        "consistency": 96,
        "neighbours": "48 / 50",
-       "odds": 1.09
+       "odds": 1.09,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "0-2"
     },
     {
      "fid": 1528725,
@@ -9586,16 +9616,19 @@
         "cat": "X2",
         "consistency": 96,
         "neighbours": "48 / 50",
-        "odds": 1.02
+        "odds": 1.02,
+        "status": "WON"
        },
        {
         "option": "Away team to score 1+",
         "cat": "AWAY 1+",
         "consistency": 96,
         "neighbours": "48 / 50",
-        "odds": 1.09
+        "odds": 1.09,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "0-2"
      },
      {
       "fid": 1528725,
@@ -20921,21 +20954,21 @@
    }
   ],
   "live": {
+   "X2": {
+    "picks": 69,
+    "won": 55
+   },
+   "TOP FINGERPRINT": {
+    "picks": 395,
+    "won": 326
+   },
+   "AWAY 1+": {
+    "picks": 12,
+    "won": 12
+   },
    "1X": {
     "picks": 89,
     "won": 81
-   },
-   "TOP FINGERPRINT": {
-    "picks": 394,
-    "won": 325
-   },
-   "AWAY 1+": {
-    "picks": 11,
-    "won": 11
-   },
-   "X2": {
-    "picks": 68,
-    "won": 54
    },
    "HOME 1+": {
     "picks": 84,
@@ -21152,7 +21185,9 @@
        "odds": 1.2,
        "market": "Goals Over/Under",
        "selection": "Over 1.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "3-2",
+       "ht": "0-0"
       },
       {
        "fid": 1635579,
@@ -21236,7 +21271,9 @@
        "odds": 1.25,
        "market": "Both Teams Score - First Half",
        "selection": "No",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "1-1",
+       "ht": "1-0"
       },
       {
        "fid": 1635578,
@@ -21296,7 +21333,9 @@
        "odds": 1.56,
        "market": "Away team will score in both halves",
        "selection": "No",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "0-2",
+       "ht": "0-1"
       },
       {
        "fid": 1639216,
@@ -21311,8 +21350,8 @@
        "status": "PENDING"
       }
      ],
-     "status": "PENDING",
-     "lost_legs": 0
+     "status": "LOST",
+     "lost_legs": 1
     },
     {
      "no": 5,
@@ -21332,7 +21371,9 @@
        "odds": 1.28,
        "market": "Both Teams Score - First Half",
        "selection": "No",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "2-0",
+       "ht": "1-0"
       },
       {
        "fid": 1635580,
@@ -21416,7 +21457,9 @@
        "odds": 1.2,
        "market": "Goals Over/Under",
        "selection": "Over 1.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "3-2",
+       "ht": "0-0"
       },
       {
        "fid": 1562767,
@@ -21428,7 +21471,9 @@
        "odds": 1.25,
        "market": "Both Teams Score - First Half",
        "selection": "No",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "1-1",
+       "ht": "1-0"
       },
       {
        "fid": 1635579,
@@ -21488,11 +21533,13 @@
        "odds": 1.56,
        "market": "Away team will score in both halves",
        "selection": "No",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "0-2",
+       "ht": "0-1"
       }
      ],
-     "status": "PENDING",
-     "lost_legs": 0
+     "status": "LOST",
+     "lost_legs": 1
     },
     {
      "no": 7,
@@ -21644,7 +21691,9 @@
        "odds": 1.57,
        "market": "To Win Either Half",
        "selection": "Away",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "3-1",
+       "ht": "1-0"
       },
       {
        "fid": 1639221,
@@ -21695,8 +21744,8 @@
        "status": "PENDING"
       }
      ],
-     "status": "PENDING",
-     "lost_legs": 0
+     "status": "LOST",
+     "lost_legs": 1
     },
     {
      "no": 9,
@@ -21716,7 +21765,9 @@
        "odds": 1.2,
        "market": "Asian Handicap First Half",
        "selection": "Home +0.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "3-2",
+       "ht": "0-0"
       },
       {
        "fid": 1562767,
@@ -21728,7 +21779,9 @@
        "odds": 1.25,
        "market": "Both Teams Score - First Half",
        "selection": "No",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "1-1",
+       "ht": "1-0"
       },
       {
        "fid": 1635589,
@@ -21800,11 +21853,13 @@
        "odds": 1.56,
        "market": "Away team will score in both halves",
        "selection": "No",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "0-2",
+       "ht": "0-1"
       }
      ],
-     "status": "PENDING",
-     "lost_legs": 0
+     "status": "LOST",
+     "lost_legs": 1
     },
     {
      "no": 10,
@@ -22047,7 +22102,9 @@
         "odds": 1.2,
         "market": "Goals Over/Under",
         "selection": "Over 1.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "3-2",
+        "ht": "0-0"
        },
        {
         "fid": 1635579,
@@ -22131,7 +22188,9 @@
         "odds": 1.25,
         "market": "Both Teams Score - First Half",
         "selection": "No",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "1-1",
+        "ht": "1-0"
        },
        {
         "fid": 1635578,
@@ -22191,7 +22250,9 @@
         "odds": 1.56,
         "market": "Away team will score in both halves",
         "selection": "No",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "0-2",
+        "ht": "0-1"
        },
        {
         "fid": 1639216,
@@ -22206,8 +22267,8 @@
         "status": "PENDING"
        }
       ],
-      "status": "PENDING",
-      "lost_legs": 0
+      "status": "LOST",
+      "lost_legs": 1
      },
      {
       "no": 5,
@@ -22227,7 +22288,9 @@
         "odds": 1.28,
         "market": "Both Teams Score - First Half",
         "selection": "No",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "2-0",
+        "ht": "1-0"
        },
        {
         "fid": 1635580,
@@ -22311,7 +22374,9 @@
         "odds": 1.2,
         "market": "Goals Over/Under",
         "selection": "Over 1.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "3-2",
+        "ht": "0-0"
        },
        {
         "fid": 1562767,
@@ -22323,7 +22388,9 @@
         "odds": 1.25,
         "market": "Both Teams Score - First Half",
         "selection": "No",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "1-1",
+        "ht": "1-0"
        },
        {
         "fid": 1635579,
@@ -22383,11 +22450,13 @@
         "odds": 1.56,
         "market": "Away team will score in both halves",
         "selection": "No",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "0-2",
+        "ht": "0-1"
        }
       ],
-      "status": "PENDING",
-      "lost_legs": 0
+      "status": "LOST",
+      "lost_legs": 1
      },
      {
       "no": 7,
@@ -22539,7 +22608,9 @@
         "odds": 1.57,
         "market": "To Win Either Half",
         "selection": "Away",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "3-1",
+        "ht": "1-0"
        },
        {
         "fid": 1639221,
@@ -22590,8 +22661,8 @@
         "status": "PENDING"
        }
       ],
-      "status": "PENDING",
-      "lost_legs": 0
+      "status": "LOST",
+      "lost_legs": 1
      },
      {
       "no": 9,
@@ -22611,7 +22682,9 @@
         "odds": 1.2,
         "market": "Asian Handicap First Half",
         "selection": "Home +0.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "3-2",
+        "ht": "0-0"
        },
        {
         "fid": 1562767,
@@ -22623,7 +22696,9 @@
         "odds": 1.25,
         "market": "Both Teams Score - First Half",
         "selection": "No",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "1-1",
+        "ht": "1-0"
        },
        {
         "fid": 1635589,
@@ -22695,11 +22770,13 @@
         "odds": 1.56,
         "market": "Away team will score in both halves",
         "selection": "No",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "0-2",
+        "ht": "0-1"
        }
       ],
-      "status": "PENDING",
-      "lost_legs": 0
+      "status": "LOST",
+      "lost_legs": 1
      },
      {
       "no": 10,
@@ -27619,23 +27696,23 @@
    }
   ],
   "live": {
+   "5 odds": {
+    "tickets": 17,
+    "won": 4,
+    "profit": 4.79,
+    "hit": 23.5
+   },
+   "10 odds": {
+    "tickets": 17,
+    "won": 2,
+    "profit": 3.36,
+    "hit": 11.8
+   },
    "3 odds": {
     "tickets": 15,
     "won": 6,
     "profit": 3.87,
     "hit": 40.0
-   },
-   "5 odds": {
-    "tickets": 15,
-    "won": 4,
-    "profit": 6.79,
-    "hit": 26.7
-   },
-   "10 odds": {
-    "tickets": 15,
-    "won": 2,
-    "profit": 5.36,
-    "hit": 13.3
    },
    "20 odds": {
     "tickets": 5,
@@ -27706,20 +27783,20 @@
   ],
   "by_model": [
    {
+    "id": "A10",
+    "name": "No First-Half GG (Home Favourite)",
+    "sporty": "1st Half - GG/NG - No",
+    "picks": 33,
+    "won": 27,
+    "hit": 81.8
+   },
+   {
     "id": "A6",
     "name": "Home Favourite 1X",
     "sporty": "Double Chance - Home or Draw",
     "picks": 31,
     "won": 24,
     "hit": 77.4
-   },
-   {
-    "id": "A10",
-    "name": "No First-Half GG (Home Favourite)",
-    "sporty": "1st Half - GG/NG - No",
-    "picks": 29,
-    "won": 23,
-    "hit": 79.3
    },
    {
     "id": "A4",
@@ -27733,9 +27810,9 @@
     "id": "A2",
     "name": "Home Favourite Not Behind at Half-Time",
     "sporty": "1st Half - Double Chance - Home or Draw",
-    "picks": 26,
-    "won": 20,
-    "hit": 76.9
+    "picks": 27,
+    "won": 21,
+    "hit": 77.8
    },
    {
     "id": "M2",
@@ -27746,6 +27823,14 @@
     "hit": 58.3
    },
    {
+    "id": "M1",
+    "name": "Away Favourite Wins a Half",
+    "sporty": "Away Team to Win Either Half - Yes",
+    "picks": 24,
+    "won": 12,
+    "hit": 50.0
+   },
+   {
     "id": "M9",
     "name": "Away Blank in First Half",
     "sporty": "1st Half - Away Team Under 0.5",
@@ -27754,12 +27839,12 @@
     "hit": 69.6
    },
    {
-    "id": "M1",
-    "name": "Away Favourite Wins a Half",
-    "sporty": "Away Team to Win Either Half - Yes",
-    "picks": 23,
-    "won": 12,
-    "hit": 52.2
+    "id": "A8",
+    "name": "Cup Game Over 1.5",
+    "sporty": "Over/Under - Over 1.5",
+    "picks": 22,
+    "won": 21,
+    "hit": 95.5
    },
    {
     "id": "A9",
@@ -27768,14 +27853,6 @@
     "picks": 21,
     "won": 15,
     "hit": 71.4
-   },
-   {
-    "id": "A8",
-    "name": "Cup Game Over 1.5",
-    "sporty": "Over/Under - Over 1.5",
-    "picks": 20,
-    "won": 19,
-    "hit": 95.0
    },
    {
     "id": "A7",
@@ -27805,9 +27882,9 @@
     "id": "A3",
     "name": "Underdog Will Not Score in Both Halves",
     "sporty": "Away Team to Score in Both Halves - No",
-    "picks": 8,
+    "picks": 11,
     "won": 4,
-    "hit": 50.0
+    "hit": 36.4
    },
    {
     "id": "M7",
@@ -56067,7 +56144,7 @@
    "about": "Mixed markets, built until the ticket reaches 20 odds. Rare wins, big payout."
   }
  },
- "generated": "2026-10-07 01:33",
+ "generated": "2026-10-07 12:03",
  "split": "2026-09-26",
  "note": "Candidates only. Selected as the best of 21,335 tested patterns over 6 days; some of this record is luck and will fade. Flat 1-unit stakes at the typical (median) bookmaker price. Prices captured about 1 hour before kick-off.",
  "models": [
@@ -79009,13 +79086,13 @@
    "selection": "No",
    "rule": "O2.5@<1.55 and league  ->  Both Teams To Score in Both Halves | No",
    "record": {
-    "picks": 267,
-    "won": 250,
+    "picks": 268,
+    "won": 251,
     "lost": 17,
     "void": 0,
-    "hit": 93.6,
+    "hit": 93.7,
     "avg_odds": 1.05,
-    "profit": -3.97,
+    "profit": -3.95,
     "roi": -1.5,
     "roi_best": -1.5
    },
@@ -79031,19 +79108,31 @@
     "roi_best": -2.6
    },
    "unseen": {
-    "picks": 93,
-    "won": 89,
+    "picks": 94,
+    "won": 90,
     "lost": 4,
     "void": 0,
     "hit": 95.7,
     "avg_odds": 1.05,
-    "profit": 0.63,
+    "profit": 0.65,
     "roi": 0.7,
     "roi_best": 0.7
    },
-   "days_positive": 4,
-   "days": 7,
+   "days_positive": 5,
+   "days": 8,
    "daily": [
+    {
+     "date": "2026-10-07",
+     "picks": 1,
+     "won": 1,
+     "lost": 0,
+     "void": 0,
+     "hit": 100.0,
+     "avg_odds": 1.02,
+     "profit": 0.02,
+     "roi": 2.0,
+     "roi_best": 2.0
+    },
     {
      "date": "2026-10-01",
      "picks": 7,
@@ -79173,6 +79262,19 @@
     }
    ],
    "picks": [
+    {
+     "fid": 1562767,
+     "date": "2026-10-07",
+     "match": "Mlad\u00e1 Boleslav II - Varnsdorf",
+     "league": "Czech-Republic: 3. liga - CFL B",
+     "score": "1-1",
+     "ht": "1-0",
+     "odds": 1.02,
+     "best": 1.02,
+     "status": "WON",
+     "profit": 0.02,
+     "profit_best": 0.02
+    },
     {
      "fid": 1490500,
      "date": "2026-10-01",
@@ -104438,15 +104540,15 @@
    "selection": "No",
    "rule": "homeFav and O2.5@<1.55  ->  Both Teams Score - First Half | No",
    "record": {
-    "picks": 313,
-    "won": 253,
+    "picks": 314,
+    "won": 254,
     "lost": 60,
     "void": 0,
-    "hit": 80.8,
+    "hit": 80.9,
     "avg_odds": 1.25,
-    "profit": 3.79,
-    "roi": 1.2,
-    "roi_best": 2.0
+    "profit": 4.04,
+    "roi": 1.3,
+    "roi_best": 2.1
    },
    "found": {
     "picks": 183,
@@ -104460,19 +104562,31 @@
     "roi_best": 3.3
    },
    "unseen": {
-    "picks": 130,
-    "won": 104,
+    "picks": 131,
+    "won": 105,
     "lost": 26,
     "void": 0,
-    "hit": 80.0,
+    "hit": 80.2,
     "avg_odds": 1.24,
-    "profit": -0.64,
-    "roi": -0.5,
-    "roi_best": 0.2
+    "profit": -0.39,
+    "roi": -0.3,
+    "roi_best": 0.4
    },
-   "days_positive": 3,
-   "days": 7,
+   "days_positive": 4,
+   "days": 8,
    "daily": [
+    {
+     "date": "2026-10-07",
+     "picks": 1,
+     "won": 1,
+     "lost": 0,
+     "void": 0,
+     "hit": 100.0,
+     "avg_odds": 1.25,
+     "profit": 0.25,
+     "roi": 25.0,
+     "roi_best": 26.0
+    },
     {
      "date": "2026-10-01",
      "picks": 20,
@@ -104642,6 +104756,19 @@
     }
    ],
    "picks": [
+    {
+     "fid": 1562767,
+     "date": "2026-10-07",
+     "match": "Mlad\u00e1 Boleslav II - Varnsdorf",
+     "league": "Czech-Republic: 3. liga - CFL B",
+     "score": "1-1",
+     "ht": "1-0",
+     "odds": 1.25,
+     "best": 1.26,
+     "status": "WON",
+     "profit": 0.25,
+     "profit_best": 0.26
+    },
     {
      "fid": 1350188,
      "date": "2026-10-01",
@@ -117372,10 +117499,10 @@
    "selection": "Over 1.0",
    "rule": "X3.3-3.7 and senior  ->  Goals Over/Under First Half | Over 1.0",
    "record": {
-    "picks": 430,
+    "picks": 431,
     "won": 170,
     "lost": 97,
-    "void": 163,
+    "void": 164,
     "hit": 63.7,
     "avg_odds": 1.71,
     "profit": 18.68,
@@ -117394,10 +117521,10 @@
     "roi_best": 6.3
    },
    "unseen": {
-    "picks": 222,
+    "picks": 223,
     "won": 80,
     "lost": 47,
-    "void": 95,
+    "void": 96,
     "hit": 63.0,
     "avg_odds": 1.74,
     "profit": 9.53,
@@ -117405,8 +117532,20 @@
     "roi_best": 5.2
    },
    "days_positive": 5,
-   "days": 8,
+   "days": 9,
    "daily": [
+    {
+     "date": "2026-10-07",
+     "picks": 1,
+     "won": 0,
+     "lost": 0,
+     "void": 1,
+     "hit": null,
+     "avg_odds": 1.46,
+     "profit": 0.0,
+     "roi": 0.0,
+     "roi_best": 0.0
+    },
     {
      "date": "2026-10-02",
      "picks": 1,
@@ -117692,6 +117831,19 @@
     }
    ],
    "picks": [
+    {
+     "fid": 1562767,
+     "date": "2026-10-07",
+     "match": "Mlad\u00e1 Boleslav II - Varnsdorf",
+     "league": "Czech-Republic: 3. liga - CFL B",
+     "score": "1-1",
+     "ht": "1-0",
+     "odds": 1.46,
+     "best": 1.51,
+     "status": "VOID",
+     "profit": 0.0,
+     "profit_best": 0.0
+    },
     {
      "fid": 1601401,
      "date": "2026-10-02",
@@ -151859,15 +152011,15 @@
    "selection": "Over 0.5",
    "rule": "fav1.70-2.00 and X3.3-3.7  ->  Goals Over/Under First Half | Over 0.5",
    "record": {
-    "picks": 175,
-    "won": 138,
+    "picks": 176,
+    "won": 139,
     "lost": 37,
     "void": 0,
-    "hit": 78.9,
+    "hit": 79.0,
     "avg_odds": 1.32,
-    "profit": 7.17,
-    "roi": 4.1,
-    "roi_best": 5.6
+    "profit": 7.38,
+    "roi": 4.2,
+    "roi_best": 5.7
    },
    "found": {
     "picks": 82,
@@ -151881,19 +152033,31 @@
     "roi_best": 4.5
    },
    "unseen": {
-    "picks": 93,
-    "won": 74,
+    "picks": 94,
+    "won": 75,
     "lost": 19,
     "void": 0,
-    "hit": 79.6,
+    "hit": 79.8,
     "avg_odds": 1.33,
-    "profit": 4.87,
-    "roi": 5.2,
-    "roi_best": 6.6
+    "profit": 5.08,
+    "roi": 5.4,
+    "roi_best": 6.8
    },
-   "days_positive": 5,
-   "days": 7,
+   "days_positive": 6,
+   "days": 8,
    "daily": [
+    {
+     "date": "2026-10-07",
+     "picks": 1,
+     "won": 1,
+     "lost": 0,
+     "void": 0,
+     "hit": 100.0,
+     "avg_odds": 1.21,
+     "profit": 0.21,
+     "roi": 21.0,
+     "roi_best": 21.0
+    },
     {
      "date": "2026-10-01",
      "picks": 13,
@@ -152063,6 +152227,19 @@
     }
    ],
    "picks": [
+    {
+     "fid": 1562767,
+     "date": "2026-10-07",
+     "match": "Mlad\u00e1 Boleslav II - Varnsdorf",
+     "league": "Czech-Republic: 3. liga - CFL B",
+     "score": "1-1",
+     "ht": "1-0",
+     "odds": 1.21,
+     "best": 1.21,
+     "status": "WON",
+     "profit": 0.21,
+     "profit_best": 0.21
+    },
     {
      "fid": 1493716,
      "date": "2026-10-01",
@@ -154351,15 +154528,15 @@
    "selection": "No",
    "rule": "O2.5@<1.55 and league  ->  Home win both halves | No",
    "record": {
-    "picks": 153,
-    "won": 121,
+    "picks": 154,
+    "won": 122,
     "lost": 32,
     "void": 0,
-    "hit": 79.1,
+    "hit": 79.2,
     "avg_odds": 1.3,
-    "profit": 1.91,
-    "roi": 1.2,
-    "roi_best": 1.2
+    "profit": 1.99,
+    "roi": 1.3,
+    "roi_best": 1.3
    },
    "found": {
     "picks": 79,
@@ -154373,19 +154550,31 @@
     "roi_best": 1.5
    },
    "unseen": {
-    "picks": 74,
-    "won": 58,
+    "picks": 75,
+    "won": 59,
     "lost": 16,
     "void": 0,
-    "hit": 78.4,
+    "hit": 78.7,
     "avg_odds": 1.3,
-    "profit": 0.76,
-    "roi": 1.0,
-    "roi_best": 1.0
+    "profit": 0.84,
+    "roi": 1.1,
+    "roi_best": 1.1
    },
-   "days_positive": 4,
-   "days": 7,
+   "days_positive": 5,
+   "days": 8,
    "daily": [
+    {
+     "date": "2026-10-07",
+     "picks": 1,
+     "won": 1,
+     "lost": 0,
+     "void": 0,
+     "hit": 100.0,
+     "avg_odds": 1.08,
+     "profit": 0.08,
+     "roi": 8.0,
+     "roi_best": 8.0
+    },
     {
      "date": "2026-10-01",
      "picks": 8,
@@ -154523,6 +154712,19 @@
     }
    ],
    "picks": [
+    {
+     "fid": 1562767,
+     "date": "2026-10-07",
+     "match": "Mlad\u00e1 Boleslav II - Varnsdorf",
+     "league": "Czech-Republic: 3. liga - CFL B",
+     "score": "1-1",
+     "ht": "1-0",
+     "odds": 1.08,
+     "best": 1.08,
+     "status": "WON",
+     "profit": 0.08,
+     "profit_best": 0.08
+    },
     {
      "fid": 1350188,
      "date": "2026-10-01",
