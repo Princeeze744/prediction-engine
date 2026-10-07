@@ -1,0 +1,410 @@
+{
+ "date": "2026-10-07",
+ "created": "2026-10-07 01:33",
+ "tickets": [
+  {
+   "no": 1,
+   "model": "A7",
+   "tier": "Away Favourite +1 Start",
+   "sporty": "Handicap 0:1 - Away (0:1)",
+   "target": 3.0,
+   "odds": 3.41,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.8,
+    "picks": 111,
+    "avg_odds": 1.29
+   },
+   "legs": [
+    {
+     "fid": 1643186,
+     "kickoff": "10/7/2026 11:00:00 PM",
+     "match": "Antofagasta - Universidad de Chile",
+     "league": "Chile: Copa Chile",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.19,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1528727,
+     "kickoff": "10/7/2026 12:30:00 PM",
+     "match": "Nanjing City - Shaanxi Union",
+     "league": "China: League One",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.26,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1640688,
+     "kickoff": "10/7/2026 1:00:00 PM",
+     "match": "Karab\u00fck \u0130dman Yurdu - Beykoz Anadolu",
+     "league": "Turkey: T\u00fcrkiye Kupas\u0131",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.36,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1639195,
+     "kickoff": "10/7/2026 2:00:00 PM",
+     "match": "Brusaporto - Chievo",
+     "league": "Italy: Coppa Italia Serie D",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.23,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1639212,
+     "kickoff": "10/7/2026 2:00:00 PM",
+     "match": "Sasso Marconi Zola - Cittadella Vis Modena",
+     "league": "Italy: Coppa Italia Serie D",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.36,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "model": "S3",
+   "tier": "Home Favourite +1 at Half-Time",
+   "sporty": "1st Half - Handicap 1:0 - Home (1:0)",
+   "target": 3.0,
+   "odds": 2.66,
+   "reached": false,
+   "repeats": false,
+   "record": {
+    "hit": 84.1,
+    "picks": 189,
+    "avg_odds": 1.26
+   },
+   "legs": [
+    {
+     "fid": 1635591,
+     "kickoff": "10/7/2026 10:00:00 AM",
+     "match": "Urawa - Omiya Ardija",
+     "league": "Japan: Emperor Cup",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.16,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1635579,
+     "kickoff": "10/7/2026 10:30:00 AM",
+     "match": "Cerezo Osaka - Kagoshima United",
+     "league": "Japan: Emperor Cup",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.14,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1635585,
+     "kickoff": "10/7/2026 11:00:00 AM",
+     "match": "Kawasaki Frontale - Tegevajaro Miyazaki",
+     "league": "Japan: Emperor Cup",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.13,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1492392,
+     "kickoff": "10/7/2026 11:30:00 PM",
+     "match": "RB Bragantino - Mirassol",
+     "league": "Brazil: Serie A",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.16,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1528725,
+     "kickoff": "10/7/2026 12:00:00 PM",
+     "match": "Shenzhen Juniors - Guangzhou E-Power",
+     "league": "China: League One",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.27,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1640698,
+     "kickoff": "10/7/2026 12:00:00 PM",
+     "match": "Osmaniyespor - Yeni Mersin Idmanyurdu",
+     "league": "Turkey: T\u00fcrkiye Kupas\u0131",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.21,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "model": "A5",
+   "tier": "Away Favourite X2",
+   "sporty": "Double Chance - Draw or Away",
+   "target": 3.0,
+   "odds": 3.69,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.8,
+    "picks": 130,
+    "avg_odds": 1.25
+   },
+   "legs": [
+    {
+     "fid": 1643186,
+     "kickoff": "10/7/2026 11:00:00 PM",
+     "match": "Antofagasta - Universidad de Chile",
+     "league": "Chile: Copa Chile",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.17,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1528727,
+     "kickoff": "10/7/2026 12:30:00 PM",
+     "match": "Nanjing City - Shaanxi Union",
+     "league": "China: League One",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.22,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1640688,
+     "kickoff": "10/7/2026 1:00:00 PM",
+     "match": "Karab\u00fck \u0130dman Yurdu - Beykoz Anadolu",
+     "league": "Turkey: T\u00fcrkiye Kupas\u0131",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.36,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1639195,
+     "kickoff": "10/7/2026 2:00:00 PM",
+     "match": "Brusaporto - Chievo",
+     "league": "Italy: Coppa Italia Serie D",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.21,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1639202,
+     "kickoff": "10/7/2026 2:00:00 PM",
+     "match": "Igea Virtus - Reggina",
+     "league": "Italy: Coppa Italia Serie D",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.2,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1639212,
+     "kickoff": "10/7/2026 2:00:00 PM",
+     "match": "Sasso Marconi Zola - Cittadella Vis Modena",
+     "league": "Italy: Coppa Italia Serie D",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.31,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "model": "A1",
+   "tier": "Away Favourite Scores",
+   "sporty": "Home Team Clean Sheet - No",
+   "target": 3.0,
+   "odds": 3.44,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 87.6,
+    "picks": 217,
+    "avg_odds": 1.2
+   },
+   "legs": [
+    {
+     "fid": 1643186,
+     "kickoff": "10/7/2026 11:00:00 PM",
+     "match": "Antofagasta - Universidad de Chile",
+     "league": "Chile: Copa Chile",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.17,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1528727,
+     "kickoff": "10/7/2026 12:30:00 PM",
+     "match": "Nanjing City - Shaanxi Union",
+     "league": "China: League One",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.22,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1490326,
+     "kickoff": "10/7/2026 1:30:00 AM",
+     "match": "Chicago Fire - Vancouver Whitecaps",
+     "league": "USA: Major League Soccer",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.12,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1640288,
+     "kickoff": "10/7/2026 3:00:00 PM",
+     "match": "Asyut Petrol - Al Ahly",
+     "league": "Egypt: League Cup",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.57,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1517361,
+     "kickoff": "10/7/2026 4:00:00 PM",
+     "match": "York United - Supra du Quebec",
+     "league": "Canada: Canadian Premier League",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.17,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1638101,
+     "kickoff": "10/7/2026 5:00:00 PM",
+     "match": "Gnistan - Inter Turku",
+     "league": "Finland: Veikkausliiga",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.17,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "model": "A2",
+   "tier": "Home Favourite Not Behind at Half-Time",
+   "sporty": "1st Half - Double Chance - Home or Draw",
+   "target": 3.0,
+   "odds": 3.14,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.1,
+    "picks": 177,
+    "avg_odds": 1.26
+   },
+   "legs": [
+    {
+     "fid": 1635591,
+     "kickoff": "10/7/2026 10:00:00 AM",
+     "match": "Urawa - Omiya Ardija",
+     "league": "Japan: Emperor Cup",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.2,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1635579,
+     "kickoff": "10/7/2026 10:30:00 AM",
+     "match": "Cerezo Osaka - Kagoshima United",
+     "league": "Japan: Emperor Cup",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.15,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1492392,
+     "kickoff": "10/7/2026 11:30:00 PM",
+     "match": "RB Bragantino - Mirassol",
+     "league": "Brazil: Serie A",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.21,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1528725,
+     "kickoff": "10/7/2026 12:00:00 PM",
+     "match": "Shenzhen Juniors - Guangzhou E-Power",
+     "league": "China: League One",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.35,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1640698,
+     "kickoff": "10/7/2026 12:00:00 PM",
+     "match": "Osmaniyespor - Yeni Mersin Idmanyurdu",
+     "league": "Turkey: T\u00fcrkiye Kupas\u0131",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.21,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1638733,
+     "kickoff": "10/7/2026 4:00:00 PM",
+     "match": "Jordan W - Armenia W",
+     "league": "World: Friendlies Women",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.15,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    }
+   ]
+  }
+ ]
+}
