@@ -13,12 +13,12 @@
      "roi": 14.4
     },
     "live": {
-     "picks": 20,
+     "picks": 23,
      "won": 2,
-     "hit": 10.0,
-     "avg_odds": 4.16,
-     "profit": -12.31,
-     "roi": -61.6
+     "hit": 8.7,
+     "avg_odds": 4.14,
+     "profit": -15.31,
+     "roi": -66.6
     }
    },
    {
@@ -33,12 +33,12 @@
      "roi": 26.1
     },
     "live": {
-     "picks": 26,
-     "won": 5,
-     "hit": 19.2,
+     "picks": 29,
+     "won": 7,
+     "hit": 24.1,
      "avg_odds": 3.48,
-     "profit": -9.78,
-     "roi": -37.6
+     "profit": -6.18,
+     "roi": -21.3
     }
    },
    {
@@ -93,12 +93,12 @@
      "roi": 21.2
     },
     "live": {
-     "picks": 16,
+     "picks": 17,
      "won": 1,
-     "hit": 6.2,
-     "avg_odds": 5.26,
-     "profit": -12.25,
-     "roi": -76.6
+     "hit": 5.9,
+     "avg_odds": 5.25,
+     "profit": -13.25,
+     "roi": -77.9
     }
    }
   ],
@@ -141,7 +141,10 @@
       "pick": "Half Time/Full Time - Draw/Home",
       "odds": 4.17,
       "market": "HT/FT Double",
-      "selection": "Draw/Home"
+      "selection": "Draw/Home",
+      "status": "LOST",
+      "score": "3-1",
+      "ht": "2-0"
      },
      {
       "model": "D1",
@@ -152,7 +155,10 @@
       "pick": "Half Time/Full Time - Draw/Home",
       "odds": 3.98,
       "market": "HT/FT Double",
-      "selection": "Draw/Home"
+      "selection": "Draw/Home",
+      "status": "LOST",
+      "score": "0-0",
+      "ht": "0-0"
      },
      {
       "model": "D1",
@@ -163,7 +169,10 @@
       "pick": "Half Time/Full Time - Draw/Home",
       "odds": 3.78,
       "market": "HT/FT Double",
-      "selection": "Draw/Home"
+      "selection": "Draw/Home",
+      "status": "LOST",
+      "score": "2-2",
+      "ht": "1-2"
      },
      {
       "model": "D1",
@@ -257,7 +266,10 @@
       "pick": "1st Half - Over/Under - Under 0.5",
       "odds": 3.8,
       "market": "Goals Over/Under First Half",
-      "selection": "Under 0.5"
+      "selection": "Under 0.5",
+      "status": "WON",
+      "score": "0-0",
+      "ht": "0-0"
      },
      {
       "model": "D2",
@@ -268,7 +280,10 @@
       "pick": "1st Half - Over/Under - Under 0.5",
       "odds": 4.0,
       "market": "Goals Over/Under First Half",
-      "selection": "Under 0.5"
+      "selection": "Under 0.5",
+      "status": "LOST",
+      "score": "1-2",
+      "ht": "1-2"
      },
      {
       "model": "D2",
@@ -293,7 +308,10 @@
       "pick": "1st Half - Over/Under - Under 0.5",
       "odds": 2.8,
       "market": "Goals Over/Under First Half",
-      "selection": "Under 0.5"
+      "selection": "Under 0.5",
+      "status": "WON",
+      "score": "1-1",
+      "ht": "0-0"
      },
      {
       "model": "D2",
@@ -686,7 +704,10 @@
       "pick": "1X2 & GG/NG - Away & Yes",
       "odds": 5.0,
       "market": "Results/Both Teams Score",
-      "selection": "Away/Yes"
+      "selection": "Away/Yes",
+      "status": "LOST",
+      "score": "0-5",
+      "ht": "0-2"
      },
      {
       "model": "D5",
@@ -2027,7 +2048,9 @@
        "odds": 1.36,
        "market": "Handicap Result",
        "selection": "Away -1",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "1-0",
+       "ht": "1-0"
       },
       {
        "fid": 1639195,
@@ -2039,7 +2062,9 @@
        "odds": 1.23,
        "market": "Handicap Result",
        "selection": "Away -1",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "2-1",
+       "ht": "0-1"
       },
       {
        "fid": 1639212,
@@ -2051,10 +2076,12 @@
        "odds": 1.36,
        "market": "Handicap Result",
        "selection": "Away -1",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "1-0",
+       "ht": "0-0"
       }
      ],
-     "status": "PENDING"
+     "status": "LOST"
     },
     {
      "no": 2,
@@ -2207,7 +2234,9 @@
        "odds": 1.36,
        "market": "Double Chance",
        "selection": "Draw/Away",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "1-0",
+       "ht": "1-0"
       },
       {
        "fid": 1639195,
@@ -2219,7 +2248,9 @@
        "odds": 1.21,
        "market": "Double Chance",
        "selection": "Draw/Away",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "2-1",
+       "ht": "0-1"
       },
       {
        "fid": 1639202,
@@ -2231,7 +2262,9 @@
        "odds": 1.2,
        "market": "Double Chance",
        "selection": "Draw/Away",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "3-2",
+       "ht": "0-1"
       },
       {
        "fid": 1639212,
@@ -2243,10 +2276,12 @@
        "odds": 1.31,
        "market": "Double Chance",
        "selection": "Draw/Away",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "1-0",
+       "ht": "0-0"
       }
      ],
-     "status": "PENDING"
+     "status": "LOST"
     },
     {
      "no": 4,
@@ -2313,7 +2348,9 @@
        "odds": 1.57,
        "market": "Clean Sheet - Home",
        "selection": "No",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "0-5",
+       "ht": "0-2"
       },
       {
        "fid": 1517361,
@@ -2498,7 +2535,9 @@
         "odds": 1.36,
         "market": "Handicap Result",
         "selection": "Away -1",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "1-0",
+        "ht": "1-0"
        },
        {
         "fid": 1639195,
@@ -2510,7 +2549,9 @@
         "odds": 1.23,
         "market": "Handicap Result",
         "selection": "Away -1",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "2-1",
+        "ht": "0-1"
        },
        {
         "fid": 1639212,
@@ -2522,10 +2563,12 @@
         "odds": 1.36,
         "market": "Handicap Result",
         "selection": "Away -1",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "1-0",
+        "ht": "0-0"
        }
       ],
-      "status": "PENDING"
+      "status": "LOST"
      },
      {
       "no": 2,
@@ -2678,7 +2721,9 @@
         "odds": 1.36,
         "market": "Double Chance",
         "selection": "Draw/Away",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "1-0",
+        "ht": "1-0"
        },
        {
         "fid": 1639195,
@@ -2690,7 +2735,9 @@
         "odds": 1.21,
         "market": "Double Chance",
         "selection": "Draw/Away",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "2-1",
+        "ht": "0-1"
        },
        {
         "fid": 1639202,
@@ -2702,7 +2749,9 @@
         "odds": 1.2,
         "market": "Double Chance",
         "selection": "Draw/Away",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "3-2",
+        "ht": "0-1"
        },
        {
         "fid": 1639212,
@@ -2714,10 +2763,12 @@
         "odds": 1.31,
         "market": "Double Chance",
         "selection": "Draw/Away",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "1-0",
+        "ht": "0-0"
        }
       ],
-      "status": "PENDING"
+      "status": "LOST"
      },
      {
       "no": 4,
@@ -2784,7 +2835,9 @@
         "odds": 1.57,
         "market": "Clean Sheet - Home",
         "selection": "No",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "0-5",
+        "ht": "0-2"
        },
        {
         "fid": 1517361,
@@ -6333,30 +6386,30 @@
    }
   ],
   "live": {
+   "A7": {
+    "name": "Away Favourite +1 Start",
+    "tickets": 4,
+    "won": 0
+   },
    "S3": {
     "name": "Home Favourite +1 at Half-Time",
     "tickets": 4,
     "won": 1
+   },
+   "A5": {
+    "name": "Away Favourite X2",
+    "tickets": 4,
+    "won": 0
    },
    "A2": {
     "name": "Home Favourite Not Behind at Half-Time",
     "tickets": 4,
     "won": 0
    },
-   "A7": {
-    "name": "Away Favourite +1 Start",
-    "tickets": 3,
-    "won": 0
-   },
    "A3": {
     "name": "Underdog Will Not Score in Both Halves",
     "tickets": 3,
     "won": 1
-   },
-   "A5": {
-    "name": "Away Favourite X2",
-    "tickets": 3,
-    "won": 0
    },
    "A1": {
     "name": "Away Favourite Scores",
@@ -6418,7 +6471,11 @@
      "o25": 1.5,
      "odds": 1.08,
      "fav_side": "Home",
-     "o15": 1.1
+     "o15": 1.1,
+     "score": "2-2",
+     "status": "LOST",
+     "o15_status": "WON",
+     "fav_status": "LOST"
     },
     {
      "fid": 1611770,
@@ -6461,7 +6518,11 @@
      "o25": 1.58,
      "odds": 1.08,
      "fav_side": "Home",
-     "o15": 1.15
+     "o15": 1.15,
+     "score": "3-1",
+     "status": "WON",
+     "o15_status": "WON",
+     "fav_status": "WON"
     },
     {
      "fid": 1551229,
@@ -6474,7 +6535,11 @@
      "o25": 1.42,
      "odds": 1.08,
      "fav_side": "Home",
-     "o15": 1.08
+     "o15": 1.08,
+     "score": "0-0",
+     "status": "LOST",
+     "o15_status": "LOST",
+     "fav_status": "LOST"
     },
     {
      "fid": 1635589,
@@ -6543,7 +6608,11 @@
      "o25": 1.43,
      "odds": 1.11,
      "fav_side": "Away",
-     "o15": null
+     "o15": null,
+     "score": "1-2",
+     "status": "WON",
+     "o15_status": "WON",
+     "fav_status": "WON"
     },
     {
      "fid": 1638733,
@@ -6632,7 +6701,11 @@
       "o25": 1.5,
       "odds": 1.08,
       "fav_side": "Home",
-      "o15": 1.1
+      "o15": 1.1,
+      "score": "2-2",
+      "status": "LOST",
+      "o15_status": "WON",
+      "fav_status": "LOST"
      },
      {
       "fid": 1611770,
@@ -6675,7 +6748,11 @@
       "o25": 1.58,
       "odds": 1.08,
       "fav_side": "Home",
-      "o15": 1.15
+      "o15": 1.15,
+      "score": "3-1",
+      "status": "WON",
+      "o15_status": "WON",
+      "fav_status": "WON"
      },
      {
       "fid": 1551229,
@@ -6688,7 +6765,11 @@
       "o25": 1.42,
       "odds": 1.08,
       "fav_side": "Home",
-      "o15": 1.08
+      "o15": 1.08,
+      "score": "0-0",
+      "status": "LOST",
+      "o15_status": "LOST",
+      "fav_status": "LOST"
      },
      {
       "fid": 1635589,
@@ -6757,7 +6838,11 @@
       "o25": 1.43,
       "odds": 1.11,
       "fav_side": "Away",
-      "o15": null
+      "o15": null,
+      "score": "1-2",
+      "status": "WON",
+      "o15_status": "WON",
+      "fav_status": "WON"
      },
      {
       "fid": 1638733,
@@ -8716,12 +8801,12 @@
   ],
   "live": {
    "Sweet": {
-    "picks": 44,
+    "picks": 45,
     "won": 39
    },
    "Wide": {
-    "picks": 111,
-    "won": 100
+    "picks": 115,
+    "won": 102
    }
   },
   "extras": {
@@ -8808,23 +8893,27 @@
        "cat": "1X",
        "consistency": 94,
        "neighbours": "47 / 50",
-       "odds": 1.02
+       "odds": 1.02,
+       "status": "WON"
       },
       {
        "option": "Home team to score 1+",
        "cat": "HOME 1+",
        "consistency": 94,
        "neighbours": "47 / 50",
-       "odds": 1.02
+       "odds": 1.02,
+       "status": "WON"
       },
       {
        "option": "Over 2.5",
        "cat": "OVER 2.5",
        "consistency": 84,
        "neighbours": "42 / 50",
-       "odds": 1.5
+       "odds": 1.5,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "2-2"
     },
     {
      "fid": 1517361,
@@ -8941,23 +9030,27 @@
        "cat": "1X",
        "consistency": 94,
        "neighbours": "47 / 50",
-       "odds": 1.04
+       "odds": 1.04,
+       "status": "WON"
       },
       {
        "option": "Home team to score 1+",
        "cat": "HOME 1+",
        "consistency": 94,
        "neighbours": "47 / 50",
-       "odds": null
+       "odds": null,
+       "status": "WON"
       },
       {
        "option": "Over 2.5",
        "cat": "OVER 2.5",
        "consistency": 76,
        "neighbours": "38 / 50",
-       "odds": 1.58
+       "odds": 1.58,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "3-1"
     },
     {
      "fid": 1531106,
@@ -9020,16 +9113,19 @@
        "cat": "1X",
        "consistency": 94,
        "neighbours": "47 / 50",
-       "odds": 1.08
+       "odds": 1.08,
+       "status": "WON"
       },
       {
        "option": "Over 2.5",
        "cat": "OVER 2.5",
        "consistency": 78,
        "neighbours": "39 / 50",
-       "odds": 1.42
+       "odds": 1.42,
+       "status": "LOST"
       }
-     ]
+     ],
+     "score": "0-0"
     },
     {
      "fid": 1560837,
@@ -9328,9 +9424,11 @@
        "cat": "UNDER 3.5",
        "consistency": 80,
        "neighbours": "40 / 50",
-       "odds": 1.31
+       "odds": 1.31,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "0-3"
     },
     {
      "fid": 1639214,
@@ -9349,9 +9447,11 @@
        "cat": "X2",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.09
+       "odds": 1.09,
+       "status": "LOST"
       }
-     ]
+     ],
+     "score": "1-0"
     },
     {
      "fid": 1639234,
@@ -9398,9 +9498,11 @@
        "cat": "X2",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.09
+       "odds": 1.09,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "0-5"
     },
     {
      "fid": 1640291,
@@ -9475,9 +9577,11 @@
        "cat": "X2",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.11
+       "odds": 1.11,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "0-2"
     },
     {
      "fid": 1640699,
@@ -9563,9 +9667,11 @@
        "cat": "UNDER 3.5",
        "consistency": 84,
        "neighbours": "42 / 50",
-       "odds": 1.19
+       "odds": 1.19,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "0-1"
     },
     {
      "fid": 1642724,
@@ -9584,9 +9690,11 @@
        "cat": "X2",
        "consistency": 86,
        "neighbours": "43 / 50",
-       "odds": 1.1
+       "odds": 1.1,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-2"
     },
     {
      "fid": 1643389,
@@ -9675,23 +9783,27 @@
         "cat": "1X",
         "consistency": 94,
         "neighbours": "47 / 50",
-        "odds": 1.02
+        "odds": 1.02,
+        "status": "WON"
        },
        {
         "option": "Home team to score 1+",
         "cat": "HOME 1+",
         "consistency": 94,
         "neighbours": "47 / 50",
-        "odds": 1.02
+        "odds": 1.02,
+        "status": "WON"
        },
        {
         "option": "Over 2.5",
         "cat": "OVER 2.5",
         "consistency": 84,
         "neighbours": "42 / 50",
-        "odds": 1.5
+        "odds": 1.5,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "2-2"
      },
      {
       "fid": 1517361,
@@ -9808,23 +9920,27 @@
         "cat": "1X",
         "consistency": 94,
         "neighbours": "47 / 50",
-        "odds": 1.04
+        "odds": 1.04,
+        "status": "WON"
        },
        {
         "option": "Home team to score 1+",
         "cat": "HOME 1+",
         "consistency": 94,
         "neighbours": "47 / 50",
-        "odds": null
+        "odds": null,
+        "status": "WON"
        },
        {
         "option": "Over 2.5",
         "cat": "OVER 2.5",
         "consistency": 76,
         "neighbours": "38 / 50",
-        "odds": 1.58
+        "odds": 1.58,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "3-1"
      },
      {
       "fid": 1531106,
@@ -9887,16 +10003,19 @@
         "cat": "1X",
         "consistency": 94,
         "neighbours": "47 / 50",
-        "odds": 1.08
+        "odds": 1.08,
+        "status": "WON"
        },
        {
         "option": "Over 2.5",
         "cat": "OVER 2.5",
         "consistency": 78,
         "neighbours": "39 / 50",
-        "odds": 1.42
+        "odds": 1.42,
+        "status": "LOST"
        }
-      ]
+      ],
+      "score": "0-0"
      },
      {
       "fid": 1560837,
@@ -10195,9 +10314,11 @@
         "cat": "UNDER 3.5",
         "consistency": 80,
         "neighbours": "40 / 50",
-        "odds": 1.31
+        "odds": 1.31,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "0-3"
      },
      {
       "fid": 1639214,
@@ -10216,9 +10337,11 @@
         "cat": "X2",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.09
+        "odds": 1.09,
+        "status": "LOST"
        }
-      ]
+      ],
+      "score": "1-0"
      },
      {
       "fid": 1639234,
@@ -10265,9 +10388,11 @@
         "cat": "X2",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.09
+        "odds": 1.09,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "0-5"
      },
      {
       "fid": 1640291,
@@ -10342,9 +10467,11 @@
         "cat": "X2",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.11
+        "odds": 1.11,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "0-2"
      },
      {
       "fid": 1640699,
@@ -10430,9 +10557,11 @@
         "cat": "UNDER 3.5",
         "consistency": 84,
         "neighbours": "42 / 50",
-        "odds": 1.19
+        "odds": 1.19,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "0-1"
      },
      {
       "fid": 1642724,
@@ -10451,9 +10580,11 @@
         "cat": "X2",
         "consistency": 86,
         "neighbours": "43 / 50",
-        "odds": 1.1
+        "odds": 1.1,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-2"
      },
      {
       "fid": 1643389,
@@ -21093,37 +21224,37 @@
    }
   ],
   "live": {
-   "X2": {
-    "picks": 74,
-    "won": 58
+   "1X": {
+    "picks": 93,
+    "won": 85
    },
    "TOP FINGERPRINT": {
-    "picks": 406,
-    "won": 334
+    "picks": 415,
+    "won": 342
+   },
+   "HOME 1+": {
+    "picks": 86,
+    "won": 81
+   },
+   "OVER 2.5": {
+    "picks": 80,
+    "won": 51
+   },
+   "X2": {
+    "picks": 78,
+    "won": 61
    },
    "AWAY 1+": {
     "picks": 12,
     "won": 12
    },
    "UNDER 3.5": {
-    "picks": 156,
-    "won": 120
-   },
-   "1X": {
-    "picks": 90,
-    "won": 82
+    "picks": 158,
+    "won": 122
    },
    "OVER 1.5": {
     "picks": 96,
     "won": 85
-   },
-   "OVER 2.5": {
-    "picks": 77,
-    "won": 49
-   },
-   "HOME 1+": {
-    "picks": 84,
-    "won": 79
    }
   },
   "backtest": {
@@ -21246,11 +21377,13 @@
        "odds": 1.36,
        "market": "Double Chance",
        "selection": "Draw/Away",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "1-0",
+       "ht": "1-0"
       }
      ],
      "status": "LOST",
-     "lost_legs": 1
+     "lost_legs": 2
     },
     {
      "no": 2,
@@ -21270,7 +21403,9 @@
        "odds": 1.21,
        "market": "Double Chance",
        "selection": "Draw/Away",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "2-1",
+       "ht": "0-1"
       },
       {
        "fid": 1639212,
@@ -21282,7 +21417,9 @@
        "odds": 1.36,
        "market": "Handicap Result",
        "selection": "Away -1",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "1-0",
+       "ht": "0-0"
       },
       {
        "fid": 1638101,
@@ -21309,8 +21446,8 @@
        "status": "PENDING"
       }
      ],
-     "status": "PENDING",
-     "lost_legs": 0
+     "status": "LOST",
+     "lost_legs": 2
     },
     {
      "no": 3,
@@ -21382,7 +21519,9 @@
        "odds": 1.2,
        "market": "Double Chance",
        "selection": "Draw/Away",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "3-2",
+       "ht": "0-1"
       },
       {
        "fid": 1640291,
@@ -21397,8 +21536,8 @@
        "status": "PENDING"
       }
      ],
-     "status": "PENDING",
-     "lost_legs": 0
+     "status": "LOST",
+     "lost_legs": 1
     },
     {
      "no": 4,
@@ -21472,7 +21611,9 @@
        "odds": 1.19,
        "market": "Both Teams Score - First Half",
        "selection": "No",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "0-0",
+       "ht": "0-0"
       },
       {
        "fid": 1520917,
@@ -21498,7 +21639,9 @@
        "odds": 1.18,
        "market": "Double Chance",
        "selection": "Draw/Away",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "0-3",
+       "ht": "0-2"
       }
      ],
      "status": "LOST",
@@ -21550,7 +21693,9 @@
        "odds": 1.57,
        "market": "Clean Sheet - Home",
        "selection": "No",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "0-5",
+       "ht": "0-2"
       },
       {
        "fid": 1638733,
@@ -21774,7 +21919,9 @@
        "odds": 1.48,
        "market": "Away Team Total Goals(2nd Half)",
        "selection": "Over 0.5",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "1-0",
+       "ht": "1-0"
       },
       {
        "fid": 1630315,
@@ -21814,7 +21961,7 @@
       }
      ],
      "status": "LOST",
-     "lost_legs": 1
+     "lost_legs": 2
     },
     {
      "no": 8,
@@ -21848,7 +21995,9 @@
        "odds": 1.25,
        "market": "Away Team Total Goals(1st Half)",
        "selection": "Under 0.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "3-1",
+       "ht": "2-0"
       },
       {
        "fid": 1490326,
@@ -21874,7 +22023,9 @@
        "odds": 1.59,
        "market": "Away Team Total Goals(2nd Half)",
        "selection": "Over 0.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "2-5",
+       "ht": "0-2"
       },
       {
        "fid": 1517361,
@@ -22092,7 +22243,9 @@
        "odds": 1.27,
        "market": "Away Team Total Goals(1st Half)",
        "selection": "Under 0.5",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "2-2",
+       "ht": "1-2"
       },
       {
        "fid": 1638172,
@@ -22120,7 +22273,7 @@
       }
      ],
      "status": "LOST",
-     "lost_legs": 1
+     "lost_legs": 2
     }
    ]
   },
@@ -22201,11 +22354,13 @@
         "odds": 1.36,
         "market": "Double Chance",
         "selection": "Draw/Away",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "1-0",
+        "ht": "1-0"
        }
       ],
       "status": "LOST",
-      "lost_legs": 1
+      "lost_legs": 2
      },
      {
       "no": 2,
@@ -22225,7 +22380,9 @@
         "odds": 1.21,
         "market": "Double Chance",
         "selection": "Draw/Away",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "2-1",
+        "ht": "0-1"
        },
        {
         "fid": 1639212,
@@ -22237,7 +22394,9 @@
         "odds": 1.36,
         "market": "Handicap Result",
         "selection": "Away -1",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "1-0",
+        "ht": "0-0"
        },
        {
         "fid": 1638101,
@@ -22264,8 +22423,8 @@
         "status": "PENDING"
        }
       ],
-      "status": "PENDING",
-      "lost_legs": 0
+      "status": "LOST",
+      "lost_legs": 2
      },
      {
       "no": 3,
@@ -22337,7 +22496,9 @@
         "odds": 1.2,
         "market": "Double Chance",
         "selection": "Draw/Away",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "3-2",
+        "ht": "0-1"
        },
        {
         "fid": 1640291,
@@ -22352,8 +22513,8 @@
         "status": "PENDING"
        }
       ],
-      "status": "PENDING",
-      "lost_legs": 0
+      "status": "LOST",
+      "lost_legs": 1
      },
      {
       "no": 4,
@@ -22427,7 +22588,9 @@
         "odds": 1.19,
         "market": "Both Teams Score - First Half",
         "selection": "No",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "0-0",
+        "ht": "0-0"
        },
        {
         "fid": 1520917,
@@ -22453,7 +22616,9 @@
         "odds": 1.18,
         "market": "Double Chance",
         "selection": "Draw/Away",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "0-3",
+        "ht": "0-2"
        }
       ],
       "status": "LOST",
@@ -22505,7 +22670,9 @@
         "odds": 1.57,
         "market": "Clean Sheet - Home",
         "selection": "No",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "0-5",
+        "ht": "0-2"
        },
        {
         "fid": 1638733,
@@ -22729,7 +22896,9 @@
         "odds": 1.48,
         "market": "Away Team Total Goals(2nd Half)",
         "selection": "Over 0.5",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "1-0",
+        "ht": "1-0"
        },
        {
         "fid": 1630315,
@@ -22769,7 +22938,7 @@
        }
       ],
       "status": "LOST",
-      "lost_legs": 1
+      "lost_legs": 2
      },
      {
       "no": 8,
@@ -22803,7 +22972,9 @@
         "odds": 1.25,
         "market": "Away Team Total Goals(1st Half)",
         "selection": "Under 0.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "3-1",
+        "ht": "2-0"
        },
        {
         "fid": 1490326,
@@ -22829,7 +23000,9 @@
         "odds": 1.59,
         "market": "Away Team Total Goals(2nd Half)",
         "selection": "Over 0.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "2-5",
+        "ht": "0-2"
        },
        {
         "fid": 1517361,
@@ -23047,7 +23220,9 @@
         "odds": 1.27,
         "market": "Away Team Total Goals(1st Half)",
         "selection": "Under 0.5",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "2-2",
+        "ht": "1-2"
        },
        {
         "fid": 1638172,
@@ -23075,7 +23250,7 @@
        }
       ],
       "status": "LOST",
-      "lost_legs": 1
+      "lost_legs": 2
      }
     ]
    },
@@ -27912,10 +28087,10 @@
   ],
   "live": {
    "3 odds": {
-    "tickets": 16,
+    "tickets": 18,
     "won": 6,
-    "profit": 2.87,
-    "hit": 37.5
+    "profit": 0.87,
+    "hit": 33.3
    },
    "5 odds": {
     "tickets": 17,
@@ -27947,12 +28122,12 @@
     "one_leg_short": 8
    },
    "20 odds": {
-    "tickets": 7,
-    "won": 1,
-    "hit": 14.3,
-    "avg_odds": 21.7,
-    "avg_legs": 6.7,
-    "roi": 212.0,
+    "tickets": 8,
+    "won": 2,
+    "hit": 25.0,
+    "avg_odds": 19.43,
+    "avg_legs": 6.4,
+    "roi": 208.4,
     "one_leg_short": 2
    },
    "3 odds": {
@@ -28017,9 +28192,9 @@
     "id": "A4",
     "name": "No First-Half GG",
     "sporty": "1st Half - GG/NG - No",
-    "picks": 30,
-    "won": 19,
-    "hit": 63.3
+    "picks": 31,
+    "won": 20,
+    "hit": 64.5
    },
    {
     "id": "A2",
@@ -28030,6 +28205,14 @@
     "hit": 78.6
    },
    {
+    "id": "M9",
+    "name": "Away Blank in First Half",
+    "sporty": "1st Half - Away Team Under 0.5",
+    "picks": 27,
+    "won": 19,
+    "hit": 70.4
+   },
+   {
     "id": "A8",
     "name": "Cup Game Over 1.5",
     "sporty": "Over/Under - Over 1.5",
@@ -28038,28 +28221,20 @@
     "hit": 88.5
    },
    {
+    "id": "M2",
+    "name": "Away Favourite Second-Half Goal",
+    "sporty": "2nd Half - Away Team Over 0.5",
+    "picks": 26,
+    "won": 15,
+    "hit": 57.7
+   },
+   {
     "id": "M1",
     "name": "Away Favourite Wins a Half",
     "sporty": "Away Team to Win Either Half - Yes",
     "picks": 26,
     "won": 12,
     "hit": 46.2
-   },
-   {
-    "id": "M9",
-    "name": "Away Blank in First Half",
-    "sporty": "1st Half - Away Team Under 0.5",
-    "picks": 25,
-    "won": 18,
-    "hit": 72.0
-   },
-   {
-    "id": "M2",
-    "name": "Away Favourite Second-Half Goal",
-    "sporty": "2nd Half - Away Team Over 0.5",
-    "picks": 24,
-    "won": 14,
-    "hit": 58.3
    },
    {
     "id": "A9",
@@ -28073,25 +28248,25 @@
     "id": "A1",
     "name": "Away Favourite Scores",
     "sporty": "Home Team Clean Sheet - No",
-    "picks": 21,
-    "won": 16,
-    "hit": 76.2
-   },
-   {
-    "id": "A7",
-    "name": "Away Favourite +1 Start",
-    "sporty": "Handicap 0:1 - Away (0:1)",
-    "picks": 18,
-    "won": 14,
-    "hit": 77.8
+    "picks": 22,
+    "won": 17,
+    "hit": 77.3
    },
    {
     "id": "A5",
     "name": "Away Favourite X2",
     "sporty": "Double Chance - Draw or Away",
-    "picks": 17,
-    "won": 12,
-    "hit": 70.6
+    "picks": 21,
+    "won": 13,
+    "hit": 61.9
+   },
+   {
+    "id": "A7",
+    "name": "Away Favourite +1 Start",
+    "sporty": "Handicap 0:1 - Away (0:1)",
+    "picks": 19,
+    "won": 14,
+    "hit": 73.7
    },
    {
     "id": "A3",
@@ -50534,33 +50709,33 @@
    "size": 0,
    "target": 20.0,
    "record": {
-    "tickets": 123,
-    "won": 2,
-    "hit": 1.6,
-    "avg_odds": 27.29,
-    "profit": -69.47,
-    "roi": -56.5,
-    "one_leg_short": 25,
-    "avg_legs": 9.3
+    "tickets": 128,
+    "won": 3,
+    "hit": 2.3,
+    "avg_odds": 27.3,
+    "profit": -44.71,
+    "roi": -34.9,
+    "one_leg_short": 30,
+    "avg_legs": 9.2
    },
    "found": {
-    "tickets": 58,
-    "won": 0,
-    "hit": 0.0,
-    "avg_odds": 27.71,
-    "profit": -58.0,
-    "roi": -100.0,
-    "one_leg_short": 12,
-    "avg_legs": 9.5
+    "tickets": 61,
+    "won": 1,
+    "hit": 1.6,
+    "avg_odds": 27.93,
+    "profit": -31.77,
+    "roi": -52.1,
+    "one_leg_short": 16,
+    "avg_legs": 9.4
    },
    "unseen": {
-    "tickets": 65,
+    "tickets": 67,
     "won": 2,
-    "hit": 3.1,
-    "avg_odds": 26.92,
-    "profit": -11.47,
-    "roi": -17.6,
-    "one_leg_short": 13,
+    "hit": 3.0,
+    "avg_odds": 26.71,
+    "profit": -12.94,
+    "roi": -19.3,
+    "one_leg_short": 14,
     "avg_legs": 9.0
    },
    "daily": [
@@ -50569,32 +50744,32 @@
      "tickets": 8,
      "won": 0,
      "hit": 0.0,
-     "avg_odds": 25.03,
+     "avg_odds": 29.18,
      "profit": -8.0,
      "roi": -100.0,
-     "one_leg_short": 1,
-     "avg_legs": 8.8
+     "one_leg_short": 0,
+     "avg_legs": 9.1
     },
     {
      "date": "2026-09-30",
-     "tickets": 7,
+     "tickets": 8,
      "won": 0,
      "hit": 0.0,
-     "avg_odds": 28.98,
-     "profit": -7.0,
+     "avg_odds": 26.24,
+     "profit": -8.0,
      "roi": -100.0,
      "one_leg_short": 0,
-     "avg_legs": 10.0
+     "avg_legs": 9.6
     },
     {
      "date": "2026-09-29",
      "tickets": 12,
      "won": 0,
      "hit": 0.0,
-     "avg_odds": 27.15,
+     "avg_odds": 25.82,
      "profit": -12.0,
      "roi": -100.0,
-     "one_leg_short": 0,
+     "one_leg_short": 2,
      "avg_legs": 9.7
     },
     {
@@ -50602,7 +50777,7 @@
      "tickets": 6,
      "won": 0,
      "hit": 0.0,
-     "avg_odds": 26.41,
+     "avg_odds": 25.71,
      "profit": -6.0,
      "roi": -100.0,
      "one_leg_short": 2,
@@ -50610,36 +50785,36 @@
     },
     {
      "date": "2026-09-27",
-     "tickets": 32,
+     "tickets": 33,
      "won": 2,
-     "hit": 6.2,
-     "avg_odds": 26.96,
-     "profit": 21.53,
-     "roi": 67.3,
+     "hit": 6.1,
+     "avg_odds": 26.74,
+     "profit": 21.06,
+     "roi": 63.8,
      "one_leg_short": 10,
-     "avg_legs": 8.6
+     "avg_legs": 8.5
     },
     {
      "date": "2026-09-26",
-     "tickets": 45,
-     "won": 0,
-     "hit": 0.0,
-     "avg_odds": 27.76,
-     "profit": -45.0,
-     "roi": -100.0,
-     "one_leg_short": 8,
-     "avg_legs": 9.6
+     "tickets": 48,
+     "won": 1,
+     "hit": 2.1,
+     "avg_odds": 27.45,
+     "profit": -18.77,
+     "roi": -39.1,
+     "one_leg_short": 11,
+     "avg_legs": 9.5
     },
     {
      "date": "2026-09-25",
      "tickets": 13,
      "won": 0,
      "hit": 0.0,
-     "avg_odds": 27.54,
+     "avg_odds": 29.71,
      "profit": -13.0,
      "roi": -100.0,
-     "one_leg_short": 4,
-     "avg_legs": 9.1
+     "one_leg_short": 5,
+     "avg_legs": 9.2
     }
    ],
    "today": [
@@ -50838,8 +51013,16 @@
      ]
     },
     {
-     "odds": 30.5,
+     "odds": 30.31,
      "legs": [
+      {
+       "kickoff": "10/7/2026 10:00:00 PM",
+       "match": "Leones FC - Barranquilla",
+       "league": "Colombia: Primera B",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.65
+      },
       {
        "kickoff": "10/7/2026 10:30:00 AM",
        "match": "Cerezo Osaka - Kagoshima United",
@@ -50847,14 +51030,6 @@
        "pick": "Over/Under - Over 1.5",
        "model": "A8",
        "odds": 1.21
-      },
-      {
-       "kickoff": "10/7/2026 11:00:00 AM",
-       "match": "Kawasaki Frontale - Tegevajaro Miyazaki",
-       "league": "Japan: Emperor Cup",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.66
       },
       {
        "kickoff": "10/7/2026 1:00:00 PM",
@@ -50923,16 +51098,8 @@
      ]
     },
     {
-     "odds": 21.89,
+     "odds": 21.53,
      "legs": [
-      {
-       "kickoff": "10/7/2026 10:00:00 PM",
-       "match": "Leones FC - Barranquilla",
-       "league": "Colombia: Primera B",
-       "pick": "Away Team Odd/Even - Even",
-       "model": "M7",
-       "odds": 1.65
-      },
       {
        "kickoff": "10/7/2026 11:00:00 AM",
        "match": "Shimizu S-pulse - V-varen Nagasaki",
@@ -50942,12 +51109,20 @@
        "odds": 1.32
       },
       {
+       "kickoff": "10/7/2026 11:00:00 AM",
+       "match": "Kawasaki Frontale - Tegevajaro Miyazaki",
+       "league": "Japan: Emperor Cup",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.66
+      },
+      {
        "kickoff": "10/7/2026 11:30:00 PM",
        "match": "Remo - Gremio",
        "league": "Brazil: Serie A",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.77
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.73
       },
       {
        "kickoff": "10/7/2026 2:00:00 PM",
@@ -51081,19 +51256,19 @@
       },
       {
        "kickoff": "10/7/2026 12:30:00 PM",
-       "match": "Silivrispor - Kartal Bulvarspor",
-       "league": "Turkey: T\u00fcrkiye Kupas\u0131",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.89
-      },
-      {
-       "kickoff": "10/7/2026 12:30:00 PM",
        "match": "Nantong Haimen Codion - Xiamen Feilu",
        "league": "China: League Two",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
        "odds": 1.59
+      },
+      {
+       "kickoff": "10/7/2026 12:30:00 PM",
+       "match": "Silivrispor - Kartal Bulvarspor",
+       "league": "Turkey: T\u00fcrkiye Kupas\u0131",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.89
       },
       {
        "kickoff": "10/7/2026 12:30:00 PM",
@@ -51167,7 +51342,7 @@
      ]
     },
     {
-     "odds": 38.13,
+     "odds": 34.43,
      "legs": [
       {
        "kickoff": "10/7/2026 11:00:00 PM",
@@ -51218,17 +51393,17 @@
        "odds": 1.66
       },
       {
-       "kickoff": "10/7/2026 7:30:00 PM",
-       "match": "Bom Jesus EC - Morrinhos",
-       "league": "Brazil: Goiano - 2",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.96
+       "kickoff": "10/7/2026 7:00:00 PM",
+       "match": "Ferro 2 - Independiente Res.",
+       "league": "Argentina: Reserve League",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.77
       }
      ]
     },
     {
-     "odds": 34.51,
+     "odds": 27.83,
      "legs": [
       {
        "kickoff": "10/7/2026 2:00:00 PM",
@@ -51263,12 +51438,12 @@
        "odds": 1.29
       },
       {
-       "kickoff": "10/7/2026 7:00:00 PM",
-       "match": "Ferro 2 - Independiente Res.",
-       "league": "Argentina: Reserve League",
-       "pick": "Away Team Odd/Even - Even",
-       "model": "M7",
-       "odds": 1.77
+       "kickoff": "10/7/2026 7:30:00 PM",
+       "match": "Bom Jesus EC - Morrinhos",
+       "league": "Brazil: Goiano - 2",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.96
       },
       {
        "kickoff": "10/7/2026 7:30:00 PM",
@@ -51280,11 +51455,11 @@
       },
       {
        "kickoff": "10/7/2026 8:00:00 PM",
-       "match": "Petare FC - Atletico Avila FC",
-       "league": "Venezuela: Copa Venezuela",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.95
+       "match": "CR Belouizdad - Khenchela",
+       "league": "Algeria: Ligue 1",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.42
       }
      ]
     }
@@ -51586,11 +51761,11 @@
     },
     {
      "date": "2026-10-01",
-     "odds": 22.44,
+     "odds": 34.56,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 1,
-     "n_legs": 8,
+     "lost_legs": 2,
+     "n_legs": 9,
      "legs": [
       {
        "match": "Manchester City W - Real Madrid W",
@@ -51649,6 +51824,14 @@
        "score": "0-6"
       },
       {
+       "match": "Hungary U21 - Lithuania U21",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.54,
+       "status": "LOST",
+       "score": "2-1"
+      },
+      {
        "match": "Chattanooga Red Wolves - Spokane Velocity",
        "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
        "model": "M4",
@@ -51660,11 +51843,11 @@
     },
     {
      "date": "2026-10-01",
-     "odds": 20.28,
+     "odds": 31.64,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 3,
-     "n_legs": 8,
+     "n_legs": 9,
      "legs": [
       {
        "match": "VfB Stuttgart - SpVgg Greuther F\u00fcrth",
@@ -51723,6 +51906,14 @@
        "score": "0-1"
       },
       {
+       "match": "Sacramento Republic - Las Vegas Lights",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.56,
+       "status": "WON",
+       "score": "3-2"
+      },
+      {
        "match": "Envigado - Orsomarso",
        "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
        "model": "M4",
@@ -51734,11 +51925,11 @@
     },
     {
      "date": "2026-10-01",
-     "odds": 22.5,
+     "odds": 33.87,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 3,
-     "n_legs": 7,
+     "n_legs": 8,
      "legs": [
       {
        "match": "Bahla - Fanja",
@@ -51757,20 +51948,20 @@
        "score": "2-1"
       },
       {
+       "match": "Malta - Gibraltar",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.34,
+       "status": "LOST",
+       "score": "1-1"
+      },
+      {
        "match": "Bastia - Orleans",
        "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
        "model": "M4",
        "odds": 2.0,
        "status": "LOST",
        "score": "1-1"
-      },
-      {
-       "match": "Hungary U21 - Lithuania U21",
-       "pick": "Away Team Odd/Even - Even",
-       "model": "M7",
-       "odds": 1.54,
-       "status": "LOST",
-       "score": "2-1"
       },
       {
        "match": "Azerbaijan - Liechtenstein",
@@ -51795,15 +51986,23 @@
        "odds": 1.22,
        "status": "WON",
        "score": "5-0"
+      },
+      {
+       "match": "Maccabi Ahi Nazareth - Ironi Modi'in",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.73,
+       "status": "WON",
+       "score": "1-2"
       }
      ]
     },
     {
      "date": "2026-10-01",
-     "odds": 21.16,
+     "odds": 30.38,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 2,
+     "lost_legs": 3,
      "n_legs": 7,
      "legs": [
       {
@@ -51816,19 +52015,19 @@
       },
       {
        "match": "Alianza - Platense",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.8,
-       "status": "WON",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.58,
+       "status": "LOST",
        "score": "2-1"
       },
       {
-       "match": "Sacramento Republic - Las Vegas Lights",
-       "pick": "Away Team Odd/Even - Even",
-       "model": "M7",
-       "odds": 1.56,
-       "status": "WON",
-       "score": "3-2"
+       "match": "V\u00e9lez S\u00e1rsfield Res. - Argentinos Juniors Res.",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 2.01,
+       "status": "LOST",
+       "score": "1-1"
       },
       {
        "match": "Ashdod - Maccabi Herzliya",
@@ -51847,26 +52046,26 @@
        "score": "1-1"
       },
       {
-       "match": "V\u00e9lez S\u00e1rsfield Res. - Argentinos Juniors Res.",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 2.01,
-       "status": "LOST",
-       "score": "1-1"
-      },
-      {
-       "match": "Malta - Gibraltar",
+       "match": "Fuerte San Francisco - Firpo",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
-       "odds": 1.34,
+       "odds": 1.8,
        "status": "LOST",
-       "score": "1-1"
+       "score": "0-3"
+      },
+      {
+       "match": "Correcaminos UAT II - H\u00e9roes de Zaci",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.9,
+       "status": "WON",
+       "score": "3-0"
       }
      ]
     },
     {
      "date": "2026-10-01",
-     "odds": 33.4,
+     "odds": 22.54,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 2,
@@ -51881,20 +52080,20 @@
        "score": "1-0"
       },
       {
-       "match": "Correcaminos UAT II - H\u00e9roes de Zaci",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.9,
-       "status": "WON",
-       "score": "3-0"
-      },
-      {
-       "match": "Maccabi Ahi Nazareth - Ironi Modi'in",
+       "match": "Asante Kotoko - Karela",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
-       "odds": 1.73,
+       "odds": 1.54,
        "status": "WON",
-       "score": "1-2"
+       "score": "1-0"
+      },
+      {
+       "match": "Olimpija Ljubljana - NK Slaven Belupo",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.62,
+       "status": "WON",
+       "score": "2-1"
       },
       {
        "match": "Podlasie Bia\u0142a Podlaska - Star Starachowice",
@@ -51913,20 +52112,20 @@
        "score": "6-0"
       },
       {
-       "match": "Olimpija Ljubljana - NK Slaven Belupo",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.62,
-       "status": "WON",
-       "score": "2-1"
-      },
-      {
-       "match": "Fuerte San Francisco - Firpo",
+       "match": "Talleres C\u00f3rdoba Res. - Godoy Cruz Res.",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
-       "odds": 1.8,
+       "odds": 1.61,
        "status": "LOST",
-       "score": "0-3"
+       "score": "3-1"
+      },
+      {
+       "match": "Maccabi Yavne - Ironi Beit Shemesh",
+       "pick": "1st Half - Home Team Over 0.5",
+       "model": "M5",
+       "odds": 1.61,
+       "status": "WON",
+       "score": "5-1"
       }
      ]
     },
@@ -52242,11 +52441,11 @@
     },
     {
      "date": "2026-09-30",
-     "odds": 22.67,
+     "odds": 33.1,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 4,
-     "n_legs": 10,
+     "n_legs": 11,
      "legs": [
       {
        "match": "River AC - Picos",
@@ -52321,6 +52520,14 @@
        "score": "2-3"
       },
       {
+       "match": "Czech Republic U21 - Bulgaria U21",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.46,
+       "status": "WON",
+       "score": "1-0"
+      },
+      {
        "match": "Sporting Charleroi II - Habay-la-Neuve",
        "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
        "model": "M4",
@@ -52332,11 +52539,11 @@
     },
     {
      "date": "2026-09-30",
-     "odds": 29.83,
+     "odds": 21.19,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 4,
-     "n_legs": 9,
+     "lost_legs": 5,
+     "n_legs": 8,
      "legs": [
       {
        "match": "Brann W - HJK W",
@@ -52387,37 +52594,29 @@
        "score": "1-0"
       },
       {
+       "match": "Union Magdalena - Real Cartagena",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.68,
+       "status": "LOST",
+       "score": "1-1"
+      },
+      {
        "match": "\u00c1guila - Inter",
        "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
        "model": "M4",
        "odds": 2.02,
        "status": "LOST",
        "score": "2-1"
-      },
-      {
-       "match": "Czech Republic U21 - Bulgaria U21",
-       "pick": "Away Team Odd/Even - Even",
-       "model": "M7",
-       "odds": 1.46,
-       "status": "WON",
-       "score": "1-0"
-      },
-      {
-       "match": "Real - Farroupilha",
-       "pick": "1st Half - Home Team Over 0.5",
-       "model": "M5",
-       "odds": 1.62,
-       "status": "WON",
-       "score": "4-0"
       }
      ]
     },
     {
      "date": "2026-09-30",
-     "odds": 39.51,
+     "odds": 29.61,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 3,
+     "lost_legs": 2,
      "n_legs": 8,
      "legs": [
       {
@@ -52461,6 +52660,14 @@
        "score": "2-2"
       },
       {
+       "match": "Independiente Medellin - Millonarios",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.71,
+       "status": "WON",
+       "score": "2-2"
+      },
+      {
        "match": "Hapoel Beit Shean - Ironi Baka El Garbiya",
        "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
        "model": "M4",
@@ -52469,29 +52676,21 @@
        "score": "2-1"
       },
       {
-       "match": "Union Magdalena - Real Cartagena",
-       "pick": "Away Team Odd/Even - Even",
-       "model": "M7",
-       "odds": 1.68,
-       "status": "LOST",
-       "score": "1-1"
-      },
-      {
-       "match": "Club Atletico Barinas - Fundaci\u00f3n Lara Deportiva",
+       "match": "Real - Farroupilha",
        "pick": "1st Half - Home Team Over 0.5",
        "model": "M5",
-       "odds": 2.2,
+       "odds": 1.62,
        "status": "WON",
-       "score": "1-2"
+       "score": "4-0"
       }
      ]
     },
     {
      "date": "2026-09-30",
-     "odds": 36.34,
+     "odds": 27.46,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 3,
+     "lost_legs": 2,
      "n_legs": 8,
      "legs": [
       {
@@ -52535,12 +52734,20 @@
        "score": "0-1"
       },
       {
-       "match": "Independiente Medellin - Millonarios",
+       "match": "Rudar - Berane",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
        "odds": 1.71,
        "status": "WON",
-       "score": "2-2"
+       "score": "4-0"
+      },
+      {
+       "match": "Club Atletico Barinas - Fundaci\u00f3n Lara Deportiva",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.67,
+       "status": "WON",
+       "score": "1-2"
       },
       {
        "match": "Yaracuyanos FC - Puerto Cabello II",
@@ -52549,6 +52756,40 @@
        "odds": 1.71,
        "status": "WON",
        "score": "3-0"
+      }
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "odds": 24.04,
+     "status": "LOST",
+     "profit": -1.0,
+     "lost_legs": 2,
+     "n_legs": 7,
+     "legs": [
+      {
+       "match": "Sestao River - Terrassa",
+       "pick": "Over/Under - Over 1.5",
+       "model": "A8",
+       "odds": 1.58,
+       "status": "WON",
+       "score": "4-1"
+      },
+      {
+       "match": "Spain U20 - Mexico U20",
+       "pick": "1st Half - Double Chance - Home or Draw",
+       "model": "A2",
+       "odds": 1.27,
+       "status": "WON",
+       "score": "2-0"
+      },
+      {
+       "match": "Ironi Nesher - Beitar Nahariya",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.71,
+       "status": "LOST",
+       "score": "4-1"
       },
       {
        "match": "Central C\u00f3rdoba SdE Res. - Newell's Old Boys Res.",
@@ -52557,6 +52798,30 @@
        "odds": 2.21,
        "status": "LOST",
        "score": "1-1"
+      },
+      {
+       "match": "Egypt U20 - Tunisia U20",
+       "pick": "Over/Under - Over 1.5",
+       "model": "A8",
+       "odds": 1.4,
+       "status": "WON",
+       "score": "2-1"
+      },
+      {
+       "match": "Maccabi Ashdod - Holon Yermiyahu",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.69,
+       "status": "WON",
+       "score": "2-0"
+      },
+      {
+       "match": "Morocco U20 - Algeria U20",
+       "pick": "Over/Under - Over 1.5",
+       "model": "A8",
+       "odds": 1.34,
+       "status": "WON",
+       "score": "3-1"
       }
      ]
     },
@@ -52750,10 +53015,10 @@
     },
     {
      "date": "2026-09-29",
-     "odds": 41.78,
+     "odds": 31.81,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 5,
+     "lost_legs": 4,
      "n_legs": 11,
      "legs": [
       {
@@ -52837,21 +53102,21 @@
        "score": "3-0"
       },
       {
-       "match": "Bulgaria - Estonia",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 2.22,
-       "status": "LOST",
-       "score": "0-0"
+       "match": "Wuxi Wugou - Ningbo Professional",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.69,
+       "status": "WON",
+       "score": "1-0"
       }
      ]
     },
     {
      "date": "2026-09-29",
-     "odds": 28.02,
+     "odds": 26.91,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 2,
+     "lost_legs": 1,
      "n_legs": 11,
      "legs": [
       {
@@ -52936,17 +53201,17 @@
       },
       {
        "match": "Cardiff MET - Haverfordwest County AFC",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.76,
-       "status": "LOST",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.69,
+       "status": "WON",
        "score": "1-0"
       }
      ]
     },
     {
      "date": "2026-09-29",
-     "odds": 33.74,
+     "odds": 32.36,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 2,
@@ -53033,18 +53298,18 @@
        "score": "1-2"
       },
       {
-       "match": "Alvechurch - Stourbridge",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.71,
+       "match": "Banbury United - Stratford Town",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.64,
        "status": "LOST",
-       "score": "0-0"
+       "score": "2-3"
       }
      ]
     },
     {
      "date": "2026-09-29",
-     "odds": 30.03,
+     "odds": 28.08,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 2,
@@ -53131,18 +53396,18 @@
        "score": "1-2"
       },
       {
-       "match": "Banbury United - Stratford Town",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.85,
+       "match": "Racing Club Warwick - Worcester City",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.73,
        "status": "WON",
-       "score": "2-3"
+       "score": "2-2"
       }
      ]
     },
     {
      "date": "2026-09-29",
-     "odds": 22.42,
+     "odds": 23.12,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 2,
@@ -53221,18 +53486,18 @@
        "score": "1-2"
       },
       {
-       "match": "Kettering Town - Anstey Nomads",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.62,
+       "match": "Wimborne Town - Yate Town",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.67,
        "status": "WON",
-       "score": "4-1"
+       "score": "4-0"
       }
      ]
     },
     {
      "date": "2026-09-29",
-     "odds": 21.18,
+     "odds": 26.84,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 2,
@@ -53255,12 +53520,12 @@
        "score": "1-0"
       },
       {
-       "match": "Peterborough Sports - Redditch United",
+       "match": "Kettering Town - Anstey Nomads",
        "pick": "1st Half - Double Chance - Home or Draw",
        "model": "A2",
-       "odds": 1.29,
-       "status": "LOST",
-       "score": "2-2"
+       "odds": 1.31,
+       "status": "WON",
+       "score": "4-1"
       },
       {
        "match": "Boreham Wood - Kidderminster Harriers",
@@ -53287,29 +53552,29 @@
        "score": "0-2"
       },
       {
-       "match": "Wimborne Town - Yate Town",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.8,
-       "status": "WON",
-       "score": "4-0"
-      },
-      {
-       "match": "Wuxi Wugou - Ningbo Professional",
+       "match": "Sholing - Berkhamsted",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
-       "odds": 1.69,
+       "odds": 1.71,
        "status": "WON",
-       "score": "1-0"
+       "score": "2-0"
+      },
+      {
+       "match": "Bulgaria - Estonia",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 2.22,
+       "status": "LOST",
+       "score": "0-0"
       }
      ]
     },
     {
      "date": "2026-09-29",
-     "odds": 24.27,
+     "odds": 22.24,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 3,
+     "lost_legs": 5,
      "n_legs": 7,
      "legs": [
       {
@@ -53321,12 +53586,12 @@
        "score": "2-0"
       },
       {
-       "match": "Evesham United - Chippenham Town",
+       "match": "Peterborough Sports - Redditch United",
        "pick": "1st Half - Double Chance - Home or Draw",
        "model": "A2",
-       "odds": 1.32,
-       "status": "WON",
-       "score": "2-0"
+       "odds": 1.29,
+       "status": "LOST",
+       "score": "2-2"
       },
       {
        "match": "Dartford - Whitehawk",
@@ -53345,20 +53610,20 @@
        "score": "0-2"
       },
       {
-       "match": "Sholing - Berkhamsted",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.76,
-       "status": "LOST",
-       "score": "2-0"
-      },
-      {
-       "match": "Racing Club Warwick - Worcester City",
+       "match": "Banfield Res. - Atl\u00e9tico Tucum\u00e1n Res.",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
-       "odds": 1.73,
-       "status": "WON",
-       "score": "2-2"
+       "odds": 1.67,
+       "status": "LOST",
+       "score": "1-1"
+      },
+      {
+       "match": "Alvechurch - Stourbridge",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.71,
+       "status": "LOST",
+       "score": "0-0"
       },
       {
        "match": "Ilkeston Town - Rylands",
@@ -53372,10 +53637,10 @@
     },
     {
      "date": "2026-09-29",
-     "odds": 21.79,
+     "odds": 22.48,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 3,
+     "lost_legs": 1,
      "n_legs": 8,
      "legs": [
       {
@@ -53387,12 +53652,12 @@
        "score": "2-0"
       },
       {
-       "match": "Havant & Wville - Hanwell Town",
+       "match": "Evesham United - Chippenham Town",
        "pick": "1st Half - Double Chance - Home or Draw",
        "model": "A2",
-       "odds": 1.31,
-       "status": "LOST",
-       "score": "1-1"
+       "odds": 1.32,
+       "status": "WON",
+       "score": "2-0"
       },
       {
        "match": "Needham Market - Stamford",
@@ -53411,20 +53676,20 @@
        "score": "1-1"
       },
       {
+       "match": "Poland U20 - Czechia U20",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.71,
+       "status": "WON",
+       "score": "2-0"
+      },
+      {
        "match": "Guatemala - El Salvador",
        "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
        "model": "M4",
        "odds": 1.87,
        "status": "WON",
        "score": "6-0"
-      },
-      {
-       "match": "Banfield Res. - Atl\u00e9tico Tucum\u00e1n Res.",
-       "pick": "Away Team Odd/Even - Even",
-       "model": "M7",
-       "odds": 1.67,
-       "status": "LOST",
-       "score": "1-1"
       },
       {
        "match": "Bromsgrove Sporting - Leamington",
@@ -53446,10 +53711,10 @@
     },
     {
      "date": "2026-09-29",
-     "odds": 20.22,
+     "odds": 21.36,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 2,
+     "lost_legs": 3,
      "n_legs": 9,
      "legs": [
       {
@@ -53461,12 +53726,12 @@
        "score": "2-0"
       },
       {
-       "match": "England U19 - Norway U19",
+       "match": "Havant & Wville - Hanwell Town",
        "pick": "1st Half - Double Chance - Home or Draw",
        "model": "A2",
-       "odds": 1.2,
-       "status": "WON",
-       "score": "2-1"
+       "odds": 1.31,
+       "status": "LOST",
+       "score": "1-1"
       },
       {
        "match": "Portugal U20 - Switzerland U20",
@@ -53485,12 +53750,12 @@
        "score": "2-3"
       },
       {
-       "match": "Poland U20 - Czechia U20",
+       "match": "Wanderers - Albion FC",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
        "odds": 1.71,
-       "status": "WON",
-       "score": "2-0"
+       "status": "LOST",
+       "score": "2-1"
       },
       {
        "match": "Chertsey Town - Poole Town",
@@ -53509,12 +53774,12 @@
        "score": "2-0"
       },
       {
-       "match": "Serbia U19 - Hungary U19",
+       "match": "England U19 - Norway U19",
        "pick": "1st Half - Double Chance - Home or Draw",
        "model": "A2",
-       "odds": 1.24,
-       "status": "LOST",
-       "score": "0-4"
+       "odds": 1.2,
+       "status": "WON",
+       "score": "2-1"
       },
       {
        "match": "USA U19 - Wales U19",
@@ -53528,12 +53793,20 @@
     },
     {
      "date": "2026-09-29",
-     "odds": 28.05,
+     "odds": 20.34,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 2,
      "n_legs": 9,
      "legs": [
+      {
+       "match": "Serbia U19 - Hungary U19",
+       "pick": "1st Half - Double Chance - Home or Draw",
+       "model": "A2",
+       "odds": 1.24,
+       "status": "LOST",
+       "score": "0-4"
+      },
       {
        "match": "Philippines - Pakistan",
        "pick": "1st Half - Away Team Under 0.5",
@@ -53549,14 +53822,6 @@
        "odds": 1.2,
        "status": "WON",
        "score": "0-7"
-      },
-      {
-       "match": "Wanderers - Albion FC",
-       "pick": "Away Team Odd/Even - Even",
-       "model": "M7",
-       "odds": 1.71,
-       "status": "LOST",
-       "score": "2-1"
       },
       {
        "match": "Uxbridge - Basingstoke Town",
@@ -53888,7 +54153,7 @@
     },
     {
      "date": "2026-09-28",
-     "odds": 23.48,
+     "odds": 20.41,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 3,
@@ -53976,9 +54241,9 @@
       },
       {
        "match": "Romania - Bosnia & Herzegovina",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.99,
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.73,
        "status": "WON",
        "score": "2-4"
       }
@@ -54033,20 +54298,20 @@
        "score": "1-3"
       },
       {
-       "match": "Grafi\u010dar - Teleoptik",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.77,
-       "status": "WON",
-       "score": "4-1"
-      },
-      {
        "match": "Internacional Palmira - Leones FC",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
        "odds": 1.52,
        "status": "WON",
        "score": "1-0"
+      },
+      {
+       "match": "Grafi\u010dar - Teleoptik",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.77,
+       "status": "WON",
+       "score": "4-1"
       },
       {
        "match": "Leon - FC Juarez",
@@ -54068,7 +54333,7 @@
     },
     {
      "date": "2026-09-28",
-     "odds": 23.12,
+     "odds": 21.96,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 1,
@@ -54091,18 +54356,18 @@
        "score": "1-2"
       },
       {
-       "match": "Haiti - Costa Rica",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.78,
-       "status": "WON",
-       "score": "2-0"
-      },
-      {
        "match": "Deportivo Cali - \u00c1guilas Doradas",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
        "odds": 1.58,
+       "status": "WON",
+       "score": "2-0"
+      },
+      {
+       "match": "Haiti - Costa Rica",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.78,
        "status": "WON",
        "score": "2-0"
       },
@@ -54115,10 +54380,10 @@
        "score": "0-2"
       },
       {
-       "match": "Waterhouse - Treasure Beach",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.8,
+       "match": "Loznica - FK Spartak Zdrepceva KRV",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.71,
        "status": "WON",
        "score": "2-0"
       }
@@ -55278,7 +55543,7 @@
     },
     {
      "date": "2026-09-27",
-     "odds": 29.45,
+     "odds": 28.35,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 1,
@@ -55365,20 +55630,20 @@
        "score": "1-3"
       },
       {
-       "match": "Xelaj\u00fa - Comunicaciones",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.87,
+       "match": "FC Dallas - Los Angeles FC",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.8,
        "status": "WON",
-       "score": "2-3"
+       "score": "1-0"
       }
      ]
     },
     {
      "date": "2026-09-27",
-     "odds": 21.68,
+     "odds": 25.07,
      "status": "WON",
-     "profit": 20.68,
+     "profit": 24.07,
      "lost_legs": 0,
      "n_legs": 11,
      "legs": [
@@ -55463,18 +55728,18 @@
        "score": "2-2"
       },
       {
-       "match": "Svitavy - Trutnov",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.47,
+       "match": "Charleston Battery - Rhode Island",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.7,
        "status": "WON",
-       "score": "1-3"
+       "score": "2-0"
       }
      ]
     },
     {
      "date": "2026-09-27",
-     "odds": 22.18,
+     "odds": 20.63,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 1,
@@ -55545,28 +55810,28 @@
        "score": "0-3"
       },
       {
-       "match": "Venados FC - Monarcas",
+       "match": "Svitavy - Trutnov",
        "pick": "2nd Half - Away Team Over 0.5",
        "model": "M2",
-       "odds": 1.52,
+       "odds": 1.48,
        "status": "WON",
-       "score": "2-1"
+       "score": "1-3"
       },
       {
-       "match": "Eibar - Las Palmas",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.79,
+       "match": "Detroit City - Colorado Springs",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.71,
        "status": "WON",
-       "score": "3-2"
+       "score": "0-0"
       }
      ]
     },
     {
      "date": "2026-09-27",
-     "odds": 31.85,
+     "odds": 28.99,
      "status": "WON",
-     "profit": 30.85,
+     "profit": 27.99,
      "lost_legs": 0,
      "n_legs": 10,
      "legs": [
@@ -55635,26 +55900,26 @@
        "score": "2-2"
       },
       {
-       "match": "Union Cocle - Plaza Amador",
+       "match": "Venados FC - Monarcas",
        "pick": "2nd Half - Away Team Over 0.5",
        "model": "M2",
-       "odds": 1.46,
+       "odds": 1.52,
        "status": "WON",
-       "score": "1-2"
+       "score": "2-1"
       },
       {
-       "match": "Valladolid - Cordoba",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.75,
+       "match": "Fortaleza EC - Athletic Club",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.53,
        "status": "WON",
-       "score": "3-1"
+       "score": "2-2"
       }
      ]
     },
     {
      "date": "2026-09-27",
-     "odds": 22.22,
+     "odds": 20.72,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 3,
@@ -55693,28 +55958,28 @@
        "score": "2-0"
       },
       {
-       "match": "G\u00fczide Gebzespor - Elaz\u0131\u011fspor",
+       "match": "Union Cocle - Plaza Amador",
        "pick": "2nd Half - Away Team Over 0.5",
        "model": "M2",
-       "odds": 1.42,
-       "status": "LOST",
-       "score": "0-0"
-      },
-      {
-       "match": "Barakaldo - Real Avil\u00e9s",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.81,
+       "odds": 1.46,
        "status": "WON",
-       "score": "3-3"
+       "score": "1-2"
       },
       {
-       "match": "FC Dallas - Los Angeles FC",
+       "match": "Austria - Kosovo",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
-       "odds": 1.8,
+       "odds": 1.58,
+       "status": "LOST",
+       "score": "3-1"
+      },
+      {
+       "match": "Xelaj\u00fa - Comunicaciones",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.87,
        "status": "WON",
-       "score": "1-0"
+       "score": "2-3"
       },
       {
        "match": "Houston Dynamo - Sporting Kansas City",
@@ -55728,10 +55993,10 @@
     },
     {
      "date": "2026-09-27",
-     "odds": 34.62,
+     "odds": 32.61,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 4,
+     "lost_legs": 3,
      "n_legs": 8,
      "legs": [
       {
@@ -55759,28 +56024,28 @@
        "score": "3-0"
       },
       {
-       "match": "Necaxa U21 - Club America U21",
+       "match": "G\u00fczide Gebzespor - Elaz\u0131\u011fspor",
        "pick": "2nd Half - Away Team Over 0.5",
        "model": "M2",
-       "odds": 1.46,
+       "odds": 1.42,
        "status": "LOST",
-       "score": "1-0"
+       "score": "0-0"
       },
       {
-       "match": "Eibar II - Compostela",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.87,
-       "status": "LOST",
-       "score": "1-0"
-      },
-      {
-       "match": "Charleston Battery - Rhode Island",
+       "match": "Cherepovets - Dinamo Vologda",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
-       "odds": 1.7,
+       "odds": 1.72,
        "status": "WON",
-       "score": "2-0"
+       "score": "1-2"
+      },
+      {
+       "match": "Eibar - Las Palmas",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.79,
+       "status": "WON",
+       "score": "3-2"
       },
       {
        "match": "NY Cosmos - Richmond Kickers",
@@ -55802,10 +56067,10 @@
     },
     {
      "date": "2026-09-27",
-     "odds": 25.53,
+     "odds": 24.53,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 1,
+     "lost_legs": 2,
      "n_legs": 7,
      "legs": [
       {
@@ -55825,28 +56090,28 @@
        "score": "3-0"
       },
       {
-       "match": "Kisv\u00e1rda II - Cigand SE",
+       "match": "Necaxa U21 - Club America U21",
        "pick": "2nd Half - Away Team Over 0.5",
        "model": "M2",
-       "odds": 1.4,
-       "status": "WON",
-       "score": "1-1"
+       "odds": 1.46,
+       "status": "LOST",
+       "score": "1-0"
       },
       {
-       "match": "Real Oviedo II - Gimn\u00e1stica Torrelavega",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.9,
-       "status": "WON",
-       "score": "3-3"
-      },
-      {
-       "match": "Detroit City - Colorado Springs",
+       "match": "Murom - Luki-Energiya",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
        "odds": 1.71,
        "status": "WON",
-       "score": "0-0"
+       "score": "2-0"
+      },
+      {
+       "match": "Valladolid - Cordoba",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.75,
+       "status": "WON",
+       "score": "3-1"
       },
       {
        "match": "IF Karlstad - Karlberg",
@@ -55868,10 +56133,10 @@
     },
     {
      "date": "2026-09-27",
-     "odds": 28.06,
+     "odds": 25.18,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 3,
+     "lost_legs": 2,
      "n_legs": 7,
      "legs": [
       {
@@ -55891,28 +56156,28 @@
        "score": "3-0"
       },
       {
-       "match": "MTE 1904 - Dorogi FC",
+       "match": "Kisv\u00e1rda II - Cigand SE",
        "pick": "2nd Half - Away Team Over 0.5",
        "model": "M2",
-       "odds": 1.67,
-       "status": "LOST",
-       "score": "0-1"
-      },
-      {
-       "match": "Ucam Murcia - Intercity",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.89,
+       "odds": 1.4,
        "status": "WON",
-       "score": "1-2"
+       "score": "1-1"
       },
       {
-       "match": "Fortaleza EC - Athletic Club",
+       "match": "Tver - Torpedo Vladimir",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
-       "odds": 1.53,
+       "odds": 1.71,
        "status": "WON",
-       "score": "2-2"
+       "score": "2-0"
+      },
+      {
+       "match": "Barakaldo - Real Avil\u00e9s",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.81,
+       "status": "WON",
+       "score": "3-3"
       },
       {
        "match": "Falu BS - Angby",
@@ -55934,10 +56199,10 @@
     },
     {
      "date": "2026-09-27",
-     "odds": 27.85,
+     "odds": 29.85,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 4,
+     "lost_legs": 5,
      "n_legs": 7,
      "legs": [
       {
@@ -55957,28 +56222,28 @@
        "score": "4-0"
       },
       {
-       "match": "FC Obermais - Mestre",
+       "match": "MTE 1904 - Dorogi FC",
        "pick": "2nd Half - Away Team Over 0.5",
        "model": "M2",
-       "odds": 1.57,
-       "status": "WON",
-       "score": "2-2"
-      },
-      {
-       "match": "Numancia - Guadalajara",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 2.02,
+       "odds": 1.67,
        "status": "LOST",
-       "score": "1-0"
+       "score": "0-1"
       },
       {
-       "match": "Austria - Kosovo",
+       "match": "Barranquilla - Real Cundinamarca",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
-       "odds": 1.58,
+       "odds": 1.72,
        "status": "LOST",
-       "score": "3-1"
+       "score": "0-1"
+      },
+      {
+       "match": "Eibar II - Compostela",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.87,
+       "status": "LOST",
+       "score": "1-0"
       },
       {
        "match": "Guadalajara Chivas - Club Queretaro",
@@ -56000,7 +56265,7 @@
     },
     {
      "date": "2026-09-27",
-     "odds": 29.67,
+     "odds": 31.61,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 2,
@@ -56023,28 +56288,28 @@
        "score": "4-1"
       },
       {
-       "match": "Citt\u00e0 di Anagni - Afragolese",
+       "match": "FC Obermais - Mestre",
        "pick": "2nd Half - Away Team Over 0.5",
        "model": "M2",
-       "odds": 1.59,
-       "status": "LOST",
-       "score": "4-0"
-      },
-      {
-       "match": "Rodina Moskva II - Novosibirsk",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.72,
+       "odds": 1.57,
        "status": "WON",
-       "score": "1-3"
+       "score": "2-2"
       },
       {
-       "match": "Cherepovets - Dinamo Vologda",
+       "match": "Cucuta - Llaneros",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
-       "odds": 1.72,
+       "odds": 1.68,
+       "status": "LOST",
+       "score": "2-1"
+      },
+      {
+       "match": "Real Oviedo II - Gimn\u00e1stica Torrelavega",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.9,
        "status": "WON",
-       "score": "1-2"
+       "score": "3-3"
       },
       {
        "match": "Beltinci - Krka",
@@ -56066,10 +56331,10 @@
     },
     {
      "date": "2026-09-27",
-     "odds": 21.07,
+     "odds": 22.45,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 3,
+     "lost_legs": 2,
      "n_legs": 6,
      "legs": [
       {
@@ -56081,28 +56346,28 @@
        "score": "1-2"
       },
       {
-       "match": "Nosta - Orenburg II",
+       "match": "Citt\u00e0 di Anagni - Afragolese",
        "pick": "2nd Half - Away Team Over 0.5",
        "model": "M2",
-       "odds": 1.65,
+       "odds": 1.59,
        "status": "LOST",
-       "score": "2-0"
+       "score": "4-0"
       },
       {
-       "match": "Platense - Fuerte San Francisco",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.77,
-       "status": "LOST",
-       "score": "0-0"
-      },
-      {
-       "match": "Murom - Luki-Energiya",
+       "match": "Junior - Independiente Medellin",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
-       "odds": 1.71,
+       "odds": 1.77,
        "status": "WON",
        "score": "2-0"
+      },
+      {
+       "match": "Ucam Murcia - Intercity",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.89,
+       "status": "WON",
+       "score": "1-2"
       },
       {
        "match": "Mirandes - Unionistas de Salamanca",
@@ -56124,35 +56389,35 @@
     },
     {
      "date": "2026-09-27",
-     "odds": 20.25,
+     "odds": 23.34,
      "status": "LOST",
      "profit": -1.0,
      "lost_legs": 3,
      "n_legs": 6,
      "legs": [
       {
-       "match": "Vanuatu - New Caledonia",
+       "match": "Nosta - Orenburg II",
        "pick": "2nd Half - Away Team Over 0.5",
        "model": "M2",
-       "odds": 1.63,
+       "odds": 1.65,
        "status": "LOST",
-       "score": "4-1"
+       "score": "2-0"
       },
       {
-       "match": "Colina - Real San Joaqu\u00edn",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.66,
-       "status": "LOST",
+       "match": "Tigres UANL - Puebla",
+       "pick": "Away Team Odd/Even - Even",
+       "model": "M7",
+       "odds": 1.62,
+       "status": "WON",
        "score": "1-0"
       },
       {
-       "match": "Tver - Torpedo Vladimir",
-       "pick": "Away Team Odd/Even - Even",
-       "model": "M7",
-       "odds": 1.71,
-       "status": "WON",
-       "score": "2-0"
+       "match": "Numancia - Guadalajara",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 2.02,
+       "status": "LOST",
+       "score": "1-0"
       },
       {
        "match": "Hebar 1918 - Dobrudzha",
@@ -56171,46 +56436,46 @@
        "score": "1-2"
       },
       {
+       "match": "Vanuatu - New Caledonia",
+       "pick": "2nd Half - Away Team Over 0.5",
+       "model": "M2",
+       "odds": 1.63,
+       "status": "LOST",
+       "score": "4-1"
+      }
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "odds": 22.63,
+     "status": "LOST",
+     "profit": -1.0,
+     "lost_legs": 2,
+     "n_legs": 6,
+     "legs": [
+      {
        "match": "Tunisia U20 - Morocco U20",
        "pick": "2nd Half - Away Team Over 0.5",
        "model": "M2",
        "odds": 1.65,
        "status": "LOST",
        "score": "0-0"
-      }
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "odds": 38.98,
-     "status": "LOST",
-     "profit": -1.0,
-     "lost_legs": 3,
-     "n_legs": 6,
-     "legs": [
-      {
-       "match": "Dunbeholden - Mount Pleasant Academy",
-       "pick": "2nd Half - Away Team Over 0.5",
-       "model": "M2",
-       "odds": 1.49,
-       "status": "LOST",
-       "score": "0-2"
       },
       {
-       "match": "Medeama - Basake Holy Stars",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 2.23,
-       "status": "WON",
-       "score": "4-1"
-      },
-      {
-       "match": "Barranquilla - Real Cundinamarca",
+       "match": "Cob\u00e1n Imperial - Aurora",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
+       "odds": 1.53,
+       "status": "WON",
+       "score": "3-2"
+      },
+      {
+       "match": "Rodina Moskva II - Novosibirsk",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
        "odds": 1.72,
-       "status": "LOST",
-       "score": "0-1"
+       "status": "WON",
+       "score": "1-3"
       },
       {
        "match": "Segesta Sisak - Karlovac 1919",
@@ -56229,10 +56494,10 @@
        "score": "1-2"
       },
       {
-       "match": "GO\u0160K Gabela - Sloboda Tuzla",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.95,
+       "match": "Dunbeholden - Mount Pleasant Academy",
+       "pick": "2nd Half - Away Team Over 0.5",
+       "model": "M2",
+       "odds": 1.49,
        "status": "LOST",
        "score": "0-2"
       }
@@ -56240,27 +56505,27 @@
     },
     {
      "date": "2026-09-27",
-     "odds": 31.43,
+     "odds": 26.75,
      "status": "LOST",
      "profit": -1.0,
-     "lost_legs": 3,
+     "lost_legs": 4,
      "n_legs": 6,
      "legs": [
       {
-       "match": "Atl\u00e9tico Albericia - Solares",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.87,
-       "status": "LOST",
-       "score": "0-2"
-      },
-      {
-       "match": "Cucuta - Llaneros",
+       "match": "Marquense - Malacateco",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
-       "odds": 1.68,
+       "odds": 1.63,
+       "status": "WON",
+       "score": "1-0"
+      },
+      {
+       "match": "Platense - Fuerte San Francisco",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.77,
        "status": "LOST",
-       "score": "2-1"
+       "score": "0-0"
       },
       {
        "match": "Mu\u015f Sport Kl\u00fcb\u00fc - 68 Aksaray Belediyespor",
@@ -56279,78 +56544,20 @@
        "score": "0-1"
       },
       {
-       "match": "Subiza - Cirbonero",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.69,
-       "status": "WON",
-       "score": "2-0"
-      },
-      {
-       "match": "Junior - Independiente Medellin",
+       "match": "Mallorca - Almeria",
        "pick": "Away Team Odd/Even - Even",
        "model": "M7",
-       "odds": 1.77,
-       "status": "WON",
-       "score": "2-0"
-      }
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "odds": 29.57,
-     "status": "LOST",
-     "profit": -1.0,
-     "lost_legs": 2,
-     "n_legs": 6,
-     "legs": [
-      {
-       "match": "Cjarlins Muzane - Triestina",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.84,
+       "odds": 1.67,
        "status": "LOST",
-       "score": "3-0"
+       "score": "0-1"
       },
       {
-       "match": "Tigres UANL - Puebla",
-       "pick": "Away Team Odd/Even - Even",
-       "model": "M7",
-       "odds": 1.62,
-       "status": "WON",
+       "match": "Colina - Real San Joaqu\u00edn",
+       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+       "model": "M4",
+       "odds": 1.66,
+       "status": "LOST",
        "score": "1-0"
-      },
-      {
-       "match": "24 Erzincanspor - K\u0131rklarelispor",
-       "pick": "1st Half - Home Team Over 0.5",
-       "model": "M5",
-       "odds": 1.58,
-       "status": "LOST",
-       "score": "0-0"
-      },
-      {
-       "match": "Gozzano - Sanremese",
-       "pick": "Over/Under - Over 2.5",
-       "model": "M8",
-       "odds": 2.23,
-       "status": "WON",
-       "score": "2-1"
-      },
-      {
-       "match": "Castellanzese - Crema",
-       "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
-       "model": "M4",
-       "odds": 1.84,
-       "status": "WON",
-       "score": "4-0"
-      },
-      {
-       "match": "Cob\u00e1n Imperial - Aurora",
-       "pick": "Away Team Odd/Even - Even",
-       "model": "M7",
-       "odds": 1.53,
-       "status": "WON",
-       "score": "3-2"
       }
      ]
     }
@@ -56359,7 +56566,7 @@
    "about": "Mixed markets, built until the ticket reaches 20 odds. Rare wins, big payout."
   }
  },
- "generated": "2026-10-07 14:40",
+ "generated": "2026-10-07 17:18",
  "split": "2026-09-26",
  "note": "Candidates only. Selected as the best of 21,335 tested patterns over 6 days; some of this record is luck and will fade. Flat 1-unit stakes at the typical (median) bookmaker price. Prices captured about 1 hour before kick-off.",
  "models": [
@@ -130976,15 +131183,15 @@
    "selection": "Even",
    "rule": "O2.5@1.80-2.10 and league  ->  Away Odd/Even | Even",
    "record": {
-    "picks": 333,
-    "won": 212,
+    "picks": 334,
+    "won": 213,
     "lost": 121,
     "void": 0,
-    "hit": 63.7,
+    "hit": 63.8,
     "avg_odds": 1.67,
-    "profit": 19.59,
-    "roi": 5.9,
-    "roi_best": 6.1
+    "profit": 20.21,
+    "roi": 6.1,
+    "roi_best": 6.3
    },
    "found": {
     "picks": 121,
@@ -130998,19 +131205,31 @@
     "roi_best": 7.7
    },
    "unseen": {
-    "picks": 212,
-    "won": 134,
+    "picks": 213,
+    "won": 135,
     "lost": 78,
     "void": 0,
-    "hit": 63.2,
+    "hit": 63.4,
     "avg_odds": 1.66,
-    "profit": 10.71,
-    "roi": 5.1,
-    "roi_best": 5.2
+    "profit": 11.33,
+    "roi": 5.3,
+    "roi_best": 5.5
    },
-   "days_positive": 6,
-   "days": 8,
+   "days_positive": 7,
+   "days": 9,
    "daily": [
+    {
+     "date": "2026-10-07",
+     "picks": 1,
+     "won": 1,
+     "lost": 0,
+     "void": 0,
+     "hit": 100.0,
+     "avg_odds": 1.62,
+     "profit": 0.62,
+     "roi": 62.0,
+     "roi_best": 62.0
+    },
     {
      "date": "2026-10-02",
      "picks": 1,
@@ -131208,6 +131427,19 @@
     }
    ],
    "picks": [
+    {
+     "fid": 1624057,
+     "date": "2026-10-07",
+     "match": "Bra - Celle Varazze",
+     "league": "Italy: Serie D - Girone A",
+     "score": "2-0",
+     "ht": "1-0",
+     "odds": 1.62,
+     "best": 1.62,
+     "status": "WON",
+     "profit": 0.62,
+     "profit_best": 0.62
+    },
     {
      "fid": 1601401,
      "date": "2026-10-02",
