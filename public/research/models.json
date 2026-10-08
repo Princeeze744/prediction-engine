@@ -9904,23 +9904,27 @@
        "cat": "1X",
        "consistency": 94,
        "neighbours": "47 / 50",
-       "odds": null
+       "odds": null,
+       "status": "WON"
       },
       {
        "option": "Over 1.5",
        "cat": "OVER 1.5",
        "consistency": 90,
        "neighbours": "45 / 50",
-       "odds": null
+       "odds": null,
+       "status": "WON"
       },
       {
        "option": "Over 2.5",
        "cat": "OVER 2.5",
        "consistency": 76,
        "neighbours": "38 / 50",
-       "odds": 1.48
+       "odds": 1.48,
+       "status": "LOST"
       }
-     ]
+     ],
+     "score": "2-0"
     },
     {
      "fid": 1549595,
@@ -10842,23 +10846,27 @@
         "cat": "1X",
         "consistency": 94,
         "neighbours": "47 / 50",
-        "odds": null
+        "odds": null,
+        "status": "WON"
        },
        {
         "option": "Over 1.5",
         "cat": "OVER 1.5",
         "consistency": 90,
         "neighbours": "45 / 50",
-        "odds": null
+        "odds": null,
+        "status": "WON"
        },
        {
         "option": "Over 2.5",
         "cat": "OVER 2.5",
         "consistency": 76,
         "neighbours": "38 / 50",
-        "odds": 1.48
+        "odds": 1.48,
+        "status": "LOST"
        }
-      ]
+      ],
+      "score": "2-0"
      },
      {
       "fid": 1549595,
@@ -23160,24 +23168,24 @@
   ],
   "live": {
    "1X": {
-    "picks": 97,
-    "won": 89
+    "picks": 98,
+    "won": 90
    },
    "TOP FINGERPRINT": {
-    "picks": 428,
-    "won": 351
+    "picks": 429,
+    "won": 352
+   },
+   "OVER 1.5": {
+    "picks": 98,
+    "won": 87
+   },
+   "OVER 2.5": {
+    "picks": 82,
+    "won": 52
    },
    "HOME 1+": {
     "picks": 89,
     "won": 84
-   },
-   "OVER 2.5": {
-    "picks": 81,
-    "won": 52
-   },
-   "OVER 1.5": {
-    "picks": 97,
-    "won": 86
    },
    "X2": {
     "picks": 81,
@@ -23738,7 +23746,9 @@
        "odds": 1.33,
        "market": "Away Team Total Goals(1st Half)",
        "selection": "Under 0.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "2-0",
+       "ht": "0-0"
       },
       {
        "fid": 1558531,
@@ -23822,7 +23832,9 @@
        "odds": 1.33,
        "market": "Away Team Total Goals(1st Half)",
        "selection": "Under 0.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "2-0",
+       "ht": "0-0"
       },
       {
        "fid": 1492398,
@@ -23930,7 +23942,9 @@
        "odds": 1.33,
        "market": "Away Team Total Goals(1st Half)",
        "selection": "Under 0.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "2-0",
+       "ht": "0-0"
       },
       {
        "fid": 1492398,
@@ -24609,7 +24623,9 @@
         "odds": 1.33,
         "market": "Away Team Total Goals(1st Half)",
         "selection": "Under 0.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "2-0",
+        "ht": "0-0"
        },
        {
         "fid": 1558531,
@@ -24693,7 +24709,9 @@
         "odds": 1.33,
         "market": "Away Team Total Goals(1st Half)",
         "selection": "Under 0.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "2-0",
+        "ht": "0-0"
        },
        {
         "fid": 1492398,
@@ -24801,7 +24819,9 @@
         "odds": 1.33,
         "market": "Away Team Total Goals(1st Half)",
         "selection": "Under 0.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "2-0",
+        "ht": "0-0"
        },
        {
         "fid": 1492398,
@@ -30942,20 +30962,20 @@
     "hit": 63.6
    },
    {
+    "id": "M9",
+    "name": "Away Blank in First Half",
+    "sporty": "1st Half - Away Team Under 0.5",
+    "picks": 31,
+    "won": 23,
+    "hit": 74.2
+   },
+   {
     "id": "A2",
     "name": "Home Favourite Not Behind at Half-Time",
     "sporty": "1st Half - Double Chance - Home or Draw",
     "picks": 30,
     "won": 24,
     "hit": 80.0
-   },
-   {
-    "id": "M9",
-    "name": "Away Blank in First Half",
-    "sporty": "1st Half - Away Team Under 0.5",
-    "picks": 28,
-    "won": 20,
-    "hit": 71.4
    },
    {
     "id": "M2",
@@ -58439,7 +58459,7 @@
    "about": "Mixed markets, built until the ticket reaches 20 odds. Rare wins, big payout."
   }
  },
- "generated": "2026-10-08 12:20",
+ "generated": "2026-10-08 12:59",
  "split": "2026-09-26",
  "note": "Candidates only. Selected as the best of 21,335 tested patterns over 6 days; some of this record is luck and will fade. Flat 1-unit stakes at the typical (median) bookmaker price. Prices captured about 1 hour before kick-off.",
  "models": [
