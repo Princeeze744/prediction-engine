@@ -1,0 +1,937 @@
+{
+ "date": "2026-10-08",
+ "created": "2026-10-08 02:43",
+ "items": [
+  {
+   "fid": 1492398,
+   "home": "Santos",
+   "away": "Flamengo",
+   "league": "Brazil: Serie A",
+   "kickoff": "10/8/2026 11:30:00 PM",
+   "odds": [
+    4.19,
+    3.7,
+    1.83
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.21
+    }
+   ]
+  },
+  {
+   "fid": 1492780,
+   "home": "Shamrock Rovers",
+   "away": "Drogheda United",
+   "league": "Ireland: Premier Division",
+   "kickoff": "10/8/2026 8:00:00 PM",
+   "odds": [
+    1.39,
+    4.55,
+    7.68
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1531002,
+   "home": "Aral",
+   "away": "Qiziriq",
+   "league": "Uzbekistan: Pro League A",
+   "kickoff": "10/8/2026 2:00:00 PM",
+   "odds": [
+    1.06,
+    9.5,
+    26.0
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1531107,
+   "home": "Gazalkent",
+   "away": "Pakhtakor II",
+   "league": "Uzbekistan: Pro League A",
+   "kickoff": "10/8/2026 2:00:00 PM",
+   "odds": [
+    1.14,
+    5.6,
+    15.5
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.41
+    }
+   ]
+  },
+  {
+   "fid": 1534867,
+   "home": "Shakhter Karagandy",
+   "away": "Akademiya Ontustik",
+   "league": "Kazakhstan: 1. Division",
+   "kickoff": "10/8/2026 11:00:00 AM",
+   "odds": [
+    1.23,
+    5.35,
+    9.0
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.48
+    }
+   ]
+  },
+  {
+   "fid": 1549595,
+   "home": "Depor FC",
+   "away": "Real Cartagena",
+   "league": "Colombia: Primera B",
+   "kickoff": "10/8/2026 9:30:00 PM",
+   "odds": [
+    5.05,
+    3.67,
+    1.59
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1551231,
+   "home": "Johor Darul Takzim FC",
+   "away": "Svay Rieng",
+   "league": "World: ASEAN Club Championship",
+   "kickoff": "10/8/2026 1:00:00 PM",
+   "odds": [
+    1.2,
+    6.01,
+    7.93
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.33
+    }
+   ]
+  },
+  {
+   "fid": 1558532,
+   "home": "Bokelj",
+   "away": "Petrovac",
+   "league": "Montenegro: First League",
+   "kickoff": "10/8/2026 5:00:00 PM",
+   "odds": [
+    2.78,
+    2.67,
+    2.6
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1594862,
+   "home": "Tersana",
+   "away": "Kahraba Ismailia",
+   "league": "Egypt: Second League",
+   "kickoff": "10/8/2026 1:30:00 PM",
+   "odds": [
+    3.47,
+    2.67,
+    2.24
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1605086,
+   "home": "Ararat-Armenia II",
+   "away": "Andranik",
+   "league": "Armenia: First League",
+   "kickoff": "10/8/2026 12:30:00 PM",
+   "odds": [
+    8.95,
+    5.33,
+    1.23
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1611408,
+   "home": "MC Oran",
+   "away": "ES Setif",
+   "league": "Algeria: Ligue 1",
+   "kickoff": "10/8/2026 8:00:00 PM",
+   "odds": [
+    1.96,
+    2.82,
+    4.12
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1611409,
+   "home": "MB Rouisset",
+   "away": "USM Alger",
+   "league": "Algeria: Ligue 1",
+   "kickoff": "10/8/2026 6:00:00 PM",
+   "odds": [
+    3.17,
+    2.84,
+    2.29
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1611410,
+   "home": "JS Saoura",
+   "away": "Olympique Akbou",
+   "league": "Algeria: Ligue 1",
+   "kickoff": "10/8/2026 6:00:00 PM",
+   "odds": [
+    1.83,
+    2.94,
+    4.58
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1612075,
+   "home": "Atl\u00e9tico Tucum\u00e1n Res.",
+   "away": "Talleres C\u00f3rdoba Res.",
+   "league": "Argentina: Reserve League",
+   "kickoff": "10/8/2026 7:00:00 PM",
+   "odds": [
+    3.04,
+    3.06,
+    2.22
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.21
+    }
+   ]
+  },
+  {
+   "fid": 1621354,
+   "home": "Hapoel Migdal HaEmek",
+   "away": "Tzeirey Tamra",
+   "league": "Israel: Liga Alef",
+   "kickoff": "10/8/2026 5:30:00 PM",
+   "odds": [
+    1.3,
+    4.5,
+    8.0
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1621630,
+   "home": "Hapoel Herzliya",
+   "away": "Hapoel Mahane Yehuda",
+   "league": "Israel: Liga Alef",
+   "kickoff": "10/8/2026 6:15:00 PM",
+   "odds": [
+    1.73,
+    3.38,
+    4.1
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1627995,
+   "home": "Duhok",
+   "away": "Al Zawra'a",
+   "league": "Iraq: Iraqi League",
+   "kickoff": "10/8/2026 4:00:00 PM",
+   "odds": [
+    3.12,
+    3.1,
+    2.13
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1630447,
+   "home": "S\u0259bail",
+   "away": "Karvan",
+   "league": "Azerbaijan: Birinci Dasta",
+   "kickoff": "10/8/2026 12:30:00 PM",
+   "odds": [
+    1.81,
+    3.45,
+    3.84
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.25
+    }
+   ]
+  },
+  {
+   "fid": 1632439,
+   "home": "Ind. Juniors",
+   "away": "9 de Octubre",
+   "league": "Ecuador: Liga Pro Serie B",
+   "kickoff": "10/8/2026 6:00:00 PM",
+   "odds": [
+    2.25,
+    2.8,
+    3.22
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.07
+    }
+   ]
+  },
+  {
+   "fid": 1635274,
+   "home": "NEC",
+   "away": "Express",
+   "league": "Uganda: Premier League",
+   "kickoff": "10/8/2026 5:00:00 PM",
+   "odds": [
+    1.3,
+    4.0,
+    9.5
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1636705,
+   "home": "Santo Domingo",
+   "away": "LDU Portoviejo",
+   "league": "Ecuador: Liga Pro Serie B",
+   "kickoff": "10/8/2026 9:30:00 PM",
+   "odds": [
+    2.52,
+    2.86,
+    2.66
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1639227,
+   "home": "Atl\u00e9tico Mineiro U20",
+   "away": "Athletic Club MG U20",
+   "league": "Brazil: Copa do Brasil U20",
+   "kickoff": "10/8/2026 7:00:00 PM",
+   "odds": [
+    1.61,
+    3.8,
+    4.33
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1639238,
+   "home": "Al Ain",
+   "away": "Al-Ittihad Kalba",
+   "league": "United-Arab-Emirates: League Cup",
+   "kickoff": "10/8/2026 2:10:00 PM",
+   "odds": [
+    1.25,
+    5.58,
+    7.99
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.07
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.35
+    }
+   ]
+  },
+  {
+   "fid": 1639240,
+   "home": "Khorfakkan",
+   "away": "Al-Wasl FC",
+   "league": "United-Arab-Emirates: League Cup",
+   "kickoff": "10/8/2026 4:45:00 PM",
+   "odds": [
+    6.34,
+    4.6,
+    1.35
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.46
+    }
+   ]
+  },
+  {
+   "fid": 1639644,
+   "home": "Aluminium Arak",
+   "away": "Malavan",
+   "league": "Iran: Persian Gulf Pro League",
+   "kickoff": "10/8/2026 1:30:00 PM",
+   "odds": [
+    2.26,
+    2.88,
+    3.11
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1639645,
+   "home": "Nassaji Mazandaran",
+   "away": "ZOB Ahan",
+   "league": "Iran: Persian Gulf Pro League",
+   "kickoff": "10/8/2026 1:30:00 PM",
+   "odds": [
+    2.35,
+    2.85,
+    2.96
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1639646,
+   "home": "Tractor Sazi",
+   "away": "Esteghlal FC",
+   "league": "Iran: Persian Gulf Pro League",
+   "kickoff": "10/8/2026 2:30:00 PM",
+   "odds": [
+    2.4,
+    2.93,
+    2.83
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1639648,
+   "home": "Foolad FC",
+   "away": "Mes Shahr-e Babak",
+   "league": "Iran: Persian Gulf Pro League",
+   "kickoff": "10/8/2026 4:30:00 PM",
+   "odds": [
+    1.72,
+    3.37,
+    4.3
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1639650,
+   "home": "Gol Gohar",
+   "away": "Esteghlal Khuzestan",
+   "league": "Iran: Persian Gulf Pro League",
+   "kickoff": "10/8/2026 2:15:00 PM",
+   "odds": [
+    1.93,
+    3.0,
+    3.85
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1640278,
+   "home": "Bent\u00edn Tacna Heroica",
+   "away": "Carlos A. Mannucci",
+   "league": "Peru: Segunda Divisi\u00f3n",
+   "kickoff": "10/8/2026 9:00:00 PM",
+   "odds": [
+    1.83,
+    3.32,
+    3.64
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1640294,
+   "home": "Ghazl El Mehalla",
+   "away": "Abu Qair Semad",
+   "league": "Egypt: League Cup",
+   "kickoff": "10/8/2026 6:00:00 PM",
+   "odds": [
+    2.39,
+    2.83,
+    3.0
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1640295,
+   "home": "Future FC",
+   "away": "National Bank of Egypt",
+   "league": "Egypt: League Cup",
+   "kickoff": "10/8/2026 6:00:00 PM",
+   "odds": [
+    3.35,
+    2.94,
+    2.13
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1642032,
+   "home": "Al Akhaa Al Ahli",
+   "away": "Al Nejmeh",
+   "league": "Lebanon: Premier League",
+   "kickoff": "10/8/2026 1:00:00 PM",
+   "odds": [
+    6.25,
+    4.1,
+    1.4
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1642035,
+   "home": "Al Ansar",
+   "away": "Al Hikma",
+   "league": "Lebanon: Premier League",
+   "kickoff": "10/8/2026 2:00:00 PM",
+   "odds": [
+    1.27,
+    4.6,
+    9.0
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1643948,
+   "home": "RC Kouba",
+   "away": "Usm El Harrach",
+   "league": "Algeria: Ligue 2",
+   "kickoff": "10/8/2026 3:00:00 PM",
+   "odds": [
+    2.25,
+    2.8,
+    3.2
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1644202,
+   "home": "UTS Rabat",
+   "away": "Renaissance Berkane",
+   "league": "Morocco: Botola Pro",
+   "kickoff": "10/8/2026 5:00:00 PM",
+   "odds": [
+    3.25,
+    2.87,
+    2.21
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1644203,
+   "home": "FAR Rabat",
+   "away": "Widad T\u00e9mara",
+   "league": "Morocco: Botola Pro",
+   "kickoff": "10/8/2026 7:00:00 PM",
+   "odds": [
+    1.43,
+    3.48,
+    8.45
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1644204,
+   "home": "CR Khemis Zemamra",
+   "away": "Hassania Agadir",
+   "league": "Morocco: Botola Pro",
+   "kickoff": "10/8/2026 7:00:00 PM",
+   "odds": [
+    2.36,
+    2.73,
+    3.14
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1644205,
+   "home": "Maghreb F\u00e8s",
+   "away": "Raja Casablanca",
+   "league": "Morocco: Botola Pro",
+   "kickoff": "10/8/2026 9:00:00 PM",
+   "odds": [
+    2.83,
+    2.5,
+    2.75
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1644617,
+   "home": "Sporty",
+   "away": "Khaitan",
+   "league": "Kuwait: Division 1",
+   "kickoff": "10/8/2026 3:50:00 PM",
+   "odds": [
+    11.5,
+    5.7,
+    1.18
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.02
+    }
+   ]
+  }
+ ]
+}
