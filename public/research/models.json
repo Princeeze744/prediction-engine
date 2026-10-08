@@ -2647,7 +2647,9 @@
        "odds": 1.25,
        "market": "Handicap Result - First Half",
        "selection": "Home +1",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "0-1",
+       "ht": "0-1"
       },
       {
        "fid": 1638102,
@@ -2686,7 +2688,7 @@
        "status": "PENDING"
       }
      ],
-     "status": "PENDING"
+     "status": "LOST"
     },
     {
      "no": 3,
@@ -2869,7 +2871,9 @@
        "odds": 1.29,
        "market": "Asian Handicap First Half",
        "selection": "Home +0.5",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "0-1",
+       "ht": "0-1"
       },
       {
        "fid": 1638102,
@@ -2920,7 +2924,7 @@
        "status": "PENDING"
       }
      ],
-     "status": "PENDING"
+     "status": "LOST"
     }
    ]
   },
@@ -3032,7 +3036,9 @@
         "odds": 1.25,
         "market": "Handicap Result - First Half",
         "selection": "Home +1",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "0-1",
+        "ht": "0-1"
        },
        {
         "fid": 1638102,
@@ -3071,7 +3077,7 @@
         "status": "PENDING"
        }
       ],
-      "status": "PENDING"
+      "status": "LOST"
      },
      {
       "no": 3,
@@ -3254,7 +3260,9 @@
         "odds": 1.29,
         "market": "Asian Handicap First Half",
         "selection": "Home +0.5",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "0-1",
+        "ht": "0-1"
        },
        {
         "fid": 1638102,
@@ -3305,7 +3313,7 @@
         "status": "PENDING"
        }
       ],
-      "status": "PENDING"
+      "status": "LOST"
      }
     ]
    },
@@ -7231,15 +7239,20 @@
    }
   ],
   "live": {
+   "S3": {
+    "name": "Home Favourite +1 at Half-Time",
+    "tickets": 5,
+    "won": 1
+   },
+   "A2": {
+    "name": "Home Favourite Not Behind at Half-Time",
+    "tickets": 5,
+    "won": 0
+   },
    "A7": {
     "name": "Away Favourite +1 Start",
     "tickets": 4,
     "won": 0
-   },
-   "S3": {
-    "name": "Home Favourite +1 at Half-Time",
-    "tickets": 4,
-    "won": 1
    },
    "A5": {
     "name": "Away Favourite X2",
@@ -7250,11 +7263,6 @@
     "name": "Away Favourite Scores",
     "tickets": 5,
     "won": 1
-   },
-   "A2": {
-    "name": "Home Favourite Not Behind at Half-Time",
-    "tickets": 4,
-    "won": 0
    },
    "A3": {
     "name": "Underdog Will Not Score in Both Halves",
@@ -10223,9 +10231,11 @@
        "cat": "UNDER 3.5",
        "consistency": 80,
        "neighbours": "40 / 50",
-       "odds": 1.25
+       "odds": 1.25,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-1"
     },
     {
      "fid": 1632439,
@@ -11165,9 +11175,11 @@
         "cat": "UNDER 3.5",
         "consistency": 80,
         "neighbours": "40 / 50",
-        "odds": 1.25
+        "odds": 1.25,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-1"
      },
      {
       "fid": 1632439,
@@ -23172,8 +23184,8 @@
     "won": 90
    },
    "TOP FINGERPRINT": {
-    "picks": 429,
-    "won": 352
+    "picks": 430,
+    "won": 353
    },
    "OVER 1.5": {
     "picks": 98,
@@ -23182,6 +23194,10 @@
    "OVER 2.5": {
     "picks": 82,
     "won": 52
+   },
+   "UNDER 3.5": {
+    "picks": 163,
+    "won": 124
    },
    "HOME 1+": {
     "picks": 89,
@@ -23194,10 +23210,6 @@
    "AWAY 1+": {
     "picks": 12,
     "won": 12
-   },
-   "UNDER 3.5": {
-    "picks": 162,
-    "won": 123
    }
   },
   "backtest": {
@@ -23326,7 +23338,9 @@
        "odds": 1.29,
        "market": "Asian Handicap First Half",
        "selection": "Home +0.5",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "0-1",
+       "ht": "0-1"
       },
       {
        "fid": 1551231,
@@ -23377,8 +23391,8 @@
        "status": "PENDING"
       }
      ],
-     "status": "PENDING",
-     "lost_legs": 0
+     "status": "LOST",
+     "lost_legs": 1
     },
     {
      "no": 3,
@@ -23602,7 +23616,9 @@
        "odds": 1.29,
        "market": "Asian Handicap First Half",
        "selection": "Home +0.5",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "0-1",
+       "ht": "0-1"
       },
       {
        "fid": 1640293,
@@ -23629,8 +23645,8 @@
        "status": "PENDING"
       }
      ],
-     "status": "PENDING",
-     "lost_legs": 0
+     "status": "LOST",
+     "lost_legs": 1
     },
     {
      "no": 6,
@@ -23674,7 +23690,9 @@
        "odds": 1.29,
        "market": "Asian Handicap First Half",
        "selection": "Home +0.5",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "0-1",
+       "ht": "0-1"
       },
       {
        "fid": 1551231,
@@ -23725,8 +23743,8 @@
        "status": "PENDING"
       }
      ],
-     "status": "PENDING",
-     "lost_legs": 0
+     "status": "LOST",
+     "lost_legs": 1
     },
     {
      "no": 7,
@@ -23870,7 +23888,9 @@
        "odds": 1.29,
        "market": "Asian Handicap First Half",
        "selection": "Home +0.5",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "0-1",
+       "ht": "0-1"
       },
       {
        "fid": 1605089,
@@ -23921,8 +23941,8 @@
        "status": "PENDING"
       }
      ],
-     "status": "PENDING",
-     "lost_legs": 0
+     "status": "LOST",
+     "lost_legs": 1
     },
     {
      "no": 9,
@@ -23980,7 +24000,9 @@
        "odds": 1.29,
        "market": "Asian Handicap First Half",
        "selection": "Home +0.5",
-       "status": "PENDING"
+       "status": "LOST",
+       "score": "0-1",
+       "ht": "0-1"
       },
       {
        "fid": 1605089,
@@ -24019,8 +24041,8 @@
        "status": "PENDING"
       }
      ],
-     "status": "PENDING",
-     "lost_legs": 0
+     "status": "LOST",
+     "lost_legs": 1
     },
     {
      "no": 10,
@@ -24040,7 +24062,9 @@
        "odds": 1.59,
        "market": "Home Team Total Goals(1st Half)",
        "selection": "Over 0.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "2-1",
+       "ht": "1-1"
       },
       {
        "fid": 1600599,
@@ -24203,7 +24227,9 @@
         "odds": 1.29,
         "market": "Asian Handicap First Half",
         "selection": "Home +0.5",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "0-1",
+        "ht": "0-1"
        },
        {
         "fid": 1551231,
@@ -24254,8 +24280,8 @@
         "status": "PENDING"
        }
       ],
-      "status": "PENDING",
-      "lost_legs": 0
+      "status": "LOST",
+      "lost_legs": 1
      },
      {
       "no": 3,
@@ -24479,7 +24505,9 @@
         "odds": 1.29,
         "market": "Asian Handicap First Half",
         "selection": "Home +0.5",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "0-1",
+        "ht": "0-1"
        },
        {
         "fid": 1640293,
@@ -24506,8 +24534,8 @@
         "status": "PENDING"
        }
       ],
-      "status": "PENDING",
-      "lost_legs": 0
+      "status": "LOST",
+      "lost_legs": 1
      },
      {
       "no": 6,
@@ -24551,7 +24579,9 @@
         "odds": 1.29,
         "market": "Asian Handicap First Half",
         "selection": "Home +0.5",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "0-1",
+        "ht": "0-1"
        },
        {
         "fid": 1551231,
@@ -24602,8 +24632,8 @@
         "status": "PENDING"
        }
       ],
-      "status": "PENDING",
-      "lost_legs": 0
+      "status": "LOST",
+      "lost_legs": 1
      },
      {
       "no": 7,
@@ -24747,7 +24777,9 @@
         "odds": 1.29,
         "market": "Asian Handicap First Half",
         "selection": "Home +0.5",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "0-1",
+        "ht": "0-1"
        },
        {
         "fid": 1605089,
@@ -24798,8 +24830,8 @@
         "status": "PENDING"
        }
       ],
-      "status": "PENDING",
-      "lost_legs": 0
+      "status": "LOST",
+      "lost_legs": 1
      },
      {
       "no": 9,
@@ -24857,7 +24889,9 @@
         "odds": 1.29,
         "market": "Asian Handicap First Half",
         "selection": "Home +0.5",
-        "status": "PENDING"
+        "status": "LOST",
+        "score": "0-1",
+        "ht": "0-1"
        },
        {
         "fid": 1605089,
@@ -24896,8 +24930,8 @@
         "status": "PENDING"
        }
       ],
-      "status": "PENDING",
-      "lost_legs": 0
+      "status": "LOST",
+      "lost_legs": 1
      },
      {
       "no": 10,
@@ -24917,7 +24951,9 @@
         "odds": 1.59,
         "market": "Home Team Total Goals(1st Half)",
         "selection": "Over 0.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "2-1",
+        "ht": "1-1"
        },
        {
         "fid": 1600599,
@@ -30852,22 +30888,22 @@
   ],
   "live": {
    "3 odds": {
-    "tickets": 18,
+    "tickets": 19,
     "won": 6,
-    "profit": 0.87,
-    "hit": 33.3
+    "profit": -0.13,
+    "hit": 31.6
    },
    "5 odds": {
-    "tickets": 18,
+    "tickets": 20,
     "won": 4,
-    "profit": 3.79,
-    "hit": 22.2
+    "profit": 1.79,
+    "hit": 20.0
    },
    "10 odds": {
-    "tickets": 18,
+    "tickets": 20,
     "won": 2,
-    "profit": 2.36,
-    "hit": 11.1
+    "profit": 0.36,
+    "hit": 10.0
    },
    "20 odds": {
     "tickets": 6,
@@ -30954,6 +30990,14 @@
     "hit": 77.1
    },
    {
+    "id": "A2",
+    "name": "Home Favourite Not Behind at Half-Time",
+    "sporty": "1st Half - Double Chance - Home or Draw",
+    "picks": 35,
+    "won": 24,
+    "hit": 68.6
+   },
+   {
     "id": "A4",
     "name": "No First-Half GG",
     "sporty": "1st Half - GG/NG - No",
@@ -30968,14 +31012,6 @@
     "picks": 31,
     "won": 23,
     "hit": 74.2
-   },
-   {
-    "id": "A2",
-    "name": "Home Favourite Not Behind at Half-Time",
-    "sporty": "1st Half - Double Chance - Home or Draw",
-    "picks": 30,
-    "won": 24,
-    "hit": 80.0
    },
    {
     "id": "M2",
@@ -31053,9 +31089,9 @@
     "id": "M5",
     "name": "Home Scores Before the Break",
     "sporty": "1st Half - Home Team Over 0.5",
-    "picks": 4,
-    "won": 3,
-    "hit": 75.0
+    "picks": 5,
+    "won": 4,
+    "hit": 80.0
    },
    {
     "id": "M4",
@@ -58459,7 +58495,7 @@
    "about": "Mixed markets, built until the ticket reaches 20 odds. Rare wins, big payout."
   }
  },
- "generated": "2026-10-08 12:59",
+ "generated": "2026-10-08 14:47",
  "split": "2026-09-26",
  "note": "Candidates only. Selected as the best of 21,335 tested patterns over 6 days; some of this record is luck and will fade. Flat 1-unit stakes at the typical (median) bookmaker price. Prices captured about 1 hour before kick-off.",
  "models": [
