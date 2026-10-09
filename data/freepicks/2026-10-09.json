@@ -1,0 +1,2960 @@
+{
+ "date": "2026-10-09",
+ "created": "2026-10-09 02:56",
+ "items": [
+  {
+   "fid": 1492778,
+   "home": "Shelbourne",
+   "away": "Sligo Rovers",
+   "league": "Ireland: Premier Division",
+   "kickoff": "10/9/2026 7:45:00 PM",
+   "odds": [
+    1.36,
+    4.7,
+    8.2
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.07
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1492993,
+   "home": "Cork City",
+   "away": "Finn Harps",
+   "league": "Ireland: First Division",
+   "kickoff": "10/9/2026 7:45:00 PM",
+   "odds": [
+    1.11,
+    7.7,
+    14.0
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.23
+    }
+   ]
+  },
+  {
+   "fid": 1493167,
+   "home": "Aldosivi",
+   "away": "Sarmiento Junin",
+   "league": "Argentina: Liga Profesional Argentina",
+   "kickoff": "10/9/2026 6:30:00 PM",
+   "odds": [
+    2.59,
+    3.0,
+    3.0
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1493172,
+   "home": "Instituto Cordoba",
+   "away": "Boca Juniors",
+   "league": "Argentina: Liga Profesional Argentina",
+   "kickoff": "10/9/2026 11:30:00 PM",
+   "odds": [
+    3.15,
+    3.0,
+    2.52
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.36
+    },
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1494292,
+   "home": "IFK Goteborg",
+   "away": "Vasteras SK FK",
+   "league": "Sweden: Allsvenskan",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    1.74,
+    3.96,
+    4.2
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1497080,
+   "home": "Flekker\u00f8y",
+   "away": "Odd II",
+   "league": "Norway: 3. Division - Girone 4",
+   "kickoff": "10/9/2026 4:00:00 PM",
+   "odds": [
+    1.56,
+    4.6,
+    3.92
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1504320,
+   "home": "Klubi-04",
+   "away": "EIF",
+   "league": "Finland: Ykk\u00f6sliiga",
+   "kickoff": "10/9/2026 5:00:00 PM",
+   "odds": [
+    1.64,
+    4.15,
+    3.94
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.1
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.4
+    }
+   ]
+  },
+  {
+   "fid": 1505298,
+   "home": "Sollentuna",
+   "away": "Stocksund",
+   "league": "Sweden: Ettan - Norra",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    1.59,
+    4.05,
+    4.28
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1507078,
+   "home": "Incheon United",
+   "away": "Pohang Steelers",
+   "league": "South-Korea: K League 1",
+   "kickoff": "10/9/2026 8:30:00 AM",
+   "odds": [
+    2.23,
+    3.1,
+    3.33
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1510461,
+   "home": "Gimpo Citizen",
+   "away": "Seoul E-Land FC",
+   "league": "South-Korea: K League 2",
+   "kickoff": "10/9/2026 8:30:00 AM",
+   "odds": [
+    2.97,
+    3.38,
+    2.12
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.3
+    }
+   ]
+  },
+  {
+   "fid": 1516145,
+   "home": "Pakhtakor",
+   "away": "Bunyodkor",
+   "league": "Uzbekistan: Super League",
+   "kickoff": "10/9/2026 3:00:00 PM",
+   "odds": [
+    1.17,
+    6.39,
+    12.17
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.42
+    }
+   ]
+  },
+  {
+   "fid": 1516147,
+   "home": "Kokand-1912",
+   "away": "Mash'al",
+   "league": "Uzbekistan: Super League",
+   "kickoff": "10/9/2026 2:30:00 PM",
+   "odds": [
+    1.28,
+    4.67,
+    10.52
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.05
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.24
+    }
+   ]
+  },
+  {
+   "fid": 1519652,
+   "home": "Tartu Welco",
+   "away": "Elva",
+   "league": "Estonia: Esiliiga A",
+   "kickoff": "10/9/2026 5:30:00 PM",
+   "odds": [
+    1.62,
+    4.2,
+    4.22
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1520569,
+   "home": "Yangpyeong",
+   "away": "Ulsan Citizen",
+   "league": "South-Korea: K3 League",
+   "kickoff": "10/9/2026 6:00:00 AM",
+   "odds": [
+    2.52,
+    3.17,
+    2.48
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.22
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.38
+    }
+   ]
+  },
+  {
+   "fid": 1523271,
+   "home": "Qingdao Jonoon",
+   "away": "Beijing Guoan",
+   "league": "China: Super League",
+   "kickoff": "10/9/2026 12:35:00 PM",
+   "odds": [
+    7.3,
+    5.36,
+    1.37
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1525991,
+   "home": "Arsenal",
+   "away": "Dinamo Brest",
+   "league": "Belarus: Premier League",
+   "kickoff": "10/9/2026 5:00:00 PM",
+   "odds": [
+    5.7,
+    4.2,
+    1.51
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1549031,
+   "home": "FC Nordsjaelland",
+   "away": "Odense",
+   "league": "Denmark: Superliga",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    1.46,
+    4.7,
+    5.86
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1551832,
+   "home": "Jong Ajax",
+   "away": "VVV Venlo",
+   "league": "Netherlands: Eerste Divisie",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    2.81,
+    3.97,
+    2.14
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1551833,
+   "home": "Jong AZ",
+   "away": "Den Bosch",
+   "league": "Netherlands: Eerste Divisie",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    1.88,
+    4.33,
+    3.25
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1551834,
+   "home": "NAC Breda",
+   "away": "MVV",
+   "league": "Netherlands: Eerste Divisie",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    1.33,
+    5.25,
+    7.23
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1551836,
+   "home": "Roda",
+   "away": "Jong PSV U21",
+   "league": "Netherlands: Eerste Divisie",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    1.67,
+    4.15,
+    4.27
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1552180,
+   "home": "PSV Eindhoven",
+   "away": "Heerenveen",
+   "league": "Netherlands: Eredivisie",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    1.24,
+    7.28,
+    9.07
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.05
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1552775,
+   "home": "Lens",
+   "away": "Lyon",
+   "league": "France: Ligue 1",
+   "kickoff": "10/9/2026 7:45:00 PM",
+   "odds": [
+    2.4,
+    3.74,
+    2.88
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1555065,
+   "home": "Stade Nyonnais",
+   "away": "FC Aarau",
+   "league": "Switzerland: Challenge League",
+   "kickoff": "10/9/2026 7:15:00 PM",
+   "odds": [
+    5.4,
+    4.45,
+    1.46
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.1
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1555171,
+   "home": "Hapoel Acre",
+   "away": "Maccabi Bnei Raina",
+   "league": "Israel: Liga Leumit",
+   "kickoff": "10/9/2026 2:00:00 PM",
+   "odds": [
+    6.63,
+    4.42,
+    1.38
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1555177,
+   "home": "Maccabi Herzliya",
+   "away": "Maccabi Ahi Nazareth",
+   "league": "Israel: Liga Leumit",
+   "kickoff": "10/9/2026 2:00:00 PM",
+   "odds": [
+    1.8,
+    3.31,
+    3.88
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.27
+    }
+   ]
+  },
+  {
+   "fid": 1555178,
+   "home": "Kafr Qasim",
+   "away": "Bnei Yehuda",
+   "league": "Israel: Liga Leumit",
+   "kickoff": "10/9/2026 2:00:00 PM",
+   "odds": [
+    6.08,
+    4.05,
+    1.43
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1557242,
+   "home": "Albania W",
+   "away": "Wales W",
+   "league": "World: World Cup - Women - Qualification Europe",
+   "kickoff": "10/9/2026 5:00:00 PM",
+   "odds": [
+    16.25,
+    7.6,
+    1.09
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1557243,
+   "home": "Belarus W",
+   "away": "Italy W",
+   "league": "World: World Cup - Women - Qualification Europe",
+   "kickoff": "10/9/2026 5:15:00 PM",
+   "odds": [
+    20.0,
+    10.0,
+    1.04
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1557245,
+   "home": "Croatia W",
+   "away": "Iceland W",
+   "league": "World: World Cup - Women - Qualification Europe",
+   "kickoff": "10/9/2026 5:45:00 PM",
+   "odds": [
+    18.5,
+    8.6,
+    1.07
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1557247,
+   "home": "Finland W",
+   "away": "Serbia W",
+   "league": "World: World Cup - Women - Qualification Europe",
+   "kickoff": "10/9/2026 4:30:00 PM",
+   "odds": [
+    1.73,
+    3.41,
+    4.15
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.24
+    }
+   ]
+  },
+  {
+   "fid": 1557248,
+   "home": "Greece W",
+   "away": "England W",
+   "league": "World: World Cup - Women - Qualification Europe",
+   "kickoff": "10/9/2026 5:30:00 PM",
+   "odds": [
+    29.0,
+    13.0,
+    1.04
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1557249,
+   "home": "Hungary W",
+   "away": "Netherlands W",
+   "league": "World: World Cup - Women - Qualification Europe",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    19.5,
+    9.3,
+    1.06
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1557251,
+   "home": "Kazakhstan W",
+   "away": "Republic of Ireland W",
+   "league": "World: World Cup - Women - Qualification Europe",
+   "kickoff": "10/9/2026 12:00:00 PM",
+   "odds": [
+    50.0,
+    8.4,
+    1.04
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1557252,
+   "home": "Kosovo W",
+   "away": "Austria W",
+   "league": "World: World Cup - Women - Qualification Europe",
+   "kickoff": "10/9/2026 5:00:00 PM",
+   "odds": [
+    17.62,
+    6.85,
+    1.1
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1557253,
+   "home": "Lithuania W",
+   "away": "Sweden W",
+   "league": "World: World Cup - Women - Qualification Europe",
+   "kickoff": "10/9/2026 5:05:00 PM",
+   "odds": [
+    29.5,
+    20.0,
+    1.04
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1557254,
+   "home": "Northern Ireland W",
+   "away": "Portugal W",
+   "league": "World: World Cup - Women - Qualification Europe",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    10.2,
+    5.05,
+    1.23
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1557255,
+   "home": "Romania W",
+   "away": "Norway W",
+   "league": "World: World Cup - Women - Qualification Europe",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    25.0,
+    9.56,
+    1.04
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1557256,
+   "home": "Slovakia W",
+   "away": "Ukraine W",
+   "league": "World: World Cup - Women - Qualification Europe",
+   "kickoff": "10/9/2026 5:00:00 PM",
+   "odds": [
+    2.58,
+    3.17,
+    2.42
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.23
+    }
+   ]
+  },
+  {
+   "fid": 1559169,
+   "home": "RSC Anderlecht II",
+   "away": "AS Eupen",
+   "league": "Belgium: Challenger Pro League",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    3.58,
+    3.72,
+    1.79
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.45
+    }
+   ]
+  },
+  {
+   "fid": 1559795,
+   "home": "Vyso\u010dina Jihlava",
+   "away": "Prost\u011bjov",
+   "league": "Czech-Republic: FNL",
+   "kickoff": "10/9/2026 5:00:00 PM",
+   "odds": [
+    1.64,
+    3.74,
+    4.4
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.12
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1560040,
+   "home": "Zlin",
+   "away": "Slavia Praha",
+   "league": "Czech-Republic: Czech Liga",
+   "kickoff": "10/9/2026 5:00:00 PM",
+   "odds": [
+    10.0,
+    5.55,
+    1.26
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1561406,
+   "home": "FC Rostov",
+   "away": "Akron",
+   "league": "Russia: Premier League",
+   "kickoff": "10/9/2026 5:30:00 PM",
+   "odds": [
+    1.93,
+    3.68,
+    4.1
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.26
+    }
+   ]
+  },
+  {
+   "fid": 1565121,
+   "home": "Pardubice U19",
+   "away": "Ban\u00edk Ostrava U19",
+   "league": "Czech-Republic: 1. Liga U19",
+   "kickoff": "10/9/2026 11:00:00 AM",
+   "odds": [
+    2.55,
+    3.74,
+    2.17
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1565124,
+   "home": "Sparta Praha U19",
+   "away": "Opava U19",
+   "league": "Czech-Republic: 1. Liga U19",
+   "kickoff": "10/9/2026 12:00:00 PM",
+   "odds": [
+    1.71,
+    4.25,
+    3.33
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1565496,
+   "home": "Veres Rivne",
+   "away": "Shakhtar Donetsk",
+   "league": "Ukraine: Premier League",
+   "kickoff": "10/9/2026 1:30:00 PM",
+   "odds": [
+    10.95,
+    5.29,
+    1.25
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1567917,
+   "home": "SKU Amstetten",
+   "away": "FC BW Linz",
+   "league": "Austria: 2. Liga",
+   "kickoff": "10/9/2026 5:30:00 PM",
+   "odds": [
+    3.62,
+    3.8,
+    1.84
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.57
+    }
+   ]
+  },
+  {
+   "fid": 1568518,
+   "home": "G\u00f3rnik Polkowice",
+   "away": "Stilon Gorz\u00f3w",
+   "league": "Poland: III Liga - Group 3",
+   "kickoff": "10/9/2026 2:30:00 PM",
+   "odds": [
+    1.6,
+    3.94,
+    4.25
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.16
+    }
+   ]
+  },
+  {
+   "fid": 1568826,
+   "home": "Polonia \u015aroda",
+   "away": "Kluczevia Stargard",
+   "league": "Poland: III Liga - Group 2",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    1.64,
+    4.0,
+    3.98
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1569130,
+   "home": "Warta Sieradz",
+   "away": "Wigry Suwa\u0142ki",
+   "league": "Poland: III Liga - Group 1",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    2.69,
+    3.48,
+    2.18
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1571584,
+   "home": "Etar Veliko Tarnovo",
+   "away": "Fratria",
+   "league": "Bulgaria: Second League",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    3.0,
+    3.45,
+    2.05
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.28
+    }
+   ]
+  },
+  {
+   "fid": 1575176,
+   "home": "Borussia Dortmund",
+   "away": "Werder Bremen",
+   "league": "Germany: Bundesliga",
+   "kickoff": "10/9/2026 7:30:00 PM",
+   "odds": [
+    1.33,
+    5.88,
+    8.79
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.09
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.38
+    }
+   ]
+  },
+  {
+   "fid": 1575516,
+   "home": "Moreirense",
+   "away": "GIL Vicente",
+   "league": "Portugal: Primeira Liga",
+   "kickoff": "10/9/2026 6:45:00 PM",
+   "odds": [
+    3.31,
+    3.22,
+    2.26
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1575980,
+   "home": "Briton Ferry",
+   "away": "GAP Connah S Quay FC",
+   "league": "Wales: Premier League",
+   "kickoff": "10/9/2026 7:45:00 PM",
+   "odds": [
+    5.58,
+    4.05,
+    1.46
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1575981,
+   "home": "Cambrian & Clydach",
+   "away": "Ammanford AFC",
+   "league": "Wales: Premier League",
+   "kickoff": "10/9/2026 7:45:00 PM",
+   "odds": [
+    1.33,
+    4.6,
+    6.62
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1575982,
+   "home": "Cardiff MET",
+   "away": "Trefelin",
+   "league": "Wales: Premier League",
+   "kickoff": "10/9/2026 7:45:00 PM",
+   "odds": [
+    1.27,
+    5.2,
+    8.2
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1575985,
+   "home": "Holywell",
+   "away": "The New Saints",
+   "league": "Wales: Premier League",
+   "kickoff": "10/9/2026 7:45:00 PM",
+   "odds": [
+    55.5,
+    13.5,
+    1.02
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1576189,
+   "home": "Eintracht Braunschweig",
+   "away": "Holstein Kiel",
+   "league": "Germany: 2. Bundesliga",
+   "kickoff": "10/9/2026 5:30:00 PM",
+   "odds": [
+    2.61,
+    3.78,
+    2.37
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1577542,
+   "home": "FK Neftekhimik",
+   "away": "Chelyabinsk",
+   "league": "Russia: First League",
+   "kickoff": "10/9/2026 3:00:00 PM",
+   "odds": [
+    2.58,
+    2.89,
+    3.09
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1577798,
+   "home": "Sundby",
+   "away": "Ish\u00f8j",
+   "league": "Denmark: 3. Division",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    2.18,
+    3.54,
+    2.69
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1580528,
+   "home": "Ruthin Town",
+   "away": "Rhyl",
+   "league": "Wales: FAW Championship",
+   "kickoff": "10/9/2026 7:45:00 PM",
+   "odds": [
+    2.99,
+    3.64,
+    1.97
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.28
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.51
+    }
+   ]
+  },
+  {
+   "fid": 1584424,
+   "home": "Galatasaray",
+   "away": "Kas\u0131mpa\u015fa",
+   "league": "Turkey: S\u00fcper Lig",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    1.25,
+    6.07,
+    10.43
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.43
+    }
+   ]
+  },
+  {
+   "fid": 1586249,
+   "home": "Bayern M\u00fcnchen II",
+   "away": "SpVgg Unterhaching",
+   "league": "Germany: Regionalliga - Bayern",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    2.83,
+    3.68,
+    2.07
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.41
+    }
+   ]
+  },
+  {
+   "fid": 1586890,
+   "home": "BSG Chemie Leipzig",
+   "away": "Luckenwalde",
+   "league": "Germany: Regionalliga - Nordost",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    1.83,
+    4.25,
+    3.04
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1586895,
+   "home": "FSV Zwickau",
+   "away": "Tasmania Berlin",
+   "league": "Germany: Regionalliga - Nordost",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    1.57,
+    4.67,
+    3.86
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1590013,
+   "home": "Al Jazira Al Hamra",
+   "away": "Dibba Al-Fujairah",
+   "league": "United-Arab-Emirates: Division 1",
+   "kickoff": "10/9/2026 2:10:00 PM",
+   "odds": [
+    7.96,
+    4.7,
+    1.29
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1590179,
+   "home": "Karlovac 1919",
+   "away": "Bsk Bijelo Brdo",
+   "league": "Croatia: First NL",
+   "kickoff": "10/9/2026 5:00:00 PM",
+   "odds": [
+    2.62,
+    2.88,
+    2.59
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1590184,
+   "home": "Sesvete",
+   "away": "Jadran LP",
+   "league": "Croatia: First NL",
+   "kickoff": "10/9/2026 2:00:00 PM",
+   "odds": [
+    2.18,
+    2.95,
+    3.15
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1592753,
+   "home": "KFC Uerdingen 05",
+   "away": "Solingen-Wald",
+   "league": "Germany: Oberliga - Niederrhein",
+   "kickoff": "10/9/2026 6:30:00 PM",
+   "odds": [
+    1.69,
+    4.31,
+    3.48
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1594863,
+   "home": "El Entag EL Harby",
+   "away": "La Viena FC",
+   "league": "Egypt: Second League",
+   "kickoff": "10/9/2026 1:30:00 PM",
+   "odds": [
+    2.0,
+    2.89,
+    3.79
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1594864,
+   "home": "Ismaily SC",
+   "away": "Tanta SC",
+   "league": "Egypt: Second League",
+   "kickoff": "10/9/2026 1:30:00 PM",
+   "odds": [
+    2.08,
+    2.89,
+    3.54
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1594865,
+   "home": "Maleyet Kafr El Zayiat",
+   "away": "Baladiyyat Al Mehalla",
+   "league": "Egypt: Second League",
+   "kickoff": "10/9/2026 1:30:00 PM",
+   "odds": [
+    2.32,
+    2.66,
+    3.26
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1594866,
+   "home": "Team",
+   "away": "Pharco",
+   "league": "Egypt: Second League",
+   "kickoff": "10/9/2026 1:30:00 PM",
+   "odds": [
+    3.27,
+    2.74,
+    2.25
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1594867,
+   "home": "Itesalat",
+   "away": "El Mansura",
+   "league": "Egypt: Second League",
+   "kickoff": "10/9/2026 1:30:00 PM",
+   "odds": [
+    1.99,
+    2.71,
+    4.08
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1597783,
+   "home": "Uni\u00e3o Santar\u00e9m",
+   "away": "Lusitano \u00c9vora 1911",
+   "league": "Portugal: Liga 3",
+   "kickoff": "10/9/2026 9:00:00 PM",
+   "odds": [
+    2.98,
+    3.03,
+    2.28
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.13
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.29
+    }
+   ]
+  },
+  {
+   "fid": 1597933,
+   "home": "Al Sadd",
+   "away": "Al-Arabi SC",
+   "league": "Qatar: Stars League",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    1.48,
+    4.65,
+    4.73
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1597936,
+   "home": "Qatar SC",
+   "away": "Al-Rayyan SC",
+   "league": "Qatar: Stars League",
+   "kickoff": "10/9/2026 3:45:00 PM",
+   "odds": [
+    5.3,
+    4.33,
+    1.46
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1597996,
+   "home": "Na\u00e7\u00e3o",
+   "away": "Marc\u00edlio Dias",
+   "league": "Brazil: Copa Santa Catarina",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    6.6,
+    3.82,
+    1.42
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1602682,
+   "home": "Phrae United",
+   "away": "Kanchanaburi",
+   "league": "Thailand: Thai League 2",
+   "kickoff": "10/9/2026 1:00:00 PM",
+   "odds": [
+    2.95,
+    3.09,
+    2.24
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.25
+    }
+   ]
+  },
+  {
+   "fid": 1603037,
+   "home": "Al-Fateh",
+   "away": "Al-Ahli Jeddah",
+   "league": "Saudi-Arabia: Pro League",
+   "kickoff": "10/9/2026 3:55:00 PM",
+   "odds": [
+    5.85,
+    4.96,
+    1.41
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.05
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1603041,
+   "home": "Al Kholood",
+   "away": "Al-Qadisiyah FC",
+   "league": "Saudi-Arabia: Pro League",
+   "kickoff": "10/9/2026 2:50:00 PM",
+   "odds": [
+    5.45,
+    4.43,
+    1.48
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1603042,
+   "home": "Al-Nassr",
+   "away": "Al Diriyah",
+   "league": "Saudi-Arabia: Pro League",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    1.37,
+    5.22,
+    5.94
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1603575,
+   "home": "Karmiotissa",
+   "away": "Omonia Nicosia",
+   "league": "Cyprus: 1. Division",
+   "kickoff": "10/9/2026 5:00:00 PM",
+   "odds": [
+    12.9,
+    6.68,
+    1.17
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1607977,
+   "home": "Kalsdorf",
+   "away": "Gleisdorf 09",
+   "league": "Austria: Regionalliga - South",
+   "kickoff": "10/9/2026 6:00:00 PM",
+   "odds": [
+    1.29,
+    5.2,
+    6.7
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.38
+    }
+   ]
+  },
+  {
+   "fid": 1611407,
+   "home": "MC Alger",
+   "away": "T\u00e9mouchent",
+   "league": "Algeria: Ligue 1",
+   "kickoff": "10/9/2026 8:00:00 PM",
+   "odds": [
+    1.17,
+    5.3,
+    15.5
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.89
+    }
+   ]
+  },
+  {
+   "fid": 1611636,
+   "home": "RFC de Liege U21",
+   "away": "RAAL La Louviere U21",
+   "league": "Belgium: Reserve Pro League",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    8.8,
+    5.9,
+    1.2
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": null
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1621896,
+   "home": "Hapoel Ironi Arraba",
+   "away": "Hapoel Ihud Bnei Jatt",
+   "league": "Israel: Liga Alef",
+   "kickoff": "10/9/2026 12:30:00 PM",
+   "odds": [
+    2.96,
+    3.28,
+    2.09
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.28
+    }
+   ]
+  },
+  {
+   "fid": 1622647,
+   "home": "Al Nasar",
+   "away": "Al Kuwait",
+   "league": "Kuwait: Premier League",
+   "kickoff": "10/9/2026 3:50:00 PM",
+   "odds": [
+    7.15,
+    4.28,
+    1.35
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1627085,
+   "home": "Birmingham City U21",
+   "away": "Huddersfield Town U21",
+   "league": "England: Premier League Cup",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    2.0,
+    3.96,
+    2.79
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1627086,
+   "home": "Brighton U21",
+   "away": "Sheffield United U21",
+   "league": "England: Premier League Cup",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    1.69,
+    3.9,
+    3.76
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.44
+    }
+   ]
+  },
+  {
+   "fid": 1627087,
+   "home": "Burnley U21",
+   "away": "Preston North End U21",
+   "league": "England: Premier League Cup",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    1.69,
+    3.96,
+    3.84
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.44
+    }
+   ]
+  },
+  {
+   "fid": 1627094,
+   "home": "Reading U21",
+   "away": "Norwich City U21",
+   "league": "England: Premier League Cup",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    2.47,
+    3.67,
+    2.27
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1627095,
+   "home": "Southampton U21",
+   "away": "Queens Park Rangers U21",
+   "league": "England: Premier League Cup",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    1.35,
+    5.05,
+    5.79
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1627096,
+   "home": "Stoke City U21",
+   "away": "Charlton Athletic U21",
+   "league": "England: Premier League Cup",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    2.64,
+    3.88,
+    2.13
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.38
+    }
+   ]
+  },
+  {
+   "fid": 1628973,
+   "home": "Germany W",
+   "away": "Australia W",
+   "league": "World: Friendlies Women",
+   "kickoff": "10/9/2026 7:30:00 PM",
+   "odds": [
+    1.33,
+    4.75,
+    6.98
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.07
+    }
+   ]
+  },
+  {
+   "fid": 1630449,
+   "home": "\u015eimal",
+   "away": "Xank\u0259ndi FK",
+   "league": "Azerbaijan: Birinci Dasta",
+   "kickoff": "10/9/2026 12:30:00 PM",
+   "odds": [
+    3.02,
+    3.4,
+    2.08
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.32
+    }
+   ]
+  },
+  {
+   "fid": 1633129,
+   "home": "R\u00e2mnicu S\u0103rat",
+   "away": "Plopeni",
+   "league": "Romania: Liga III - Serie 3",
+   "kickoff": "10/9/2026 1:00:00 PM",
+   "odds": [
+    3.82,
+    3.8,
+    1.75
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1633524,
+   "home": "CSM Targu Jiu",
+   "away": "Unirea Bascov",
+   "league": "Romania: Liga III - Serie 6",
+   "kickoff": "10/9/2026 5:00:00 PM",
+   "odds": [
+    1.31,
+    4.6,
+    8.15
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": null
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1633658,
+   "home": "Metalurgistul Cugir",
+   "away": "Cetate Deva",
+   "league": "Romania: Liga III - Serie 7",
+   "kickoff": "10/9/2026 1:00:00 PM",
+   "odds": [
+    5.28,
+    4.2,
+    1.5
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1634835,
+   "home": "I.S.P.E",
+   "away": "Dagon",
+   "league": "Myanmar: National League",
+   "kickoff": "10/9/2026 10:00:00 AM",
+   "odds": [
+    7.8,
+    4.7,
+    1.29
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1637662,
+   "home": "PSIS Semarang",
+   "away": "Persiraja Banda Aceh",
+   "league": "Indonesia: Liga 2",
+   "kickoff": "10/9/2026 1:00:00 PM",
+   "odds": [
+    1.33,
+    4.33,
+    7.5
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1638086,
+   "home": "SJK",
+   "away": "Lahti",
+   "league": "Finland: Veikkausliiga",
+   "kickoff": "10/9/2026 4:00:00 PM",
+   "odds": [
+    2.67,
+    3.54,
+    2.39
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1638582,
+   "home": "Andorra W",
+   "away": "Faroe Islands W",
+   "league": "World: Friendlies Women",
+   "kickoff": "10/9/2026 11:30:00 AM",
+   "odds": [
+    11.0,
+    6.62,
+    1.14
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1638889,
+   "home": "Johor Darul Takzim FC",
+   "away": "Penang",
+   "league": "Malaysia: FA Cup",
+   "kickoff": "10/9/2026 10:00:00 AM",
+   "odds": [
+    1.15,
+    8.75,
+    9.38
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.07
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1639649,
+   "home": "Chadormalu SC",
+   "away": "Kheybar Khorramabad",
+   "league": "Iran: Persian Gulf Pro League",
+   "kickoff": "10/9/2026 2:15:00 PM",
+   "odds": [
+    2.42,
+    2.82,
+    2.92
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.07
+    }
+   ]
+  },
+  {
+   "fid": 1639651,
+   "home": "Persepolis FC",
+   "away": "Sanat Naft",
+   "league": "Iran: Persian Gulf Pro League",
+   "kickoff": "10/9/2026 2:30:00 PM",
+   "odds": [
+    1.25,
+    4.75,
+    9.57
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.05
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.23
+    }
+   ]
+  },
+  {
+   "fid": 1639821,
+   "home": "Delfin SC",
+   "away": "Mushuc Runa SC",
+   "league": "Ecuador: Liga Pro",
+   "kickoff": "10/9/2026 9:30:00 PM",
+   "odds": [
+    2.29,
+    3.02,
+    3.19
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1639896,
+   "home": "La Fiorita",
+   "away": "Murata",
+   "league": "San-Marino: Campionato",
+   "kickoff": "10/9/2026 8:15:00 PM",
+   "odds": [
+    1.07,
+    7.4,
+    19.5
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.1
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.34
+    }
+   ]
+  },
+  {
+   "fid": 1639897,
+   "home": "Pennarossa",
+   "away": "Folgore",
+   "league": "San-Marino: Campionato",
+   "kickoff": "10/9/2026 8:15:00 PM",
+   "odds": [
+    7.8,
+    4.85,
+    1.28
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1640026,
+   "home": "Haiti W",
+   "away": "Japan W",
+   "league": "World: Friendlies Women",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    24.0,
+    9.3,
+    1.06
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1640107,
+   "home": "Brothers Union",
+   "away": "Fortis",
+   "league": "Bangladesh: Premier League",
+   "kickoff": "10/9/2026 9:45:00 AM",
+   "odds": [
+    13.75,
+    5.7,
+    1.14
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1641303,
+   "home": "Mebrat Hayl",
+   "away": "Adama Kenema",
+   "league": "Ethiopia: Premier League",
+   "kickoff": "10/9/2026 1:00:00 PM",
+   "odds": [
+    2.54,
+    2.61,
+    2.9
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1642108,
+   "home": "Fanja",
+   "away": "Ibri",
+   "league": "Oman: Professional League",
+   "kickoff": "10/9/2026 2:00:00 PM",
+   "odds": [
+    2.81,
+    2.96,
+    2.39
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1643172,
+   "home": "Atletico Torque",
+   "away": "Danubio",
+   "league": "Uruguay: Primera Divisi\u00f3n",
+   "kickoff": "10/9/2026 9:00:00 PM",
+   "odds": [
+    1.82,
+    3.3,
+    3.9
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.26
+    }
+   ]
+  },
+  {
+   "fid": 1643358,
+   "home": "Al Jazeera",
+   "away": "Al Wihdat",
+   "league": "Jordan: League",
+   "kickoff": "10/9/2026 5:30:00 PM",
+   "odds": [
+    4.86,
+    3.45,
+    1.62
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1643395,
+   "home": "Malkiya",
+   "away": "Al Riffa",
+   "league": "Bahrain: Premier League",
+   "kickoff": "10/9/2026 5:00:00 PM",
+   "odds": [
+    9.07,
+    4.4,
+    1.29
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1643515,
+   "home": "Flamengo SP U20",
+   "away": "RB Bragantino U20",
+   "league": "Brazil: Paulista - U20",
+   "kickoff": "10/9/2026 7:00:00 PM",
+   "odds": [
+    12.5,
+    6.1,
+    1.14
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1643941,
+   "home": "Tiaret",
+   "away": "ASM Oran",
+   "league": "Algeria: Ligue 2",
+   "kickoff": "10/9/2026 3:00:00 PM",
+   "odds": [
+    1.89,
+    2.92,
+    4.1
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1643943,
+   "home": "NC Magra",
+   "away": "CA Batna",
+   "league": "Algeria: Ligue 2",
+   "kickoff": "10/9/2026 3:00:00 PM",
+   "odds": [
+    3.33,
+    2.95,
+    2.11
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1643951,
+   "home": "Blida",
+   "away": "Kol\u00e9a",
+   "league": "Algeria: Ligue 2",
+   "kickoff": "10/9/2026 3:00:00 PM",
+   "odds": [
+    1.21,
+    4.5,
+    15.25
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.09
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.35
+    }
+   ]
+  },
+  {
+   "fid": 1644206,
+   "home": "Moghreb Tetouan",
+   "away": "FUS Rabat",
+   "league": "Morocco: Botola Pro",
+   "kickoff": "10/9/2026 9:00:00 PM",
+   "odds": [
+    2.92,
+    2.82,
+    2.41
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.09
+    }
+   ]
+  }
+ ]
+}
