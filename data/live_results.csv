@@ -3608,35 +3608,35 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1494778,2026-10-10,2026-10-10T17:00:00+01:00,NS,103,Eliteserien,Norway,2026,Regular Season - 23,Rosenborg,Sandefjord,331,332,,,,,,,,,,
 1496171,2026-10-10,2026-10-10T18:00:00+01:00,NS,473,2. Division - Group 1,Norway,2026,Regular Season - 23,jerv,Arendal,2151,2155,,,,,,,,,,
 1496172,2026-10-10,2026-10-10T18:00:00+01:00,NS,473,2. Division - Group 1,Norway,2026,Regular Season - 23,Mjondalen,Pors Grenland,2152,7020,,,,,,,,,,
-1496173,2026-10-10,2026-10-10T13:00:00+01:00,NS,473,2. Division - Group 1,Norway,2026,Regular Season - 23,Sotra,Kvik Halden,7028,7004,,,,,,,,,,
-1496351,2026-10-10,2026-10-10T13:00:00+01:00,NS,474,2. Division - Group 2,Norway,2026,Regular Season - 23,Eidsvold,Skeid,6978,2239,,,,,,,,,,
+1496173,2026-10-10,2026-10-10T13:00:00+01:00,HT,473,2. Division - Group 1,Norway,2026,Regular Season - 23,Sotra,Kvik Halden,7028,7004,,,3,0,,,,,3,0
+1496351,2026-10-10,2026-10-10T13:00:00+01:00,1H,474,2. Division - Group 2,Norway,2026,Regular Season - 23,Eidsvold,Skeid,6978,2239,,,2,1,,,,,2,1
 1496357,2026-10-10,2026-10-10T13:00:00+01:00,NS,474,2. Division - Group 2,Norway,2026,Regular Season - 23,Ull/Kisa,Follo,2154,6985,,,,,,,,,,
-1496533,2026-10-10,2026-10-10T13:00:00+01:00,NS,774,3. Division - Girone 1,Norway,2026,Regular Season - 23,Asker,Bærum,6967,6974,,,,,,,,,,
-1496534,2026-10-10,2026-10-10T13:00:00+01:00,NS,774,3. Division - Girone 1,Norway,2026,Regular Season - 23,Gamle Oslo,Nordstrand,18924,7015,,,,,,,,,,
-1496536,2026-10-10,2026-10-10T12:00:00+01:00,1H,774,3. Division - Girone 1,Norway,2026,Regular Season - 23,Lokomotiv Oslo,Konnerud,7005,25912,,,0,0,,,,,0,0
-1496537,2026-10-10,2026-10-10T12:00:00+01:00,1H,774,3. Division - Girone 1,Norway,2026,Regular Season - 23,IF Ready,Union Carl Berner,6999,23423,,,0,0,,,,,0,0
-1496538,2026-10-10,2026-10-10T12:00:00+01:00,1H,774,3. Division - Girone 1,Norway,2026,Regular Season - 23,Ullern,SF Grei,7042,16868,,,0,0,,,,,0,0
-1496539,2026-10-10,2026-10-10T13:00:00+01:00,NS,774,3. Division - Girone 1,Norway,2026,Regular Season - 23,Vålerenga II,Frigg,10114,6987,,,,,,,,,,
+1496533,2026-10-10,2026-10-10T13:00:00+01:00,HT,774,3. Division - Girone 1,Norway,2026,Regular Season - 23,Asker,Bærum,6967,6974,,,3,1,,,,,3,1
+1496534,2026-10-10,2026-10-10T13:00:00+01:00,1H,774,3. Division - Girone 1,Norway,2026,Regular Season - 23,Gamle Oslo,Nordstrand,18924,7015,,,0,0,,,,,0,0
+1496536,2026-10-10,2026-10-10T12:00:00+01:00,2H,774,3. Division - Girone 1,Norway,2026,Regular Season - 23,Lokomotiv Oslo,Konnerud,7005,25912,,,1,1,,,,,3,1
+1496537,2026-10-10,2026-10-10T12:00:00+01:00,2H,774,3. Division - Girone 1,Norway,2026,Regular Season - 23,IF Ready,Union Carl Berner,6999,23423,,,1,0,,,,,4,0
+1496538,2026-10-10,2026-10-10T12:00:00+01:00,2H,774,3. Division - Girone 1,Norway,2026,Regular Season - 23,Ullern,SF Grei,7042,16868,,,0,2,,,,,0,2
+1496539,2026-10-10,2026-10-10T13:00:00+01:00,HT,774,3. Division - Girone 1,Norway,2026,Regular Season - 23,Vålerenga II,Frigg,10114,6987,,,2,0,,,,,2,0
 1496715,2026-10-10,2026-10-10T14:00:00+01:00,NS,775,3. Division - Girone 2,Norway,2026,Regular Season - 23,Byåsen,Nardo,6973,7014,,,,,,,,,,
-1496718,2026-10-10,2026-10-10T12:00:00+01:00,1H,775,3. Division - Girone 2,Norway,2026,Regular Season - 23,NTNUI,Volda,7013,16226,,,1,0,,,,,1,0
-1496719,2026-10-10,2026-10-10T13:00:00+01:00,NS,775,3. Division - Girone 2,Norway,2026,Regular Season - 23,Orkla,Kvik Trondheim,12824,25498,,,,,,,,,,
-1496897,2026-10-10,2026-10-10T13:00:00+01:00,NS,776,3. Division - Girone 3,Norway,2026,Regular Season - 23,Åsane II,Vard,22871,7043,,,,,,,,,,
-1496898,2026-10-10,2026-10-10T13:00:00+01:00,NS,776,3. Division - Girone 3,Norway,2026,Regular Season - 23,Askøy,Fana,22870,6980,,,,,,,,,,
-1496899,2026-10-10,2026-10-10T13:30:00+01:00,NS,776,3. Division - Girone 3,Norway,2026,Regular Season - 23,Austevoll,Førde,27276,18435,,,,,,,,,,
+1496718,2026-10-10,2026-10-10T12:00:00+01:00,2H,775,3. Division - Girone 2,Norway,2026,Regular Season - 23,NTNUI,Volda,7013,16226,,,1,0,,,,,1,0
+1496719,2026-10-10,2026-10-10T13:00:00+01:00,HT,775,3. Division - Girone 2,Norway,2026,Regular Season - 23,Orkla,Kvik Trondheim,12824,25498,,,0,0,,,,,0,0
+1496897,2026-10-10,2026-10-10T13:00:00+01:00,HT,776,3. Division - Girone 3,Norway,2026,Regular Season - 23,Åsane II,Vard,22871,7043,,,0,4,,,,,0,4
+1496898,2026-10-10,2026-10-10T13:00:00+01:00,1H,776,3. Division - Girone 3,Norway,2026,Regular Season - 23,Askøy,Fana,22870,6980,,,0,0,,,,,0,0
+1496899,2026-10-10,2026-10-10T13:30:00+01:00,1H,776,3. Division - Girone 3,Norway,2026,Regular Season - 23,Austevoll,Førde,27276,18435,,,1,0,,,,,1,0
 1496901,2026-10-10,2026-10-10T14:00:00+01:00,NS,776,3. Division - Girone 3,Norway,2026,Regular Season - 23,Fyllingsdalen,Os,6990,12825,,,,,,,,,,
 1496902,2026-10-10,2026-10-10T14:00:00+01:00,NS,776,3. Division - Girone 3,Norway,2026,Regular Season - 23,Sogndal II,Gneist,16219,18925,,,,,,,,,,
-1496903,2026-10-10,2026-10-10T13:00:00+01:00,NS,776,3. Division - Girone 3,Norway,2026,Regular Season - 23,Varegg,Stord,19719,16220,,,,,,,,,,
-1497079,2026-10-10,2026-10-10T13:00:00+01:00,NS,777,3. Division - Girone 4,Norway,2026,Regular Season - 23,Brodd,Hinna,6971,6997,,,,,,,,,,
+1496903,2026-10-10,2026-10-10T13:00:00+01:00,1H,776,3. Division - Girone 3,Norway,2026,Regular Season - 23,Varegg,Stord,19719,16220,,,2,2,,,,,2,2
+1497079,2026-10-10,2026-10-10T13:00:00+01:00,HT,777,3. Division - Girone 4,Norway,2026,Regular Season - 23,Brodd,Hinna,6971,6997,,,2,0,,,,,2,0
 1497083,2026-10-10,2026-10-10T14:00:00+01:00,NS,777,3. Division - Girone 4,Norway,2026,Regular Season - 23,Staal Jørpeland,Våg,12860,25500,,,,,,,,,,
-1497084,2026-10-10,2026-10-10T13:00:00+01:00,NS,777,3. Division - Girone 4,Norway,2026,Regular Season - 23,Varhaug,Madla,23424,7009,,,,,,,,,,
+1497084,2026-10-10,2026-10-10T13:00:00+01:00,1H,777,3. Division - Girone 4,Norway,2026,Regular Season - 23,Varhaug,Madla,23424,7009,,,1,1,,,,,1,1
 1497085,2026-10-10,2026-10-10T14:00:00+01:00,NS,777,3. Division - Girone 4,Norway,2026,Regular Season - 23,Viking II,Vindbjart,12891,7047,,,,,,,,,,
 1497261,2026-10-10,2026-10-10T14:00:00+01:00,NS,778,3. Division - Girone 5,Norway,2026,Regular Season - 23,Alta,Skjervøy,6965,7024,,,,,,,,,,
-1497265,2026-10-10,2026-10-10T13:00:00+01:00,NS,778,3. Division - Girone 5,Norway,2026,Regular Season - 23,Skedsmo,Fløya,19711,6984,,,,,,,,,,
-1497443,2026-10-10,2026-10-10T13:00:00+01:00,NS,779,3. Division - Girone 6,Norway,2026,Regular Season - 23,Bjørkelangen,Gjøvik-Lyn,22868,6992,,,,,,,,,,
+1497265,2026-10-10,2026-10-10T13:00:00+01:00,HT,778,3. Division - Girone 5,Norway,2026,Regular Season - 23,Skedsmo,Fløya,19711,6984,,,0,1,,,,,0,1
+1497443,2026-10-10,2026-10-10T13:00:00+01:00,1H,779,3. Division - Girone 6,Norway,2026,Regular Season - 23,Bjørkelangen,Gjøvik-Lyn,22868,6992,,,0,3,,,,,0,3
 1497445,2026-10-10,2026-10-10T14:00:00+01:00,NS,779,3. Division - Girone 6,Norway,2026,Regular Season - 23,Fram,Brumunddal,6986,6972,,,,,,,,,,
-1497446,2026-10-10,2026-10-10T13:00:00+01:00,NS,779,3. Division - Girone 6,Norway,2026,Regular Season - 23,Oppsal,Drøbak / Frogn,7018,21349,,,,,,,,,,
+1497446,2026-10-10,2026-10-10T13:00:00+01:00,HT,779,3. Division - Girone 6,Norway,2026,Regular Season - 23,Oppsal,Drøbak / Frogn,7018,21349,,,0,1,,,,,0,1
 1497447,2026-10-10,2026-10-10T14:00:00+01:00,NS,779,3. Division - Girone 6,Norway,2026,Regular Season - 23,Ørn Horten,Lillehammer,7052,18437,,,,,,,,,,
-1497714,2026-10-10,2026-10-10T12:00:00+01:00,1H,114,Superettan,Sweden,2026,Regular Season - 26,Landskrona BoIS,Sandviken,2176,6697,,,0,0,,,,,0,0
+1497714,2026-10-10,2026-10-10T12:00:00+01:00,2H,114,Superettan,Sweden,2026,Regular Season - 26,Landskrona BoIS,Sandviken,2176,6697,,,2,0,,,,,2,2
 1497715,2026-10-10,2026-10-10T16:00:00+01:00,NS,114,Superettan,Sweden,2026,Regular Season - 26,Norrby IF,Osters IF,2173,2174,,,,,,,,,,
 1497717,2026-10-10,2026-10-10T16:00:00+01:00,NS,114,Superettan,Sweden,2026,Regular Season - 26,Oddevold,United Nordic,11674,16601,,,,,,,,,,
 1497719,2026-10-10,2026-10-10T14:00:00+01:00,NS,114,Superettan,Sweden,2026,Regular Season - 26,Ostersunds FK,Varbergs BoIS FC,376,2171,,,,,,,,,,
@@ -3653,119 +3653,119 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1499680,2026-10-10,2026-10-10T00:00:00+01:00,FT,131,Primera B Metropolitana,Argentina,2026,Regular Season - 39,Talleres Remedios,Deportivo Camioneros,1927,3943,1,1,0,0,,,,,1,1
 1499682,2026-10-10,2026-10-10T19:00:00+01:00,NS,131,Primera B Metropolitana,Argentina,2026,Regular Season - 39,Villa Dalmine,Liniers,481,8395,,,,,,,,,,
 1504571,2026-10-10,2026-10-10T15:00:00+01:00,NS,564,Ettan - Södra,Sweden,2026,Södra - 26,AFC Malmo,Skövde AIK,27669,6698,,,,,,,,,,
-1504572,2026-10-10,2026-10-10T12:00:00+01:00,1H,564,Ettan - Södra,Sweden,2026,Södra - 26,Eskilsminne,Olympic,6663,12601,,,0,0,,,,,0,0
-1504573,2026-10-10,2026-10-10T12:00:00+01:00,1H,564,Ettan - Södra,Sweden,2026,Södra - 26,Hässleholms IF,Jonkopings Sodra,6676,764,,,0,0,,,,,0,0
+1504572,2026-10-10,2026-10-10T12:00:00+01:00,2H,564,Ettan - Södra,Sweden,2026,Södra - 26,Eskilsminne,Olympic,6663,12601,,,2,3,,,,,2,6
+1504573,2026-10-10,2026-10-10T12:00:00+01:00,2H,564,Ettan - Södra,Sweden,2026,Södra - 26,Hässleholms IF,Jonkopings Sodra,6676,764,,,0,0,,,,,1,0
 1504575,2026-10-10,2026-10-10T15:00:00+01:00,NS,564,Ettan - Södra,Sweden,2026,Södra - 26,Rosengård,Atvidabergs FF,6694,2162,,,,,,,,,,
-1504576,2026-10-10,2026-10-10T12:00:00+01:00,1H,564,Ettan - Södra,Sweden,2026,Södra - 26,Trelleborg,Kristianstad,369,11675,,,1,0,,,,,1,0
+1504576,2026-10-10,2026-10-10T12:00:00+01:00,2H,564,Ettan - Södra,Sweden,2026,Södra - 26,Trelleborg,Kristianstad,369,11675,,,2,0,,,,,2,0
 1504577,2026-10-10,2026-10-10T15:00:00+01:00,NS,564,Ettan - Södra,Sweden,2026,Södra - 26,Lund,Trollhättan,6687,6702,,,,,,,,,,
 1505291,2026-10-10,2026-10-10T15:00:00+01:00,NS,563,Ettan - Norra,Sweden,2026,Norra - 26,AFC Eskilstuna,Stockholm Internazionale,765,12585,,,,,,,,,,
-1505296,2026-10-10,2026-10-10T12:00:00+01:00,1H,563,Ettan - Norra,Sweden,2026,Norra - 26,Karlberg,Vasalund,6682,6708,,,0,0,,,,,0,0
+1505296,2026-10-10,2026-10-10T12:00:00+01:00,2H,563,Ettan - Norra,Sweden,2026,Norra - 26,Karlberg,Vasalund,6682,6708,,,1,1,,,,,2,2
 1505297,2026-10-10,2026-10-10T15:00:00+01:00,NS,563,Ettan - Norra,Sweden,2026,Norra - 26,IF Karlstad,Arlanda,11659,16597,,,,,,,,,,
 1505531,2026-10-10,2026-10-10T19:00:00+01:00,NS,265,Primera División,Chile,2026,Regular Season - 24,Cobresal,Universidad de Concepcion,2331,2324,,,,,,,,,,
 1505535,2026-10-10,2026-10-10T21:30:00+01:00,NS,265,Primera División,Chile,2026,Regular Season - 24,Huachipato,O'Higgins,2328,2320,,,,,,,,,,
 1506538,2026-10-10,2026-10-10T18:30:00+01:00,NS,367,Meistaradeildin,Faroe-Islands,2026,Regular Season - 24,07 Vestur,EB / Streymur,4174,4177,,,,,,,,,,
 1506678,2026-10-10,2026-10-10T15:00:00+01:00,NS,366,1. Deild,Faroe-Islands,2026,Regular Season - 25,Suduroy,HB II,4182,4179,,,,,,,,,,
 1506679,2026-10-10,2026-10-10T16:00:00+01:00,NS,366,1. Deild,Faroe-Islands,2026,Regular Season - 25,Hoyvík,Víkingur II,10076,4183,,,,,,,,,,
-1506680,2026-10-10,2026-10-10T13:00:00+01:00,NS,366,1. Deild,Faroe-Islands,2026,Regular Season - 25,ÍF II,TB,4187,4192,,,,,,,,,,
+1506680,2026-10-10,2026-10-10T13:00:00+01:00,HT,366,1. Deild,Faroe-Islands,2026,Regular Season - 25,ÍF II,TB,4187,4192,,,0,2,,,,,0,2
 1506681,2026-10-10,2026-10-10T14:30:00+01:00,NS,366,1. Deild,Faroe-Islands,2026,Regular Season - 25,NSÍ II,B71,4181,4176,,,,,,,,,,
-1506682,2026-10-10,2026-10-10T13:00:00+01:00,NS,366,1. Deild,Faroe-Islands,2026,Regular Season - 25,EB / Streymur II,B36 II,4190,4185,,,,,,,,,,
+1506682,2026-10-10,2026-10-10T13:00:00+01:00,1H,366,1. Deild,Faroe-Islands,2026,Regular Season - 25,EB / Streymur II,B36 II,4190,4185,,,0,1,,,,,0,1
 1507079,2026-10-10,2026-10-10T06:00:00+01:00,FT,292,K League 1,South-Korea,2026,Regular Season - 31,FC Seoul,Jeju United FC,2766,2761,2,1,0,0,,,,,2,1
 1507080,2026-10-10,2026-10-10T08:30:00+01:00,FT,292,K League 1,South-Korea,2026,Regular Season - 31,Gimcheon Sangmu FC,FC Anyang,2768,2748,0,1,0,1,,,,,0,1
 1507229,2026-10-10,2026-10-10T18:00:00+01:00,NS,326,Erovnuli Liga 2,Georgia,2026,Regular Season - 28,Aragvi Dusheti,Telavi,10015,3511,,,,,,,,,,
 1507230,2026-10-10,2026-10-10T15:00:00+01:00,NS,326,Erovnuli Liga 2,Georgia,2026,Regular Season - 28,Gori,Merani Martvili,14861,10016,,,,,,,,,,
-1507231,2026-10-10,2026-10-10T12:30:00+01:00,NS,326,Erovnuli Liga 2,Georgia,2026,Regular Season - 28,Odishi 1919,Gareji,13856,14860,,,,,,,,,,
+1507231,2026-10-10,2026-10-10T12:30:00+01:00,2H,326,Erovnuli Liga 2,Georgia,2026,Regular Season - 28,Odishi 1919,Gareji,13856,14860,,,0,0,,,,,0,0
 1507232,2026-10-10,2026-10-10T17:00:00+01:00,NS,326,Erovnuli Liga 2,Georgia,2026,Regular Season - 28,Shturmi,Kolkheti Poti,16516,3507,,,,,,,,,,
 1507233,2026-10-10,2026-10-10T15:00:00+01:00,NS,326,Erovnuli Liga 2,Georgia,2026,Regular Season - 28,Samtredia,Sioni,581,3503,,,,,,,,,,
-1509194,2026-10-10,2026-10-10T12:30:00+01:00,NS,327,Erovnuli Liga,Georgia,2026,Regular Season - 28,Meshakhte,FC Iberia 1999,13847,3502,,,,,,,,,,
+1509194,2026-10-10,2026-10-10T12:30:00+01:00,2H,327,Erovnuli Liga,Georgia,2026,Regular Season - 28,Meshakhte,FC Iberia 1999,13847,3502,,,1,2,,,,,1,2
 1509195,2026-10-10,2026-10-10T15:00:00+01:00,NS,327,Erovnuli Liga,Georgia,2026,Regular Season - 28,Rustavi,Dila,3501,3499,,,,,,,,,,
 1509197,2026-10-10,2026-10-10T17:00:00+01:00,NS,327,Erovnuli Liga,Georgia,2026,Regular Season - 28,Spaeri,Torpedo Kutaisi,14864,685,,,,,,,,,,
 1510462,2026-10-10,2026-10-10T06:00:00+01:00,FT,293,K League 2,South-Korea,2026,Regular Season - 28,Jeonnam Dragons,Yongin City,2760,9171,2,1,1,0,,,,,2,1
 1510463,2026-10-10,2026-10-10T06:00:00+01:00,FT,293,K League 2,South-Korea,2026,Regular Season - 28,Paju Citizen,Busan I Park,7098,2752,1,1,0,0,,,,,1,1
 1510464,2026-10-10,2026-10-10T08:30:00+01:00,FT,293,K League 2,South-Korea,2026,Regular Season - 28,Cheonan City,Gyeongnam FC,7060,2751,1,0,0,0,,,,,1,0
 1510465,2026-10-10,2026-10-10T08:30:00+01:00,FT,293,K League 2,South-Korea,2026,Regular Season - 28,Gimhae City,Asan Mugunghwa,7076,2753,1,1,1,0,,,,,1,1
-1510691,2026-10-10,2026-10-10T12:00:00+01:00,1H,592,Division 2 - Norra Götaland,Sweden,2026,Norra Götaland - 25,Tord,Grebbestad,12618,6670,,,1,0,,,,,1,0
-1510692,2026-10-10,2026-10-10T13:00:00+01:00,NS,592,Division 2 - Norra Götaland,Sweden,2026,Norra Götaland - 25,Ahlafors,Stenungsund,12570,12575,,,,,,,,,,
+1510691,2026-10-10,2026-10-10T12:00:00+01:00,2H,592,Division 2 - Norra Götaland,Sweden,2026,Norra Götaland - 25,Tord,Grebbestad,12618,6670,,,1,1,,,,,1,1
+1510692,2026-10-10,2026-10-10T13:00:00+01:00,1H,592,Division 2 - Norra Götaland,Sweden,2026,Norra Götaland - 25,Ahlafors,Stenungsund,12570,12575,,,0,1,,,,,0,1
 1510694,2026-10-10,2026-10-10T13:00:00+01:00,NS,592,Division 2 - Norra Götaland,Sweden,2026,Norra Götaland - 25,Motala,Lidköping,11673,12573,,,,,,,,,,
-1510873,2026-10-10,2026-10-10T11:30:00+01:00,NS,593,Division 2 - Norra Svealand,Sweden,2026,Norra Svealand - 25,Falu BS,Gute,22932,6671,,,,,,,,,,
-1510874,2026-10-10,2026-10-10T13:00:00+01:00,NS,593,Division 2 - Norra Svealand,Sweden,2026,Norra Svealand - 25,Bollstanäs,Kungsängen,25574,12582,,,,,,,,,,
-1510875,2026-10-10,2026-10-10T12:00:00+01:00,1H,593,Division 2 - Norra Svealand,Sweden,2026,Norra Svealand - 25,Enskede,Skiljebo,6662,12584,,,0,0,,,,,0,0
+1510873,2026-10-10,2026-10-10T11:30:00+01:00,FT,593,Division 2 - Norra Svealand,Sweden,2026,Norra Svealand - 25,Falu BS,Gute,22932,6671,3,0,,,,,,,3,0
+1510874,2026-10-10,2026-10-10T13:00:00+01:00,1H,593,Division 2 - Norra Svealand,Sweden,2026,Norra Svealand - 25,Bollstanäs,Kungsängen,25574,12582,,,0,0,,,,,0,0
+1510875,2026-10-10,2026-10-10T12:00:00+01:00,2H,593,Division 2 - Norra Svealand,Sweden,2026,Norra Svealand - 25,Enskede,Skiljebo,6662,12584,,,0,0,,,,,1,0
 1510876,2026-10-10,2026-10-10T15:00:00+01:00,NS,593,Division 2 - Norra Svealand,Sweden,2026,Norra Svealand - 25,Franke,Helges,6665,27386,,,,,,,,,,
 1510879,2026-10-10,2026-10-10T15:00:00+01:00,NS,593,Division 2 - Norra Svealand,Sweden,2026,Norra Svealand - 25,Täby,Lidingö,11663,6685,,,,,,,,,,
 1511031,2026-10-10,2026-10-10T13:00:00+01:00,NS,597,Division 2 - Södra Götaland,Sweden,2026,Södra Götaland - 25,Linero,Växjö Norra,25572,25573,,,,,,,,,,
-1511032,2026-10-10,2026-10-10T13:00:00+01:00,NS,597,Division 2 - Södra Götaland,Sweden,2026,Södra Götaland - 25,Räppe,Nosaby,12617,12616,,,,,,,,,,
+1511032,2026-10-10,2026-10-10T13:00:00+01:00,1H,597,Division 2 - Södra Götaland,Sweden,2026,Södra Götaland - 25,Räppe,Nosaby,12617,12616,,,0,0,,,,,0,0
 1511067,2026-10-10,2026-10-10T12:00:00+01:00,NS,597,Division 2 - Södra Götaland,Sweden,2026,Södra Götaland - 25,Sölvesborg,Lilla Torg,12660,27849,,,,,,,,,,
 1511237,2026-10-10,2026-10-10T15:00:00+01:00,NS,595,Division 2 - Södra Svealand,Sweden,2026,Södra Svealand - 25,Haninge,Nacka Iliria,6672,14510,,,,,,,,,,
-1511238,2026-10-10,2026-10-10T12:00:00+01:00,1H,595,Division 2 - Södra Svealand,Sweden,2026,Södra Svealand - 25,Lindo FF,Örebro Syrianska,27308,11664,,,0,0,,,,,0,0
+1511238,2026-10-10,2026-10-10T12:00:00+01:00,2H,595,Division 2 - Södra Svealand,Sweden,2026,Södra Svealand - 25,Lindo FF,Örebro Syrianska,27308,11664,,,0,1,,,,,1,2
 1511239,2026-10-10,2026-10-10T16:00:00+01:00,NS,595,Division 2 - Södra Svealand,Sweden,2026,Södra Svealand - 25,Syrianska FC,Farsta,2167,20835,,,,,,,,,,
 1511242,2026-10-10,2026-10-10T15:00:00+01:00,NS,595,Division 2 - Södra Svealand,Sweden,2026,Södra Svealand - 25,Rågsved,Smedby,16745,12650,,,,,,,,,,
 1511419,2026-10-10,2026-10-10T13:00:00+01:00,NS,596,Division 2 - Västra Götaland,Sweden,2026,Västra Götaland - 25,Dalstorps,Jonsered,12613,21359,,,,,,,,,,
 1511420,2026-10-10,2026-10-10T16:00:00+01:00,NS,596,Division 2 - Västra Götaland,Sweden,2026,Västra Götaland - 25,Kongahälla,Qviding FIF,22935,6693,,,,,,,,,,
-1511421,2026-10-10,2026-10-10T13:00:00+01:00,NS,596,Division 2 - Västra Götaland,Sweden,2026,Västra Götaland - 25,Landvetter IS,Astrio,18424,6657,,,,,,,,,,
+1511421,2026-10-10,2026-10-10T13:00:00+01:00,HT,596,Division 2 - Västra Götaland,Sweden,2026,Västra Götaland - 25,Landvetter IS,Astrio,18424,6657,,,0,0,,,,,0,0
 1511422,2026-10-10,2026-10-10T15:00:00+01:00,NS,596,Division 2 - Västra Götaland,Sweden,2026,Västra Götaland - 25,Onsala,Åstorp,12606,14543,,,,,,,,,,
 1511700,2026-10-10,2026-10-10T21:30:00+01:00,NS,266,Primera B,Chile,2026,Regular Season - 27,Deportes Temuco,Deportes Santa Cruz,2317,2346,,,,,,,,,,
 1511703,2026-10-10,2026-10-10T16:30:00+01:00,NS,266,Primera B,Chile,2026,Regular Season - 27,Recoleta,Magallanes,5644,2336,,,,,,,,,,
 1511704,2026-10-10,2026-10-10T19:00:00+01:00,NS,266,Primera B,Chile,2026,Regular Season - 27,Santiago Wanderers,Curico Unido,2333,2316,,,,,,,,,,
-1513639,2026-10-10,2026-10-10T12:30:00+01:00,NS,329,Meistriliiga,Estonia,2026,Regular Season - 30,Kalju Nomme,Laagri,662,18657,,,,,,,,,,
-1513640,2026-10-10,2026-10-10T12:30:00+01:00,NS,329,Meistriliiga,Estonia,2026,Regular Season - 30,Vaprus,Trans Narva,3525,2274,,,,,,,,,,
+1513639,2026-10-10,2026-10-10T12:30:00+01:00,2H,329,Meistriliiga,Estonia,2026,Regular Season - 30,Kalju Nomme,Laagri,662,18657,,,0,0,,,,,0,0
+1513640,2026-10-10,2026-10-10T12:30:00+01:00,2H,329,Meistriliiga,Estonia,2026,Regular Season - 30,Vaprus,Trans Narva,3525,2274,,,1,2,,,,,1,2
 1513641,2026-10-10,2026-10-10T15:00:00+01:00,NS,329,Meistriliiga,Estonia,2026,Regular Season - 30,Tammeka,Nõmme United,3530,10059,,,,,,,,,,
-1515929,2026-10-10,2026-10-10T12:00:00+01:00,1H,365,Virsliga,Latvia,2026,Regular Season - 32,Tukums,Riga,4144,10124,,,0,0,,,,,0,0
+1515929,2026-10-10,2026-10-10T12:00:00+01:00,2H,365,Virsliga,Latvia,2026,Regular Season - 32,Tukums,Riga,4144,10124,,,0,1,,,,,0,2
 1515930,2026-10-10,2026-10-10T14:00:00+01:00,NS,365,Virsliga,Latvia,2026,Regular Season - 32,Super Nova,Grobiņa,4143,4138,,,,,,,,,,
 1516151,2026-10-10,2026-10-10T14:00:00+01:00,NS,369,Super League,Uzbekistan,2026,Regular Season - 23,Qizilqum,Surkhon,4221,4225,,,,,,,,,,
 1517362,2026-10-10,2026-10-10T21:00:00+01:00,NS,479,Canadian Premier League,Canada,2026,Group Stage,Supra du Quebec,Vancouver FC,27461,20881,,,,,,,,,,
-1519653,2026-10-10,2026-10-10T10:30:00+01:00,2H,328,Esiliiga A,Estonia,2026,Regular Season - 31,Flora II,FC Tallinn,3518,14287,,,0,0,,,,,1,2
-1519654,2026-10-10,2026-10-10T13:00:00+01:00,NS,328,Esiliiga A,Estonia,2026,Regular Season - 31,Tallinna Kalev,Viimsi,3529,14340,,,,,,,,,,
+1519653,2026-10-10,2026-10-10T10:30:00+01:00,FT,328,Esiliiga A,Estonia,2026,Regular Season - 31,Flora II,FC Tallinn,3518,14287,1,2,0,0,,,,,1,2
+1519654,2026-10-10,2026-10-10T13:00:00+01:00,HT,328,Esiliiga A,Estonia,2026,Regular Season - 31,Tallinna Kalev,Viimsi,3529,14340,,,0,1,,,,,0,1
 1520567,2026-10-10,2026-10-10T06:00:00+01:00,FT,295,K3 League,South-Korea,2026,Regular Season - 24,Changwon City,Pocheon,7059,7099,1,3,0,0,,,,,1,3
 1520568,2026-10-10,2026-10-10T06:00:00+01:00,FT,295,K3 League,South-Korea,2026,Regular Season - 24,Chuncheon,Jeonbuk Motors II,7064,25717,3,2,1,0,,,,,3,2
-1520570,2026-10-10,2026-10-10T11:00:00+01:00,2H,295,K3 League,South-Korea,2026,Regular Season - 24,Daejeon Korail,Dangjin Citizen,7068,18653,,,0,0,,,,,0,0
+1520570,2026-10-10,2026-10-10T11:00:00+01:00,FT,295,K3 League,South-Korea,2026,Regular Season - 24,Daejeon Korail,Dangjin Citizen,7068,18653,0,1,0,0,,,,,0,1
 1520571,2026-10-10,2026-10-10T06:00:00+01:00,FT,295,K3 League,South-Korea,2026,Regular Season - 24,Busan Transportation,Yeoju Sejong,7056,7112,2,1,2,0,,,,,2,1
-1521699,2026-10-10,2026-10-10T10:30:00+01:00,2H,1126,Esiliiga B,Estonia,2026,Regular Season - 31,Legion,Tulevik,13152,3531,,,1,2,,,,,1,2
-1521700,2026-10-10,2026-10-10T10:30:00+01:00,2H,1126,Esiliiga B,Estonia,2026,Regular Season - 31,Tartu Kalev,Levadia U19,16962,7906,,,0,0,,,,,0,2
-1523269,2026-10-10,2026-10-10T12:35:00+01:00,NS,169,Super League,China,2026,Regular Season - 27,Chengdu Better City,Tianjin Teda,5648,837,,,,,,,,,,
-1523270,2026-10-10,2026-10-10T12:35:00+01:00,NS,169,Super League,China,2026,Regular Season - 27,Shanghai Shenhua,Yunnan Yukun,833,21265,,,,,,,,,,
+1521699,2026-10-10,2026-10-10T10:30:00+01:00,FT,1126,Esiliiga B,Estonia,2026,Regular Season - 31,Legion,Tulevik,13152,3531,1,2,1,2,,,,,1,2
+1521700,2026-10-10,2026-10-10T10:30:00+01:00,FT,1126,Esiliiga B,Estonia,2026,Regular Season - 31,Tartu Kalev,Levadia U19,16962,7906,0,2,0,0,,,,,0,2
+1523269,2026-10-10,2026-10-10T12:35:00+01:00,2H,169,Super League,China,2026,Regular Season - 27,Chengdu Better City,Tianjin Teda,5648,837,,,0,0,,,,,0,0
+1523270,2026-10-10,2026-10-10T12:35:00+01:00,2H,169,Super League,China,2026,Regular Season - 27,Shanghai Shenhua,Yunnan Yukun,833,21265,,,2,1,,,,,2,1
 1525992,2026-10-10,2026-10-10T15:00:00+01:00,NS,116,Premier League,Belarus,2026,Regular Season - 24,Bate Borisov,Slavia Mozyr,388,751,,,,,,,,,,
-1525995,2026-10-10,2026-10-10T11:00:00+01:00,2H,116,Premier League,Belarus,2026,Regular Season - 24,FC Minsk,Torpedo Zhodino,380,385,,,0,0,,,,,0,0
-1525996,2026-10-10,2026-10-10T13:00:00+01:00,NS,116,Premier League,Belarus,2026,Regular Season - 24,Naftan,Belshina,750,3384,,,,,,,,,,
+1525995,2026-10-10,2026-10-10T11:00:00+01:00,FT,116,Premier League,Belarus,2026,Regular Season - 24,FC Minsk,Torpedo Zhodino,380,385,0,1,0,0,,,,,0,1
+1525996,2026-10-10,2026-10-10T13:00:00+01:00,1H,116,Premier League,Belarus,2026,Regular Season - 24,Naftan,Belshina,750,3384,,,0,1,,,,,0,1
 1525997,2026-10-10,2026-10-10T17:00:00+01:00,NS,116,Premier League,Belarus,2026,Regular Season - 24,Neman,Baranovichi,387,3383,,,,,,,,,,
-1527744,2026-10-10,2026-10-10T12:00:00+01:00,NS,571,Vysshaya Liga,Tajikistan,2026,Regular Season - 18,Istaravshan,CSKA Pomir,12264,12261,,,,,,,,,,
-1527745,2026-10-10,2026-10-10T13:30:00+01:00,NS,571,Vysshaya Liga,Tajikistan,2026,Regular Season - 18,Istiqlol,Khatlon,8012,12265,,,,,,,,,,
-1527747,2026-10-10,2026-10-10T13:00:00+01:00,NS,571,Vysshaya Liga,Tajikistan,2026,Regular Season - 18,Regar-TadAZ,Barki Tajik,12268,12270,,,,,,,,,,
-1528108,2026-10-10,2026-10-10T11:00:00+01:00,2H,389,Premier League,Kazakhstan,2026,Regular Season - 28,Irtysh,Kyzyl-Zhar,4565,4554,,,0,1,,,,,0,1
-1528109,2026-10-10,2026-10-10T13:00:00+01:00,NS,389,Premier League,Kazakhstan,2026,Regular Season - 28,Kairat Almaty,Zhetysu,664,4560,,,,,,,,,,
-1528112,2026-10-10,2026-10-10T12:00:00+01:00,1H,389,Premier League,Kazakhstan,2026,Regular Season - 28,FK Tobol Kostanay,FC Astana,2259,562,,,0,0,,,,,0,0
-1528114,2026-10-10,2026-10-10T12:00:00+01:00,1H,389,Premier League,Kazakhstan,2026,Regular Season - 28,Yelimay Semey,Aktobe,21011,4563,,,0,0,,,,,0,0
+1527744,2026-10-10,2026-10-10T12:00:00+01:00,2H,571,Vysshaya Liga,Tajikistan,2026,Regular Season - 18,Istaravshan,CSKA Pomir,12264,12261,,,0,0,,,,,0,0
+1527745,2026-10-10,2026-10-10T13:30:00+01:00,PST,571,Vysshaya Liga,Tajikistan,2026,Regular Season - 18,Istiqlol,Khatlon,8012,12265,,,,,,,,,,
+1527747,2026-10-10,2026-10-10T13:00:00+01:00,1H,571,Vysshaya Liga,Tajikistan,2026,Regular Season - 18,Regar-TadAZ,Barki Tajik,12268,12270,,,0,0,,,,,0,0
+1528108,2026-10-10,2026-10-10T11:00:00+01:00,FT,389,Premier League,Kazakhstan,2026,Regular Season - 28,Irtysh,Kyzyl-Zhar,4565,4554,0,2,0,1,,,,,0,2
+1528109,2026-10-10,2026-10-10T13:00:00+01:00,1H,389,Premier League,Kazakhstan,2026,Regular Season - 28,Kairat Almaty,Zhetysu,664,4560,,,0,0,,,,,0,0
+1528112,2026-10-10,2026-10-10T12:00:00+01:00,2H,389,Premier League,Kazakhstan,2026,Regular Season - 28,FK Tobol Kostanay,FC Astana,2259,562,,,1,0,,,,,2,1
+1528114,2026-10-10,2026-10-10T12:00:00+01:00,2H,389,Premier League,Kazakhstan,2026,Regular Season - 28,Yelimay Semey,Aktobe,21011,4563,,,0,1,,,,,1,2
 1528115,2026-10-10,2026-10-10T15:00:00+01:00,NS,389,Premier League,Kazakhstan,2026,Regular Season - 28,Zhenys,Atyrau,16611,4564,,,,,,,,,,
-1528728,2026-10-10,2026-10-10T12:00:00+01:00,1H,170,League One,China,2026,Regular Season - 26,Dalian Huayi,Changchun Yatai,5652,834,,,1,0,,,,,1,0
-1528729,2026-10-10,2026-10-10T12:00:00+01:00,1H,170,League One,China,2026,Regular Season - 26,Suzhou Dongwu,Hebei Kungfu,5688,17264,,,0,0,,,,,0,0
-1528730,2026-10-10,2026-10-10T12:30:00+01:00,NS,170,League One,China,2026,Regular Season - 26,Meizhou Kejia,Wuxi Wugou,1439,17269,,,,,,,,,,
+1528728,2026-10-10,2026-10-10T12:00:00+01:00,2H,170,League One,China,2026,Regular Season - 26,Dalian Huayi,Changchun Yatai,5652,834,,,1,1,,,,,1,1
+1528729,2026-10-10,2026-10-10T12:00:00+01:00,2H,170,League One,China,2026,Regular Season - 26,Suzhou Dongwu,Hebei Kungfu,5688,17264,,,0,0,,,,,0,0
+1528730,2026-10-10,2026-10-10T12:30:00+01:00,2H,170,League One,China,2026,Regular Season - 26,Meizhou Kejia,Wuxi Wugou,1439,17269,,,0,1,,,,,0,1
 1529631,2026-10-10,2026-10-10T10:00:00+01:00,FT,364,1. Liga,Latvia,2026,Regular Season - 22,Rīgas FS II,Mārupe,18836,14366,2,3,2,1,,,,,2,3
-1529632,2026-10-10,2026-10-10T11:00:00+01:00,2H,364,1. Liga,Latvia,2026,Regular Season - 22,Metta / LU,Riga Mariners,4159,25785,,,3,0,,,,,4,0
+1529632,2026-10-10,2026-10-10T11:00:00+01:00,FT,364,1. Liga,Latvia,2026,Regular Season - 22,Metta / LU,Riga Mariners,4159,25785,4,0,3,0,,,,,4,0
 1529633,2026-10-10,2026-10-10T15:00:00+01:00,NS,364,1. Liga,Latvia,2026,Regular Season - 22,JFK Ventspils,Leevon / PPK,21202,23266,,,,,,,,,,
-1529634,2026-10-10,2026-10-10T13:00:00+01:00,NS,364,1. Liga,Latvia,2026,Regular Season - 22,Skanste,JDFS Alberts,16835,4139,,,,,,,,,,
+1529634,2026-10-10,2026-10-10T13:00:00+01:00,1H,364,1. Liga,Latvia,2026,Regular Season - 22,Skanste,JDFS Alberts,16835,4139,,,0,0,,,,,0,0
 1529635,2026-10-10,2026-10-10T12:00:00+01:00,NS,364,1. Liga,Latvia,2026,Regular Season - 22,Valmiera / BSS,Super Nova 2,4153,27565,,,,,,,,,,
 1534466,2026-10-10,2026-10-10T16:00:00+01:00,NS,117,1. Division,Belarus,2026,Regular Season - 28,Dinamo Minsk II,BATE II,11266,23272,,,,,,,,,,
-1534469,2026-10-10,2026-10-10T12:00:00+01:00,1H,117,1. Division,Belarus,2026,Regular Season - 28,Niva,Gomel II,16656,23433,,,0,0,,,,,0,0
-1534470,2026-10-10,2026-10-10T12:00:00+01:00,1H,117,1. Division,Belarus,2026,Regular Season - 28,Osipovichy,Volna,4273,3395,,,0,0,,,,,0,0
+1534469,2026-10-10,2026-10-10T12:00:00+01:00,2H,117,1. Division,Belarus,2026,Regular Season - 28,Niva,Gomel II,16656,23433,,,2,1,,,,,5,2
+1534470,2026-10-10,2026-10-10T12:00:00+01:00,2H,117,1. Division,Belarus,2026,Regular Season - 28,Osipovichy,Volna,4273,3395,,,1,1,,,,,1,1
 1534471,2026-10-10,2026-10-10T14:00:00+01:00,NS,117,1. Division,Belarus,2026,Regular Season - 28,Ostrovets FC,Slonim,13149,3392,,,,,,,,,,
-1534472,2026-10-10,2026-10-10T11:00:00+01:00,2H,117,1. Division,Belarus,2026,Regular Season - 28,FC Energetik-Bgu Minsk,Molodechno-DYuSSh 4,2433,7798,,,5,1,,,,,5,1
-1534473,2026-10-10,2026-10-10T13:30:00+01:00,NS,117,1. Division,Belarus,2026,Regular Season - 28,FC Slutsk,Uni Minsk,379,18857,,,,,,,,,,
-1534549,2026-10-10,2026-10-10T13:00:00+01:00,NS,117,1. Division,Belarus,2026,Regular Season - 28,Shakhter Soligorsk,Bumprom,392,7802,,,,,,,,,,
-1536049,2026-10-10,2026-10-10T13:00:00+01:00,NS,651,Second League - Group 1,Russia,2026,Group 1 - 27,Astrakhan,Kyzyltash,21540,17680,,,,,,,,,,
-1536050,2026-10-10,2026-10-10T12:30:00+01:00,NS,651,Second League - Group 1,Russia,2026,Group 1 - 27,Pobeda,Rubin Yalta,22171,17682,,,,,,,,,,
+1534472,2026-10-10,2026-10-10T11:00:00+01:00,FT,117,1. Division,Belarus,2026,Regular Season - 28,FC Energetik-Bgu Minsk,Molodechno-DYuSSh 4,2433,7798,5,1,5,1,,,,,5,1
+1534473,2026-10-10,2026-10-10T13:30:00+01:00,1H,117,1. Division,Belarus,2026,Regular Season - 28,FC Slutsk,Uni Minsk,379,18857,,,0,0,,,,,0,0
+1534549,2026-10-10,2026-10-10T13:00:00+01:00,HT,117,1. Division,Belarus,2026,Regular Season - 28,Shakhter Soligorsk,Bumprom,392,7802,,,1,0,,,,,1,0
+1536049,2026-10-10,2026-10-10T13:00:00+01:00,HT,651,Second League - Group 1,Russia,2026,Group 1 - 27,Astrakhan,Kyzyltash,21540,17680,,,0,0,,,,,0,0
+1536050,2026-10-10,2026-10-10T12:30:00+01:00,2H,651,Second League - Group 1,Russia,2026,Group 1 - 27,Pobeda,Rubin Yalta,22171,17682,,,1,1,,,,,1,1
 1536051,2026-10-10,2026-10-10T14:00:00+01:00,NS,651,Second League - Group 1,Russia,2026,Group 1 - 27,Rostov II,Druzhba,23316,6798,,,,,,,,,,
 1536285,2026-10-10,2026-10-10T14:00:00+01:00,NS,651,Second League - Group 1,Russia,2026,Group 1 - 27,FK Chayka 2,Angust Nazran,27644,23314,,,,,,,,,,
 1536286,2026-10-10,2026-10-10T14:00:00+01:00,CANC,651,Second League - Group 1,Russia,2026,Group 1 - 27,Izberbash,PSK Dinskaya,27646,26146,,,,,,,,,,
-1536287,2026-10-10,2026-10-10T12:00:00+01:00,1H,651,Second League - Group 1,Russia,2026,Group 1 - 27,Lugansk,Nart Cherkessk,27647,23315,,,0,0,,,,,0,0
-1536288,2026-10-10,2026-10-10T13:00:00+01:00,NS,651,Second League - Group 1,Russia,2026,Group 1 - 27,Shahter Taganrog,Spartak Nalchik,27648,2002,,,,,,,,,,
-1536485,2026-10-10,2026-10-10T12:00:00+01:00,1H,652,Second League - Group 2,Russia,2026,Group 2 - 27,Iskra Smolensk,Murom,27645,6817,,,0,1,,,,,0,1
-1536720,2026-10-10,2026-10-10T13:00:00+01:00,NS,650,Second League - Group 3,Russia,2026,Group 3 - 27,Shumbrat,Rotor-2,26148,12840,,,,,,,,,,
-1536722,2026-10-10,2026-10-10T11:00:00+01:00,2H,650,Second League - Group 3,Russia,2026,Group 3 - 27,Avangard Kursk,Volna Nizhegorodskaya,2009,14124,,,0,0,,,,,0,0
-1536723,2026-10-10,2026-10-10T12:00:00+01:00,1H,650,Second League - Group 3,Russia,2026,Group 3 - 27,Zenit Penza,Rodina Moskva III,16866,19448,,,0,0,,,,,0,0
+1536287,2026-10-10,2026-10-10T12:00:00+01:00,NS,651,Second League - Group 1,Russia,2026,Group 1 - 27,Lugansk,Nart Cherkessk,27647,23315,,,,,,,,,,
+1536288,2026-10-10,2026-10-10T13:00:00+01:00,1H,651,Second League - Group 1,Russia,2026,Group 1 - 27,Shahter Taganrog,Spartak Nalchik,27648,2002,,,0,0,,,,,0,0
+1536485,2026-10-10,2026-10-10T12:00:00+01:00,2H,652,Second League - Group 2,Russia,2026,Group 2 - 27,Iskra Smolensk,Murom,27645,6817,,,0,3,,,,,1,4
+1536720,2026-10-10,2026-10-10T13:00:00+01:00,HT,650,Second League - Group 3,Russia,2026,Group 3 - 27,Shumbrat,Rotor-2,26148,12840,,,0,0,,,,,0,0
+1536722,2026-10-10,2026-10-10T11:00:00+01:00,FT,650,Second League - Group 3,Russia,2026,Group 3 - 27,Avangard Kursk,Volna Nizhegorodskaya,2009,14124,0,0,0,0,,,,,0,0
+1536723,2026-10-10,2026-10-10T12:00:00+01:00,2H,650,Second League - Group 3,Russia,2026,Group 3 - 27,Zenit Penza,Rodina Moskva III,16866,19448,,,0,0,,,,,0,1
 1536724,2026-10-10,2026-10-10T03:00:00+01:00,FT,650,Second League - Group 3,Russia,2026,Group 3 - 27,SKA Khabarovsk II,Kvant,17721,6807,3,1,0,1,,,,,3,1
 1536725,2026-10-10,2026-10-10T16:00:00+01:00,NS,650,Second League - Group 3,Russia,2026,Group 3 - 27,FK Spartak Tambov,Ryazan,19451,6823,,,,,,,,,,
-1538694,2026-10-10,2026-10-10T13:30:00+01:00,NS,391,Super League,Malawi,2026,Regular Season - 16,Ekhaya,Kamuzu Barracks,25893,4588,,,,,,,,,,
-1538696,2026-10-10,2026-10-10T13:30:00+01:00,NS,391,Super League,Malawi,2026,Regular Season - 16,Mitundu Baptist,Red Lions,27656,4601,,,,,,,,,,
-1538697,2026-10-10,2026-10-10T13:30:00+01:00,NS,391,Super League,Malawi,2026,Regular Season - 16,Silver Strikers,Be Forward Wanderers,4597,4583,,,,,,,,,,
-1538699,2026-10-10,2026-10-10T13:30:00+01:00,NS,391,Super League,Malawi,2026,Regular Season - 16,Chitipa United,MAFCO,4585,11127,,,,,,,,,,
+1538694,2026-10-10,2026-10-10T13:30:00+01:00,1H,391,Super League,Malawi,2026,Regular Season - 16,Ekhaya,Kamuzu Barracks,25893,4588,,,0,0,,,,,0,0
+1538696,2026-10-10,2026-10-10T13:30:00+01:00,1H,391,Super League,Malawi,2026,Regular Season - 16,Mitundu Baptist,Red Lions,27656,4601,,,0,0,,,,,0,0
+1538697,2026-10-10,2026-10-10T13:30:00+01:00,1H,391,Super League,Malawi,2026,Regular Season - 16,Silver Strikers,Be Forward Wanderers,4597,4583,,,0,0,,,,,0,0
+1538699,2026-10-10,2026-10-10T13:30:00+01:00,1H,391,Super League,Malawi,2026,Regular Season - 16,Chitipa United,MAFCO,4585,11127,,,1,0,,,,,1,0
 1547010,2026-10-10,2026-10-10T15:00:00+01:00,NS,730,Football League - Highland League,Scotland,2026,Highland League - 14,Brora Rangers,Nairn County,6760,7448,,,,,,,,,,
 1547011,2026-10-10,2026-10-10T15:00:00+01:00,NS,730,Football League - Highland League,Scotland,2026,Highland League - 14,Clachnacuddin,Buckie Thistle,7435,7432,,,,,,,,,,
 1547012,2026-10-10,2026-10-10T15:00:00+01:00,NS,730,Football League - Highland League,Scotland,2026,Highland League - 14,Deveronvale,Wick Academy,7438,7454,,,,,,,,,,
@@ -3775,7 +3775,7 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1547016,2026-10-10,2026-10-10T15:00:00+01:00,NS,730,Football League - Highland League,Scotland,2026,Highland League - 14,Inverurie Loco Works,Formartine United,7445,6768,,,,,,,,,,
 1547017,2026-10-10,2026-10-10T15:00:00+01:00,NS,730,Football League - Highland League,Scotland,2026,Highland League - 14,Lossiemouth,Banks O' Dee,7447,6729,,,,,,,,,,
 1547018,2026-10-10,2026-10-10T15:00:00+01:00,NS,730,Football League - Highland League,Scotland,2026,Highland League - 14,Turriff United,Forres Mechanics,7452,7441,,,,,,,,,,
-1547587,2026-10-10,2026-10-10T12:15:00+01:00,NS,362,A Lyga,Lithuania,2026,Regular Season - 22,FK Zalgiris Vilnius,Suduva Marijampole,586,612,,,,,,,,,,
+1547587,2026-10-10,2026-10-10T12:15:00+01:00,2H,362,A Lyga,Lithuania,2026,Regular Season - 22,FK Zalgiris Vilnius,Suduva Marijampole,586,612,,,2,0,,,,,3,0
 1548538,2026-10-10,2026-10-10T14:00:00+01:00,NS,210,HNL,Croatia,2026,Regular Season - 9,HNK Hajduk Split,Dinamo Zagreb,608,620,,,,,,,,,,
 1548540,2026-10-10,2026-10-10T17:00:00+01:00,NS,210,HNL,Croatia,2026,Regular Season - 9,NK Osijek,Istra 1961,616,1016,,,,,,,,,,
 1549500,2026-10-10,2026-10-10T19:00:00+01:00,NS,281,Primera División,Peru,2026,Clausura - 11,ADT,FC Cajamarca,10492,22543,,,,,,,,,,
@@ -3790,13 +3790,13 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1550984,2026-10-10,2026-10-10T02:00:00+01:00,FT,262,Liga MX,Mexico,2026,Apertura - 11,Puebla,Leon,2291,2289,1,1,0,1,,,,,1,1
 1550986,2026-10-10,2026-10-10T04:00:00+01:00,FT,262,Liga MX,Mexico,2026,Apertura - 11,Tigres UANL,Toluca,2279,2281,3,2,2,1,,,,,3,2
 1551117,2026-10-10,2026-10-10T18:00:00+01:00,NS,172,First League,Bulgaria,2026,Regular Season - 11,Botev Plovdiv,Slavia Sofia,634,854,,,,,,,,,,
-1551118,2026-10-10,2026-10-10T13:00:00+01:00,NS,172,First League,Bulgaria,2026,Regular Season - 11,Botev Vratsa,Spartak Varna,859,4660,,,,,,,,,,
+1551118,2026-10-10,2026-10-10T13:00:00+01:00,1H,172,First League,Bulgaria,2026,Regular Season - 11,Botev Vratsa,Spartak Varna,859,4660,,,0,0,,,,,0,0
 1551121,2026-10-10,2026-10-10T15:30:00+01:00,NS,172,First League,Bulgaria,2026,Regular Season - 11,Lokomotiv Sofia,Lokomotiv Plovdiv,1416,858,,,,,,,,,,
-1551348,2026-10-10,2026-10-10T12:30:00+01:00,NS,120,1. Division,Denmark,2026,Regular Season - 10,Esbjerg,Aalborg,403,402,,,,,,,,,,
-1551349,2026-10-10,2026-10-10T12:00:00+01:00,1H,120,1. Division,Denmark,2026,Regular Season - 10,Hillerød,FC Fredericia,6026,2061,,,0,0,,,,,0,0
+1551348,2026-10-10,2026-10-10T12:30:00+01:00,2H,120,1. Division,Denmark,2026,Regular Season - 10,Esbjerg,Aalborg,403,402,,,2,2,,,,,2,2
+1551349,2026-10-10,2026-10-10T12:00:00+01:00,2H,120,1. Division,Denmark,2026,Regular Season - 10,Hillerød,FC Fredericia,6026,2061,,,0,2,,,,,0,2
 1551350,2026-10-10,2026-10-10T17:30:00+01:00,NS,120,1. Division,Denmark,2026,Regular Season - 10,Hobro,Kolding IF,408,4676,,,,,,,,,,
-1551465,2026-10-10,2026-10-10T12:00:00+01:00,1H,371,First League,Macedonia,2026,Regular Season - 9,Aresimi,Sileks,19753,4331,,,0,0,,,,,0,0
-1551469,2026-10-10,2026-10-10T11:00:00+01:00,2H,371,First League,Macedonia,2026,Regular Season - 9,Tikveš,Bregalnica Štip,4348,4333,,,2,0,,,,,2,0
+1551465,2026-10-10,2026-10-10T12:00:00+01:00,2H,371,First League,Macedonia,2026,Regular Season - 9,Aresimi,Sileks,19753,4331,,,0,0,,,,,1,1
+1551469,2026-10-10,2026-10-10T11:00:00+01:00,FT,371,First League,Macedonia,2026,Regular Season - 9,Tikveš,Bregalnica Štip,4348,4333,3,0,2,0,,,,,3,0
 1551569,2026-10-10,2026-10-10T17:00:00+01:00,NS,332,Super Liga,Slovakia,2026,Regular Season - 10,Zemplín Michalovce,Dunajska Streda,3552,2257,,,,,,,,,,
 1551570,2026-10-10,2026-10-10T14:30:00+01:00,NS,332,Super Liga,Slovakia,2026,Regular Season - 10,FK Košice,Komárno,10534,10535,,,,,,,,,,
 1551573,2026-10-10,2026-10-10T14:30:00+01:00,NS,332,Super Liga,Slovakia,2026,Regular Season - 10,Skalica,Slovan Bratislava,10542,656,,,,,,,,,,
@@ -3807,8 +3807,8 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1552182,2026-10-10,2026-10-10T15:30:00+01:00,NS,88,Eredivisie,Netherlands,2026,Regular Season - 8,GO Ahead Eagles,Sparta Rotterdam,410,426,,,,,,,,,,
 1552183,2026-10-10,2026-10-10T20:00:00+01:00,NS,88,Eredivisie,Netherlands,2026,Regular Season - 8,Ajax,NEC Nijmegen,194,413,,,,,,,,,,
 1552184,2026-10-10,2026-10-10T19:00:00+01:00,NS,88,Eredivisie,Netherlands,2026,Regular Season - 8,Fortuna Sittard,Twente,205,415,,,,,,,,,,
-1552486,2026-10-10,2026-10-10T13:00:00+01:00,NS,62,Ligue 2,France,2026,Regular Season - 8,Clermont Foot,RED Star FC 93,99,104,,,,,,,,,,
-1552491,2026-10-10,2026-10-10T13:00:00+01:00,NS,62,Ligue 2,France,2026,Regular Season - 8,Nantes,Reims,83,93,,,,,,,,,,
+1552486,2026-10-10,2026-10-10T13:00:00+01:00,1H,62,Ligue 2,France,2026,Regular Season - 8,Clermont Foot,RED Star FC 93,99,104,,,1,1,,,,,1,1
+1552491,2026-10-10,2026-10-10T13:00:00+01:00,HT,62,Ligue 2,France,2026,Regular Season - 8,Nantes,Reims,83,93,,,0,0,,,,,0,0
 1552494,2026-10-10,2026-10-10T19:00:00+01:00,NS,62,Ligue 2,France,2026,Regular Season - 8,Saint Etienne,Rodez,1063,1301,,,,,,,,,,
 1552774,2026-10-10,2026-10-10T19:45:00+01:00,NS,61,Ligue 1,France,2026,Regular Season - 6,Stade Brestois 29,Angers,106,77,,,,,,,,,,
 1552776,2026-10-10,2026-10-10T16:15:00+01:00,NS,61,Ligue 1,France,2026,Regular Season - 6,Lille,Le Havre,79,111,,,,,,,,,,
@@ -3828,7 +3828,7 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1553879,2026-10-10,2026-10-10T14:00:00+01:00,NS,286,Super Liga,Serbia,2026,Regular Season - 11,IMT Novi Beograd,Radnik Surdulica,12316,2657,,,,,,,,,,
 1553882,2026-10-10,2026-10-10T18:00:00+01:00,NS,286,Super Liga,Serbia,2026,Regular Season - 11,Radnicki 1923,FK Crvena Zvezda,2644,598,,,,,,,,,,
 1554183,2026-10-10,2026-10-10T15:00:00+01:00,NS,287,Prva Liga,Serbia,2026,Regular Season - 13,Borac Cacak,Jedinstvo Ub,2649,12319,,,,,,,,,,
-1554187,2026-10-10,2026-10-10T13:00:00+01:00,NS,287,Prva Liga,Serbia,2026,Regular Season - 13,Metalac GM,Teleoptik,2647,2645,,,,,,,,,,
+1554187,2026-10-10,2026-10-10T13:00:00+01:00,HT,287,Prva Liga,Serbia,2026,Regular Season - 13,Metalac GM,Teleoptik,2647,2645,,,0,1,,,,,0,1
 1555401,2026-10-10,2026-10-10T17:00:00+01:00,NS,207,Super League,Switzerland,2026,Regular Season - 10,Servette FC,FC Sion,2184,630,,,,,,,,,,
 1555402,2026-10-10,2026-10-10T17:00:00+01:00,NS,207,Super League,Switzerland,2026,Regular Season - 10,FC Zurich,FC Thun,783,1012,,,,,,,,,,
 1555403,2026-10-10,2026-10-10T17:00:00+01:00,NS,207,Super League,Switzerland,2026,Regular Season - 10,FC Lugano,FC Luzern,606,644,,,,,,,,,,
@@ -3844,11 +3844,11 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1556081,2026-10-10,2026-10-10T07:00:00+01:00,FT,98,J1 League,Japan,2027,Regular Season - 9,Avispa Fukuoka,Fagiano Okayama,316,310,2,1,1,0,,,,,2,1
 1556082,2026-10-10,2026-10-10T06:00:00+01:00,FT,98,J1 League,Japan,2027,Regular Season - 9,Cerezo Osaka,Yokohama F. Marinos,291,296,0,0,0,0,,,,,0,0
 1556084,2026-10-10,2026-10-10T07:00:00+01:00,FT,98,J1 League,Japan,2027,Regular Season - 9,FC Tokyo,Urawa,292,287,3,0,0,0,,,,,3,0
-1556088,2026-10-10,2026-10-10T11:00:00+01:00,2H,98,J1 League,Japan,2027,Regular Season - 9,Kyoto Sanga,Machida Zelvia,302,303,,,0,0,,,,,0,0
-1556462,2026-10-10,2026-10-10T12:00:00+01:00,1H,361,1 Lyga,Lithuania,2026,Regular Season - 26,Babrungas,Jonava,14382,3862,,,0,0,,,,,0,0
-1556463,2026-10-10,2026-10-10T12:00:00+01:00,1H,361,1 Lyga,Lithuania,2026,Regular Season - 26,Garliava,Atmosfera,16674,3856,,,0,0,,,,,0,0
-1556464,2026-10-10,2026-10-10T12:00:00+01:00,1H,361,1 Lyga,Lithuania,2026,Regular Season - 26,Neptūną Klaipėda,Hegelmann II,14384,23156,,,0,0,,,,,0,0
-1556467,2026-10-10,2026-10-10T13:00:00+01:00,NS,361,1 Lyga,Lithuania,2026,Regular Season - 26,Transinvest 2,Ekranas,27557,10696,,,,,,,,,,
+1556088,2026-10-10,2026-10-10T11:00:00+01:00,FT,98,J1 League,Japan,2027,Regular Season - 9,Kyoto Sanga,Machida Zelvia,302,303,0,1,0,0,,,,,0,1
+1556462,2026-10-10,2026-10-10T12:00:00+01:00,2H,361,1 Lyga,Lithuania,2026,Regular Season - 26,Babrungas,Jonava,14382,3862,,,0,0,,,,,2,0
+1556463,2026-10-10,2026-10-10T12:00:00+01:00,2H,361,1 Lyga,Lithuania,2026,Regular Season - 26,Garliava,Atmosfera,16674,3856,,,0,0,,,,,0,0
+1556464,2026-10-10,2026-10-10T12:00:00+01:00,2H,361,1 Lyga,Lithuania,2026,Regular Season - 26,Neptūną Klaipėda,Hegelmann II,14384,23156,,,0,0,,,,,0,1
+1556467,2026-10-10,2026-10-10T13:00:00+01:00,1H,361,1 Lyga,Lithuania,2026,Regular Season - 26,Transinvest 2,Ekranas,27557,10696,,,0,0,,,,,0,0
 1556671,2026-10-10,2026-10-10T15:00:00+01:00,NS,179,Premiership,Scotland,2026,Regular Season - 8,Dundee Utd,Hibernian,1386,249,,,,,,,,,,
 1556672,2026-10-10,2026-10-10T15:00:00+01:00,NS,179,Premiership,Scotland,2026,Regular Season - 8,Falkirk,Dundee,1389,253,,,,,,,,,,
 1556673,2026-10-10,2026-10-10T15:00:00+01:00,NS,179,Premiership,Scotland,2026,Regular Season - 8,Heart Of Midlothian,ST Mirren,254,251,,,,,,,,,,
@@ -3865,7 +3865,7 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1557055,2026-10-10,2026-10-10T15:00:00+01:00,NS,183,League One,Scotland,2026,Regular Season - 10,Peterhead,Queen of the South,6777,1384,,,,,,,,,,
 1557214,2026-10-10,2026-10-10T21:00:00+01:00,NS,1130,USL Super League,USA,2026,Group Stage,Brooklyn W,Dallas Trinity W,24657,24660,,,,,,,,,,
 1557215,2026-10-10,2026-10-10T23:00:00+01:00,NS,1130,USL Super League,USA,2026,Group Stage,Tampa Bay Sun W,Carolina Ascent W,24663,24658,,,,,,,,,,
-1557417,2026-10-10,2026-10-10T12:30:00+01:00,NS,39,Premier League,England,2026,Regular Season - 6,Arsenal,Leeds,42,63,,,,,,,,,,
+1557417,2026-10-10,2026-10-10T12:30:00+01:00,2H,39,Premier League,England,2026,Regular Season - 6,Arsenal,Leeds,42,63,,,0,0,,,,,0,1
 1557418,2026-10-10,2026-10-10T15:00:00+01:00,NS,39,Premier League,England,2026,Regular Season - 6,Aston Villa,Brentford,66,55,,,,,,,,,,
 1557419,2026-10-10,2026-10-10T15:00:00+01:00,NS,39,Premier League,England,2026,Regular Season - 6,Chelsea,Bournemouth,49,35,,,,,,,,,,
 1557423,2026-10-10,2026-10-10T15:00:00+01:00,NS,39,Premier League,England,2026,Regular Season - 6,Ipswich,Fulham,57,36,,,,,,,,,,
@@ -3894,7 +3894,7 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1559170,2026-10-10,2026-10-10T19:00:00+01:00,NS,145,Challenger Pro League,Belgium,2026,Regular Season - 7,Beerschot VA,Liège,263,6220,,,,,,,,,,
 1559173,2026-10-10,2026-10-10T15:00:00+01:00,NS,145,Challenger Pro League,Belgium,2026,Regular Season - 7,K. Lierse S.K.,Francs Borains,6219,5805,,,,,,,,,,
 1559175,2026-10-10,2026-10-10T15:00:00+01:00,NS,145,Challenger Pro League,Belgium,2026,Regular Season - 7,Excelsior Virton,Sporting Hasselt,4715,5931,,,,,,,,,,
-1559387,2026-10-10,2026-10-10T13:30:00+01:00,NS,356,Second League,Montenegro,2026,Regular Season - 11,Grbalj,Mogren,3737,10701,,,,,,,,,,
+1559387,2026-10-10,2026-10-10T13:30:00+01:00,1H,356,Second League,Montenegro,2026,Regular Season - 11,Grbalj,Mogren,3737,10701,,,0,1,,,,,0,1
 1559662,2026-10-10,2026-10-10T22:00:00+01:00,NS,339,Liga Nacional,Guatemala,2026,Regular Season - 13,Aurora,Xelajú,10154,3667,,,,,,,,,,
 1559794,2026-10-10,2026-10-10T14:00:00+01:00,NS,346,FNL,Czech-Republic,2026,Regular Season - 10,Arsenal Česká Lípa,Viktoria Žižkov,7270,3729,,,,,,,,,,
 1559796,2026-10-10,2026-10-10T16:30:00+01:00,NS,346,FNL,Czech-Republic,2026,Regular Season - 10,Hanácká,Příbram,7291,3718,,,,,,,,,,
@@ -3905,14 +3905,14 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1560037,2026-10-10,2026-10-10T14:00:00+01:00,NS,345,Czech Liga,Czech-Republic,2026,Regular Season - 10,Plzen,Mlada Boleslav,567,640,,,,,,,,,,
 1560249,2026-10-10,2026-10-10T16:00:00+01:00,NS,271,NB I,Hungary,2026,Regular Season - 9,Ferencvarosi TC,Debreceni VSC,651,2392,,,,,,,,,,
 1560252,2026-10-10,2026-10-10T18:30:00+01:00,NS,271,NB I,Hungary,2026,Regular Season - 9,Paks,MTK Budapest,2390,2396,,,,,,,,,,
-1560253,2026-10-10,2026-10-10T13:45:00+01:00,NS,271,NB I,Hungary,2026,Regular Season - 9,Vasas,Kisvarda FC,675,2394,,,,,,,,,,
+1560253,2026-10-10,2026-10-10T13:45:00+01:00,1H,271,NB I,Hungary,2026,Regular Season - 9,Vasas,Kisvarda FC,675,2394,,,0,0,,,,,0,0
 1561157,2026-10-10,2026-10-10T14:00:00+01:00,NS,506,2. liga,Slovakia,2026,Regular Season - 12,Baník Lehota p.Vtáčnikom,Lokomotíva Zvolen,14942,10552,,,,,,,,,,
 1561158,2026-10-10,2026-10-10T14:00:00+01:00,NS,506,2. liga,Slovakia,2026,Regular Season - 12,MFK Bytča,Humenné,15006,14068,,,,,,,,,,
 1561159,2026-10-10,2026-10-10T14:00:00+01:00,NS,506,2. liga,Slovakia,2026,Regular Season - 12,Považská Bystrica,Tatran Prešov,14062,10550,,,,,,,,,,
-1561405,2026-10-10,2026-10-10T13:15:00+01:00,NS,235,Premier League,Russia,2026,Regular Season - 10,Fakel,Lokomotiv,1993,597,,,,,,,,,,
+1561405,2026-10-10,2026-10-10T13:15:00+01:00,1H,235,Premier League,Russia,2026,Regular Season - 10,Fakel,Lokomotiv,1993,597,,,0,1,,,,,0,1
 1561407,2026-10-10,2026-10-10T17:30:00+01:00,NS,235,Premier League,Russia,2026,Regular Season - 10,FC Krasnodar,Zenit,621,596,,,,,,,,,,
 1561408,2026-10-10,2026-10-10T15:30:00+01:00,NS,235,Premier League,Russia,2026,Regular Season - 10,Krylia Sovetov,Spartak Moscow,1079,558,,,,,,,,,,
-1561409,2026-10-10,2026-10-10T11:00:00+01:00,2H,235,Premier League,Russia,2026,Regular Season - 10,FC Orenburg,Dinamo Makhachkala,1080,6813,,,2,0,,,,,2,0
+1561409,2026-10-10,2026-10-10T11:00:00+01:00,FT,235,Premier League,Russia,2026,Regular Season - 10,FC Orenburg,Dinamo Makhachkala,1080,6813,4,0,2,0,,,,,4,0
 1561678,2026-10-10,2026-10-10T14:00:00+01:00,NS,109,II Liga - East,Poland,2026,Regular Season - 11,Avia Świdnik,Świt Skolwin,16264,12902,,,,,,,,,,
 1561683,2026-10-10,2026-10-10T15:00:00+01:00,NS,109,II Liga - East,Poland,2026,Regular Season - 11,Stal Stalowa Wola,Śląsk Wrocław II,6958,12900,,,,,,,,,,
 1561686,2026-10-10,2026-10-10T17:00:00+01:00,NS,109,II Liga - East,Poland,2026,Regular Season - 11,Lechia Zielona Góra,Legia Warszawa II,14143,6944,,,,,,,,,,
@@ -3954,24 +3954,24 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1562785,2026-10-10,2026-10-10T15:00:00+01:00,NS,685,3. liga - CFL B,Czech-Republic,2026,Group B - 10,Velké Hamry,Teplice II,7372,12877,,,,,,,,,,
 1563179,2026-10-10,2026-10-10T15:00:00+01:00,NS,40,Championship,England,2026,Regular Season - 9,Blackburn,Cardiff,67,43,,,,,,,,,,
 1563180,2026-10-10,2026-10-10T15:00:00+01:00,NS,40,Championship,England,2026,Regular Season - 9,Bolton,Stoke City,68,75,,,,,,,,,,
-1563181,2026-10-10,2026-10-10T12:30:00+01:00,NS,40,Championship,England,2026,Regular Season - 9,Charlton,Bristol City,1335,56,,,,,,,,,,
+1563181,2026-10-10,2026-10-10T12:30:00+01:00,2H,40,Championship,England,2026,Regular Season - 9,Charlton,Bristol City,1335,56,,,1,1,,,,,1,1
 1563182,2026-10-10,2026-10-10T15:00:00+01:00,NS,40,Championship,England,2026,Regular Season - 9,Derby,Wrexham,69,1837,,,,,,,,,,
 1563183,2026-10-10,2026-10-10T15:00:00+01:00,NS,40,Championship,England,2026,Regular Season - 9,Middlesbrough,Wolves,70,39,,,,,,,,,,
 1563184,2026-10-10,2026-10-10T15:00:00+01:00,NS,40,Championship,England,2026,Regular Season - 9,Preston,Millwall,59,58,,,,,,,,,,
 1563185,2026-10-10,2026-10-10T15:00:00+01:00,NS,40,Championship,England,2026,Regular Season - 9,Sheffield Utd,Lincoln,62,1379,,,,,,,,,,
-1563187,2026-10-10,2026-10-10T12:30:00+01:00,NS,40,Championship,England,2026,Regular Season - 9,Swansea,Norwich,76,71,,,,,,,,,,
+1563187,2026-10-10,2026-10-10T12:30:00+01:00,2H,40,Championship,England,2026,Regular Season - 9,Swansea,Norwich,76,71,,,0,1,,,,,1,1
 1563188,2026-10-10,2026-10-10T15:00:00+01:00,NS,40,Championship,England,2026,Regular Season - 9,Watford,Burnley,38,44,,,,,,,,,,
-1563189,2026-10-10,2026-10-10T12:30:00+01:00,NS,40,Championship,England,2026,Regular Season - 9,West Brom,Birmingham,60,54,,,,,,,,,,
+1563189,2026-10-10,2026-10-10T12:30:00+01:00,2H,40,Championship,England,2026,Regular Season - 9,West Brom,Birmingham,60,54,,,0,1,,,,,0,1
 1563791,2026-10-10,2026-10-10T15:00:00+01:00,NS,42,League Two,England,2026,Regular Season - 10,Bristol Rovers,Barnet,1334,1369,,,,,,,,,,
 1563792,2026-10-10,2026-10-10T15:00:00+01:00,NS,42,League Two,England,2026,Regular Season - 10,Cheltenham,Salford City,1372,1844,,,,,,,,,,
 1563793,2026-10-10,2026-10-10T15:00:00+01:00,NS,42,League Two,England,2026,Regular Season - 10,Crawley Town,Chesterfield,1362,1345,,,,,,,,,,
 1563794,2026-10-10,2026-10-10T15:00:00+01:00,NS,42,League Two,England,2026,Regular Season - 10,Fleetwood Town,Walsall,1336,1342,,,,,,,,,,
 1563795,2026-10-10,2026-10-10T15:00:00+01:00,NS,42,League Two,England,2026,Regular Season - 10,Newport County,Colchester,1367,1361,,,,,,,,,,
-1563796,2026-10-10,2026-10-10T12:30:00+01:00,NS,42,League Two,England,2026,Regular Season - 10,Oldham,Accrington ST,1349,1360,,,,,,,,,,
+1563796,2026-10-10,2026-10-10T12:30:00+01:00,2H,42,League Two,England,2026,Regular Season - 10,Oldham,Accrington ST,1349,1360,,,0,0,,,,,0,0
 1563797,2026-10-10,2026-10-10T15:00:00+01:00,NS,42,League Two,England,2026,Regular Season - 10,Port Vale,Grimsby,1351,1365,,,,,,,,,,
 1563798,2026-10-10,2026-10-10T15:00:00+01:00,NS,42,League Two,England,2026,Regular Season - 10,Rotherham,Gillingham,73,1347,,,,,,,,,,
 1563799,2026-10-10,2026-10-10T15:00:00+01:00,NS,42,League Two,England,2026,Regular Season - 10,Shrewsbury,Exeter City,1352,1364,,,,,,,,,,
-1563800,2026-10-10,2026-10-10T12:30:00+01:00,NS,42,League Two,England,2026,Regular Season - 10,Swindon Town,Crewe,1353,1363,,,,,,,,,,
+1563800,2026-10-10,2026-10-10T12:30:00+01:00,2H,42,League Two,England,2026,Regular Season - 10,Swindon Town,Crewe,1353,1363,,,0,0,,,,,0,1
 1563801,2026-10-10,2026-10-10T15:00:00+01:00,NS,42,League Two,England,2026,Regular Season - 10,Tranmere,Rochdale,1381,1339,,,,,,,,,,
 1563802,2026-10-10,2026-10-10T15:00:00+01:00,NS,42,League Two,England,2026,Regular Season - 10,York,Northampton,1828,1337,,,,,,,,,,
 1564343,2026-10-10,2026-10-10T15:00:00+01:00,NS,41,League One,England,2026,Regular Season - 10,Bradford,Leyton Orient,1343,1373,,,,,,,,,,
@@ -3981,8 +3981,8 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1564347,2026-10-10,2026-10-10T15:00:00+01:00,NS,41,League One,England,2026,Regular Season - 10,Leicester,Peterborough,46,1350,,,,,,,,,,
 1564348,2026-10-10,2026-10-10T15:00:00+01:00,NS,41,League One,England,2026,Regular Season - 10,Mansfield Town,Bromley,1374,1832,,,,,,,,,,
 1564349,2026-10-10,2026-10-10T15:00:00+01:00,NS,41,League One,England,2026,Regular Season - 10,Milton Keynes Dons,Reading,1348,53,,,,,,,,,,
-1564350,2026-10-10,2026-10-10T12:30:00+01:00,NS,41,League One,England,2026,Regular Season - 10,Notts County,Oxford United,1376,1338,,,,,,,,,,
-1564351,2026-10-10,2026-10-10T12:30:00+01:00,NS,41,League One,England,2026,Regular Season - 10,Plymouth,AFC Wimbledon,1357,1333,,,,,,,,,,
+1564350,2026-10-10,2026-10-10T12:30:00+01:00,2H,41,League One,England,2026,Regular Season - 10,Notts County,Oxford United,1376,1338,,,0,1,,,,,0,1
+1564351,2026-10-10,2026-10-10T12:30:00+01:00,2H,41,League One,England,2026,Regular Season - 10,Plymouth,AFC Wimbledon,1357,1333,,,1,1,,,,,1,1
 1564352,2026-10-10,2026-10-10T15:00:00+01:00,NS,41,League One,England,2026,Regular Season - 10,Stevenage,Wigan,1368,61,,,,,,,,,,
 1564353,2026-10-10,2026-10-10T15:00:00+01:00,NS,41,League One,England,2026,Regular Season - 10,Stockport County,Barnsley,4686,747,,,,,,,,,,
 1564354,2026-10-10,2026-10-10T15:00:00+01:00,NS,41,League One,England,2026,Regular Season - 10,Wycombe,Luton,1358,1359,,,,,,,,,,
@@ -3993,9 +3993,9 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1564893,2026-10-10,2026-10-10T15:00:00+01:00,NS,407,Championship,Northern-Ireland,2026,Regular Season - 11,Warrenpoint Town,Strabane Athletic,5355,22541,,,,,,,,,,
 1565267,2026-10-10,2026-10-10T15:15:00+01:00,NS,283,Liga I,Romania,2026,Regular Season - 11,FC Botosani,Uta Arad,2581,2589,,,,,,,,,,
 1565268,2026-10-10,2026-10-10T19:30:00+01:00,NS,283,Liga I,Romania,2026,Regular Season - 11,FCSB,Oţelul,559,6886,,,,,,,,,,
-1565490,2026-10-10,2026-10-10T11:00:00+01:00,HT,333,Premier League,Ukraine,2026,Regular Season - 8,Chornomorets,FC Kharkiv,3615,3628,,,0,1,,,,,0,1
-1565492,2026-10-10,2026-10-10T11:00:00+01:00,1H,333,Premier League,Ukraine,2026,Regular Season - 8,Kolos Kovalivka,Epitsentr Dunayivtsi,3627,14434,,,0,0,,,,,0,0
-1565495,2026-10-10,2026-10-10T11:00:00+01:00,INT,333,Premier League,Ukraine,2026,Regular Season - 8,Obolon'-Brovar,Kryvbas KR,3630,6489,0,0,0,0,0,0,0,0,0,0
+1565490,2026-10-10,2026-10-10T11:00:00+01:00,FT,333,Premier League,Ukraine,2026,Regular Season - 8,Chornomorets,FC Kharkiv,3615,3628,1,2,0,1,,,,,1,2
+1565492,2026-10-10,2026-10-10T11:00:00+01:00,INT,333,Premier League,Ukraine,2026,Regular Season - 8,Kolos Kovalivka,Epitsentr Dunayivtsi,3627,14434,1,1,1,1,0,0,0,0,1,1
+1565495,2026-10-10,2026-10-10T11:00:00+01:00,HT,333,Premier League,Ukraine,2026,Regular Season - 8,Obolon'-Brovar,Kryvbas KR,3630,6489,,,1,0,,,,,1,0
 1565739,2026-10-10,2026-10-10T14:00:00+01:00,NS,646,3. liga - Center,Slovakia,2026,Central - 10,Čadca,Rimavská Sobota,14092,10557,,,,,,,,,,
 1565740,2026-10-10,2026-10-10T14:00:00+01:00,NS,646,3. liga - Center,Slovakia,2026,Central - 10,Novohrad Lučenec,Ružomberok II,14087,10541,,,,,,,,,,
 1565741,2026-10-10,2026-10-10T14:00:00+01:00,NS,646,3. liga - Center,Slovakia,2026,Central - 10,Oravské Veselé,Dolný Kubín,14089,14956,,,,,,,,,,
@@ -4029,10 +4029,10 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1567922,2026-10-10,2026-10-10T14:30:00+01:00,NS,219,2. Liga,Austria,2026,Regular Season - 8,FC Liefering,Sturm Graz II,1400,8251,,,,,,,,,,
 1567923,2026-10-10,2026-10-10T14:30:00+01:00,NS,219,2. Liga,Austria,2026,Regular Season - 8,Rapid Wien II,Wacker Innsbruck,8247,1073,,,,,,,,,,
 1568197,2026-10-10,2026-10-10T14:00:00+01:00,NS,783,III Liga - Group 4,Poland,2026,Group IV - 12,Chełmianka Chełm,Star Starachowice,6936,21660,,,,,,,,,,
-1568199,2026-10-10,2026-10-10T13:30:00+01:00,NS,783,III Liga - Group 4,Poland,2026,Group IV - 12,Korona Kielce II,Podlasie Biała Podlaska,16267,16269,,,,,,,,,,
+1568199,2026-10-10,2026-10-10T13:30:00+01:00,1H,783,III Liga - Group 4,Poland,2026,Group IV - 12,Korona Kielce II,Podlasie Biała Podlaska,16267,16269,,,0,0,,,,,0,0
 1568200,2026-10-10,2026-10-10T14:00:00+01:00,NS,783,III Liga - Group 4,Poland,2026,Group IV - 12,Pogoń-Sokół Lubaczów,KS Wieczysta Krakow II,24323,27334,,,,,,,,,,
 1568201,2026-10-10,2026-10-10T14:00:00+01:00,NS,783,III Liga - Group 4,Poland,2026,Group IV - 12,Moravia Morawica,Wisłoka Dębica,27390,16274,,,,,,,,,,
-1568203,2026-10-10,2026-10-10T11:00:00+01:00,2H,783,III Liga - Group 4,Poland,2026,Group IV - 12,Wisła Kraków II,Jarosław,24324,20830,,,0,1,,,,,0,1
+1568203,2026-10-10,2026-10-10T11:00:00+01:00,FT,783,III Liga - Group 4,Poland,2026,Group IV - 12,Wisła Kraków II,Jarosław,24324,20830,2,1,0,1,,,,,2,1
 1568391,2026-10-10,2026-10-10T17:00:00+01:00,NS,783,III Liga - Group 4,Poland,2026,Group IV - 12,KSZO 1929,Busko-Zdroj,6943,27900,,,,,,,,,,
 1568514,2026-10-10,2026-10-10T18:00:00+01:00,NS,782,III Liga - Group 3,Poland,2026,Group III - 12,Odra Bytom Odrzański,Zagłębie Lubin II,21455,6963,,,,,,,,,,
 1568515,2026-10-10,2026-10-10T14:00:00+01:00,NS,782,III Liga - Group 3,Poland,2026,Group III - 12,Carina Gubin,Goczałkowice Zdrój,17401,16259,,,,,,,,,,
@@ -4042,16 +4042,16 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1568521,2026-10-10,2026-10-10T14:00:00+01:00,NS,782,III Liga - Group 3,Poland,2026,Group III - 12,Warta Gorzów,Polonia Nysa,16263,14145,,,,,,,,,,
 1568522,2026-10-10,2026-10-10T16:00:00+01:00,NS,782,III Liga - Group 3,Poland,2026,Group III - 12,Zaglebie Sosnowiec,Kluczbork,342,12806,,,,,,,,,,
 1568820,2026-10-10,2026-10-10T14:30:00+01:00,NS,781,III Liga - Group 2,Poland,2026,Group II - 12,Bałtyk Koszalin,Unia Swarzędz,16245,16257,,,,,,,,,,
-1568821,2026-10-10,2026-10-10T13:00:00+01:00,NS,781,III Liga - Group 2,Poland,2026,Group II - 12,Stargard Szczeciński,Lipno Stęszew,6959,26180,,,,,,,,,,
+1568821,2026-10-10,2026-10-10T13:00:00+01:00,1H,781,III Liga - Group 2,Poland,2026,Group II - 12,Stargard Szczeciński,Lipno Stęszew,6959,26180,,,1,2,,,,,1,2
 1568822,2026-10-10,2026-10-10T16:00:00+01:00,NS,781,III Liga - Group 2,Poland,2026,Group II - 12,Chemik Bydgoszcz,Gedania Gdansk,6934,18385,,,,,,,,,,
 1568823,2026-10-10,2026-10-10T17:00:00+01:00,NS,781,III Liga - Group 2,Poland,2026,Group II - 12,Kalisz,Lech Poznań II,12801,9133,,,,,,,,,,
 1568824,2026-10-10,2026-10-10T14:00:00+01:00,NS,781,III Liga - Group 2,Poland,2026,Group II - 12,Kotwica Kórnik,Noteć Czarnków,24327,21657,,,,,,,,,,
-1568825,2026-10-10,2026-10-10T11:00:00+01:00,2H,781,III Liga - Group 2,Poland,2026,Group II - 12,Luzino,Wda Świecie,19693,24328,,,1,0,,,,,1,0
-1568828,2026-10-10,2026-10-10T11:00:00+01:00,2H,781,III Liga - Group 2,Poland,2026,Group II - 12,Victoria Września,Grom Nowy Staw,19723,24786,,,0,0,,,,,0,0
+1568825,2026-10-10,2026-10-10T11:00:00+01:00,FT,781,III Liga - Group 2,Poland,2026,Group II - 12,Luzino,Wda Świecie,19693,24328,3,0,1,0,,,,,3,0
+1568828,2026-10-10,2026-10-10T11:00:00+01:00,FT,781,III Liga - Group 2,Poland,2026,Group II - 12,Victoria Września,Grom Nowy Staw,19723,24786,1,0,0,0,,,,,1,0
 1569126,2026-10-10,2026-10-10T17:00:00+01:00,NS,780,III Liga - Group 1,Poland,2026,Group I - 12,Polonia Lidzbark Warm.,Łomża,24330,21656,,,,,,,,,,
-1569127,2026-10-10,2026-10-10T13:00:00+01:00,NS,780,III Liga - Group 1,Poland,2026,Group I - 12,Mazovia Minsk Mazowiecki,Pelikan Łowicz,27901,12829,,,,,,,,,,
+1569127,2026-10-10,2026-10-10T13:00:00+01:00,1H,780,III Liga - Group 1,Poland,2026,Group I - 12,Mazovia Minsk Mazowiecki,Pelikan Łowicz,27901,12829,,,1,2,,,,,1,2
 1569128,2026-10-10,2026-10-10T13:00:00+01:00,NS,780,III Liga - Group 1,Poland,2026,Group I - 12,Olimpia Elbląg,Mławianka Mława,6945,19618,,,,,,,,,,
-1569129,2026-10-10,2026-10-10T13:00:00+01:00,NS,780,III Liga - Group 1,Poland,2026,Group I - 12,Wisła Płock II,Troszyn,23046,26177,,,,,,,,,,
+1569129,2026-10-10,2026-10-10T13:00:00+01:00,1H,780,III Liga - Group 1,Poland,2026,Group I - 12,Wisła Płock II,Troszyn,23046,26177,,,1,1,,,,,1,1
 1569131,2026-10-10,2026-10-10T14:00:00+01:00,NS,780,III Liga - Group 1,Poland,2026,Group I - 12,Swit,ŁKS Łódź II,12869,17397,,,,,,,,,,
 1569133,2026-10-10,2026-10-10T14:00:00+01:00,NS,780,III Liga - Group 1,Poland,2026,Group I - 12,Ząbkovia Ząbki,Jagiellonia II,26179,16236,,,,,,,,,,
 1569384,2026-10-10,2026-10-10T14:00:00+01:00,NS,705,Campionato Primavera - 1,Italy,2026,Regular Season - 6,Roma U20,Empoli U20,24739,24730,,,,,,,,,,
@@ -4067,7 +4067,7 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1569965,2026-10-10,2026-10-10T17:30:00+01:00,NS,141,Segunda División,Spain,2026,Regular Season - 9,Eldense,Cordoba,9692,713,,,,,,,,,,
 1570403,2026-10-10,2026-10-10T15:15:00+01:00,NS,140,La Liga,Spain,2026,Regular Season - 8,Alaves,Atletico Madrid,542,530,,,,,,,,,,
 1570404,2026-10-10,2026-10-10T17:30:00+01:00,NS,140,La Liga,Spain,2026,Regular Season - 8,Barcelona,Getafe,529,546,,,,,,,,,,
-1570410,2026-10-10,2026-10-10T13:00:00+01:00,NS,140,La Liga,Spain,2026,Regular Season - 8,Rayo Vallecano,Athletic Club,728,531,,,,,,,,,,
+1570410,2026-10-10,2026-10-10T13:00:00+01:00,1H,140,La Liga,Spain,2026,Regular Season - 8,Rayo Vallecano,Athletic Club,728,531,,,0,0,,,,,0,0
 1570411,2026-10-10,2026-10-10T20:00:00+01:00,NS,140,La Liga,Spain,2026,Regular Season - 8,Real Madrid,Villarreal,541,533,,,,,,,,,,
 1570777,2026-10-10,2026-10-10T17:45:00+01:00,NS,435,Primera División RFEF - Group 1,Spain,2026,Group 1 - 7,Cacereño,Unionistas de Salamanca,9384,5281,,,,,,,,,,
 1570778,2026-10-10,2026-10-10T19:00:00+01:00,NS,435,Primera División RFEF - Group 1,Spain,2026,Group 1 - 7,CD Coria,Extremadura 1924,9827,24612,,,,,,,,,,
@@ -4085,14 +4085,14 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1571589,2026-10-10,2026-10-10T14:00:00+01:00,NS,173,Second League,Bulgaria,2026,Regular Season - 12,Rilski Sportist,Lokomotiv G. Oryahovitsa,8547,1420,,,,,,,,,,
 1571590,2026-10-10,2026-10-10T14:00:00+01:00,NS,173,Second League,Bulgaria,2026,Regular Season - 12,Sportist Svoge,Hebar 1918,8550,4659,,,,,,,,,,
 1571856,2026-10-10,2026-10-10T16:00:00+01:00,NS,272,NB II,Hungary,2026,Regular Season - 9,Gyirmot SE,Nagykanizsai ULE,2398,5123,,,,,,,,,,
-1571857,2026-10-10,2026-10-10T12:00:00+01:00,1H,272,NB II,Hungary,2026,Regular Season - 9,Kazincbarcikai,Karcag SE,2410,17289,,,0,0,,,,,0,0
+1571857,2026-10-10,2026-10-10T12:00:00+01:00,2H,272,NB II,Hungary,2026,Regular Season - 9,Kazincbarcikai,Karcag SE,2410,17289,,,1,0,,,,,3,0
 1571858,2026-10-10,2026-10-10T16:00:00+01:00,NS,272,NB II,Hungary,2026,Regular Season - 9,Kozarmisleny FC,Diosgyori VTK,2420,2393,,,,,,,,,,
 1571859,2026-10-10,2026-10-10T16:00:00+01:00,NS,272,NB II,Hungary,2026,Regular Season - 9,Mezokovesd-zsory,Szeged 2011,2389,2418,,,,,,,,,,
 1571860,2026-10-10,2026-10-10T16:00:00+01:00,NS,272,NB II,Hungary,2026,Regular Season - 9,Tiszakecske FC,Ajka,2415,4714,,,,,,,,,,
 1571861,2026-10-10,2026-10-10T16:00:00+01:00,NS,272,NB II,Hungary,2026,Regular Season - 9,Fehérvár FC,Szentlőrinc SE,610,5139,,,,,,,,,,
 1572076,2026-10-10,2026-10-10T17:00:00+01:00,NS,875,Segunda División RFEF - Group 1,Spain,2026,Group 1 - 6,Amorebieta,Portugalete,9380,9408,,,,,,,,,,
 1572077,2026-10-10,2026-10-10T15:30:00+01:00,NS,875,Segunda División RFEF - Group 1,Spain,2026,Group 1 - 6,Atlético Astorga,Ourense CF,9723,9612,,,,,,,,,,
-1572080,2026-10-10,2026-10-10T11:30:00+01:00,1H,875,Segunda División RFEF - Group 1,Spain,2026,Group 1 - 6,Eibar II,Basconia,24572,9656,,,0,1,,,,,0,1
+1572080,2026-10-10,2026-10-10T11:30:00+01:00,FT,875,Segunda División RFEF - Group 1,Spain,2026,Group 1 - 6,Eibar II,Basconia,24572,9656,1,1,0,1,,,,,1,1
 1572081,2026-10-10,2026-10-10T17:00:00+01:00,NS,875,Segunda División RFEF - Group 1,Spain,2026,Group 1 - 6,Llanera,Marino de Luanco,9627,9401,,,,,,,,,,
 1572083,2026-10-10,2026-10-10T17:30:00+01:00,NS,875,Segunda División RFEF - Group 1,Spain,2026,Group 1 - 6,Sestao River,Gimnástica Torrelavega,9413,5264,,,,,,,,,,
 1572381,2026-10-10,2026-10-10T15:00:00+01:00,NS,876,Segunda División RFEF - Group 2,Spain,2026,Group 2 - 6,Barcelona B,SD Logroñés,712,9411,,,,,,,,,,
@@ -4133,19 +4133,19 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1575509,2026-10-10,2026-10-10T20:30:00+01:00,NS,94,Primeira Liga,Portugal,2026,Regular Season - 8,Academico Viseu,Estoril,238,230,,,,,,,,,,
 1575513,2026-10-10,2026-10-10T20:30:00+01:00,NS,94,Primeira Liga,Portugal,2026,Regular Season - 8,Casa Pia,Santa Clara,4716,227,,,,,,,,,,
 1575515,2026-10-10,2026-10-10T18:00:00+01:00,NS,94,Primeira Liga,Portugal,2026,Regular Season - 8,Maritimo,FC Porto,214,212,,,,,,,,,,
-1575812,2026-10-10,2026-10-10T13:00:00+01:00,NS,122,2. Division,Denmark,2026,Regular Season - 11,Brabrand,Fremad Amager,2071,2065,,,,,,,,,,
-1575813,2026-10-10,2026-10-10T13:00:00+01:00,NS,122,2. Division,Denmark,2026,Regular Season - 11,FA 2000,Naestved,8634,2066,,,,,,,,,,
-1575814,2026-10-10,2026-10-10T13:00:00+01:00,NS,122,2. Division,Denmark,2026,Regular Season - 11,HIK,Thisted FC,6021,2069,,,,,,,,,,
-1575815,2026-10-10,2026-10-10T13:00:00+01:00,NS,122,2. Division,Denmark,2026,Regular Season - 11,Roskilde,Skive,2067,2068,,,,,,,,,,
+1575812,2026-10-10,2026-10-10T13:00:00+01:00,1H,122,2. Division,Denmark,2026,Regular Season - 11,Brabrand,Fremad Amager,2071,2065,,,1,0,,,,,1,0
+1575813,2026-10-10,2026-10-10T13:00:00+01:00,1H,122,2. Division,Denmark,2026,Regular Season - 11,FA 2000,Naestved,8634,2066,,,0,1,,,,,0,1
+1575814,2026-10-10,2026-10-10T13:00:00+01:00,1H,122,2. Division,Denmark,2026,Regular Season - 11,HIK,Thisted FC,6021,2069,,,0,0,,,,,0,0
+1575815,2026-10-10,2026-10-10T13:00:00+01:00,1H,122,2. Division,Denmark,2026,Regular Season - 11,Roskilde,Skive,2067,2068,,,1,0,,,,,1,0
 1575816,2026-10-10,2026-10-10T14:00:00+01:00,NS,122,2. Division,Denmark,2026,Regular Season - 11,B 93,Middelfart,6009,6042,,,,,,,,,,
 1575983,2026-10-10,2026-10-10T17:15:00+01:00,NS,110,Premier League,Wales,2026,Regular Season - 13,Flint Town United,Colwyn Bay,5614,5611,,,,,,,,,,
-1576190,2026-10-10,2026-10-10T12:00:00+01:00,1H,79,2. Bundesliga,Germany,2026,Regular Season - 7,SV Darmstadt 98,Energie Cottbus,181,1320,,,0,1,,,,,0,1
-1576193,2026-10-10,2026-10-10T12:00:00+01:00,1H,79,2. Bundesliga,Germany,2026,Regular Season - 7,1. FC Magdeburg,Hannover 96,179,166,,,1,0,,,,,1,0
+1576190,2026-10-10,2026-10-10T12:00:00+01:00,2H,79,2. Bundesliga,Germany,2026,Regular Season - 7,SV Darmstadt 98,Energie Cottbus,181,1320,,,1,1,,,,,2,1
+1576193,2026-10-10,2026-10-10T12:00:00+01:00,2H,79,2. Bundesliga,Germany,2026,Regular Season - 7,1. FC Magdeburg,Hannover 96,179,166,,,2,0,,,,,3,0
 1576194,2026-10-10,2026-10-10T19:30:00+01:00,NS,79,2. Bundesliga,Germany,2026,Regular Season - 7,1. FC Nürnberg,VfL Wolfsburg,171,161,,,,,,,,,,
-1576196,2026-10-10,2026-10-10T12:00:00+01:00,1H,79,2. Bundesliga,Germany,2026,Regular Season - 7,VfL Osnabrück,Dynamo Dresden,1324,183,,,0,0,,,,,0,0
+1576196,2026-10-10,2026-10-10T12:00:00+01:00,2H,79,2. Bundesliga,Germany,2026,Regular Season - 7,VfL Osnabrück,Dynamo Dresden,1324,183,,,0,1,,,,,1,1
 1576494,2026-10-10,2026-10-10T14:00:00+01:00,NS,95,Segunda Liga,Portugal,2026,Regular Season - 7,Amarante,Portimonense,4725,216,,,,,,,,,,
 1576497,2026-10-10,2026-10-10T15:30:00+01:00,NS,95,Segunda Liga,Portugal,2026,Regular Season - 7,Leixoes,FC Porto B,244,243,,,,,,,,,,
-1576501,2026-10-10,2026-10-10T11:00:00+01:00,HT,95,Segunda Liga,Portugal,2026,Regular Season - 7,Tondela,Torreense,218,4799,,,0,0,,,,,0,0
+1576501,2026-10-10,2026-10-10T11:00:00+01:00,FT,95,Segunda Liga,Portugal,2026,Regular Season - 7,Tondela,Torreense,218,4799,1,0,0,0,,,,,1,0
 1576502,2026-10-10,2026-10-10T20:30:00+01:00,NS,95,Segunda Liga,Portugal,2026,Regular Season - 7,Vizela,Sporting CP B,810,761,,,,,,,,,,
 1576919,2026-10-10,2026-10-10T13:00:00+01:00,NS,395,Liga 1,Moldova,2026,Regular Season - 9,Făleşti,FC National Ialoveni,14009,26757,,,,,,,,,,
 1576922,2026-10-10,2026-10-10T13:00:00+01:00,NS,395,Liga 1,Moldova,2026,Regular Season - 9,Spartanii Selemet,Iskra,5380,5372,,,,,,,,,,
@@ -4159,17 +4159,17 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1577252,2026-10-10,2026-10-10T12:00:00+01:00,NS,755,Oberliga - Nordost-Süd,Germany,2026,NOFV- Sud - 7,Eilenburg,Einheit Wernigerode,12756,17035,,,,,,,,,,
 1577254,2026-10-10,2026-10-10T13:00:00+01:00,NS,755,Oberliga - Nordost-Süd,Germany,2026,NOFV- Sud - 7,SC Freital,Empor Glauchau,18170,22899,,,,,,,,,,
 1577256,2026-10-10,2026-10-10T13:00:00+01:00,NS,755,Oberliga - Nordost-Süd,Germany,2026,NOFV- Sud - 7,Plauen,Union Sandersdorf,12833,12885,,,,,,,,,,
-1577541,2026-10-10,2026-10-10T12:00:00+01:00,1H,236,First League,Russia,2026,Regular Season - 13,Leningradets,Torpedo Moskva,6811,3985,,,0,1,,,,,0,1
+1577541,2026-10-10,2026-10-10T12:00:00+01:00,2H,236,First League,Russia,2026,Regular Season - 13,Leningradets,Torpedo Moskva,6811,3985,,,0,2,,,,,1,3
 1577543,2026-10-10,2026-10-10T15:00:00+01:00,NS,236,First League,Russia,2026,Regular Season - 13,Nizhny Novgorod,Enisey,2011,1089,,,,,,,,,,
 1577544,2026-10-10,2026-10-10T15:00:00+01:00,NS,236,First League,Russia,2026,Regular Season - 13,Rotor Volgograd,Volga Ulyanovsk,2010,6834,,,,,,,,,,
 1577545,2026-10-10,2026-10-10T15:00:00+01:00,NS,236,First League,Russia,2026,Regular Season - 13,Shinnik Yaroslavl,Tekstilshchik,1998,3984,,,,,,,,,,
 1577546,2026-10-10,2026-10-10T08:00:00+01:00,FT,236,First League,Russia,2026,Regular Season - 13,Ska-khabarovsk,KAMAZ,1087,6801,3,3,2,1,,,,,3,3
 1577548,2026-10-10,2026-10-10T10:00:00+01:00,FT,236,First League,Russia,2026,Regular Season - 13,Ural,Veles,1084,6833,1,2,0,2,,,,,1,2
-1577799,2026-10-10,2026-10-10T12:00:00+01:00,1H,862,3. Division,Denmark,2026,Regular Season - 11,FC Helsingor,ASA Aarhus,2062,14443,,,1,0,,,,,1,0
-1577800,2026-10-10,2026-10-10T12:00:00+01:00,1H,862,3. Division,Denmark,2026,Regular Season - 11,Ringsted,Hørsholm-Usserød,11532,11507,,,0,0,,,,,0,0
-1577801,2026-10-10,2026-10-10T13:00:00+01:00,NS,862,3. Division,Denmark,2026,Regular Season - 11,Frem,Næsby,6018,8635,,,,,,,,,,
-1577802,2026-10-10,2026-10-10T13:00:00+01:00,NS,862,3. Division,Denmark,2026,Regular Season - 11,Vanløse,Holbæk B&I,6065,6027,,,,,,,,,,
-1577803,2026-10-10,2026-10-10T13:30:00+01:00,NS,862,3. Division,Denmark,2026,Regular Season - 11,Holstebro,Brønshøj,6028,6012,,,,,,,,,,
+1577799,2026-10-10,2026-10-10T12:00:00+01:00,2H,862,3. Division,Denmark,2026,Regular Season - 11,FC Helsingor,ASA Aarhus,2062,14443,,,1,0,,,,,2,1
+1577800,2026-10-10,2026-10-10T12:00:00+01:00,2H,862,3. Division,Denmark,2026,Regular Season - 11,Ringsted,Hørsholm-Usserød,11532,11507,,,2,4,,,,,2,4
+1577801,2026-10-10,2026-10-10T13:00:00+01:00,1H,862,3. Division,Denmark,2026,Regular Season - 11,Frem,Næsby,6018,8635,,,1,0,,,,,1,0
+1577802,2026-10-10,2026-10-10T13:00:00+01:00,HT,862,3. Division,Denmark,2026,Regular Season - 11,Vanløse,Holbæk B&I,6065,6027,,,0,0,,,,,0,0
+1577803,2026-10-10,2026-10-10T13:30:00+01:00,1H,862,3. Division,Denmark,2026,Regular Season - 11,Holstebro,Brønshøj,6028,6012,,,1,0,,,,,1,0
 1577962,2026-10-10,2026-10-10T14:00:00+01:00,NS,349,3. liga - MSFL,Czech-Republic,2026,MSFL - 11,Blansko,Vsetín,7276,7377,,,,,,,,,,
 1577963,2026-10-10,2026-10-10T14:00:00+01:00,NS,349,3. liga - MSFL,Czech-Republic,2026,MSFL - 11,Hodonín,Frýdek-Místek,7297,7288,,,,,,,,,,
 1577964,2026-10-10,2026-10-10T14:00:00+01:00,NS,349,3. liga - MSFL,Czech-Republic,2026,MSFL - 11,Vrchovina,Uničov,7376,7369,,,,,,,,,,
@@ -4193,22 +4193,22 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1579145,2026-10-10,2026-10-10T13:30:00+01:00,NS,353,4. liga - Divizie D,Czech-Republic,2026,Group D - 11,Ždírec nad Doubravou,FS Třebíč,7388,24190,,,,,,,,,,
 1579258,2026-10-10,2026-10-10T09:30:00+01:00,FT,354,4. liga - Divizie E,Czech-Republic,2026,Group E - 11,Prostejov B,Bzenec,27928,7280,4,2,1,2,,,,,4,2
 1579259,2026-10-10,2026-10-10T13:30:00+01:00,NS,354,4. liga - Divizie E,Czech-Republic,2026,Group E - 11,Holešov,Nové Sady,16876,7322,,,,,,,,,,
-1579260,2026-10-10,2026-10-10T13:30:00+01:00,NS,354,4. liga - Divizie E,Czech-Republic,2026,Group E - 11,Šternberk,SK Krumvir,19440,27929,,,,,,,,,,
+1579260,2026-10-10,2026-10-10T13:30:00+01:00,1H,354,4. liga - Divizie E,Czech-Republic,2026,Group E - 11,Šternberk,SK Krumvir,19440,27929,,,1,1,,,,,1,1
 1579262,2026-10-10,2026-10-10T13:30:00+01:00,NS,354,4. liga - Divizie E,Czech-Republic,2026,Group E - 11,Baťov,Tatran Všechovice,19420,7366,,,,,,,,,,
 1579263,2026-10-10,2026-10-10T13:30:00+01:00,NS,354,4. liga - Divizie E,Czech-Republic,2026,Group E - 11,Břeclav,Sokol Lanžhot,8631,7351,,,,,,,,,,
 1579264,2026-10-10,2026-10-10T13:30:00+01:00,NS,354,4. liga - Divizie E,Czech-Republic,2026,Group E - 11,Hluk,Kozlovice,26992,7311,,,,,,,,,,
-1579378,2026-10-10,2026-10-10T13:30:00+01:00,NS,686,4. liga - Divizie F,Czech-Republic,2026,Group F - 11,Frýdlant,Hlučín,7289,7296,,,,,,,,,,
+1579378,2026-10-10,2026-10-10T13:30:00+01:00,1H,686,4. liga - Divizie F,Czech-Republic,2026,Group F - 11,Frýdlant,Hlučín,7289,7296,,,1,0,,,,,1,0
 1579381,2026-10-10,2026-10-10T09:15:00+01:00,FT,686,4. liga - Divizie F,Czech-Republic,2026,Group F - 11,Břidličná,Jiskra Rýmařov,19421,7305,2,1,2,0,,,,,2,1
-1579382,2026-10-10,2026-10-10T13:30:00+01:00,NS,686,4. liga - Divizie F,Czech-Republic,2026,Group F - 11,Nový Jičín,Kravare,7323,21912,,,,,,,,,,
+1579382,2026-10-10,2026-10-10T13:30:00+01:00,1H,686,4. liga - Divizie F,Czech-Republic,2026,Group F - 11,Nový Jičín,Kravare,7323,21912,,,0,1,,,,,0,1
 1579383,2026-10-10,2026-10-10T09:15:00+01:00,FT,686,4. liga - Divizie F,Czech-Republic,2026,Group F - 11,Opava II,Stonava,15135,26231,4,1,2,0,,,,,4,1
 1579490,2026-10-10,2026-10-10T14:15:00+01:00,NS,492,Tweede Divisie,Netherlands,2026,Regular Season - 9,AFC Amsterdam,Hoek,1252,1276,,,,,,,,,,
 1579491,2026-10-10,2026-10-10T17:00:00+01:00,NS,492,Tweede Divisie,Netherlands,2026,Regular Season - 9,De Treffers,Barendrecht,1277,1271,,,,,,,,,,
-1579492,2026-10-10,2026-10-10T13:30:00+01:00,NS,492,Tweede Divisie,Netherlands,2026,Regular Season - 9,GVVV Veenendaal,Rijnsburgse Boys,1261,1248,,,,,,,,,,
+1579492,2026-10-10,2026-10-10T13:30:00+01:00,1H,492,Tweede Divisie,Netherlands,2026,Regular Season - 9,GVVV Veenendaal,Rijnsburgse Boys,1261,1248,,,1,0,,,,,1,0
 1579493,2026-10-10,2026-10-10T14:00:00+01:00,NS,492,Tweede Divisie,Netherlands,2026,Regular Season - 9,Ijsselmeervogels,Koninklijke HFC,1280,1246,,,,,,,,,,
 1579494,2026-10-10,2026-10-10T14:00:00+01:00,NS,492,Tweede Divisie,Netherlands,2026,Regular Season - 9,Sparta Rotterdam II,Almere City II,10320,9130,,,,,,,,,,
 1579495,2026-10-10,2026-10-10T14:00:00+01:00,NS,492,Tweede Divisie,Netherlands,2026,Regular Season - 9,Kloetinge,HHC,3930,1278,,,,,,,,,,
 1579496,2026-10-10,2026-10-10T14:00:00+01:00,NS,492,Tweede Divisie,Netherlands,2026,Regular Season - 9,Kozakken Boys,Spakenburg,1242,1249,,,,,,,,,,
-1579497,2026-10-10,2026-10-10T12:30:00+01:00,NS,492,Tweede Divisie,Netherlands,2026,Regular Season - 9,Quick Boys,Katwijk,1272,1237,,,,,,,,,,
+1579497,2026-10-10,2026-10-10T12:30:00+01:00,2H,492,Tweede Divisie,Netherlands,2026,Regular Season - 9,Quick Boys,Katwijk,1272,1237,,,3,0,,,,,4,0
 1579498,2026-10-10,2026-10-10T14:00:00+01:00,NS,492,Tweede Divisie,Netherlands,2026,Regular Season - 9,ROHDA Raalte,RKAV Volendam,6269,1238,,,,,,,,,,
 1579831,2026-10-10,2026-10-10T19:00:00+01:00,NS,487,First Amateur Division,Belgium,2026,ACFF - 8,Meux,Rochefort,5872,5914,,,,,,,,,,
 1579832,2026-10-10,2026-10-10T19:00:00+01:00,NS,487,First Amateur Division,Belgium,2026,ACFF - 8,RWDM,Tubize,6224,262,,,,,,,,,,
@@ -4242,9 +4242,9 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1581447,2026-10-10,2026-10-10T02:00:00+01:00,FT,263,Liga de Expansión MX,Mexico,2026,Apertura - 12,Tepatitlán,Monarcas,14279,2284,1,1,1,0,,,,,1,1
 1581481,2026-10-10,2026-10-10T23:00:00+01:00,NS,263,Liga de Expansión MX,Mexico,2026,Apertura - 12,Tlaxcala,Piratas,14280,27935,,,,,,,,,,
 1581533,2026-10-10,2026-10-10T16:00:00+01:00,NS,342,Premier League,Armenia,2026,Regular Season - 9,Ararat-Armenia,Alashkert,3683,582,,,,,,,,,,
-1581538,2026-10-10,2026-10-10T13:00:00+01:00,NS,342,Premier League,Armenia,2026,Regular Season - 9,Van,Gandzasar,6286,688,,,,,,,,,,
-1581930,2026-10-10,2026-10-10T09:30:00+01:00,2H,334,Persha Liga,Ukraine,2026,Regular Season - 11,Inhulets,Ahrobiznes Volochysk,3625,3620,,,0,1,,,,,0,1
-1581934,2026-10-10,2026-10-10T11:30:00+01:00,1H,334,Persha Liga,Ukraine,2026,Regular Season - 11,Probiy Horodenka,SK Poltava,24568,17165,,,1,2,,,,,1,2
+1581538,2026-10-10,2026-10-10T13:00:00+01:00,1H,342,Premier League,Armenia,2026,Regular Season - 9,Van,Gandzasar,6286,688,,,0,0,,,,,0,0
+1581930,2026-10-10,2026-10-10T09:30:00+01:00,INT,334,Persha Liga,Ukraine,2026,Regular Season - 11,Inhulets,Ahrobiznes Volochysk,3625,3620,,,0,1,,,,,0,1
+1581934,2026-10-10,2026-10-10T11:30:00+01:00,FT,334,Persha Liga,Ukraine,2026,Regular Season - 11,Probiy Horodenka,SK Poltava,24568,17165,3,2,2,2,,,,,3,2
 1582282,2026-10-10,2026-10-10T14:30:00+01:00,NS,393,Premier League,Malta,2026,Regular Season - 7,Birkirkara,Valletta FC,2277,659,,,,,,,,,,
 1582286,2026-10-10,2026-10-10T17:00:00+01:00,NS,393,Premier League,Malta,2026,Regular Season - 7,Marsaxlokk,Zabbar St. Patrick,14507,4622,,,,,,,,,,
 1582348,2026-10-10,2026-10-10T19:00:00+01:00,NS,1142,Mineiro - 3,Brazil,2026,Regular Season - 4,Novo Esporte Clube,Nacional AC MG,26489,13083,,,,,,,,,,
@@ -4262,23 +4262,23 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1582884,2026-10-10,2026-10-10T19:00:00+01:00,NS,148,Second Amateur Division - ACFF,Belgium,2026,ACFF - 8,Richelle United,RUS Binche,5913,20403,,,,,,,,,,
 1582885,2026-10-10,2026-10-10T18:30:00+01:00,NS,148,Second Amateur Division - ACFF,Belgium,2026,ACFF - 8,Stade Verviers,SG-Tertre-Hautrage,22256,5917,,,,,,,,,,
 1583783,2026-10-10,2026-10-10T02:30:00+01:00,PST,304,Liga Panameña de Fútbol,Panama,2026,Apertura - 12,San Francisco FC,Deportivo Universitario,2887,2888,,,,,,,,,,
-1583879,2026-10-10,2026-10-10T12:00:00+01:00,1H,1025,Second League A - Division A Gold,Russia,2026,Fall Season Gold - 13,Kaluga,Mashuk-KMV,6802,6814,,,0,0,,,,,0,0
-1583880,2026-10-10,2026-10-10T12:00:00+01:00,1H,1025,Second League A - Division A Gold,Russia,2026,Fall Season Gold - 13,Dinamo Kirov,Alaniya Vladikavkaz,21538,6787,,,0,0,,,,,0,0
+1583879,2026-10-10,2026-10-10T12:00:00+01:00,2H,1025,Second League A - Division A Gold,Russia,2026,Fall Season Gold - 13,Kaluga,Mashuk-KMV,6802,6814,,,0,0,,,,,0,0
+1583880,2026-10-10,2026-10-10T12:00:00+01:00,2H,1025,Second League A - Division A Gold,Russia,2026,Fall Season Gold - 13,Dinamo Kirov,Alaniya Vladikavkaz,21538,6787,,,0,1,,,,,0,1
 1583938,2026-10-10,2026-10-10T10:00:00+01:00,FT,1026,Second League A - Division A Silver,Russia,2026,Division A Silver - 13,Torpedo Miass,Dinamo Stavropol,16864,6796,1,0,0,0,,,,,1,0
-1583939,2026-10-10,2026-10-10T12:00:00+01:00,1H,1026,Second League A - Division A Silver,Russia,2026,Division A Silver - 13,Irtysh Omsk,Tyumen,665,2000,,,0,0,,,,,0,0
-1583940,2026-10-10,2026-10-10T11:00:00+01:00,2H,1026,Second League A - Division A Silver,Russia,2026,Division A Silver - 13,Zenit 2,Amkar,2005,1076,,,3,0,,,,,3,0
+1583939,2026-10-10,2026-10-10T12:00:00+01:00,2H,1026,Second League A - Division A Silver,Russia,2026,Division A Silver - 13,Irtysh Omsk,Tyumen,665,2000,,,1,2,,,,,1,2
+1583940,2026-10-10,2026-10-10T11:00:00+01:00,FT,1026,Second League A - Division A Silver,Russia,2026,Division A Silver - 13,Zenit 2,Amkar,2005,1076,3,0,3,0,,,,,3,0
 1584015,2026-10-10,2026-10-10T15:30:00+01:00,NS,80,3. Liga,Germany,2026,Regular Season - 8,MSV Duisburg,Hoffenheim II,187,9364,,,,,,,,,,
-1584017,2026-10-10,2026-10-10T13:00:00+01:00,NS,80,3. Liga,Germany,2026,Regular Season - 8,Fortuna Köln,FC Saarbrücken,1326,1639,,,,,,,,,,
-1584018,2026-10-10,2026-10-10T13:00:00+01:00,NS,80,3. Liga,Germany,2026,Regular Season - 8,SG Sonnenhof Grossaspach,Waldhof Mannheim,1317,4268,,,,,,,,,,
-1584020,2026-10-10,2026-10-10T13:00:00+01:00,NS,80,3. Liga,Germany,2026,Regular Season - 8,SV Meppen,Stuttgart II,1318,12867,,,,,,,,,,
-1584022,2026-10-10,2026-10-10T13:00:00+01:00,NS,80,3. Liga,Germany,2026,Regular Season - 8,SSV Jahn Regensburg,Havelse,177,9342,,,,,,,,,,
-1584023,2026-10-10,2026-10-10T13:00:00+01:00,NS,80,3. Liga,Germany,2026,Regular Season - 8,Würzburger Kickers,Hansa Rostock,784,1321,,,,,,,,,,
+1584017,2026-10-10,2026-10-10T13:00:00+01:00,1H,80,3. Liga,Germany,2026,Regular Season - 8,Fortuna Köln,FC Saarbrücken,1326,1639,,,0,0,,,,,0,0
+1584018,2026-10-10,2026-10-10T13:00:00+01:00,1H,80,3. Liga,Germany,2026,Regular Season - 8,SG Sonnenhof Grossaspach,Waldhof Mannheim,1317,4268,,,1,2,,,,,1,2
+1584020,2026-10-10,2026-10-10T13:00:00+01:00,1H,80,3. Liga,Germany,2026,Regular Season - 8,SV Meppen,Stuttgart II,1318,12867,,,1,1,,,,,1,1
+1584022,2026-10-10,2026-10-10T13:00:00+01:00,1H,80,3. Liga,Germany,2026,Regular Season - 8,SSV Jahn Regensburg,Havelse,177,9342,,,2,0,,,,,2,0
+1584023,2026-10-10,2026-10-10T13:00:00+01:00,1H,80,3. Liga,Germany,2026,Regular Season - 8,Würzburger Kickers,Hansa Rostock,784,1321,,,0,0,,,,,0,0
 1584421,2026-10-10,2026-10-10T14:00:00+01:00,NS,203,Süper Lig,Turkey,2026,Regular Season - 7,Alanyaspor,Erzurumspor FK,996,1009,,,,,,,,,,
-1584426,2026-10-10,2026-10-10T11:30:00+01:00,1H,203,Süper Lig,Turkey,2026,Regular Season - 7,Gençlerbirliği S.K.,Amed,997,3579,,,0,1,,,,,0,1
+1584426,2026-10-10,2026-10-10T11:30:00+01:00,FT,203,Süper Lig,Turkey,2026,Regular Season - 7,Gençlerbirliği S.K.,Amed,997,3579,2,2,0,1,,,,,2,2
 1584428,2026-10-10,2026-10-10T17:00:00+01:00,NS,203,Süper Lig,Turkey,2026,Regular Season - 7,Rizespor,Fenerbahçe,1007,611,,,,,,,,,,
 1584429,2026-10-10,2026-10-10T14:00:00+01:00,NS,203,Süper Lig,Turkey,2026,Regular Season - 7,Samsunspor,Trabzonspor,3603,998,,,,,,,,,,
-1585282,2026-10-10,2026-10-10T12:30:00+01:00,NS,43,National League,England,2026,Regular Season - 13,Altrincham,Aldershot Town,4700,1818,,,,,,,,,,
-1585283,2026-10-10,2026-10-10T12:30:00+01:00,NS,43,National League,England,2026,Regular Season - 13,Carlisle,Kidderminster Harriers,1371,4695,,,,,,,,,,
+1585282,2026-10-10,2026-10-10T12:30:00+01:00,2H,43,National League,England,2026,Regular Season - 13,Altrincham,Aldershot Town,4700,1818,,,1,0,,,,,1,1
+1585283,2026-10-10,2026-10-10T12:30:00+01:00,2H,43,National League,England,2026,Regular Season - 13,Carlisle,Kidderminster Harriers,1371,4695,,,0,0,,,,,0,0
 1585284,2026-10-10,2026-10-10T15:00:00+01:00,NS,43,National League,England,2026,Regular Season - 13,AFC Fylde,Scunthorpe,1839,1340,,,,,,,,,,
 1585285,2026-10-10,2026-10-10T15:00:00+01:00,NS,43,National League,England,2026,Regular Season - 13,Boston United,Southend,8146,1341,,,,,,,,,,
 1585286,2026-10-10,2026-10-10T15:00:00+01:00,NS,43,National League,England,2026,Regular Season - 13,FC Halifax Town,Gateshead,1841,1823,,,,,,,,,,
@@ -4288,34 +4288,34 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1585290,2026-10-10,2026-10-10T15:00:00+01:00,NS,43,National League,England,2026,Regular Season - 13,Woking,Harrogate Town,1836,1842,,,,,,,,,,
 1585291,2026-10-10,2026-10-10T15:00:00+01:00,NS,43,National League,England,2026,Regular Season - 13,Worthing,Solihull Moors,7761,1834,,,,,,,,,,
 1585292,2026-10-10,2026-10-10T17:30:00+01:00,NS,43,National League,England,2026,Regular Season - 13,Forest Green,Hartlepool,1378,1366,,,,,,,,,,
-1585770,2026-10-10,2026-10-10T11:30:00+01:00,1H,204,1. Lig,Turkey,2026,Regular Season - 9,Boluspor,Antalyaspor,3569,1005,,,0,0,,,,,0,0
+1585770,2026-10-10,2026-10-10T11:30:00+01:00,FT,204,1. Lig,Turkey,2026,Regular Season - 9,Boluspor,Antalyaspor,3569,1005,0,1,0,0,,,,,0,1
 1585772,2026-10-10,2026-10-10T14:00:00+01:00,NS,204,1. Lig,Turkey,2026,Regular Season - 9,Iğdır FK,Batman Petrolspor,17259,7395,,,,,,,,,,
 1585773,2026-10-10,2026-10-10T17:00:00+01:00,NS,204,1. Lig,Turkey,2026,Regular Season - 9,İstanbulspor,Esenler Erokspor,3578,7402,,,,,,,,,,
 1585775,2026-10-10,2026-10-10T17:00:00+01:00,NS,204,1. Lig,Turkey,2026,Regular Season - 9,Kayserispor,Manisa F.K.,1001,3597,,,,,,,,,,
-1586248,2026-10-10,2026-10-10T13:00:00+01:00,NS,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Ansbach,Nürnberg II,14621,9332,,,,,,,,,,
-1586250,2026-10-10,2026-10-10T13:00:00+01:00,NS,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Wacker Burghausen,Greuther Fürth II,9337,9328,,,,,,,,,,
-1586251,2026-10-10,2026-10-10T13:00:00+01:00,NS,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Illertissen,TSV 1860 München,9330,786,,,,,,,,,,
-1586252,2026-10-10,2026-10-10T13:00:00+01:00,NS,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Landsberg,Aubstadt,14717,9323,,,,,,,,,,
-1586253,2026-10-10,2026-10-10T13:00:00+01:00,NS,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Memmingen,Eichstätt,9331,4262,,,,,,,,,,
-1586254,2026-10-10,2026-10-10T13:00:00+01:00,NS,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Schwaben Augsburg,Bayreuth,12849,9325,,,,,,,,,,
-1586256,2026-10-10,2026-10-10T13:00:00+01:00,NS,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Vilzing,Buchbach,12893,9326,,,,,,,,,,
-1586591,2026-10-10,2026-10-10T13:00:00+01:00,NS,84,Regionalliga - Nord,Germany,2026,North - 13,Eimsbütteler TV,Hannover 96 II,13947,9341,,,,,,,,,,
-1586594,2026-10-10,2026-10-10T13:00:00+01:00,NS,84,Regionalliga - Nord,Germany,2026,North - 13,Schöningen,Hamburger SV II,19475,9340,,,,,,,,,,
-1586889,2026-10-10,2026-10-10T13:00:00+01:00,NS,85,Regionalliga - Nordost,Germany,2026,Nordost - 12,BFC Preussen,Hertha BSC II,1618,9353,,,,,,,,,,
-1586894,2026-10-10,2026-10-10T13:00:00+01:00,NS,85,Regionalliga - Nordost,Germany,2026,Nordost - 12,FC Carl Zeiss Jena,Magdeburg II,1325,21525,,,,,,,,,,
-1587184,2026-10-10,2026-10-10T13:00:00+01:00,NS,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,FSV Frankfurt,SV Sandhausen,1332,189,,,,,,,,,,
-1587185,2026-10-10,2026-10-10T13:00:00+01:00,NS,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,Barockstadt Fulda-Lehn.,VfR Aalen,12735,1327,,,,,,,,,,
-1587186,2026-10-10,2026-10-10T13:00:00+01:00,NS,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,Kaiserslautern II,Hessen Kassel,12800,12788,,,,,,,,,,
-1587188,2026-10-10,2026-10-10T13:00:00+01:00,NS,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,TSV Steinbach,Eintracht Trier,1656,1627,,,,,,,,,,
-1587189,2026-10-10,2026-10-10T13:00:00+01:00,NS,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,SSV Ulm 1846,Eintracht Frankfurt II,1652,19217,,,,,,,,,,
-1587190,2026-10-10,2026-10-10T13:00:00+01:00,NS,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,VfR Mannheim,Stuttgarter Kickers,12889,12868,,,,,,,,,,
-1587191,2026-10-10,2026-10-10T13:00:00+01:00,NS,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,FC Astoria Walldorf,FSV Mainz 05 II,1626,1331,,,,,,,,,,
-1587498,2026-10-10,2026-10-10T13:00:00+01:00,NS,87,Regionalliga - West,Germany,2026,West - 12,Bergisch Gladbach,Schalke 04 II,9366,9373,,,,,,,,,,
-1587500,2026-10-10,2026-10-10T13:00:00+01:00,NS,87,Regionalliga - West,Germany,2026,West - 12,Borussia Dortmund II,SG Wattenscheid 09,9367,1629,,,,,,,,,,
-1587501,2026-10-10,2026-10-10T13:00:00+01:00,NS,87,Regionalliga - West,Germany,2026,West - 12,FC Gutersloh,Sportfreunde Siegen,14485,13935,,,,,,,,,,
-1587503,2026-10-10,2026-10-10T13:00:00+01:00,NS,87,Regionalliga - West,Germany,2026,West - 12,Sportfreunde Lotte,Paderborn II,1323,12827,,,,,,,,,,
-1587504,2026-10-10,2026-10-10T13:00:00+01:00,NS,87,Regionalliga - West,Germany,2026,West - 12,Rot-weiss Oberhausen,FC Bocholt,1658,12764,,,,,,,,,,
-1587505,2026-10-10,2026-10-10T13:00:00+01:00,NS,87,Regionalliga - West,Germany,2026,West - 12,Westfalia Rhynern,Hilden,14826,12790,,,,,,,,,,
+1586248,2026-10-10,2026-10-10T13:00:00+01:00,1H,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Ansbach,Nürnberg II,14621,9332,,,0,1,,,,,0,1
+1586250,2026-10-10,2026-10-10T13:00:00+01:00,1H,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Wacker Burghausen,Greuther Fürth II,9337,9328,,,1,1,,,,,1,1
+1586251,2026-10-10,2026-10-10T13:00:00+01:00,1H,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Illertissen,TSV 1860 München,9330,786,,,0,0,,,,,0,0
+1586252,2026-10-10,2026-10-10T13:00:00+01:00,1H,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Landsberg,Aubstadt,14717,9323,,,2,1,,,,,2,1
+1586253,2026-10-10,2026-10-10T13:00:00+01:00,1H,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Memmingen,Eichstätt,9331,4262,,,0,0,,,,,0,0
+1586254,2026-10-10,2026-10-10T13:00:00+01:00,1H,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Schwaben Augsburg,Bayreuth,12849,9325,,,0,1,,,,,0,1
+1586256,2026-10-10,2026-10-10T13:00:00+01:00,1H,83,Regionalliga - Bayern,Germany,2026,Bayern - 13,Vilzing,Buchbach,12893,9326,,,0,0,,,,,0,0
+1586591,2026-10-10,2026-10-10T13:00:00+01:00,1H,84,Regionalliga - Nord,Germany,2026,North - 13,Eimsbütteler TV,Hannover 96 II,13947,9341,,,0,0,,,,,0,0
+1586594,2026-10-10,2026-10-10T13:00:00+01:00,1H,84,Regionalliga - Nord,Germany,2026,North - 13,Schöningen,Hamburger SV II,19475,9340,,,0,1,,,,,0,1
+1586889,2026-10-10,2026-10-10T13:00:00+01:00,1H,85,Regionalliga - Nordost,Germany,2026,Nordost - 12,BFC Preussen,Hertha BSC II,1618,9353,,,1,1,,,,,1,1
+1586894,2026-10-10,2026-10-10T13:00:00+01:00,1H,85,Regionalliga - Nordost,Germany,2026,Nordost - 12,FC Carl Zeiss Jena,Magdeburg II,1325,21525,,,1,0,,,,,1,0
+1587184,2026-10-10,2026-10-10T13:00:00+01:00,1H,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,FSV Frankfurt,SV Sandhausen,1332,189,,,1,2,,,,,1,2
+1587185,2026-10-10,2026-10-10T13:00:00+01:00,1H,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,Barockstadt Fulda-Lehn.,VfR Aalen,12735,1327,,,0,1,,,,,0,1
+1587186,2026-10-10,2026-10-10T13:00:00+01:00,1H,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,Kaiserslautern II,Hessen Kassel,12800,12788,,,2,1,,,,,2,1
+1587188,2026-10-10,2026-10-10T13:00:00+01:00,1H,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,TSV Steinbach,Eintracht Trier,1656,1627,,,1,0,,,,,1,0
+1587189,2026-10-10,2026-10-10T13:00:00+01:00,1H,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,SSV Ulm 1846,Eintracht Frankfurt II,1652,19217,,,0,0,,,,,0,0
+1587190,2026-10-10,2026-10-10T13:00:00+01:00,1H,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,VfR Mannheim,Stuttgarter Kickers,12889,12868,,,1,0,,,,,1,0
+1587191,2026-10-10,2026-10-10T13:00:00+01:00,1H,86,Regionalliga - SudWest,Germany,2026,Sudwest - 11,FC Astoria Walldorf,FSV Mainz 05 II,1626,1331,,,1,0,,,,,1,0
+1587498,2026-10-10,2026-10-10T13:00:00+01:00,1H,87,Regionalliga - West,Germany,2026,West - 12,Bergisch Gladbach,Schalke 04 II,9366,9373,,,1,3,,,,,1,3
+1587500,2026-10-10,2026-10-10T13:00:00+01:00,1H,87,Regionalliga - West,Germany,2026,West - 12,Borussia Dortmund II,SG Wattenscheid 09,9367,1629,,,1,1,,,,,1,1
+1587501,2026-10-10,2026-10-10T13:00:00+01:00,1H,87,Regionalliga - West,Germany,2026,West - 12,FC Gutersloh,Sportfreunde Siegen,14485,13935,,,0,2,,,,,0,2
+1587503,2026-10-10,2026-10-10T13:00:00+01:00,1H,87,Regionalliga - West,Germany,2026,West - 12,Sportfreunde Lotte,Paderborn II,1323,12827,,,0,0,,,,,0,0
+1587504,2026-10-10,2026-10-10T13:00:00+01:00,1H,87,Regionalliga - West,Germany,2026,West - 12,Rot-weiss Oberhausen,FC Bocholt,1658,12764,,,1,1,,,,,1,1
+1587505,2026-10-10,2026-10-10T13:00:00+01:00,1H,87,Regionalliga - West,Germany,2026,West - 12,Westfalia Rhynern,Hilden,14826,12790,,,0,0,,,,,0,0
 1587825,2026-10-10,2026-10-10T15:00:00+01:00,NS,50,National League - North,England,2026,National League North - 11,Brackley Town,Spennymoor Town,4701,4707,,,,,,,,,,
 1587826,2026-10-10,2026-10-10T15:00:00+01:00,NS,50,National League - North,England,2026,National League North - 11,Chester,Bedford Town,1820,7616,,,,,,,,,,
 1587827,2026-10-10,2026-10-10T15:00:00+01:00,NS,50,National League - North,England,2026,National League North - 11,Chorley,AFC Telford United,4679,4688,,,,,,,,,,
@@ -4358,7 +4358,7 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1589839,2026-10-10,2026-10-10T14:30:00+01:00,NS,795,3. SNL - West,Slovenia,2026,West - 9,Zidgrad Idrija,Tolmin,20140,6724,,,,,,,,,,
 1590065,2026-10-10,2026-10-10T17:30:00+01:00,NS,310,Superliga,Albania,2026,Regular Season - 6,AF Elbasani,Vora,20406,3340,,,,,,,,,,
 1590068,2026-10-10,2026-10-10T17:30:00+01:00,NS,310,Superliga,Albania,2026,Regular Season - 6,Teuta Durrës,Skenderbeu Korce,3320,605,,,,,,,,,,
-1590182,2026-10-10,2026-10-10T11:00:00+01:00,2H,211,First NL,Croatia,2026,Regular Season - 8,Orijent 1919,Dubrava Zagreb,6256,6255,,,0,0,,,,,0,0
+1590182,2026-10-10,2026-10-10T11:00:00+01:00,FT,211,First NL,Croatia,2026,Regular Season - 8,Orijent 1919,Dubrava Zagreb,6256,6255,2,1,0,0,,,,,2,1
 1590185,2026-10-10,2026-10-10T14:30:00+01:00,NS,211,First NL,Croatia,2026,Regular Season - 8,Vukovar,Hrvace,5730,6241,,,,,,,,,,
 1590362,2026-10-10,2026-10-10T15:30:00+01:00,NS,968,Championnat D1,Gabon,2026,Regular Season - 1,Mounana,Mangasport,8090,8089,,,,,,,,,,
 1590363,2026-10-10,2026-10-10T15:30:00+01:00,NS,968,Championnat D1,Gabon,2026,Regular Season - 1,Lozo,Pélican,21191,8069,,,,,,,,,,
@@ -4367,20 +4367,20 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1590366,2026-10-10,2026-10-10T15:30:00+01:00,NS,968,Championnat D1,Gabon,2026,Regular Season - 1,Stade Migoveen,FC 105,27575,21190,,,,,,,,,,
 1590367,2026-10-10,2026-10-10T15:30:00+01:00,NS,968,Championnat D1,Gabon,2026,Regular Season - 1,US Oyem,Bitam,21193,21187,,,,,,,,,,
 1591333,2026-10-10,2026-10-10T17:00:00+01:00,NS,205,2. Lig,Turkey,2026,2. Lig White Group - 6,Aliağa FAŞ,Menemen FK,21993,3599,,,,,,,,,,
-1591334,2026-10-10,2026-10-10T13:00:00+01:00,NS,205,2. Lig,Turkey,2026,2. Lig White Group - 6,Ankaraspor,İnegöl Kafkas Gençlik,780,21996,,,,,,,,,,
-1591335,2026-10-10,2026-10-10T13:30:00+01:00,NS,205,2. Lig,Turkey,2026,2. Lig White Group - 6,Arnavutköy Belediyespor,Isparta 32 Spor,15101,6523,,,,,,,,,,
-1591336,2026-10-10,2026-10-10T13:30:00+01:00,NS,205,2. Lig,Turkey,2026,2. Lig White Group - 6,Çorluspor 1947,Şanlıurfaspor,22451,3613,,,,,,,,,,
+1591334,2026-10-10,2026-10-10T13:00:00+01:00,1H,205,2. Lig,Turkey,2026,2. Lig White Group - 6,Ankaraspor,İnegöl Kafkas Gençlik,780,21996,,,0,0,,,,,0,0
+1591335,2026-10-10,2026-10-10T13:30:00+01:00,1H,205,2. Lig,Turkey,2026,2. Lig White Group - 6,Arnavutköy Belediyespor,Isparta 32 Spor,15101,6523,,,0,0,,,,,0,0
+1591336,2026-10-10,2026-10-10T13:30:00+01:00,1H,205,2. Lig,Turkey,2026,2. Lig White Group - 6,Çorluspor 1947,Şanlıurfaspor,22451,3613,,,0,0,,,,,0,0
 1591339,2026-10-10,2026-10-10T17:00:00+01:00,NS,205,2. Lig,Turkey,2026,2. Lig White Group - 6,Muş Sport Klübü,Kastamonuspor,6536,3594,,,,,,,,,,
-1591340,2026-10-10,2026-10-10T12:30:00+01:00,NS,205,2. Lig,Turkey,2026,2. Lig White Group - 6,Sebat Gençlikspor,68 Aksaray Belediyespor,22010,6507,,,,,,,,,,
-1591633,2026-10-10,2026-10-10T12:30:00+01:00,NS,205,2. Lig,Turkey,2026,2. Lig Red Group - 6,12 Bingölspor, Kahramanmaraş İstiklal Spor,6504,24601,,,,,,,,,,
-1591636,2026-10-10,2026-10-10T13:00:00+01:00,NS,205,2. Lig,Turkey,2026,2. Lig Red Group - 6,Ankara Demirspor,Kütahyaspor,3581,11092,,,,,,,,,,
-1592019,2026-10-10,2026-10-10T11:00:00+01:00,HT,1041,Júniores U19,Portugal,2026,Regular Season - 7,Sporting Braga U19,Porto U19,22375,7922,,,0,4,,,,,0,4
+1591340,2026-10-10,2026-10-10T12:30:00+01:00,2H,205,2. Lig,Turkey,2026,2. Lig White Group - 6,Sebat Gençlikspor,68 Aksaray Belediyespor,22010,6507,,,1,1,,,,,1,1
+1591633,2026-10-10,2026-10-10T12:30:00+01:00,2H,205,2. Lig,Turkey,2026,2. Lig Red Group - 6,12 Bingölspor, Kahramanmaraş İstiklal Spor,6504,24601,,,1,1,,,,,1,1
+1591636,2026-10-10,2026-10-10T13:00:00+01:00,1H,205,2. Lig,Turkey,2026,2. Lig Red Group - 6,Ankara Demirspor,Kütahyaspor,3581,11092,,,2,1,,,,,2,1
+1592019,2026-10-10,2026-10-10T11:00:00+01:00,FT,1041,Júniores U19,Portugal,2026,Regular Season - 7,Sporting Braga U19,Porto U19,22375,7922,2,4,0,4,,,,,2,4
 1592020,2026-10-10,2026-10-10T15:00:00+01:00,NS,1041,Júniores U19,Portugal,2026,Regular Season - 7,Casa Pia U19,SC Farense U19,24442,22518,,,,,,,,,,
 1592021,2026-10-10,2026-10-10T15:00:00+01:00,NS,1041,Júniores U19,Portugal,2026,Regular Season - 7,Famalicão U19,Rio Ave U19,22394,22517,,,,,,,,,,
 1592022,2026-10-10,2026-10-10T15:00:00+01:00,NS,1041,Júniores U19,Portugal,2026,Regular Season - 7,Feirense U19,Vizela U19,24443,22522,,,,,,,,,,
 1592023,2026-10-10,2026-10-10T15:00:00+01:00,NS,1041,Júniores U19,Portugal,2026,Regular Season - 7,Gil Vicente U19,Vitoria Guimaraes U19,22512,22520,,,,,,,,,,
 1592024,2026-10-10,2026-10-10T15:00:00+01:00,NS,1041,Júniores U19,Portugal,2026,Regular Season - 7,União Leiria U19,Alverca U19,26302,22506,,,,,,,,,,
-1592025,2026-10-10,2026-10-10T11:00:00+01:00,2H,1041,Júniores U19,Portugal,2026,Regular Season - 7,Sporting CP U19,Mafra U19,7997,24444,,,0,0,,,,,0,0
+1592025,2026-10-10,2026-10-10T11:00:00+01:00,FT,1041,Júniores U19,Portugal,2026,Regular Season - 7,Sporting CP U19,Mafra U19,7997,24444,1,1,0,0,,,,,1,1
 1592131,2026-10-10,2026-10-10T15:00:00+01:00,NS,1041,Júniores U19,Portugal,2026,Regular Season - 7,Oriental U19,Torreense U19,28000,22519,,,,,,,,,,
 1592249,2026-10-10,2026-10-10T13:30:00+01:00,NS,747,Oberliga - Westfalen,Germany,2026,Westfalen - 10,ASC Dortmund,Gievenbeck,12726,14693,,,,,,,,,,
 1592544,2026-10-10,2026-10-10T16:30:00+01:00,NS,751,Oberliga - Niederrhein,Germany,2026,Niederrhein - 9,SW Essen,Germania Ratingen,14523,14689,,,,,,,,,,
@@ -4388,46 +4388,46 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1592872,2026-10-10,2026-10-10T16:00:00+01:00,NS,1200,Liga MX U21,Mexico,2026,Regular Season - 11,Atlas U21,Guadalajara Chivas U21,26828,26833,,,,,,,,,,
 1592873,2026-10-10,2026-10-10T16:00:00+01:00,NS,1200,Liga MX U21,Mexico,2026,Regular Season - 11,Club America U21,Monterrey U21,26829,26836,,,,,,,,,,
 1592874,2026-10-10,2026-10-10T16:00:00+01:00,NS,1200,Liga MX U21,Mexico,2026,Regular Season - 11,Juarez U21,Club Tijuana U21,26834,26831,,,,,,,,,,
-1593038,2026-10-10,2026-10-10T11:00:00+01:00,2H,336,Druha Liga,Ukraine,2026,Regular Season - 10,Podillya Khmelnytskyi,Bratslav Vinnytsia,6495,28006,,,0,2,,,,,0,2
+1593038,2026-10-10,2026-10-10T11:00:00+01:00,FT,336,Druha Liga,Ukraine,2026,Regular Season - 10,Podillya Khmelnytskyi,Bratslav Vinnytsia,6495,28006,1,5,0,2,,,,,1,5
 1593039,2026-10-10,2026-10-10T10:00:00+01:00,PST,336,Druha Liga,Ukraine,2026,Regular Season - 10,Rebel,Atlet,26190,26187,,,,,,,,,,
 1593324,2026-10-10,2026-10-10T17:30:00+01:00,NS,197,Super League 1,Greece,2026,Regular Season - 6,AEK Athens FC,OFI,575,1124,,,,,,,,,,
 1593326,2026-10-10,2026-10-10T17:30:00+01:00,NS,197,Super League 1,Greece,2026,Regular Season - 6,Asteras Tripolis,Atromitos,955,12260,,,,,,,,,,
-1593916,2026-10-10,2026-10-10T12:00:00+01:00,1H,633,NB III - Northeast,Hungary,2026,Northeast - 11,Füzesabony,Eger,24493,5089,,,0,0,,,,,0,0
-1593917,2026-10-10,2026-10-10T12:00:00+01:00,NS,633,NB III - Northeast,Hungary,2026,Northeast - 11,Gödöllő,Tiszafuredi VSE,11701,5147,,,,,,,,,,
-1593918,2026-10-10,2026-10-10T12:00:00+01:00,1H,633,NB III - Northeast,Hungary,2026,Northeast - 11,Mátészalka,Cigand SE,11760,2419,,,0,0,,,,,0,0
+1593916,2026-10-10,2026-10-10T12:00:00+01:00,2H,633,NB III - Northeast,Hungary,2026,Northeast - 11,Füzesabony,Eger,24493,5089,,,1,1,,,,,1,1
+1593917,2026-10-10,2026-10-10T12:00:00+01:00,2H,633,NB III - Northeast,Hungary,2026,Northeast - 11,Gödöllő,Tiszafuredi VSE,11701,5147,,,0,0,,,,,1,0
+1593918,2026-10-10,2026-10-10T12:00:00+01:00,2H,633,NB III - Northeast,Hungary,2026,Northeast - 11,Mátészalka,Cigand SE,11760,2419,,,0,0,,,,,0,0
 1593923,2026-10-10,2026-10-10T12:00:00+01:00,NS,633,NB III - Northeast,Hungary,2026,Northeast - 11,Salgótarjáni BTC,DEAC,5134,5082,,,,,,,,,,
-1594156,2026-10-10,2026-10-10T13:00:00+01:00,NS,635,NB III - Northwest,Hungary,2026,Northwest - 11,Bicskei,Pápai Perutz,7536,5129,,,,,,,,,,
+1594156,2026-10-10,2026-10-10T13:00:00+01:00,HT,635,NB III - Northwest,Hungary,2026,Northwest - 11,Bicskei,Pápai Perutz,7536,5129,,,1,0,,,,,1,0
 1594161,2026-10-10,2026-10-10T12:00:00+01:00,NS,635,NB III - Northwest,Hungary,2026,Northwest - 11,Sárisápi Bányász,1908 SZAC,5140,5068,,,,,,,,,,
-1594162,2026-10-10,2026-10-10T12:00:00+01:00,1H,635,NB III - Northwest,Hungary,2026,Northwest - 11,SC Sopron,Komárom,7557,5113,,,0,0,,,,,0,0
-1594163,2026-10-10,2026-10-10T12:00:00+01:00,1H,635,NB III - Northwest,Hungary,2026,Northwest - 11,Tatabánya,Zalaegerszegi TE II,5145,11859,,,0,0,,,,,0,0
-1594396,2026-10-10,2026-10-10T12:00:00+01:00,1H,1023,NB III - Southeast,Hungary,2026,Southeast - 11,Csepel,Szegedi VSE,5081,7561,,,0,0,,,,,0,0
-1594397,2026-10-10,2026-10-10T12:00:00+01:00,1H,1023,NB III - Southeast,Hungary,2026,Southeast - 11,III. Kerületi TUE,Szolnoki MAV FC,5102,2416,,,0,0,,,,,0,0
-1594398,2026-10-10,2026-10-10T12:00:00+01:00,1H,1023,NB III - Southeast,Hungary,2026,Southeast - 11,Monori Se,Bekescsaba 1912,2411,2406,,,0,0,,,,,0,0
+1594162,2026-10-10,2026-10-10T12:00:00+01:00,2H,635,NB III - Northwest,Hungary,2026,Northwest - 11,SC Sopron,Komárom,7557,5113,,,0,0,,,,,3,0
+1594163,2026-10-10,2026-10-10T12:00:00+01:00,2H,635,NB III - Northwest,Hungary,2026,Northwest - 11,Tatabánya,Zalaegerszegi TE II,5145,11859,,,1,0,,,,,3,0
+1594396,2026-10-10,2026-10-10T12:00:00+01:00,2H,1023,NB III - Southeast,Hungary,2026,Southeast - 11,Csepel,Szegedi VSE,5081,7561,,,0,1,,,,,1,1
+1594397,2026-10-10,2026-10-10T12:00:00+01:00,FT,1023,NB III - Southeast,Hungary,2026,Southeast - 11,III. Kerületi TUE,Szolnoki MAV FC,5102,2416,1,1,1,0,,,,,1,1
+1594398,2026-10-10,2026-10-10T12:00:00+01:00,2H,1023,NB III - Southeast,Hungary,2026,Southeast - 11,Monori Se,Bekescsaba 1912,2411,2406,,,0,0,,,,,0,2
 1594401,2026-10-10,2026-10-10T10:00:00+01:00,FT,1023,NB III - Southeast,Hungary,2026,Southeast - 11,Gyulai Termál,Újpest II,11729,11860,2,1,0,0,,,,,2,1
 1594402,2026-10-10,2026-10-10T12:00:00+01:00,NS,1023,NB III - Southeast,Hungary,2026,Southeast - 11,Hódmezővásárhely,Dabas,5101,5083,,,,,,,,,,
 1594403,2026-10-10,2026-10-10T12:00:00+01:00,NS,1023,NB III - Southeast,Hungary,2026,Southeast - 11,Sándorfalva,Vasas II,24505,19462,,,,,,,,,,
-1594636,2026-10-10,2026-10-10T12:00:00+01:00,1H,634,NB III - Southwest,Hungary,2026,Southwest - 11,Budafoki LC,Majosi,2399,11784,,,1,0,,,,,1,0
+1594636,2026-10-10,2026-10-10T12:00:00+01:00,2H,634,NB III - Southwest,Hungary,2026,Southwest - 11,Budafoki LC,Majosi,2399,11784,,,3,0,,,,,3,2
 1594637,2026-10-10,2026-10-10T12:00:00+01:00,NS,634,NB III - Southwest,Hungary,2026,Southwest - 11,Kaposvar,Iváncsa,2407,5104,,,,,,,,,,
 1594639,2026-10-10,2026-10-10T12:00:00+01:00,NS,634,NB III - Southwest,Hungary,2026,Southwest - 11,Szekszárd,Dunaharaszti MTK,5138,5085,,,,,,,,,,
 1594640,2026-10-10,2026-10-10T17:00:00+01:00,NS,634,NB III - Southwest,Hungary,2026,Southwest - 11,Budaörs,Paksi SE II,10162,11856,,,,,,,,,,
-1594642,2026-10-10,2026-10-10T12:00:00+01:00,1H,634,NB III - Southwest,Hungary,2026,Southwest - 11,PTE-PEAC,Ferencváros II,5127,11861,,,0,0,,,,,0,0
+1594642,2026-10-10,2026-10-10T12:00:00+01:00,2H,634,NB III - Southwest,Hungary,2026,Southwest - 11,PTE-PEAC,Ferencváros II,5127,11861,,,0,0,,,,,1,3
 1595254,2026-10-10,2026-10-10T14:30:00+01:00,NS,946,Second NL,Croatia,2026,Regular Season - 8,Dugo Selo,Bjelovar,8602,5705,,,,,,,,,,
 1595255,2026-10-10,2026-10-10T14:30:00+01:00,NS,946,Second NL,Croatia,2026,Regular Season - 8,Jarun,Varteks Varaždin,8605,8599,,,,,,,,,,
 1595257,2026-10-10,2026-10-10T14:30:00+01:00,NS,946,Second NL,Croatia,2026,Regular Season - 8,Lucko,Trnje,1477,8607,,,,,,,,,,
 1595260,2026-10-10,2026-10-10T14:30:00+01:00,NS,946,Second NL,Croatia,2026,Regular Season - 8,Zagora,Slavonija Požega,5731,6250,,,,,,,,,,
-1595659,2026-10-10,2026-10-10T10:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Arminia Bielefeld U19,Paderborn U19,10246,13956,,,,,,,,,,
+1595659,2026-10-10,2026-10-10T10:00:00+01:00,FT,488,U19 Bundesliga,Germany,2026,Preliminary,Arminia Bielefeld U19,Paderborn U19,10246,13956,3,1,0,0,,,,,3,1
 1595661,2026-10-10,2026-10-10T12:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Augsburg U19,Heidenheim U19,10247,10259,,,,,,,,,,
 1595662,2026-10-10,2026-10-10T12:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Bayern München U19,Jahn Regensburg U19,7887,24541,,,,,,,,,,
 1595663,2026-10-10,2026-10-10T12:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Eintracht Braunsch U19,Hallescher FC U19,13961,14030,,,,,,,,,,
-1595671,2026-10-10,2026-10-10T10:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Hansa Rostock U19,Magdeburg U19,15741,10267,,,,,,,,,,
-1595672,2026-10-10,2026-10-10T11:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Hertha BSC U19,Energie Cottbus U19,7954,10253,,,,,,,,,,
+1595671,2026-10-10,2026-10-10T10:00:00+01:00,FT,488,U19 Bundesliga,Germany,2026,Preliminary,Hansa Rostock U19,Magdeburg U19,15741,10267,3,4,1,1,,,,,3,4
+1595672,2026-10-10,2026-10-10T11:00:00+01:00,FT,488,U19 Bundesliga,Germany,2026,Preliminary,Hertha BSC U19,Energie Cottbus U19,7954,10253,1,2,0,1,,,,,1,2
 1595673,2026-10-10,2026-10-10T12:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Holstein Kiel U19,St. Pauli U19,10260,10272,,,,,,,,,,
-1595674,2026-10-10,2026-10-10T11:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Ingolstadt U19,1860 München U19,10261,13965,,,,,,,,,,
+1595674,2026-10-10,2026-10-10T11:00:00+01:00,FT,488,U19 Bundesliga,Germany,2026,Preliminary,Ingolstadt U19,1860 München U19,10261,13965,1,3,0,1,,,,,1,3
 1595676,2026-10-10,2026-10-10T12:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Karlsruher SC U19,Stuttgarter K'rs U19,10263,13959,,,,,,,,,,
 1595677,2026-10-10,2026-10-10T12:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Köln U19,Kaiserslautern U19,10265,10262,,,,,,,,,,
-1595678,2026-10-10,2026-10-10T10:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Bayer Leverkusen U19,Alemannia Aachen U19,7886,10245,,,,,,,,,,
+1595678,2026-10-10,2026-10-10T10:00:00+01:00,FT,488,U19 Bundesliga,Germany,2026,Preliminary,Bayer Leverkusen U19,Alemannia Aachen U19,7886,10245,3,1,2,1,,,,,3,1
 1595680,2026-10-10,2026-10-10T13:30:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,RB Leipzig U19,Nürnberg U19,7924,13954,,,,,,,,,,
-1595682,2026-10-10,2026-10-10T11:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Saarbrücken U19,Elversberg U19,14031,15740,,,,,,,,,,
+1595682,2026-10-10,2026-10-10T11:00:00+01:00,FT,488,U19 Bundesliga,Germany,2026,Preliminary,Saarbrücken U19,Elversberg U19,14031,15740,0,2,0,1,,,,,0,2
 1595684,2026-10-10,2026-10-10T12:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Havelse U19,Wolfsburg U19,13953,10278,,,,,,,,,,
 1595685,2026-10-10,2026-10-10T13:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Ulm U19,Sandhausen U19,10274,21734,,,,,,,,,,
 1595686,2026-10-10,2026-10-10T13:00:00+01:00,NS,488,U19 Bundesliga,Germany,2026,Preliminary,Unterhaching U19,SGV Freiberg Fussball U19,13963,27468,,,,,,,,,,
@@ -4476,16 +4476,16 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1597385,2026-10-10,2026-10-10T15:00:00+01:00,NS,60,Non League Premier - Southern South,England,2026,Regular Season - 11,Wimborne Town,Havant & Wville,7758,1843,,,,,,,,,,
 1597386,2026-10-10,2026-10-10T15:00:00+01:00,NS,60,Non League Premier - Southern South,England,2026,Regular Season - 11,Yate Town,Berkhamsted,7762,7214,,,,,,,,,,
 1597780,2026-10-10,2026-10-10T17:30:00+01:00,NS,865,Liga 3,Portugal,2026,Regular Season - 6,SC Covilha,Oliveirense,236,233,,,,,,,,,,
-1597781,2026-10-10,2026-10-10T11:00:00+01:00,HT,865,Liga 3,Portugal,2026,Regular Season - 6,Leça,AD Marco 09,4757,22089,,,1,0,,,,,1,0
+1597781,2026-10-10,2026-10-10T11:00:00+01:00,FT,865,Liga 3,Portugal,2026,Regular Season - 6,Leça,AD Marco 09,4757,22089,2,0,1,0,,,,,2,0
 1597785,2026-10-10,2026-10-10T15:00:00+01:00,NS,865,Liga 3,Portugal,2026,Regular Season - 6,Vianense,Paredes,4809,4778,,,,,,,,,,
 1597787,2026-10-10,2026-10-10T15:00:00+01:00,NS,865,Liga 3,Portugal,2026,Regular Season - 6,Vitória de Sernache,Louletano,4816,4758,,,,,,,,,,
 1597932,2026-10-10,2026-10-10T18:00:00+01:00,NS,305,Stars League,Qatar,2026,Regular Season - 5,Al Ahli Doha,Al-Sailiya,2896,2898,,,,,,,,,,
 1597934,2026-10-10,2026-10-10T15:45:00+01:00,NS,305,Stars League,Qatar,2026,Regular Season - 5,Al Shahaniya,Lusail City,2893,7527,,,,,,,,,,
 1597995,2026-10-10,2026-10-10T19:00:00+01:00,NS,1036,Copa Santa Catarina,Brazil,2026,Group Stage - 6,Figueirense,Hercílio Luz,137,7828,,,,,,,,,,
 1597997,2026-10-10,2026-10-10T21:00:00+01:00,NS,1036,Copa Santa Catarina,Brazil,2026,Group Stage - 6,Santa Catarina,Joinville,21207,795,,,,,,,,,,
-1598036,2026-10-10,2026-10-10T12:00:00+01:00,1H,296,Thai League 1,Thailand,2026,Regular Season - 4,BG Pathum United,Ayutthaya FC,2769,2803,,,0,0,,,,,0,0
-1598037,2026-10-10,2026-10-10T12:30:00+01:00,NS,296,Thai League 1,Thailand,2026,Regular Season - 4,Buriram United,Rayong FC,2780,2797,,,,,,,,,,
-1598039,2026-10-10,2026-10-10T13:00:00+01:00,NS,296,Thai League 1,Thailand,2026,Regular Season - 4,Uthai Thani,Rasi Salai United,10088,15282,,,,,,,,,,
+1598036,2026-10-10,2026-10-10T12:00:00+01:00,2H,296,Thai League 1,Thailand,2026,Regular Season - 4,BG Pathum United,Ayutthaya FC,2769,2803,,,0,1,,,,,1,1
+1598037,2026-10-10,2026-10-10T12:30:00+01:00,2H,296,Thai League 1,Thailand,2026,Regular Season - 4,Buriram United,Rayong FC,2780,2797,,,1,1,,,,,1,1
+1598039,2026-10-10,2026-10-10T13:00:00+01:00,1H,296,Thai League 1,Thailand,2026,Regular Season - 4,Uthai Thani,Rasi Salai United,10088,15282,,,2,0,,,,,2,0
 1598934,2026-10-10,2026-10-10T13:00:00+01:00,NS,752,Oberliga - Rheinland-Pfalz / Saar,Germany,2026,Rheinland-Pfalz/Saar - 12,Cosmos Koblenz,Gonsenheim,20395,12773,,,,,,,,,,
 1598935,2026-10-10,2026-10-10T13:00:00+01:00,NS,752,Oberliga - Rheinland-Pfalz / Saar,Germany,2026,Rheinland-Pfalz/Saar - 12,Pirmasens,Elversberg II,9365,16109,,,,,,,,,,
 1598936,2026-10-10,2026-10-10T13:00:00+01:00,NS,752,Oberliga - Rheinland-Pfalz / Saar,Germany,2026,Rheinland-Pfalz/Saar - 12,TuS RW Koblenz,Auersmacher,1657,14468,,,,,,,,,,
@@ -4495,11 +4495,11 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1598940,2026-10-10,2026-10-10T15:00:00+01:00,NS,752,Oberliga - Rheinland-Pfalz / Saar,Germany,2026,Rheinland-Pfalz/Saar - 12,Eisbachtal,Hertha Wiesbach,16108,12785,,,,,,,,,,
 1599128,2026-10-10,2026-10-10T14:30:00+01:00,NS,752,Oberliga - Rheinland-Pfalz / Saar,Germany,2026,Rheinland-Pfalz/Saar - 12,FV Engers 07,RW Wittlich,12767,28016,,,,,,,,,,
 1599246,2026-10-10,2026-10-10T09:30:00+01:00,FT,676,Central Youth League,Poland,2026,Regular Season - 10,Arka Gdynia U19,Stal Rzeszów U19,20587,24519,2,3,2,2,,,,,2,3
-1599247,2026-10-10,2026-10-10T12:30:00+01:00,NS,676,Central Youth League,Poland,2026,Regular Season - 10,Escola Varsovia U19,Wisła Kraków U19,20589,20595,,,,,,,,,,
+1599247,2026-10-10,2026-10-10T12:30:00+01:00,2H,676,Central Youth League,Poland,2026,Regular Season - 10,Escola Varsovia U19,Wisła Kraków U19,20589,20595,,,1,0,,,,,1,1
 1599249,2026-10-10,2026-10-10T10:00:00+01:00,FT,676,Central Youth League,Poland,2026,Regular Season - 10,Korona Kielce U19,Lech Poznań U19,7905,7958,2,2,1,2,,,,,2,2
-1599250,2026-10-10,2026-10-10T11:00:00+01:00,HT,676,Central Youth League,Poland,2026,Regular Season - 10,Legia Warszawa U19,Zagłębie Lubin U19,7987,20244,,,1,1,,,,,1,1
+1599250,2026-10-10,2026-10-10T11:00:00+01:00,FT,676,Central Youth League,Poland,2026,Regular Season - 10,Legia Warszawa U19,Zagłębie Lubin U19,7987,20244,3,3,1,1,,,,,3,3
 1599251,2026-10-10,2026-10-10T10:00:00+01:00,FT,676,Central Youth League,Poland,2026,Regular Season - 10,Raków Częstochowa U19,Arkonia U19,20594,26374,1,2,1,1,,,,,1,2
-1599252,2026-10-10,2026-10-10T13:00:00+01:00,NS,676,Central Youth League,Poland,2026,Regular Season - 10,Śląsk Wrocław U19,Polonia Warszawa U19,20596,20593,,,,,,,,,,
+1599252,2026-10-10,2026-10-10T13:00:00+01:00,1H,676,Central Youth League,Poland,2026,Regular Season - 10,Śląsk Wrocław U19,Polonia Warszawa U19,20596,20593,,,0,0,,,,,0,0
 1600255,2026-10-10,2026-10-10T22:30:00+01:00,NS,625,Carioca - 2,Brazil,2026,Regular Season - 6,Carapebus,Niteroiense,17737,23637,,,,,,,,,,
 1600256,2026-10-10,2026-10-10T19:00:00+01:00,NS,625,Carioca - 2,Brazil,2026,Regular Season - 6,Duque de Caxias,Audax Rio,12278,13107,,,,,,,,,,
 1600258,2026-10-10,2026-10-10T19:00:00+01:00,NS,625,Carioca - 2,Brazil,2026,Regular Season - 6,Nova Cidade,Campo Grande,13113,13087,,,,,,,,,,
@@ -4532,19 +4532,19 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1602154,2026-10-10,2026-10-10T16:00:00+01:00,NS,570,Premier League,Ghana,2026,Regular Season - 6,Swedru All Blacks,Asante Kotoko,21093,6411,,,,,,,,,,
 1602498,2026-10-10,2026-10-10T09:00:00+01:00,FT,284,Liga II,Romania,2026,Regular Season - 9,Cetatea Suceava,Dumbrăviţa,26674,7469,3,1,0,0,,,,,3,1
 1602499,2026-10-10,2026-10-10T09:00:00+01:00,FT,284,Liga II,Romania,2026,Regular Season - 9,Chindia Targoviste,Concordia,2586,2580,3,2,2,0,,,,,3,2
-1602501,2026-10-10,2026-10-10T11:00:00+01:00,2H,284,Liga II,Romania,2026,Regular Season - 9,CSM Reşiţa,Slatina,6229,6898,,,1,1,,,,,1,1
+1602501,2026-10-10,2026-10-10T11:00:00+01:00,FT,284,Liga II,Romania,2026,Regular Season - 9,CSM Reşiţa,Slatina,6229,6898,3,1,1,1,,,,,3,1
 1602503,2026-10-10,2026-10-10T09:00:00+01:00,FT,284,Liga II,Romania,2026,Regular Season - 9,Gloria Bistriţa,CSM Ramnicu Valcea,22824,2616,1,0,0,0,,,,,1,0
 1602504,2026-10-10,2026-10-10T09:00:00+01:00,FT,284,Liga II,Romania,2026,Regular Season - 9,Metaloglobus,Popești-Leordeni,2604,6891,0,3,0,1,,,,,0,3
 1602505,2026-10-10,2026-10-10T09:00:00+01:00,FT,284,Liga II,Romania,2026,Regular Season - 9,Metalul Buzău,ASA Targu Mures,6875,2590,1,0,0,0,,,,,1,0
 1602507,2026-10-10,2026-10-10T09:00:00+01:00,FT,284,Liga II,Romania,2026,Regular Season - 9,Viitorul Şelimbăr,Unirea Slobozia,6927,6916,0,1,0,1,,,,,0,1
-1602683,2026-10-10,2026-10-10T12:00:00+01:00,1H,297,Thai League 2,Thailand,2026,Regular Season - 5,Nakhon Pathom,Muangthong United,6578,2786,,,0,0,,,,,0,0
-1602684,2026-10-10,2026-10-10T12:30:00+01:00,NS,297,Thai League 2,Thailand,2026,Regular Season - 5,Police Tero,Nakhon Ratchasima FC,2775,2773,,,,,,,,,,
-1602685,2026-10-10,2026-10-10T13:00:00+01:00,NS,297,Thai League 2,Thailand,2026,Regular Season - 5,Muang Loei United,Esan Pattaya,6573,13309,,,,,,,,,,
-1602686,2026-10-10,2026-10-10T13:30:00+01:00,NS,297,Thai League 2,Thailand,2026,Regular Season - 5,Chiangmai United,Kasetsart FC,2863,2800,,,,,,,,,,
+1602683,2026-10-10,2026-10-10T12:00:00+01:00,2H,297,Thai League 2,Thailand,2026,Regular Season - 5,Nakhon Pathom,Muangthong United,6578,2786,,,0,0,,,,,1,0
+1602684,2026-10-10,2026-10-10T12:30:00+01:00,2H,297,Thai League 2,Thailand,2026,Regular Season - 5,Police Tero,Nakhon Ratchasima FC,2775,2773,,,1,0,,,,,1,0
+1602685,2026-10-10,2026-10-10T13:00:00+01:00,1H,297,Thai League 2,Thailand,2026,Regular Season - 5,Muang Loei United,Esan Pattaya,6573,13309,,,0,0,,,,,0,0
+1602686,2026-10-10,2026-10-10T13:30:00+01:00,1H,297,Thai League 2,Thailand,2026,Regular Season - 5,Chiangmai United,Kasetsart FC,2863,2800,,,0,0,,,,,0,0
 1603036,2026-10-10,2026-10-10T15:55:00+01:00,NS,307,Pro League,Saudi-Arabia,2026,Regular Season - 8,Al-Ettifaq,Al Khaleej Saihat,2934,2928,,,,,,,,,,
 1603039,2026-10-10,2026-10-10T14:50:00+01:00,NS,307,Pro League,Saudi-Arabia,2026,Regular Season - 8,Al-Hazm,NEOM,2945,10513,,,,,,,,,,
 1603040,2026-10-10,2026-10-10T19:00:00+01:00,NS,307,Pro League,Saudi-Arabia,2026,Regular Season - 8,Al-Hilal Saudi FC,Al-Ittihad FC,2932,2938,,,,,,,,,,
-1603467,2026-10-10,2026-10-10T12:30:00+01:00,NS,368,Premier League,Singapore,2026,Regular Season - 3,Geylang International,Albirex Niigata S,4203,4200,,,,,,,,,,
+1603467,2026-10-10,2026-10-10T12:30:00+01:00,2H,368,Premier League,Singapore,2026,Regular Season - 3,Geylang International,Albirex Niigata S,4203,4200,,,1,1,,,,,1,1
 1603574,2026-10-10,2026-10-10T17:00:00+01:00,NS,318,1. Division,Cyprus,2026,Regular Season - 5,Apoel Nicosia,Nea Salamis,2247,3401,,,,,,,,,,
 1603576,2026-10-10,2026-10-10T16:00:00+01:00,NS,318,1. Division,Cyprus,2026,Regular Season - 5,Krasava Ypsonas,Apollon Limassol,3424,602,,,,,,,,,,
 1603815,2026-10-10,2026-10-10T14:00:00+01:00,NS,178,Third League - Southwest,Bulgaria,2026,Southwest - 11,Balkan Botevgrad,CSKA Sofia III,6389,24521,,,,,,,,,,
@@ -4601,21 +4601,21 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1608313,2026-10-10,2026-10-10T16:30:00+01:00,NS,138,Serie C - Girone A,Italy,2026,Girone A - 9,Desenzano Calvina,Dolomiti Bellunesi,17816,17820,,,,,,,,,,
 1608315,2026-10-10,2026-10-10T16:30:00+01:00,NS,138,Serie C - Girone A,Italy,2026,Girone A - 9,Lumezzane,Albinoleffe,1689,879,,,,,,,,,,
 1608316,2026-10-10,2026-10-10T16:30:00+01:00,NS,138,Serie C - Girone A,Italy,2026,Girone A - 9,Novara,Cittadella,513,510,,,,,,,,,,
-1608317,2026-10-10,2026-10-10T13:30:00+01:00,NS,138,Serie C - Girone A,Italy,2026,Girone A - 9,Pergolettese,Athletic Carpi,6380,17825,,,,,,,,,,
+1608317,2026-10-10,2026-10-10T13:30:00+01:00,1H,138,Serie C - Girone A,Italy,2026,Girone A - 9,Pergolettese,Athletic Carpi,6380,17825,,,0,0,,,,,0,0
 1608692,2026-10-10,2026-10-10T16:30:00+01:00,NS,942,Serie C - Girone B,Italy,2026,Girone B - 9,Ostia Mare,Pianese,9530,6381,,,,,,,,,,
 1608695,2026-10-10,2026-10-10T16:30:00+01:00,NS,942,Serie C - Girone B,Italy,2026,Girone B - 9,Pineto,Reggiana,9514,880,,,,,,,,,,
 1608698,2026-10-10,2026-10-10T19:30:00+01:00,NS,942,Serie C - Girone B,Italy,2026,Girone B - 9,Spezia,Gubbio,515,866,,,,,,,,,,
-1608700,2026-10-10,2026-10-10T13:30:00+01:00,NS,942,Serie C - Girone B,Italy,2026,Girone B - 9,Vis Pesaro,Grosseto,1708,9499,,,,,,,,,,
-1609072,2026-10-10,2026-10-10T13:30:00+01:00,NS,943,Serie C - Girone C,Italy,2026,Girone C - 9,Bari,Giugliano,508,9556,,,,,,,,,,
-1609075,2026-10-10,2026-10-10T13:30:00+01:00,NS,943,Serie C - Girone C,Italy,2026,Girone C - 9,Casertana,SS Monopoli,885,10138,,,,,,,,,,
-1609076,2026-10-10,2026-10-10T13:30:00+01:00,NS,943,Serie C - Girone C,Italy,2026,Girone C - 9,Crotone,Audace Cerignola,501,9539,,,,,,,,,,
-1609079,2026-10-10,2026-10-10T13:30:00+01:00,NS,943,Serie C - Girone C,Italy,2026,Girone C - 9,Savoia,Inter U23,9564,26355,,,,,,,,,,
+1608700,2026-10-10,2026-10-10T13:30:00+01:00,1H,942,Serie C - Girone B,Italy,2026,Girone B - 9,Vis Pesaro,Grosseto,1708,9499,,,0,1,,,,,0,1
+1609072,2026-10-10,2026-10-10T13:30:00+01:00,1H,943,Serie C - Girone C,Italy,2026,Girone C - 9,Bari,Giugliano,508,9556,,,1,0,,,,,1,0
+1609075,2026-10-10,2026-10-10T13:30:00+01:00,1H,943,Serie C - Girone C,Italy,2026,Girone C - 9,Casertana,SS Monopoli,885,10138,,,0,0,,,,,0,0
+1609076,2026-10-10,2026-10-10T13:30:00+01:00,1H,943,Serie C - Girone C,Italy,2026,Girone C - 9,Crotone,Audace Cerignola,501,9539,,,0,0,,,,,0,0
+1609079,2026-10-10,2026-10-10T13:30:00+01:00,1H,943,Serie C - Girone C,Italy,2026,Girone C - 9,Savoia,Inter U23,9564,26355,,,1,0,,,,,1,0
 1609517,2026-10-10,2026-10-10T13:30:00+01:00,NS,319,2. Division,Cyprus,2026,Regular Season - 3,Anagennisi Deryneia,Digenis Morphou,3407,3423,,,,,,,,,,
-1609518,2026-10-10,2026-10-10T13:30:00+01:00,NS,319,2. Division,Cyprus,2026,Regular Season - 3,APEA,Spartakos Kitiou,3420,22127,,,,,,,,,,
-1609519,2026-10-10,2026-10-10T13:30:00+01:00,NS,319,2. Division,Cyprus,2026,Regular Season - 3,ASIL Lysi,Iraklis Yerolakkou,3405,6405,,,,,,,,,,
+1609518,2026-10-10,2026-10-10T13:30:00+01:00,1H,319,2. Division,Cyprus,2026,Regular Season - 3,APEA,Spartakos Kitiou,3420,22127,,,0,0,,,,,0,0
+1609519,2026-10-10,2026-10-10T13:30:00+01:00,1H,319,2. Division,Cyprus,2026,Regular Season - 3,ASIL Lysi,Iraklis Yerolakkou,3405,6405,,,0,0,,,,,0,0
 1609520,2026-10-10,2026-10-10T13:30:00+01:00,NS,319,2. Division,Cyprus,2026,Regular Season - 3,Ayia Napa,Enosis,3409,3399,,,,,,,,,,
-1609521,2026-10-10,2026-10-10T13:30:00+01:00,NS,319,2. Division,Cyprus,2026,Regular Season - 3,Halkanoras,Doxa,3429,3398,,,,,,,,,,
-1609522,2026-10-10,2026-10-10T13:30:00+01:00,NS,319,2. Division,Cyprus,2026,Regular Season - 3,MEAP Nisou,Ethnikos Achna,3414,3412,,,,,,,,,,
+1609521,2026-10-10,2026-10-10T13:30:00+01:00,1H,319,2. Division,Cyprus,2026,Regular Season - 3,Halkanoras,Doxa,3429,3398,,,0,1,,,,,0,1
+1609522,2026-10-10,2026-10-10T13:30:00+01:00,1H,319,2. Division,Cyprus,2026,Regular Season - 3,MEAP Nisou,Ethnikos Achna,3414,3412,,,0,1,,,,,0,1
 1609523,2026-10-10,2026-10-10T17:00:00+01:00,NS,319,2. Division,Cyprus,2026,Regular Season - 3,PAEEK,Akritas,3419,3406,,,,,,,,,,
 1609610,2026-10-10,2026-10-10T13:30:00+01:00,NS,319,2. Division,Cyprus,2026,Regular Season - 3,Polemidion,Ermis,28054,3400,,,,,,,,,,
 1609689,2026-10-10,2026-10-10T15:00:00+01:00,NS,601,1. Liga Classic - Group 3,Switzerland,2026,Group 3 - 10,Dietikon,Mendrisio,12712,16354,,,,,,,,,,
@@ -4665,13 +4665,13 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1613367,2026-10-10,2026-10-10T17:00:00+01:00,NS,441,Tercera División RFEF - Group 3,Spain,2026,Group 3 - 6,Sámano,Velarde,9648,20451,,,,,,,,,,
 1613368,2026-10-10,2026-10-10T17:00:00+01:00,NS,441,Tercera División RFEF - Group 3,Spain,2026,Group 3 - 6,Vimenor,Laredo,9652,9394,,,,,,,,,,
 1613666,2026-10-10,2026-10-10T15:30:00+01:00,NS,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 6,Beasain,Lagun Onak,9657,9660,,,,,,,,,,
-1613667,2026-10-10,2026-10-10T11:00:00+01:00,2H,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 6,Durango,Derio,5260,22135,,,0,1,,,,,1,1
+1613667,2026-10-10,2026-10-10T11:00:00+01:00,FT,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 6,Durango,Derio,5260,22135,1,1,0,1,,,,,1,1
 1613668,2026-10-10,2026-10-10T16:00:00+01:00,NS,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 6,Erandio,Deportivo Alavés III,28099,22134,,,,,,,,,,
 1613669,2026-10-10,2026-10-10T17:00:00+01:00,NS,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 6,Leioa,Aurrerá Vitoria,9397,20259,,,,,,,,,,
 1613670,2026-10-10,2026-10-10T16:30:00+01:00,NS,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 6,Real Sociedad III,Amurrio Club,9662,17315,,,,,,,,,,
-1613671,2026-10-10,2026-10-10T11:00:00+01:00,2H,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 6,San Ignacio,Eibar III,9663,25023,,,1,1,,,,,1,1
+1613671,2026-10-10,2026-10-10T11:00:00+01:00,FT,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 6,San Ignacio,Eibar III,9663,25023,2,1,1,1,,,,,2,1
 1613672,2026-10-10,2026-10-10T16:00:00+01:00,NS,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 6,Santurtzi,R. Union B,9664,28100,,,,,,,,,,
-1613673,2026-10-10,2026-10-10T10:30:00+01:00,2H,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 6,Sodupe,Touring,9666,20261,,,0,0,,,,,1,0
+1613673,2026-10-10,2026-10-10T10:30:00+01:00,FT,442,Tercera División RFEF - Group 4,Spain,2026,Group 4 - 6,Sodupe,Touring,9666,20261,1,0,0,0,,,,,1,0
 1613974,2026-10-10,2026-10-10T17:00:00+01:00,NS,443,Tercera División RFEF - Group 5,Spain,2026,Group 5 - 6,L'Escala,Vilassar Mar,17528,9683,,,,,,,,,,
 1613980,2026-10-10,2026-10-10T19:00:00+01:00,NS,443,Tercera División RFEF - Group 5,Spain,2026,Group 5 - 6,San Juan Atletico de Montcada,Atlètic Lleida,28102,24574,,,,,,,,,,
 1614278,2026-10-10,2026-10-10T16:00:00+01:00,NS,444,Tercera División RFEF - Group 6,Spain,2026,Group 6 - 6,Atzeneta,Acero,9688,9685,,,,,,,,,,
@@ -4692,10 +4692,10 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1615808,2026-10-10,2026-10-10T15:00:00+01:00,NS,449,Tercera División RFEF - Group 11,Spain,2026,Group 11 - 6,Alcúdia,Mercadal,9773,17599,,,,,,,,,,
 1615809,2026-10-10,2026-10-10T16:00:00+01:00,NS,449,Tercera División RFEF - Group 11,Spain,2026,Group 11 - 6,Andratx,Binissalem,8151,9774,,,,,,,,,,
 1615810,2026-10-10,2026-10-10T16:00:00+01:00,NS,449,Tercera División RFEF - Group 11,Spain,2026,Group 11 - 6,Arenal,PE Sant Jordi,22147,15313,,,,,,,,,,
-1615811,2026-10-10,2026-10-10T11:00:00+01:00,2H,449,Tercera División RFEF - Group 11,Spain,2026,Group 11 - 6,Constància,Porreres,9776,24580,,,1,0,,,,,1,0
+1615811,2026-10-10,2026-10-10T11:00:00+01:00,FT,449,Tercera División RFEF - Group 11,Spain,2026,Group 11 - 6,Constància,Porreres,9776,24580,1,0,1,0,,,,,1,0
 1615813,2026-10-10,2026-10-10T16:00:00+01:00,NS,449,Tercera División RFEF - Group 11,Spain,2026,Group 11 - 6,Inter Ibiza,Ibiza Islas Pitiusas,17598,9781,,,,,,,,,,
 1615816,2026-10-10,2026-10-10T17:30:00+01:00,NS,449,Tercera División RFEF - Group 11,Spain,2026,Group 11 - 6,Sineu,Platges Calvià,28112,9785,,,,,,,,,,
-1616115,2026-10-10,2026-10-10T11:00:00+01:00,HT,450,Tercera División RFEF - Group 12,Spain,2026,Group 12 - 6,Estrella,Los Llanos,20275,24611,,,0,0,,,,,0,0
+1616115,2026-10-10,2026-10-10T11:00:00+01:00,FT,450,Tercera División RFEF - Group 12,Spain,2026,Group 12 - 6,Estrella,Los Llanos,20275,24611,1,0,0,0,,,,,1,0
 1616116,2026-10-10,2026-10-10T17:00:00+01:00,NS,450,Tercera División RFEF - Group 12,Spain,2026,Group 12 - 6,Laguna de Duero,Panadería Pulido,22143,9800,,,,,,,,,,
 1616119,2026-10-10,2026-10-10T15:30:00+01:00,NS,450,Tercera División RFEF - Group 12,Spain,2026,Group 12 - 6,Tenerife C,Villaverde Norte,26851,28114,,,,,,,,,,
 1616120,2026-10-10,2026-10-10T13:00:00+01:00,NS,450,Tercera División RFEF - Group 12,Spain,2026,Group 12 - 6,Playas Sotavento,Real Unión de Tenerife,25036,20375,,,,,,,,,,
@@ -4704,19 +4704,19 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1616421,2026-10-10,2026-10-10T17:00:00+01:00,NS,451,Tercera División RFEF - Group 13,Spain,2026,Group 13 - 6,Bullas Deportivo,Cartagena LU II,28115,17715,,,,,,,,,,
 1616424,2026-10-10,2026-10-10T16:00:00+01:00,NS,451,Tercera División RFEF - Group 13,Spain,2026,Group 13 - 6,Unión Molinense,Alcantarilla,20278,20276,,,,,,,,,,
 1616425,2026-10-10,2026-10-10T16:00:00+01:00,NS,451,Tercera División RFEF - Group 13,Spain,2026,Group 13 - 6,Santa Cruz,Cotillas CD,26850,28418,,,,,,,,,,
-1616426,2026-10-10,2026-10-10T10:30:00+01:00,2H,451,Tercera División RFEF - Group 13,Spain,2026,Group 13 - 6,Santomera,Balsicas Atlético,24655,22180,,,1,0,,,,,2,0
+1616426,2026-10-10,2026-10-10T10:30:00+01:00,FT,451,Tercera División RFEF - Group 13,Spain,2026,Group 13 - 6,Santomera,Balsicas Atlético,24655,22180,3,0,1,0,,,,,3,0
 1617032,2026-10-10,2026-10-10T15:30:00+01:00,NS,453,Tercera División RFEF - Group 15,Spain,2026,Group 15 - 6,Aoiz,Avance Ezcabarte,26553,17609,,,,,,,,,,
 1617036,2026-10-10,2026-10-10T15:30:00+01:00,NS,453,Tercera División RFEF - Group 15,Spain,2026,Group 15 - 6,Mutilvera,San Juan,5270,9855,,,,,,,,,,
 1617039,2026-10-10,2026-10-10T15:30:00+01:00,NS,453,Tercera División RFEF - Group 15,Spain,2026,Group 15 - 6,Izarra,Pamplona,9583,9854,,,,,,,,,,
-1617338,2026-10-10,2026-10-10T11:00:00+01:00,2H,454,Tercera División RFEF - Group 16,Spain,2026,Group 16 - 6,Anguiano,Yagüe,9861,9876,,,0,0,,,,,0,0
+1617338,2026-10-10,2026-10-10T11:00:00+01:00,FT,454,Tercera División RFEF - Group 16,Spain,2026,Group 16 - 6,Anguiano,Yagüe,9861,9876,3,0,0,0,,,,,3,0
 1617343,2026-10-10,2026-10-10T16:00:00+01:00,NS,454,Tercera División RFEF - Group 16,Spain,2026,Group 16 - 6,Comillas,Oyonesa,8154,9869,,,,,,,,,,
 1617644,2026-10-10,2026-10-10T15:30:00+01:00,NS,455,Tercera División RFEF - Group 17,Spain,2026,Group 17 - 6,Belchite 97,Andorra CF,9880,17498,,,,,,,,,,
 1617645,2026-10-10,2026-10-10T17:00:00+01:00,NS,455,Tercera División RFEF - Group 17,Spain,2026,Group 17 - 6,Fraga,Binéfar,8158,9881,,,,,,,,,,
 1617646,2026-10-10,2026-10-10T15:00:00+01:00,NS,455,Tercera División RFEF - Group 17,Spain,2026,Group 17 - 6,Brea,La Almunia,9883,20287,,,,,,,,,,
 1617647,2026-10-10,2026-10-10T15:30:00+01:00,NS,455,Tercera División RFEF - Group 17,Spain,2026,Group 17 - 6,Illueca,CD Sietamo,9391,28122,,,,,,,,,,
-1617648,2026-10-10,2026-10-10T11:00:00+01:00,2H,455,Tercera División RFEF - Group 17,Spain,2026,Group 17 - 6,Cuarte,Caspe,9886,17615,,,0,1,,,,,0,1
+1617648,2026-10-10,2026-10-10T11:00:00+01:00,FT,455,Tercera División RFEF - Group 17,Spain,2026,Group 17 - 6,Cuarte,Caspe,9886,17615,2,2,0,1,,,,,2,2
 1617649,2026-10-10,2026-10-10T17:00:00+01:00,NS,455,Tercera División RFEF - Group 17,Spain,2026,Group 17 - 6,Ejea,CDJ Tamarite,9589,9884,,,,,,,,,,
-1617650,2026-10-10,2026-10-10T11:00:00+01:00,HT,455,Tercera División RFEF - Group 17,Spain,2026,Group 17 - 6,Épila,Robres,15329,9888,,,0,0,,,,,0,0
+1617650,2026-10-10,2026-10-10T11:00:00+01:00,FT,455,Tercera División RFEF - Group 17,Spain,2026,Group 17 - 6,Épila,Robres,15329,9888,0,0,0,0,,,,,0,0
 1617651,2026-10-10,2026-10-10T15:00:00+01:00,NS,455,Tercera División RFEF - Group 17,Spain,2026,Group 17 - 6,Huesca II,Almudévar,15327,9877,,,,,,,,,,
 1617950,2026-10-10,2026-10-10T16:00:00+01:00,NS,456,Tercera División RFEF - Group 18,Spain,2026,Group 18 - 6,Almansa,Marchamalo,9896,15332,,,,,,,,,,
 1617952,2026-10-10,2026-10-10T15:00:00+01:00,NS,456,Tercera División RFEF - Group 18,Spain,2026,Group 18 - 6,Guadalajara II,Quintanar del Rey,26555,9906,,,,,,,,,,
@@ -4762,13 +4762,13 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1620682,2026-10-10,2026-10-10T16:00:00+01:00,NS,415,Championnat National,Benin,2026,Regular Season - 3,Bani Gansè,Loto Popo,20668,18114,,,,,,,,,,
 1620683,2026-10-10,2026-10-10T16:00:00+01:00,NS,415,Championnat National,Benin,2026,Regular Season - 3,Cavaliers,Kraké,16420,25025,,,,,,,,,,
 1620684,2026-10-10,2026-10-10T16:00:00+01:00,NS,415,Championnat National,Benin,2026,Regular Season - 3,Dragons,Panthères,5459,5465,,,,,,,,,,
-1621044,2026-10-10,2026-10-10T13:00:00+01:00,NS,702,Premier League 2 Division One,England,2026,Regular Season,Arsenal U21,Sunderland U21,7189,11915,,,,,,,,,,
+1621044,2026-10-10,2026-10-10T13:00:00+01:00,1H,702,Premier League 2 Division One,England,2026,Regular Season,Arsenal U21,Sunderland U21,7189,11915,,,1,1,,,,,1,1
 1621360,2026-10-10,2026-10-10T13:00:00+01:00,CANC,496,Liga Alef,Israel,2026,North - 6,Tzeirei Umm al-Fahm,Hapoel Beit Shean,20706,6330,,,,,,,,,,
 1622648,2026-10-10,2026-10-10T18:05:00+01:00,NS,330,Premier League,Kuwait,2026,Regular Season - 4,Al Salmiyah,Al Shabab,3538,3541,,,,,,,,,,
 1622649,2026-10-10,2026-10-10T15:50:00+01:00,NS,330,Premier League,Kuwait,2026,Regular Season - 4,Al Tadhamon,Al Qadsia,3539,3537,,,,,,,,,,
 1622783,2026-10-10,2026-10-10T09:30:00+01:00,FT,274,Liga 1,Indonesia,2026,Regular Season - 4,Arema FC,Bhayangkara FC,2438,2443,2,2,0,2,,,,,2,2
 1622784,2026-10-10,2026-10-10T09:30:00+01:00,FT,274,Liga 1,Indonesia,2026,Regular Season - 4,Persita,Garudayaksa,4244,26645,2,1,0,0,,,,,2,1
-1622785,2026-10-10,2026-10-10T13:00:00+01:00,NS,274,Liga 1,Indonesia,2026,Regular Season - 4,Bali United,Persijap,2448,11132,,,,,,,,,,
+1622785,2026-10-10,2026-10-10T13:00:00+01:00,1H,274,Liga 1,Indonesia,2026,Regular Season - 4,Bali United,Persijap,2448,11132,,,2,0,,,,,2,0
 1622786,2026-10-10,2026-10-10T09:30:00+01:00,FT,274,Liga 1,Indonesia,2026,Regular Season - 4,PSIM Yogyakarta,Persija,4235,10134,0,4,0,0,,,,,0,4
 1623140,2026-10-10,2026-10-10T19:30:00+01:00,NS,312,1a Divisió,Andorra,2026,Regular Season - 4,Ordino,Inter Club d'Escaldes,3344,3342,,,,,,,,,,
 1623581,2026-10-10,2026-10-10T14:00:00+01:00,NS,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Brescia U19,Modena U19,15657,24357,,,,,,,,,,
@@ -4777,15 +4777,15 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1623584,2026-10-10,2026-10-10T10:00:00+01:00,FT,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Cremonese U19,Udinese U19,15662,15684,1,2,1,1,,,,,1,2
 1623585,2026-10-10,2026-10-10T14:00:00+01:00,NS,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Frosinone U19,Palermo U19,15666,22404,,,,,,,,,,
 1623586,2026-10-10,2026-10-10T10:00:00+01:00,FT,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Latina U19,Bari U19,27997,22403,0,0,0,0,,,,,0,0
-1623587,2026-10-10,2026-10-10T10:30:00+01:00,2H,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Napoli U19,Pisa U19,7917,15674,,,0,0,,,,,1,0
+1623587,2026-10-10,2026-10-10T10:30:00+01:00,FT,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Napoli U19,Pisa U19,7917,15674,1,0,0,0,,,,,1,0
 1623588,2026-10-10,2026-10-10T14:30:00+01:00,NS,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Padova U19,Sampdoria U19,19856,15680,,,,,,,,,,
 1623589,2026-10-10,2026-10-10T10:00:00+01:00,NS,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Perugia U19,Avellino U19,17729,24356,,,,,,,,,,
 1623590,2026-10-10,2026-10-10T14:00:00+01:00,NS,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Pescara U19,Ascoli U19,15673,15654,,,,,,,,,,
 1623591,2026-10-10,2026-10-10T14:00:00+01:00,NS,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Pro Vercelli U19,Mantova U19,24358,27996,,,,,,,,,,
-1623592,2026-10-10,2026-10-10T11:00:00+01:00,2H,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Salernitana U19,Benevento U19,15679,15655,,,0,2,,,,,0,2
+1623592,2026-10-10,2026-10-10T11:00:00+01:00,FT,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Salernitana U19,Benevento U19,15679,15655,0,3,0,2,,,,,0,3
 1623593,2026-10-10,2026-10-10T14:00:00+01:00,NS,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Spezia U19,Monopoli U19,15682,19855,,,,,,,,,,
 1623594,2026-10-10,2026-10-10T10:00:00+01:00,FT,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Sudtirol U19,Virtus Entella U19,22406,15688,1,1,0,1,,,,,1,1
-1623595,2026-10-10,2026-10-10T10:15:00+01:00,2H,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Venezia U19,Lecco U19,15685,26372,,,0,0,,,,,0,1
+1623595,2026-10-10,2026-10-10T10:15:00+01:00,FT,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Venezia U19,Lecco U19,15685,26372,0,1,0,0,,,,,0,1
 1623596,2026-10-10,2026-10-10T14:00:00+01:00,NS,706,Campionato Primavera - 2,Italy,2026,Regular Season - 4,Vicenza U19,Reggiana U19,15687,15676,,,,,,,,,,
 1624377,2026-10-10,2026-10-10T14:00:00+01:00,NS,427,Serie D - Girone B,Italy,2026,Group B - 7,Fiorenzuola,Piacenza,9485,872,,,,,,,,,,
 1626230,2026-10-10,2026-10-10T14:00:00+01:00,NS,431,Serie D - Girone F,Italy,2026,Group F - 7,Notaresco,Recanatese,9518,9517,,,,,,,,,,
@@ -4797,7 +4797,7 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1626882,2026-10-10,2026-10-10T14:00:00+01:00,NS,175,Third League - Northeast,Bulgaria,2026,Northeast - 9,Olympic Varna,Botev Novi Pazar,26846,8509,,,,,,,,,,
 1626883,2026-10-10,2026-10-10T14:00:00+01:00,NS,175,Third League - Northeast,Bulgaria,2026,Northeast - 9,Septemvri Dragoevo,Devnya 2005,28220,28219,,,,,,,,,,
 1626884,2026-10-10,2026-10-10T14:00:00+01:00,NS,175,Third League - Northeast,Bulgaria,2026,Northeast - 9,Ustrem Donchevo,Dorostol,8517,14220,,,,,,,,,,
-1627098,2026-10-10,2026-10-10T13:00:00+01:00,NS,871,Premier League Cup,England,2026,Group Stage,Brentford U21,Derby County U21,20079,19745,,,,,,,,,,
+1627098,2026-10-10,2026-10-10T13:00:00+01:00,HT,871,Premier League Cup,England,2026,Group Stage,Brentford U21,Derby County U21,20079,19745,,,3,0,,,,,3,0
 1627287,2026-10-10,2026-10-10T15:00:00+01:00,NS,397,Girabola,Angola,2026,Regular Season - 6,Interclube,Sagrada Esperança,4920,4925,,,,,,,,,,
 1627290,2026-10-10,2026-10-10T17:00:00+01:00,NS,397,Girabola,Angola,2026,Regular Season - 6,Kabuscorp,Wiliete,4929,6383,,,,,,,,,,
 1627730,2026-10-10,2026-10-10T14:30:00+01:00,NS,289,1st Division,South-Africa,2026,Regular Season - 6,Hungry Lions,Casric Stars,10561,19997,,,,,,,,,,
@@ -4809,30 +4809,30 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1627990,2026-10-10,2026-10-10T17:45:00+01:00,NS,542,Iraqi League,Iraq,2026,Regular Season - 9,Al Kahrabaa,Karbala,11064,20464,,,,,,,,,,
 1627991,2026-10-10,2026-10-10T18:30:00+01:00,NS,542,Iraqi League,Iraq,2026,Regular Season - 9,Al-Karma,Al Karkh,25063,15544,,,,,,,,,,
 1627996,2026-10-10,2026-10-10T16:00:00+01:00,NS,542,Iraqi League,Iraq,2026,Regular Season - 9,Al Minaa Basra,Ghaz Al Shamal,11065,28223,,,,,,,,,,
-1628352,2026-10-10,2026-10-10T12:30:00+01:00,NS,311,1st Division,Albania,2026,Regular Season - 5,Bylis,FK Kukesi,3325,577,,,,,,,,,,
-1628353,2026-10-10,2026-10-10T12:30:00+01:00,NS,311,1st Division,Albania,2026,Regular Season - 5,Flamurtari,Sopoti Librazhd,3317,3839,,,,,,,,,,
+1628352,2026-10-10,2026-10-10T12:30:00+01:00,2H,311,1st Division,Albania,2026,Regular Season - 5,Bylis,FK Kukesi,3325,577,,,0,0,,,,,0,0
+1628353,2026-10-10,2026-10-10T12:30:00+01:00,2H,311,1st Division,Albania,2026,Regular Season - 5,Flamurtari,Sopoti Librazhd,3317,3839,,,1,0,,,,,1,0
 1628541,2026-10-10,2026-10-10T16:00:00+01:00,NS,399,NPFL,Nigeria,2027,Regular Season - 8,Ikorodu City,Kwara United,24512,5185,,,,,,,,,,
 1628548,2026-10-10,2026-10-10T16:00:00+01:00,NS,399,NPFL,Nigeria,2027,Regular Season - 8,Ranchers Bees,Niger Tornadoes,28169,5189,,,,,,,,,,
 1628974,2026-10-10,2026-10-10T00:00:00+01:00,FT,666,Friendlies Women,World,2026,Friendly International Women,Canada W,Denmark W,1717,1779,1,1,0,1,,,,,1,1
 1628975,2026-10-10,2026-10-10T15:00:00+01:00,NS,666,Friendlies Women,World,2026,Friendly International Women,Liechtenstein W,Gibraltar W,16936,16929,,,,,,,,,,
 1628976,2026-10-10,2026-10-10T20:00:00+01:00,NS,666,Friendlies Women,World,2026,Friendly International Women,France W,Latvia W,1725,1754,,,,,,,,,,
-1629062,2026-10-10,2026-10-10T12:00:00+01:00,1H,276,FKF Premier League,Kenya,2026,Regular Season - 1,Mathare United,APS Bomet,2463,19476,,,0,0,,,,,0,0
+1629062,2026-10-10,2026-10-10T12:00:00+01:00,2H,276,FKF Premier League,Kenya,2026,Regular Season - 1,Mathare United,APS Bomet,2463,19476,,,0,0,,,,,0,0
 1629067,2026-10-10,2026-10-10T14:15:00+01:00,NS,276,FKF Premier League,Kenya,2026,Regular Season - 1,Posta Rangers FC,Shabana,2459,19489,,,,,,,,,,
 1629437,2026-10-10,2026-10-10T11:00:00+01:00,NS,1240,U19 league,Turkey,2026,Regular Season - 7,Alanyaspor U19,Erzurumspor U19,28240,28243,,,,,,,,,,
 1629442,2026-10-10,2026-10-10T09:00:00+01:00,FT,1240,U19 league,Turkey,2026,Regular Season - 7,Genclerbirligi U19,Amedspor U19,28247,28241,0,1,0,0,,,,,0,1
-1629444,2026-10-10,2026-10-10T13:00:00+01:00,NS,1240,U19 league,Turkey,2026,Regular Season - 7,Rizespor U19,Fenerbahce U19,28252,28245,,,,,,,,,,
-1629445,2026-10-10,2026-10-10T11:00:00+01:00,2H,1240,U19 league,Turkey,2026,Regular Season - 7,Samsunspor U19,Trabzonspor U19,28253,17701,,,0,2,,,,,0,2
-1629697,2026-10-10,2026-10-10T13:00:00+01:00,NS,392,Challenge League,Malta,2026,Regular Season - 3,Zebbug Rangers,Swieqi United,4614,4612,,,,,,,,,,
+1629444,2026-10-10,2026-10-10T13:00:00+01:00,1H,1240,U19 league,Turkey,2026,Regular Season - 7,Rizespor U19,Fenerbahce U19,28252,28245,,,0,4,,,,,0,4
+1629445,2026-10-10,2026-10-10T11:00:00+01:00,FT,1240,U19 league,Turkey,2026,Regular Season - 7,Samsunspor U19,Trabzonspor U19,28253,17701,1,2,0,2,,,,,1,2
+1629697,2026-10-10,2026-10-10T13:00:00+01:00,HT,392,Challenge League,Malta,2026,Regular Season - 3,Zebbug Rangers,Swieqi United,4614,4612,,,0,0,,,,,0,0
 1629698,2026-10-10,2026-10-10T14:00:00+01:00,NS,392,Challenge League,Malta,2026,Regular Season - 3,Victoria Hotspurs,Fgura United,16541,4602,,,,,,,,,,
 1629699,2026-10-10,2026-10-10T15:30:00+01:00,NS,392,Challenge League,Malta,2026,Regular Season - 3,Mgarr United,Vittoriosa Stars,17710,4613,,,,,,,,,,
 1629700,2026-10-10,2026-10-10T16:30:00+01:00,NS,392,Challenge League,Malta,2026,Regular Season - 3,Sirens,Naxxar Lions,4619,4605,,,,,,,,,,
 1630102,2026-10-10,2026-10-10T14:00:00+01:00,NS,1241,U19 league,Serbia,2026,Regular Season - 9,Vozdovac U19,Partizan U19,28269,22398,,,,,,,,,,
-1630243,2026-10-10,2026-10-10T13:00:00+01:00,NS,394,Super Liga,Moldova,2026,Regular Season - 14,CSF Bălți,Sireți,14008,5379,,,,,,,,,,
+1630243,2026-10-10,2026-10-10T13:00:00+01:00,1H,394,Super Liga,Moldova,2026,Regular Season - 14,CSF Bălți,Sireți,14008,5379,,,0,1,,,,,0,1
 1630244,2026-10-10,2026-10-10T15:00:00+01:00,NS,394,Super Liga,Moldova,2026,Regular Season - 14,Dacia-Buiucani,Sheriff Tiraspol,5375,568,,,,,,,,,,
 1630330,2026-10-10,2026-10-10T19:00:00+01:00,NS,1150,Gaúcho - 3,Brazil,2026,Regular Season - 7,Farroupilha,SC Rio Grande,25078,25080,,,,,,,,,,
 1630331,2026-10-10,2026-10-10T19:00:00+01:00,NS,1150,Gaúcho - 3,Brazil,2026,Regular Season - 7,Real,Panambi,10149,28277,,,,,,,,,,
 1630332,2026-10-10,2026-10-10T19:00:00+01:00,NS,1150,Gaúcho - 3,Brazil,2026,Regular Season - 7,FBC Riograndense RS,Clube 1992,25077,26746,,,,,,,,,,
-1630445,2026-10-10,2026-10-10T12:30:00+01:00,NS,418,Birinci Dasta,Azerbaijan,2026,Regular Season - 4,Cəbrayıl,Baku Sportinq,22789,22788,,,,,,,,,,
+1630445,2026-10-10,2026-10-10T12:30:00+01:00,2H,418,Birinci Dasta,Azerbaijan,2026,Regular Season - 4,Cəbrayıl,Baku Sportinq,22789,22788,,,0,0,,,,,1,0
 1630575,2026-10-10,2026-10-10T14:00:00+01:00,NS,400,Super League,Zambia,2026,Regular Season - 2,Kabwe Warriors,Mutondo Stars,5201,21875,,,,,,,,,,
 1630576,2026-10-10,2026-10-10T14:00:00+01:00,NS,400,Super League,Zambia,2026,Regular Season - 2,Man Utd Zambia Academy,Kansanshi Dynamos,5205,7455,,,,,,,,,,
 1630577,2026-10-10,2026-10-10T14:00:00+01:00,NS,400,Super League,Zambia,2026,Regular Season - 2,Nkana,Makeni All Stars,5209,28279,,,,,,,,,,
@@ -4888,16 +4888,16 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1633791,2026-10-10,2026-10-10T13:00:00+01:00,NS,791,Liga III - Serie 8,Romania,2026,Group 8 - 8,Crişul Sântandrei,Academica Recea,19172,21662,,,,,,,,,,
 1633792,2026-10-10,2026-10-10T13:00:00+01:00,NS,791,Liga III - Serie 8,Romania,2026,Group 8 - 8,Sighetu Marmaţiei,Unirea Dej,14593,6914,,,,,,,,,,
 1633793,2026-10-10,2026-10-10T13:00:00+01:00,NS,791,Liga III - Serie 8,Romania,2026,Group 8 - 8,Unirea Tășnad,Viitorul Cluj,6917,19851,,,,,,,,,,
-1633902,2026-10-10,2026-10-10T11:00:00+01:00,2H,340,V.League 1,Vietnam,2027,Regular Season - 3,Hoang Anh Gia Lai,Da Nang,3673,3669,,,1,0,,,,,1,0
-1633903,2026-10-10,2026-10-10T12:00:00+01:00,1H,340,V.League 1,Vietnam,2027,Regular Season - 3,Hai Phong,Thanh Hóa,3671,3680,,,0,0,,,,,0,0
-1633904,2026-10-10,2026-10-10T12:00:00+01:00,1H,340,V.League 1,Vietnam,2027,Regular Season - 3,Nam Dinh,Phu Dong,3674,9167,,,0,0,,,,,0,0
+1633902,2026-10-10,2026-10-10T11:00:00+01:00,FT,340,V.League 1,Vietnam,2027,Regular Season - 3,Hoang Anh Gia Lai,Da Nang,3673,3669,3,0,1,0,,,,,3,0
+1633903,2026-10-10,2026-10-10T12:00:00+01:00,2H,340,V.League 1,Vietnam,2027,Regular Season - 3,Hai Phong,Thanh Hóa,3671,3680,,,1,1,,,,,1,2
+1633904,2026-10-10,2026-10-10T12:00:00+01:00,2H,340,V.League 1,Vietnam,2027,Regular Season - 3,Nam Dinh,Phu Dong,3674,9167,,,0,0,,,,,1,1
 1634076,2026-10-10,2026-10-10T15:00:00+01:00,NS,412,Premier League,Botswana,2026,Regular Season - 5,BDF XI,Orapa United,5416,5425,,,,,,,,,,
 1634078,2026-10-10,2026-10-10T18:00:00+01:00,NS,412,Premier League,Botswana,2026,Regular Season - 5,Galaxy,Nico United,5422,5602,,,,,,,,,,
 1634079,2026-10-10,2026-10-10T15:00:00+01:00,NS,412,Premier League,Botswana,2026,Regular Season - 5,Prisons XI,Enesia,5427,28287,,,,,,,,,,
 1634080,2026-10-10,2026-10-10T15:00:00+01:00,NS,412,Premier League,Botswana,2026,Regular Season - 5,TAFIC,Matebele,5597,22563,,,,,,,,,,
 1634081,2026-10-10,2026-10-10T18:00:00+01:00,NS,412,Premier League,Botswana,2026,Regular Season - 5,Centre Chiefs,Township Rollers,5419,5431,,,,,,,,,,
 1634314,2026-10-10,2026-10-10T13:10:00+01:00,NS,309,Division 2,Saudi-Arabia,2026,Regular Season - 1,Al Hada,Al Jubail,28334,10508,,,,,,,,,,
-1634315,2026-10-10,2026-10-10T13:10:00+01:00,NS,309,Division 2,Saudi-Arabia,2026,Regular Season - 1,Al Najoom,Al-Kawkab,2946,2941,,,,,,,,,,
+1634315,2026-10-10,2026-10-10T13:10:00+01:00,1H,309,Division 2,Saudi-Arabia,2026,Regular Season - 1,Al Najoom,Al-Kawkab,2946,2941,,,0,1,,,,,0,1
 1634317,2026-10-10,2026-10-10T13:20:00+01:00,NS,309,Division 2,Saudi-Arabia,2026,Regular Season - 1,Al Sharq,Al-Washm,10512,2953,,,,,,,,,,
 1634318,2026-10-10,2026-10-10T13:35:00+01:00,NS,309,Division 2,Saudi-Arabia,2026,Regular Season - 1,Al Arabi SC,Qilwah,2971,28337,,,,,,,,,,
 1634319,2026-10-10,2026-10-10T13:40:00+01:00,NS,309,Division 2,Saudi-Arabia,2026,Regular Season - 1,Al Loa,Al Qous,27476,27478,,,,,,,,,,
@@ -4908,36 +4908,36 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1634917,2026-10-10,2026-10-10T23:00:00+01:00,NS,759,Liga Mayor,Dominican-Republic,2026,Regular Season - 10,Moca,Universidad O&M,16617,16141,,,,,,,,,,
 1634919,2026-10-10,2026-10-10T21:00:00+01:00,NS,759,Liga Mayor,Dominican-Republic,2026,Regular Season - 10,Jarabacoa,Delfines Del Este,16140,16139,,,,,,,,,,
 1634970,2026-10-10,2026-10-10T09:30:00+01:00,FT,637,V.League 2,Vietnam,2027,Regular Season - 2,Long An,Than Quang Ninh,9165,3679,0,0,0,0,,,,,0,0
-1634971,2026-10-10,2026-10-10T12:00:00+01:00,1H,637,V.League 2,Vietnam,2027,Regular Season - 2,Binh Duong,Lam Dong,3668,28215,,,0,1,,,,,0,1
-1634972,2026-10-10,2026-10-10T12:00:00+01:00,1H,637,V.League 2,Vietnam,2027,Regular Season - 2,Hung Yen,Xuan Thien Phu Tho,28214,26745,,,0,0,,,,,0,0
+1634971,2026-10-10,2026-10-10T12:00:00+01:00,2H,637,V.League 2,Vietnam,2027,Regular Season - 2,Binh Duong,Lam Dong,3668,28215,,,2,1,,,,,3,1
+1634972,2026-10-10,2026-10-10T12:00:00+01:00,2H,637,V.League 2,Vietnam,2027,Regular Season - 2,Hung Yen,Xuan Thien Phu Tho,28214,26745,,,3,0,,,,,7,1
 1635278,2026-10-10,2026-10-10T14:00:00+01:00,NS,585,Premier League,Uganda,2026,Regular Season - 6,Kataka,Kitara,28319,15562,,,,,,,,,,
-1635430,2026-10-10,2026-10-10T13:00:00+01:00,NS,247,Kakkonen - Lohko A,Finland,2026,Group A,PuiU Helsinki,Reipas,18596,9179,,,,,,,,,,
-1635431,2026-10-10,2026-10-10T13:00:00+01:00,NS,247,Kakkonen - Lohko A,Finland,2026,Group A,Union Plaani,MyPa,18667,2243,,,,,,,,,,
-1635457,2026-10-10,2026-10-10T13:00:00+01:00,NS,248,Kakkonen - Lohko B,Finland,2026,Group B,EBK,Musa,13552,2245,,,,,,,,,,
-1635458,2026-10-10,2026-10-10T13:00:00+01:00,NS,248,Kakkonen - Lohko B,Finland,2026,Group B,GrIFK,NJS,2079,9177,,,,,,,,,,
-1635484,2026-10-10,2026-10-10T13:00:00+01:00,NS,249,Kakkonen - Lohko C,Finland,2026,Group C,JS Hercules,TP-47,6073,9214,,,,,,,,,,
-1635485,2026-10-10,2026-10-10T13:00:00+01:00,NS,249,Kakkonen - Lohko C,Finland,2026,Group C,Vaajakoski,SJK-juniorit,9201,18609,,,,,,,,,,
+1635430,2026-10-10,2026-10-10T13:00:00+01:00,1H,247,Kakkonen - Lohko A,Finland,2026,Group A,PuiU Helsinki,Reipas,18596,9179,,,0,0,,,,,0,0
+1635431,2026-10-10,2026-10-10T13:00:00+01:00,1H,247,Kakkonen - Lohko A,Finland,2026,Group A,Union Plaani,MyPa,18667,2243,,,2,1,,,,,2,1
+1635457,2026-10-10,2026-10-10T13:00:00+01:00,1H,248,Kakkonen - Lohko B,Finland,2026,Group B,EBK,Musa,13552,2245,,,0,1,,,,,0,1
+1635458,2026-10-10,2026-10-10T13:00:00+01:00,HT,248,Kakkonen - Lohko B,Finland,2026,Group B,GrIFK,NJS,2079,9177,,,3,1,,,,,3,1
+1635484,2026-10-10,2026-10-10T13:00:00+01:00,1H,249,Kakkonen - Lohko C,Finland,2026,Group C,JS Hercules,TP-47,6073,9214,,,3,1,,,,,3,1
+1635485,2026-10-10,2026-10-10T13:00:00+01:00,1H,249,Kakkonen - Lohko C,Finland,2026,Group C,Vaajakoski,SJK-juniorit,9201,18609,,,0,2,,,,,0,2
 1635989,2026-10-10,2026-10-10T03:00:00+01:00,FT,1242,Primera Premier,Mexico,2026,Regular Season - 7,Reboceros La Piedad,Los Cabos United,15937,19908,2,1,0,0,,,,,2,1
 1635990,2026-10-10,2026-10-10T22:30:00+01:00,NS,1242,Primera Premier,Mexico,2026,Regular Season - 7,Racing de Veracruz,Celaya,22046,2308,,,,,,,,,,
 1635991,2026-10-10,2026-10-10T22:30:00+01:00,NS,1242,Primera Premier,Mexico,2026,Regular Season - 7,Cordobés,Tigres de Alica,24939,24952,,,,,,,,,,
 1636706,2026-10-10,2026-10-10T21:30:00+01:00,NS,243,Liga Pro Serie B,Ecuador,2026,Relegation Group - 7,Gualaceo SC,Cumbayá,1986,16476,,,,,,,,,,
 1636817,2026-10-10,2026-10-10T22:00:00+01:00,NS,234,Liga Nacional,Honduras,2026,Apertura - 9,Génesis,CD Olimpia,21858,1051,,,,,,,,,,
-1636941,2026-10-10,2026-10-10T13:00:00+01:00,NS,494,Super League 2,Greece,2026,Regular Season - 6,Kallithea,Panthrakikos,2095,2090,,,,,,,,,,
-1636948,2026-10-10,2026-10-10T12:45:00+01:00,NS,494,Super League 2,Greece,2026,Regular Season - 6,Panserraikos,Nestos Chrisoupolis,2099,12367,,,,,,,,,,
+1636941,2026-10-10,2026-10-10T13:00:00+01:00,1H,494,Super League 2,Greece,2026,Regular Season - 6,Kallithea,Panthrakikos,2095,2090,,,0,0,,,,,0,0
+1636948,2026-10-10,2026-10-10T12:45:00+01:00,HT,494,Super League 2,Greece,2026,Regular Season - 6,Panserraikos,Nestos Chrisoupolis,2099,12367,,,0,1,,,,,0,1
 1637149,2026-10-10,2026-10-10T17:00:00+01:00,NS,509,8 Cup,South-Africa,2026,Final,Orlando Pirates,Mamelodi Sundowns,2700,2699,,,,,,,,,,
 1637663,2026-10-10,2026-10-10T09:30:00+01:00,FT,275,Liga 2,Indonesia,2026,Regular Season - 5,Bekasi City,PSGC Ciamis,11133,4234,4,0,2,0,,,,,4,0
 1637664,2026-10-10,2026-10-10T09:30:00+01:00,FT,275,Liga 2,Indonesia,2026,Regular Season - 5,Sumsel United,Persiku Kudus,26647,24997,5,1,1,1,,,,,5,1
-1637665,2026-10-10,2026-10-10T13:00:00+01:00,NS,275,Liga 2,Indonesia,2026,Regular Season - 5,Barito Putera,Persiba Balikpapan,2453,2457,,,,,,,,,,
-1637666,2026-10-10,2026-10-10T13:00:00+01:00,NS,275,Liga 2,Indonesia,2026,Regular Season - 5,Tornado Pekanbaru,PSBS Biak Numfor,26648,4232,,,,,,,,,,
+1637665,2026-10-10,2026-10-10T13:00:00+01:00,1H,275,Liga 2,Indonesia,2026,Regular Season - 5,Barito Putera,Persiba Balikpapan,2453,2457,,,0,0,,,,,0,0
+1637666,2026-10-10,2026-10-10T13:00:00+01:00,1H,275,Liga 2,Indonesia,2026,Regular Season - 5,Tornado Pekanbaru,PSBS Biak Numfor,26648,4232,,,3,0,,,,,3,0
 1637852,2026-10-10,2026-10-10T21:00:00+01:00,NS,75,Serie C,Brazil,2026,Second Stage - 6,Botafogo PB,Santa Cruz,1197,753,,,,,,,,,,
 1637853,2026-10-10,2026-10-10T21:00:00+01:00,NS,75,Serie C,Brazil,2026,Second Stage - 6,Brusque,Paysandu,1211,149,,,,,,,,,,
 1637854,2026-10-10,2026-10-10T21:00:00+01:00,NS,75,Serie C,Brazil,2026,Second Stage - 6,Ferroviária,Inter De Limeira,7826,1201,,,,,,,,,,
 1637855,2026-10-10,2026-10-10T21:00:00+01:00,NS,75,Serie C,Brazil,2026,Second Stage - 6,Maringá,Floresta,7833,7774,,,,,,,,,,
 1638087,2026-10-10,2026-10-10T15:00:00+01:00,NS,244,Veikkausliiga,Finland,2026,Relegation Group - 26,Turku PS,FF Jaro,1168,2075,,,,,,,,,,
 1638088,2026-10-10,2026-10-10T17:00:00+01:00,NS,244,Veikkausliiga,Finland,2026,Relegation Group - 26,Mariehamn,Ilves,587,1163,,,,,,,,,,
-1638173,2026-10-10,2026-10-10T12:00:00+01:00,1H,245,Ykkönen,Finland,2026,Group Stage,PKKU,SalPa,9203,9189,,,0,0,,,,,0,0
-1638174,2026-10-10,2026-10-10T13:00:00+01:00,NS,245,Ykkönen,Finland,2026,Group Stage,KuPS Akatemia,VJS,18758,6075,,,,,,,,,,
-1638175,2026-10-10,2026-10-10T13:00:00+01:00,NS,245,Ykkönen,Finland,2026,Group Stage,OLS,Tampere United,9195,9190,,,,,,,,,,
+1638173,2026-10-10,2026-10-10T12:00:00+01:00,2H,245,Ykkönen,Finland,2026,Group Stage,PKKU,SalPa,9203,9189,,,0,0,,,,,0,4
+1638174,2026-10-10,2026-10-10T13:00:00+01:00,HT,245,Ykkönen,Finland,2026,Group Stage,KuPS Akatemia,VJS,18758,6075,,,0,1,,,,,0,1
+1638175,2026-10-10,2026-10-10T13:00:00+01:00,1H,245,Ykkönen,Finland,2026,Group Stage,OLS,Tampere United,9195,9190,,,0,0,,,,,0,0
 1638176,2026-10-10,2026-10-10T14:00:00+01:00,NS,245,Ykkönen,Finland,2026,Group Stage,Rops,JJK,1167,1171,,,,,,,,,,
 1638177,2026-10-10,2026-10-10T15:00:00+01:00,NS,245,Ykkönen,Finland,2026,Group Stage,TPV,KPV-j,2244,10199,,,,,,,,,,
 1638583,2026-10-10,2026-10-10T02:00:00+01:00,FT,666,Friendlies Women,World,2026,Friendly International Women,Mexico W,Jamaica W,1729,1785,3,4,2,3,,,,,3,4
@@ -4950,7 +4950,7 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1638735,2026-10-10,2026-10-10T16:00:00+01:00,NS,666,Friendlies Women,World,2026,Friendly International Women,Indonesia W,Armenia W,17887,14457,,,,,,,,,,
 1638775,2026-10-10,2026-10-10T23:00:00+01:00,NS,299,Primera División,Venezuela,2026,Clausura - 12,Deportivo Tachira FC,UCV,2807,2840,,,,,,,,,,
 1638778,2026-10-10,2026-10-10T22:00:00+01:00,NS,299,Primera División,Venezuela,2026,Clausura - 12,Portuguesa FC,Deportivo La Guaira,2814,2813,,,,,,,,,,
-1638798,2026-10-10,2026-10-10T12:45:00+01:00,NS,500,FA Cup,Malaysia,2026,Quarter-finals,Kuching FA,Kelantan City,10108,28339,,,,,,,,,,
+1638798,2026-10-10,2026-10-10T12:45:00+01:00,HT,500,FA Cup,Malaysia,2026,Quarter-finals,Kuching FA,Kelantan City,10108,28339,,,2,1,,,,,2,1
 1638830,2026-10-10,2026-10-10T16:00:00+01:00,NS,14,UEFA Youth League,World,2026,Quarter-finals,Dinamo Tbilisi U19,Dinamo Minsk U19,24976,16388,,,,,,,,,,
 1638923,2026-10-10,2026-10-10T14:00:00+01:00,NS,176,Third League - Northwest,Bulgaria,2026,Northwest - 8,Akademik Svishtov,Chavdar Troyan,8518,14565,,,,,,,,,,
 1638925,2026-10-10,2026-10-10T14:00:00+01:00,CANC,176,Third League - Northwest,Bulgaria,2026,Northwest - 8,Juventus Malchika,OFK Levski,8520,8553,,,,,,,,,,
@@ -4964,7 +4964,7 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1639791,2026-10-10,2026-10-10T17:30:00+01:00,NS,242,Liga Pro,Ecuador,2026,Championship Group - 2,Independiente del Valle,Aucas,1153,1156,,,,,,,,,,
 1639822,2026-10-10,2026-10-10T20:00:00+01:00,NS,242,Liga Pro,Ecuador,2026,Relegation Group - 2,Manta FC,Tecnico Universitario,1980,1151,,,,,,,,,,
 1639850,2026-10-10,2026-10-10T22:30:00+01:00,NS,242,Liga Pro,Ecuador,2026,Placement Group - 2,Guayaquil City FC,Emelec,1159,1148,,,,,,,,,,
-1639860,2026-10-10,2026-10-10T09:35:00+01:00,ET,874,Australia Cup,Australia,2026,Final,South Melbourne,Melbourne Victory,3811,944,0,0,0,0,0,1,,,0,1
+1639860,2026-10-10,2026-10-10T09:35:00+01:00,PEN,874,Australia Cup,Australia,2026,Final,South Melbourne,Melbourne Victory,3811,944,0,0,0,0,1,1,4,3,1,1
 1639898,2026-10-10,2026-10-10T14:00:00+01:00,NS,404,Campionato,San-Marino,2026,Regular Season - 5,Faetano,Fiorentino,5300,5301,,,,,,,,,,
 1639899,2026-10-10,2026-10-10T14:00:00+01:00,NS,404,Campionato,San-Marino,2026,Regular Season - 5,San Giovanni,Tre Fiori,5307,2260,,,,,,,,,,
 1640026,2026-10-10,2026-10-10T01:00:00+01:00,NS,666,Friendlies Women,World,2026,Friendly International Women,Haiti W,Japan W,14459,1720,,,,,,,,,,
@@ -4987,16 +4987,16 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1641289,2026-10-10,2026-10-10T20:00:00+01:00,NS,134,Torneo Federal A,Argentina,2026,Round of 32,Deportivo Rincon,Kimberley Mar del Plata,1959,3975,,,,,,,,,,
 1641292,2026-10-10,2026-10-10T02:00:00+01:00,FT,134,Torneo Federal A,Argentina,2026,Round of 32,Juventud Antoniana,Huracan Las Heras,1961,2428,3,0,1,0,,,,,3,0
 1641293,2026-10-10,2026-10-10T01:30:00+01:00,FT,134,Torneo Federal A,Argentina,2026,Round of 32,San Martín Mendoza,Argentino Monte Maíz,21042,18764,0,2,0,1,,,,,0,2
-1641310,2026-10-10,2026-10-10T13:00:00+01:00,NS,363,Premier League,Ethiopia,2026,Regular Season - 1,Kedus Giorgis,Negelle Arsi,4119,26881,,,,,,,,,,
+1641310,2026-10-10,2026-10-10T13:00:00+01:00,1H,363,Premier League,Ethiopia,2026,Regular Season - 1,Kedus Giorgis,Negelle Arsi,4119,26881,,,0,0,,,,,0,0
 1641311,2026-10-10,2026-10-10T14:00:00+01:00,NS,363,Premier League,Ethiopia,2026,Regular Season - 1,Welayta Dicha,Fasil Ketema,4124,4117,,,,,,,,,,
 1641908,2026-10-10,2026-10-10T09:30:00+01:00,FT,647,Lao League,Laos,2026,Regular Season - 1,Champasak United,Master 7,18750,9425,3,0,2,0,,,,,3,0
 1641909,2026-10-10,2026-10-10T09:30:00+01:00,FT,647,Lao League,Laos,2026,Regular Season - 1,Lao Army,Namtha United,16493,21016,0,1,0,0,,,,,0,1
 1641912,2026-10-10,2026-10-10T09:30:00+01:00,NS,647,Lao League,Laos,2026,Regular Season - 1,Savannakhet,Viengchanh,26368,14096,,,,,,,,,,
-1642100,2026-10-10,2026-10-10T13:00:00+01:00,NS,664,Superliga,Kosovo,2026,Regular Season - 8,Vushtrria,Gjilani,14396,12772,,,,,,,,,,
+1642100,2026-10-10,2026-10-10T13:00:00+01:00,1H,664,Superliga,Kosovo,2026,Regular Season - 8,Vushtrria,Gjilani,14396,12772,,,0,0,,,,,0,0
 1642101,2026-10-10,2026-10-10T17:00:00+01:00,NS,664,Superliga,Kosovo,2026,Regular Season - 8,Drenica Skënderaj,Feronikeli,14392,4132,,,,,,,,,,
 1642110,2026-10-10,2026-10-10T14:05:00+01:00,NS,406,Professional League,Oman,2026,Regular Season - 4,Saham,Sur,5335,5337,,,,,,,,,,
 1642111,2026-10-10,2026-10-10T16:30:00+01:00,NS,406,Professional League,Oman,2026,Regular Season - 4,Dhofar,Smail,5330,15962,,,,,,,,,,
-1642167,2026-10-10,2026-10-10T12:30:00+01:00,NS,323,Indian Super League,India,2026,Regular Season - 1,Bengaluru,SC Delhi,3472,26963,,,,,,,,,,
+1642167,2026-10-10,2026-10-10T12:30:00+01:00,2H,323,Indian Super League,India,2026,Regular Season - 1,Bengaluru,SC Delhi,3472,26963,,,1,2,,,,,1,2
 1642168,2026-10-10,2026-10-10T15:00:00+01:00,NS,323,Indian Super League,India,2026,Regular Season - 1,Goa,Chennaiyin,3475,3473,,,,,,,,,,
 1643168,2026-10-10,2026-10-10T00:00:00+01:00,FT,268,Primera División,Uruguay,2026,Clausura - 10,Deportivo Maldonado,Liverpool Montevideo,2370,2358,1,1,0,0,,,,,1,1
 1643169,2026-10-10,2026-10-10T15:00:00+01:00,NS,268,Primera División,Uruguay,2026,Clausura - 10,Defensor Sporting,Cerro,2350,2362,,,,,,,,,,
@@ -5065,7 +5065,7 @@ fixture_id,date,kickoff,status,league_id,league,country,season,round,home,away,h
 1645335,2026-10-10,2026-10-10T18:00:00+01:00,NS,762,Premier League,Mauritania,2026,Regular Season - 1,Tevragh-Zeïne,N'Zidane,15521,24798,,,,,,,,,,
 1645336,2026-10-10,2026-10-10T20:50:00+01:00,NS,762,Premier League,Mauritania,2026,Regular Season - 1,Nouadhibou,Nouakchott Academie,6427,26812,,,,,,,,,,
 1645359,2026-10-10,2026-10-10T12:00:00+01:00,NS,1052,Kakkonen - Play-offs,Finland,2026,Promotion Round - 1,Huima / Urho,Ilves II,22980,9185,,,,,,,,,,
-1645360,2026-10-10,2026-10-10T13:00:00+01:00,NS,1052,Kakkonen - Play-offs,Finland,2026,Promotion Round - 1,Honka,JBK,1169,9192,,,,,,,,,,
+1645360,2026-10-10,2026-10-10T13:00:00+01:00,1H,1052,Kakkonen - Play-offs,Finland,2026,Promotion Round - 1,Honka,JBK,1169,9192,,,0,0,,,,,0,0
 1645363,2026-10-10,2026-10-10T16:30:00+01:00,NS,386,Ligue 1,Ivory-Coast,2026,Regular Season - 3,Bouaké,San-Pédro,4516,4521,,,,,,,,,,
 1645364,2026-10-10,2026-10-10T16:30:00+01:00,NS,386,Ligue 1,Ivory-Coast,2026,Regular Season - 3,Stade d'Abidjan,ES Agboville,4525,26340,,,,,,,,,,
 1645365,2026-10-10,2026-10-10T19:00:00+01:00,NS,386,Ligue 1,Ivory-Coast,2026,Regular Season - 3,ASEC Mimosas,AFAD,4512,4511,,,,,,,,,,
