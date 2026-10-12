@@ -53,12 +53,12 @@
      "roi": 23.3
     },
     "live": {
-     "picks": 232,
+     "picks": 233,
      "won": 40,
      "hit": 17.2,
      "avg_odds": 4.39,
-     "profit": -56.16,
-     "roi": -24.2
+     "profit": -57.16,
+     "roi": -24.5
     }
    },
    {
@@ -427,7 +427,10 @@
       "pick": "Exact Goals - 3",
       "odds": 4.33,
       "market": "Exact Goals Number",
-      "selection": "3"
+      "selection": "3",
+      "status": "LOST",
+      "score": "1-3",
+      "ht": "0-2"
      },
      {
       "model": "D3",
@@ -16822,7 +16825,9 @@
        "odds": 1.41,
        "market": "Handicap Result",
        "selection": "Away -1",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "1-3",
+       "ht": "0-2"
       },
       {
        "fid": 1645378,
@@ -17056,7 +17061,9 @@
        "odds": 1.4,
        "market": "Double Chance",
        "selection": "Draw/Away",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "1-3",
+       "ht": "0-2"
       },
       {
        "fid": 1645378,
@@ -17200,7 +17207,9 @@
        "odds": 1.3,
        "market": "Clean Sheet - Home",
        "selection": "No",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "1-3",
+       "ht": "0-2"
       },
       {
        "fid": 1498865,
@@ -17557,7 +17566,9 @@
         "odds": 1.41,
         "market": "Handicap Result",
         "selection": "Away -1",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "1-3",
+        "ht": "0-2"
        },
        {
         "fid": 1645378,
@@ -17791,7 +17802,9 @@
         "odds": 1.4,
         "market": "Double Chance",
         "selection": "Draw/Away",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "1-3",
+        "ht": "0-2"
        },
        {
         "fid": 1645378,
@@ -17935,7 +17948,9 @@
         "odds": 1.3,
         "market": "Clean Sheet - Home",
         "selection": "No",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "1-3",
+        "ht": "0-2"
        },
        {
         "fid": 1498865,
@@ -62342,7 +62357,9 @@
        "odds": 1.3,
        "market": "Clean Sheet - Home",
        "selection": "No",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "1-3",
+       "ht": "0-2"
       },
       {
        "fid": 1645378,
@@ -63162,7 +63179,9 @@
        "odds": 1.56,
        "market": "Goals Over/Under First Half",
        "selection": "Over 1.0",
-       "status": "PENDING"
+       "status": "VOID",
+       "score": "2-1",
+       "ht": "1-0"
       },
       {
        "fid": 1636947,
@@ -63241,7 +63260,9 @@
         "odds": 1.3,
         "market": "Clean Sheet - Home",
         "selection": "No",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "1-3",
+        "ht": "0-2"
        },
        {
         "fid": 1645378,
@@ -64061,7 +64082,9 @@
         "odds": 1.56,
         "market": "Goals Over/Under First Half",
         "selection": "Over 1.0",
-        "status": "PENDING"
+        "status": "VOID",
+        "score": "2-1",
+        "ht": "1-0"
        },
        {
         "fid": 1636947,
@@ -74132,20 +74155,20 @@
     "hit": 73.3
    },
    {
+    "id": "A1",
+    "name": "Away Favourite Scores",
+    "sporty": "Home Team Clean Sheet - No",
+    "picks": 45,
+    "won": 31,
+    "hit": 68.9
+   },
+   {
     "id": "M1",
     "name": "Away Favourite Wins a Half",
     "sporty": "Away Team to Win Either Half - Yes",
     "picks": 45,
     "won": 28,
     "hit": 62.2
-   },
-   {
-    "id": "A1",
-    "name": "Away Favourite Scores",
-    "sporty": "Home Team Clean Sheet - No",
-    "picks": 44,
-    "won": 30,
-    "hit": 68.2
    },
    {
     "id": "A9",
@@ -103918,7 +103941,7 @@
    "about": "Mixed markets, built until the ticket reaches 20 odds. Rare wins, big payout."
   }
  },
- "generated": "2026-10-12 12:55",
+ "generated": "2026-10-12 14:05",
  "split": "2026-09-26",
  "note": "Candidates only. Selected as the best of 21,335 tested patterns over 6 days; some of this record is luck and will fade. Flat 1-unit stakes at the typical (median) bookmaker price. Prices captured about 1 hour before kick-off.",
  "models": [
