@@ -1,0 +1,1434 @@
+{
+ "date": "2026-10-12",
+ "created": "2026-10-12 01:25",
+ "items": [
+  {
+   "fid": 1493173,
+   "home": "Lanus",
+   "away": "Velez Sarsfield",
+   "league": "Argentina: Liga Profesional Argentina",
+   "kickoff": "10/12/2026 8:00:00 PM",
+   "odds": [
+    2.25,
+    2.9,
+    3.77
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1493179,
+   "home": "Talleres Cordoba",
+   "away": "Independiente",
+   "league": "Argentina: Liga Profesional Argentina",
+   "kickoff": "10/12/2026 1:30:00 AM",
+   "odds": [
+    2.28,
+    3.09,
+    3.46
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1494290,
+   "home": "IF Elfsborg",
+   "away": "Halmstad",
+   "league": "Sweden: Allsvenskan",
+   "kickoff": "10/12/2026 6:00:00 PM",
+   "odds": [
+    1.32,
+    5.22,
+    8.38
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.05
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1494776,
+   "home": "KFUM Oslo",
+   "away": "Valerenga",
+   "league": "Norway: Eliteserien",
+   "kickoff": "10/12/2026 6:00:00 PM",
+   "odds": [
+    2.81,
+    3.7,
+    2.31
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1496721,
+   "home": "Strindheim",
+   "away": "Rosenborg II",
+   "league": "Norway: 3. Division - Girone 2",
+   "kickoff": "10/12/2026 5:00:00 PM",
+   "odds": [
+    1.57,
+    4.33,
+    4.05
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1498865,
+   "home": "All Boys",
+   "away": "Godoy Cruz",
+   "league": "Argentina: Primera Nacional",
+   "kickoff": "10/12/2026 11:00:00 PM",
+   "odds": [
+    2.88,
+    2.65,
+    2.67
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1498881,
+   "home": "Racing Cordoba",
+   "away": "Los Andes",
+   "league": "Argentina: Primera Nacional",
+   "kickoff": "10/12/2026 9:00:00 PM",
+   "odds": [
+    2.26,
+    2.77,
+    3.47
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1499674,
+   "home": "Brown DE Adrogue",
+   "away": "Dock Sud",
+   "league": "Argentina: Primera B Metropolitana",
+   "kickoff": "10/12/2026 7:00:00 PM",
+   "odds": [
+    2.23,
+    2.7,
+    3.45
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1499681,
+   "home": "UAI Urquiza",
+   "away": "Real Pilar",
+   "league": "Argentina: Primera B Metropolitana",
+   "kickoff": "10/12/2026 7:00:00 PM",
+   "odds": [
+    3.49,
+    2.7,
+    2.21
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.07
+    }
+   ]
+  },
+  {
+   "fid": 1500150,
+   "home": "Atletico Atlas",
+   "away": "El Porvenir",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/12/2026 7:00:00 PM",
+   "odds": [
+    2.42,
+    2.91,
+    2.74
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1500151,
+   "home": "Berazategui",
+   "away": "Defensores de Cambaceres",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/12/2026 7:00:00 PM",
+   "odds": [
+    1.14,
+    5.65,
+    15.0
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.67
+    }
+   ]
+  },
+  {
+   "fid": 1500153,
+   "home": "Centro Espa\u00f1ol",
+   "away": "Puerto Nuevo",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/12/2026 7:00:00 PM",
+   "odds": [
+    1.23,
+    5.15,
+    10.38
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.2
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.07
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.73
+    }
+   ]
+  },
+  {
+   "fid": 1500154,
+   "home": "Deportivo Espa\u00f1ol",
+   "away": "Central Cordoba",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/12/2026 7:00:00 PM",
+   "odds": [
+    2.2,
+    2.72,
+    3.4
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1500156,
+   "home": "Estrella Del Sur",
+   "away": "Juventud Unida",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/12/2026 7:00:00 PM",
+   "odds": [
+    2.54,
+    2.59,
+    2.92
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1500157,
+   "home": "General Lamadrid",
+   "away": "Sportivo Barracas",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/12/2026 7:00:00 PM",
+   "odds": [
+    2.54,
+    2.8,
+    2.69
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1500159,
+   "home": "Mercedes",
+   "away": "Lugano",
+   "league": "Argentina: Primera C",
+   "kickoff": "10/12/2026 7:00:00 PM",
+   "odds": [
+    2.58,
+    2.86,
+    2.59
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1517364,
+   "home": "Forge",
+   "away": "York United",
+   "league": "Canada: Canadian Premier League",
+   "kickoff": "10/12/2026 6:00:00 PM",
+   "odds": [
+    1.35,
+    4.65,
+    6.4
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1517365,
+   "home": "HFX Wanderers FC",
+   "away": "Cavalry FC",
+   "league": "Canada: Canadian Premier League",
+   "kickoff": "10/12/2026 9:00:00 PM",
+   "odds": [
+    3.91,
+    3.78,
+    1.71
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1520923,
+   "home": "Criciuma",
+   "away": "America Mineiro",
+   "league": "Brazil: Serie B",
+   "kickoff": "10/12/2026 11:30:00 PM",
+   "odds": [
+    1.33,
+    4.55,
+    9.62
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1520925,
+   "home": "Fortaleza EC",
+   "away": "CRB",
+   "league": "Brazil: Serie B",
+   "kickoff": "10/12/2026 8:00:00 PM",
+   "odds": [
+    1.87,
+    3.44,
+    4.14
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.25
+    }
+   ]
+  },
+  {
+   "fid": 1520927,
+   "home": "Novorizontino",
+   "away": "Ponte Preta",
+   "league": "Brazil: Serie B",
+   "kickoff": "10/12/2026 11:00:00 PM",
+   "odds": [
+    1.06,
+    10.72,
+    24.0
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.27
+    }
+   ]
+  },
+  {
+   "fid": 1550146,
+   "home": "Torino",
+   "away": "Udinese",
+   "league": "Italy: Serie A",
+   "kickoff": "10/12/2026 7:45:00 PM",
+   "odds": [
+    2.37,
+    3.2,
+    3.33
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.24
+    }
+   ]
+  },
+  {
+   "fid": 1551466,
+   "home": "Bashkimi Kumanovo",
+   "away": "Struga",
+   "league": "Macedonia: First League",
+   "kickoff": "10/12/2026 2:00:00 PM",
+   "odds": [
+    14.75,
+    7.0,
+    1.1
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1552487,
+   "home": "Dijon",
+   "away": "Metz",
+   "league": "France: Ligue 2",
+   "kickoff": "10/12/2026 7:45:00 PM",
+   "odds": [
+    2.66,
+    3.54,
+    2.4
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1555172,
+   "home": "Hapoel Kfar Saba",
+   "away": "Ashdod",
+   "league": "Israel: Liga Leumit",
+   "kickoff": "10/12/2026 5:00:00 PM",
+   "odds": [
+    5.5,
+    4.18,
+    1.44
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1555173,
+   "home": "Hapoel Kfar Shalem",
+   "away": "Hapoel Ra'anana",
+   "league": "Israel: Liga Leumit",
+   "kickoff": "10/12/2026 5:00:00 PM",
+   "odds": [
+    2.43,
+    3.63,
+    2.35
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1555515,
+   "home": "Hapoel Katamon",
+   "away": "Maccabi Haifa",
+   "league": "Israel: Ligat Ha'al",
+   "kickoff": "10/12/2026 6:30:00 PM",
+   "odds": [
+    4.87,
+    4.2,
+    1.56
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1557420,
+   "home": "Coventry",
+   "away": "Newcastle",
+   "league": "England: Premier League",
+   "kickoff": "10/12/2026 8:00:00 PM",
+   "odds": [
+    3.23,
+    3.62,
+    2.24
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.38
+    }
+   ]
+  },
+  {
+   "fid": 1558237,
+   "home": "Stal Rzesz\u00f3w",
+   "away": "Lechia Gdansk",
+   "league": "Poland: I Liga",
+   "kickoff": "10/12/2026 5:00:00 PM",
+   "odds": [
+    2.58,
+    3.54,
+    2.27
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1569967,
+   "home": "Oviedo",
+   "away": "Eibar",
+   "league": "Spain: Segunda Divisi\u00f3n",
+   "kickoff": "10/12/2026 5:30:00 PM",
+   "odds": [
+    2.26,
+    3.12,
+    3.34
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1570781,
+   "home": "Lugo",
+   "away": "UD Logro\u00f1\u00e9s",
+   "league": "Spain: Primera Divisi\u00f3n RFEF - Group 1",
+   "kickoff": "10/12/2026 7:30:00 PM",
+   "odds": [
+    2.4,
+    2.91,
+    2.9
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.16
+    }
+   ]
+  },
+  {
+   "fid": 1581534,
+   "home": "Pyunik Yerevan",
+   "away": "BKMA",
+   "league": "Armenia: Premier League",
+   "kickoff": "10/12/2026 4:00:00 PM",
+   "odds": [
+    1.18,
+    5.91,
+    11.09
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.12
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.54
+    }
+   ]
+  },
+  {
+   "fid": 1584423,
+   "home": "Ey\u00fcpspor",
+   "away": "G\u00f6ztepe",
+   "league": "Turkey: S\u00fcper Lig",
+   "kickoff": "10/12/2026 6:00:00 PM",
+   "odds": [
+    3.8,
+    3.75,
+    1.9
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.2
+    }
+   ]
+  },
+  {
+   "fid": 1593330,
+   "home": "PAOK",
+   "away": "Kalamata",
+   "league": "Greece: Super League 1",
+   "kickoff": "10/12/2026 4:00:00 PM",
+   "odds": [
+    1.19,
+    6.92,
+    12.3
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.05
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.46
+    }
+   ]
+  },
+  {
+   "fid": 1595979,
+   "home": "Carshalton Athletic",
+   "away": "Enfield Town",
+   "league": "England: Non League Premier - Isthmian",
+   "kickoff": "10/12/2026 7:45:00 PM",
+   "odds": [
+    2.92,
+    3.57,
+    2.0
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.28
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.55
+    }
+   ]
+  },
+  {
+   "fid": 1604021,
+   "home": "Al Najma",
+   "away": "Damac",
+   "league": "Saudi-Arabia: Division 1",
+   "kickoff": "10/12/2026 4:15:00 PM",
+   "odds": [
+    1.83,
+    3.37,
+    3.69
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.24
+    }
+   ]
+  },
+  {
+   "fid": 1604025,
+   "home": "Al Wehda Club",
+   "away": "Al Taee",
+   "league": "Saudi-Arabia: Division 1",
+   "kickoff": "10/12/2026 6:00:00 PM",
+   "odds": [
+    1.61,
+    3.8,
+    4.5
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1605093,
+   "home": "Andranik",
+   "away": "Mika",
+   "league": "Armenia: First League",
+   "kickoff": "10/12/2026 12:00:00 PM",
+   "odds": [
+    1.17,
+    6.35,
+    10.2
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.29
+    }
+   ]
+  },
+  {
+   "fid": 1608694,
+   "home": "Pescara",
+   "away": "Guidonia Montecelio 1937",
+   "league": "Italy: Serie C - Girone B",
+   "kickoff": "10/12/2026 7:30:00 PM",
+   "odds": [
+    1.8,
+    3.36,
+    3.83
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.35
+    }
+   ]
+  },
+  {
+   "fid": 1611413,
+   "home": "JS El Biar",
+   "away": "CR Belouizdad",
+   "league": "Algeria: Ligue 1",
+   "kickoff": "10/12/2026 3:00:00 PM",
+   "odds": [
+    4.54,
+    3.1,
+    1.76
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1612251,
+   "home": "El Mokawloon",
+   "away": "Masr",
+   "league": "Egypt: Premier League",
+   "kickoff": "10/12/2026 3:00:00 PM",
+   "odds": [
+    3.08,
+    2.54,
+    2.6
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1612252,
+   "home": "Future FC",
+   "away": "Enppi",
+   "league": "Egypt: Premier League",
+   "kickoff": "10/12/2026 3:00:00 PM",
+   "odds": [
+    2.1,
+    2.73,
+    3.73
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1612254,
+   "home": "Smouha SC",
+   "away": "Ghazl El Mehalla",
+   "league": "Egypt: Premier League",
+   "kickoff": "10/12/2026 6:00:00 PM",
+   "odds": [
+    2.15,
+    2.63,
+    3.92
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1619327,
+   "home": "Always Ready",
+   "away": "Independiente Petrolero",
+   "league": "Bolivia: Primera Divisi\u00f3n",
+   "kickoff": "10/12/2026 10:15:00 PM",
+   "odds": [
+    1.1,
+    8.16,
+    14.22
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.2
+    }
+   ]
+  },
+  {
+   "fid": 1627161,
+   "home": "AFC Bournemouth U21",
+   "away": "Plymouth U21",
+   "league": "England: Premier League Cup",
+   "kickoff": "10/12/2026 7:00:00 PM",
+   "odds": [
+    1.57,
+    4.33,
+    4.09
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.37
+    }
+   ]
+  },
+  {
+   "fid": 1629927,
+   "home": "Pakhtakor",
+   "away": "Al-Qadisiyah FC",
+   "league": "World: AFC Champions League Elite",
+   "kickoff": "10/12/2026 2:45:00 PM",
+   "odds": [
+    5.83,
+    4.32,
+    1.5
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1629930,
+   "home": "Al-Gharafa",
+   "away": "Esteghlal FC",
+   "league": "World: AFC Champions League Elite",
+   "kickoff": "10/12/2026 7:15:00 PM",
+   "odds": [
+    2.72,
+    3.67,
+    2.39
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1629931,
+   "home": "Al-Nassr",
+   "away": "Neftchi",
+   "league": "World: AFC Champions League Elite",
+   "kickoff": "10/12/2026 7:15:00 PM",
+   "odds": [
+    1.2,
+    6.95,
+    11.35
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.33
+    }
+   ]
+  },
+  {
+   "fid": 1629932,
+   "home": "Al Quwa Al Jawiya",
+   "away": "Al Ain",
+   "league": "World: AFC Champions League Elite",
+   "kickoff": "10/12/2026 7:15:00 PM",
+   "odds": [
+    5.63,
+    4.29,
+    1.54
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1638475,
+   "home": "Dalian Kewei",
+   "away": "Langfang Glory City",
+   "league": "China: League Two",
+   "kickoff": "10/12/2026 9:00:00 AM",
+   "odds": [
+    1.4,
+    3.7,
+    7.83
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.21
+    }
+   ]
+  },
+  {
+   "fid": 1638522,
+   "home": "Yichun Grand Tiger",
+   "away": "Changchun Xidu",
+   "league": "China: League Two",
+   "kickoff": "10/12/2026 12:30:00 PM",
+   "odds": [
+    2.17,
+    2.75,
+    3.51
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1638523,
+   "home": "Xiamen Feilu",
+   "away": "Tai'an Tiankuang",
+   "league": "China: League Two",
+   "kickoff": "10/12/2026 12:30:00 PM",
+   "odds": [
+    2.41,
+    2.81,
+    2.94
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1638585,
+   "home": "Andorra W",
+   "away": "Faroe Islands W",
+   "league": "World: Friendlies Women",
+   "kickoff": "10/12/2026 4:00:00 PM",
+   "odds": [
+    9.7,
+    5.67,
+    1.19
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1640490,
+   "home": "Hapoel Yarka",
+   "away": "Beitar Nahariya",
+   "league": "Israel: State Cup",
+   "kickoff": "10/12/2026 11:00:00 AM",
+   "odds": [
+    5.3,
+    3.95,
+    1.48
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.07
+    }
+   ]
+  },
+  {
+   "fid": 1640494,
+   "home": "Dimona",
+   "away": "Bnei Yehuda",
+   "league": "Israel: State Cup",
+   "kickoff": "10/12/2026 4:00:00 PM",
+   "odds": [
+    1.27,
+    4.65,
+    9.0
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1640708,
+   "home": "Mes Kerman",
+   "away": "Mes Rafsanjan",
+   "league": "Iran: Azadegan League",
+   "kickoff": "10/12/2026 12:30:00 PM",
+   "odds": [
+    2.62,
+    2.69,
+    2.71
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1640710,
+   "home": "Ario Eslamshahr",
+   "away": "Be'sat Kermanshah",
+   "league": "Iran: Azadegan League",
+   "kickoff": "10/12/2026 2:30:00 PM",
+   "odds": [
+    1.81,
+    3.06,
+    4.34
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1640712,
+   "home": "Naft Bandar Abbas",
+   "away": "Havadar",
+   "league": "Iran: Azadegan League",
+   "kickoff": "10/12/2026 3:30:00 PM",
+   "odds": [
+    1.57,
+    3.09,
+    6.73
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1643521,
+   "home": "Botafogo SP U20",
+   "away": "Palmeiras U20",
+   "league": "Brazil: Paulista - U20",
+   "kickoff": "10/12/2026 7:00:00 PM",
+   "odds": [
+    9.7,
+    4.55,
+    1.26
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1643522,
+   "home": "Ponte Preta U20",
+   "away": "Santos U20",
+   "league": "Brazil: Paulista - U20",
+   "kickoff": "10/12/2026 7:00:00 PM",
+   "odds": [
+    7.0,
+    5.0,
+    1.3
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1645378,
+   "home": "Tivoli Gardens",
+   "away": "Racing United",
+   "league": "Jamaica: Premier League",
+   "kickoff": "10/12/2026 11:05:00 PM",
+   "odds": [
+    2.9,
+    3.05,
+    2.28
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.21
+    }
+   ]
+  }
+ ]
+}

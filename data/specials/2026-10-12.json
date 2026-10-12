@@ -1,0 +1,676 @@
+{
+ "date": "2026-10-12",
+ "created": "2026-10-12 01:25",
+ "tickets": [
+  {
+   "no": 1,
+   "model": "A7",
+   "tier": "Away Favourite +1 Start",
+   "sporty": "Handicap 0:1 - Away (0:1)",
+   "target": 3.0,
+   "odds": 3.38,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.8,
+    "picks": 111,
+    "avg_odds": 1.29
+   },
+   "legs": [
+    {
+     "fid": 1565493,
+     "kickoff": "10/12/2026 11:00:00 AM",
+     "match": "Livyi Bereh - Zorya Luhansk",
+     "league": "Ukraine: Premier League",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.41,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1645378,
+     "kickoff": "10/12/2026 11:05:00 PM",
+     "match": "Tivoli Gardens - Racing United",
+     "league": "Jamaica: Premier League",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.31,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1492403,
+     "kickoff": "10/12/2026 11:30:00 PM",
+     "match": "Chapecoense-sc - Atletico Paranaense",
+     "league": "Brazil: Serie A",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.27,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1581536,
+     "kickoff": "10/12/2026 1:00:00 PM",
+     "match": "Syunik - Shirak",
+     "league": "Armenia: Premier League",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.22,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1641697,
+     "kickoff": "10/12/2026 3:00:00 PM",
+     "match": "Moldova W - Georgia W",
+     "league": "World: Friendlies Women",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.18,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "model": "A7",
+   "tier": "Away Favourite +1 Start",
+   "sporty": "Handicap 0:1 - Away (0:1)",
+   "target": 3.0,
+   "odds": 3.54,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.8,
+    "picks": 111,
+    "avg_odds": 1.29
+   },
+   "legs": [
+    {
+     "fid": 1511701,
+     "kickoff": "10/12/2026 4:30:00 PM",
+     "match": "D. Puerto Montt - San Luis",
+     "league": "Chile: Primera B",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.34,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1571854,
+     "kickoff": "10/12/2026 6:45:00 PM",
+     "match": "BVSC - Soroksar",
+     "league": "Hungary: NB II",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.24,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1565270,
+     "kickoff": "10/12/2026 7:00:00 PM",
+     "match": "Universitatea Cluj - Rapid",
+     "league": "Romania: Liga I",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.46,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1570407,
+     "kickoff": "10/12/2026 8:00:00 PM",
+     "match": "Levante - Sevilla",
+     "league": "Spain: La Liga",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.46,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "model": "S3",
+   "tier": "Home Favourite +1 at Half-Time",
+   "sporty": "1st Half - Handicap 1:0 - Home (1:0)",
+   "target": 3.0,
+   "odds": 3.09,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 84.1,
+    "picks": 189,
+    "avg_odds": 1.26
+   },
+   "legs": [
+    {
+     "fid": 1642340,
+     "kickoff": "10/12/2026 3:00:00 PM",
+     "match": "Hapoel Ramat HaSharon - Bnei Eilat",
+     "league": "Israel: State Cup",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.2,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1515933,
+     "kickoff": "10/12/2026 4:00:00 PM",
+     "match": "FK Liepaja - Auda",
+     "league": "Latvia: Virsliga",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.25,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1559793,
+     "kickoff": "10/12/2026 4:00:00 PM",
+     "match": "Dukla Praha - Ban\u00edk Ostrava II",
+     "league": "Czech-Republic: FNL",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.17,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1638105,
+     "kickoff": "10/12/2026 4:00:00 PM",
+     "match": "VPS - Gnistan",
+     "league": "Finland: Veikkausliiga",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.29,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1603571,
+     "kickoff": "10/12/2026 5:00:00 PM",
+     "match": "AEK Larnaca - Omonia Aradippou",
+     "league": "Cyprus: 1. Division",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.12,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1640485,
+     "kickoff": "10/12/2026 5:00:00 PM",
+     "match": "Hapoel Herzliya - Hapoel Azor",
+     "league": "Israel: State Cup",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.22,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "model": "A5",
+   "tier": "Away Favourite X2",
+   "sporty": "Double Chance - Draw or Away",
+   "target": 3.0,
+   "odds": 3.21,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.8,
+    "picks": 130,
+    "avg_odds": 1.25
+   },
+   "legs": [
+    {
+     "fid": 1565493,
+     "kickoff": "10/12/2026 11:00:00 AM",
+     "match": "Livyi Bereh - Zorya Luhansk",
+     "league": "Ukraine: Premier League",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.4,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1645378,
+     "kickoff": "10/12/2026 11:05:00 PM",
+     "match": "Tivoli Gardens - Racing United",
+     "league": "Jamaica: Premier League",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.31,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1492403,
+     "kickoff": "10/12/2026 11:30:00 PM",
+     "match": "Chapecoense-sc - Atletico Paranaense",
+     "league": "Brazil: Serie A",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.28,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1581536,
+     "kickoff": "10/12/2026 1:00:00 PM",
+     "match": "Syunik - Shirak",
+     "league": "Armenia: Premier League",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.22,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1641697,
+     "kickoff": "10/12/2026 3:00:00 PM",
+     "match": "Moldova W - Georgia W",
+     "league": "World: Friendlies Women",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.12,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "model": "A5",
+   "tier": "Away Favourite X2",
+   "sporty": "Double Chance - Draw or Away",
+   "target": 3.0,
+   "odds": 3.49,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.8,
+    "picks": 130,
+    "avg_odds": 1.25
+   },
+   "legs": [
+    {
+     "fid": 1511701,
+     "kickoff": "10/12/2026 4:30:00 PM",
+     "match": "D. Puerto Montt - San Luis",
+     "league": "Chile: Primera B",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.34,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1571854,
+     "kickoff": "10/12/2026 6:45:00 PM",
+     "match": "BVSC - Soroksar",
+     "league": "Hungary: NB II",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.24,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1565270,
+     "kickoff": "10/12/2026 7:00:00 PM",
+     "match": "Universitatea Cluj - Rapid",
+     "league": "Romania: Liga I",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.43,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1570407,
+     "kickoff": "10/12/2026 8:00:00 PM",
+     "match": "Levante - Sevilla",
+     "league": "Spain: La Liga",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.47,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "model": "A1",
+   "tier": "Away Favourite Scores",
+   "sporty": "Home Team Clean Sheet - No",
+   "target": 3.0,
+   "odds": 3.48,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 87.6,
+    "picks": 217,
+    "avg_odds": 1.2
+   },
+   "legs": [
+    {
+     "fid": 1565493,
+     "kickoff": "10/12/2026 11:00:00 AM",
+     "match": "Livyi Bereh - Zorya Luhansk",
+     "league": "Ukraine: Premier League",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.3,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1498865,
+     "kickoff": "10/12/2026 11:00:00 PM",
+     "match": "All Boys - Godoy Cruz",
+     "league": "Argentina: Primera Nacional",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.53,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1492403,
+     "kickoff": "10/12/2026 11:30:00 PM",
+     "match": "Chapecoense-sc - Atletico Paranaense",
+     "league": "Brazil: Serie A",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.2,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1550992,
+     "kickoff": "10/12/2026 2:15:00 AM",
+     "match": "U.N.A.M. - Pumas - Cruz Azul",
+     "league": "Mexico: Liga MX",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.14,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1611413,
+     "kickoff": "10/12/2026 3:00:00 PM",
+     "match": "JS El Biar - CR Belouizdad",
+     "league": "Algeria: Ligue 1",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.28,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "model": "A1",
+   "tier": "Away Favourite Scores",
+   "sporty": "Home Team Clean Sheet - No",
+   "target": 3.0,
+   "odds": 3.02,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 87.6,
+    "picks": 217,
+    "avg_odds": 1.2
+   },
+   "legs": [
+    {
+     "fid": 1612251,
+     "kickoff": "10/12/2026 3:00:00 PM",
+     "match": "El Mokawloon - Masr",
+     "league": "Egypt: Premier League",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.44,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1642171,
+     "kickoff": "10/12/2026 3:00:00 PM",
+     "match": "NorthEast United - ATK Mohun Bagan",
+     "league": "India: Indian Super League",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.14,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1555173,
+     "kickoff": "10/12/2026 5:00:00 PM",
+     "match": "Hapoel Kfar Shalem - Hapoel Ra'anana",
+     "league": "Israel: Liga Leumit",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.2,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1558237,
+     "kickoff": "10/12/2026 5:00:00 PM",
+     "match": "Stal Rzesz\u00f3w - Lechia Gdansk",
+     "league": "Poland: I Liga",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.18,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1629928,
+     "kickoff": "10/12/2026 5:00:00 PM",
+     "match": "Al-Wasl FC - Al-Ahli Jeddah",
+     "league": "World: AFC Champions League Elite",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.14,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1638106,
+     "kickoff": "10/12/2026 5:00:00 PM",
+     "match": "AC Oulu - HJK Helsinki",
+     "league": "Finland: Veikkausliiga",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.14,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "model": "A2",
+   "tier": "Home Favourite Not Behind at Half-Time",
+   "sporty": "1st Half - Double Chance - Home or Draw",
+   "target": 3.0,
+   "odds": 3.43,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.1,
+    "picks": 177,
+    "avg_odds": 1.26
+   },
+   "legs": [
+    {
+     "fid": 1570779,
+     "kickoff": "10/12/2026 3:00:00 PM",
+     "match": "Cultural Leonesa - Arenas Getxo",
+     "league": "Spain: Primera Divisi\u00f3n RFEF - Group 1",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.12,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1642340,
+     "kickoff": "10/12/2026 3:00:00 PM",
+     "match": "Hapoel Ramat HaSharon - Bnei Eilat",
+     "league": "Israel: State Cup",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.18,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1515933,
+     "kickoff": "10/12/2026 4:00:00 PM",
+     "match": "FK Liepaja - Auda",
+     "league": "Latvia: Virsliga",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.31,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1559793,
+     "kickoff": "10/12/2026 4:00:00 PM",
+     "match": "Dukla Praha - Ban\u00edk Ostrava II",
+     "league": "Czech-Republic: FNL",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.22,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1638105,
+     "kickoff": "10/12/2026 4:00:00 PM",
+     "match": "VPS - Gnistan",
+     "league": "Finland: Veikkausliiga",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.32,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1640485,
+     "kickoff": "10/12/2026 5:00:00 PM",
+     "match": "Hapoel Herzliya - Hapoel Azor",
+     "league": "Israel: State Cup",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.23,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "model": "A2",
+   "tier": "Home Favourite Not Behind at Half-Time",
+   "sporty": "1st Half - Double Chance - Home or Draw",
+   "target": 3.0,
+   "odds": 3.15,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.1,
+    "picks": 177,
+    "avg_odds": 1.26
+   },
+   "legs": [
+    {
+     "fid": 1494295,
+     "kickoff": "10/12/2026 6:00:00 PM",
+     "match": "Malmo FF - Kalmar FF",
+     "league": "Sweden: Allsvenskan",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.19,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1561682,
+     "kickoff": "10/12/2026 6:00:00 PM",
+     "match": "Olimpia Grudzi\u0105dz - Resovia Rzesz\u00f3w",
+     "league": "Poland: II Liga - East",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.21,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1608694,
+     "kickoff": "10/12/2026 7:30:00 PM",
+     "match": "Pescara - Guidonia Montecelio 1937",
+     "league": "Italy: Serie C - Girone B",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.21,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1492764,
+     "kickoff": "10/12/2026 8:00:00 PM",
+     "match": "Shamrock Rovers - Bohemians",
+     "league": "Ireland: Premier Division",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.27,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1505538,
+     "kickoff": "10/12/2026 9:00:00 PM",
+     "match": "Universidad de Chile - Nublense",
+     "league": "Chile: Primera Divisi\u00f3n",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.14,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1511699,
+     "kickoff": "10/12/2026 9:30:00 PM",
+     "match": "Deportes Iquique - Union Espanola",
+     "league": "Chile: Primera B",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.25,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    }
+   ]
+  }
+ ]
+}
