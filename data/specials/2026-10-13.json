@@ -1,0 +1,471 @@
+{
+ "date": "2026-10-13",
+ "created": "2026-10-13 02:14",
+ "tickets": [
+  {
+   "no": 1,
+   "model": "A7",
+   "tier": "Away Favourite +1 Start",
+   "sporty": "Handicap 0:1 - Away (0:1)",
+   "target": 3.0,
+   "odds": 3.21,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.8,
+    "picks": 111,
+    "avg_odds": 1.29
+   },
+   "legs": [
+    {
+     "fid": 1557268,
+     "kickoff": "10/13/2026 4:00:00 PM",
+     "match": "Serbia W - Finland W",
+     "league": "World: World Cup - Women - Qualification Europe",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.14,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1630361,
+     "kickoff": "10/13/2026 5:00:00 PM",
+     "match": "Al Seeb - Al Hussein",
+     "league": "World: AFC Champions League Two",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.37,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1586261,
+     "kickoff": "10/13/2026 6:00:00 PM",
+     "match": "Greuther F\u00fcrth II - Memmingen",
+     "league": "Germany: Regionalliga - Bayern",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.34,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1612258,
+     "kickoff": "10/13/2026 6:00:00 PM",
+     "match": "Petrojet - Wadi Degla",
+     "league": "Egypt: Premier League",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.31,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    },
+    {
+     "fid": 1556869,
+     "kickoff": "10/13/2026 7:45:00 PM",
+     "match": "Queen's Park - Inverness CT",
+     "league": "Scotland: Championship",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.17,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "model": "A3",
+   "tier": "Underdog Will Not Score in Both Halves",
+   "sporty": "Away Team to Score in Both Halves - No",
+   "target": 3.0,
+   "odds": 2.79,
+   "reached": false,
+   "repeats": false,
+   "record": {
+    "hit": 85.9,
+    "picks": 99,
+    "avg_odds": 1.25
+   },
+   "legs": [
+    {
+     "fid": 1637325,
+     "kickoff": "10/13/2026 1:00:00 PM",
+     "match": "Arsenal U19 - Lille U19",
+     "league": "World: UEFA Youth League",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.14,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    },
+    {
+     "fid": 1635281,
+     "kickoff": "10/13/2026 2:00:00 PM",
+     "match": "Lugazi - BUL",
+     "league": "Uganda: Premier League",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.37,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    },
+    {
+     "fid": 1637333,
+     "kickoff": "10/13/2026 3:00:00 PM",
+     "match": "Villarreal U19 - Napoli U19",
+     "league": "World: UEFA Youth League",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.13,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    },
+    {
+     "fid": 1600358,
+     "kickoff": "10/13/2026 6:30:00 PM",
+     "match": "Richards Bay - Mamelodi Sundowns",
+     "league": "South-Africa: Premier Soccer League",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.58,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "model": "S3",
+   "tier": "Home Favourite +1 at Half-Time",
+   "sporty": "1st Half - Handicap 1:0 - Home (1:0)",
+   "target": 3.0,
+   "odds": 3.26,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 84.1,
+    "picks": 189,
+    "avg_odds": 1.26
+   },
+   "legs": [
+    {
+     "fid": 1629936,
+     "kickoff": "10/13/2026 11:00:00 AM",
+     "match": "SHANGHAI SIPG - Daejeon Citizen",
+     "league": "World: AFC Champions League Elite",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.25,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1531008,
+     "kickoff": "10/13/2026 12:00:00 PM",
+     "match": "Metalourg - Shortan",
+     "league": "Uzbekistan: Pro League A",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.23,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1598708,
+     "kickoff": "10/13/2026 1:00:00 PM",
+     "match": "Moreirense U23 - Santa Clara U23",
+     "league": "Portugal: Liga Revela\u00e7\u00e3o U23",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.14,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1629937,
+     "kickoff": "10/13/2026 1:15:00 PM",
+     "match": "Buriram United - Beijing Guoan",
+     "league": "World: AFC Champions League Elite",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.21,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1609058,
+     "kickoff": "10/13/2026 2:00:00 PM",
+     "match": "Giugliano - Inter U23",
+     "league": "Italy: Serie C - Girone C",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.25,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1598706,
+     "kickoff": "10/13/2026 3:00:00 PM",
+     "match": "Felgueiras U23 - Rio Ave U23",
+     "league": "Portugal: Liga Revela\u00e7\u00e3o U23",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.23,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "model": "S3",
+   "tier": "Home Favourite +1 at Half-Time",
+   "sporty": "1st Half - Handicap 1:0 - Home (1:0)",
+   "target": 3.0,
+   "odds": 3.61,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 84.1,
+    "picks": 189,
+    "avg_odds": 1.26
+   },
+   "legs": [
+    {
+     "fid": 1598707,
+     "kickoff": "10/13/2026 3:00:00 PM",
+     "match": "Gil Vicente U23 - Vizela U23",
+     "league": "Portugal: Liga Revela\u00e7\u00e3o U23",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.21,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1608306,
+     "kickoff": "10/13/2026 3:00:00 PM",
+     "match": "Juventus U23 - Lumezzane",
+     "league": "Italy: Serie C - Girone A",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.22,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1645596,
+     "kickoff": "10/13/2026 3:45:00 PM",
+     "match": "Qatar SC - Al Zawra'a",
+     "league": "World: AGCFF Gulf Champions League",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.14,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1563664,
+     "kickoff": "10/13/2026 4:30:00 PM",
+     "match": "Lokomotiv - Akron",
+     "league": "Russia: Cup",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.12,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1635679,
+     "kickoff": "10/13/2026 5:45:00 PM",
+     "match": "Lens - Sporting CP",
+     "league": "World: UEFA Champions League",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.34,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1585786,
+     "kickoff": "10/13/2026 6:00:00 PM",
+     "match": "Pendikspor - Vanspor FK",
+     "league": "Turkey: 1. Lig",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.17,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    },
+    {
+     "fid": 1586259,
+     "kickoff": "10/13/2026 6:00:00 PM",
+     "match": "Eichst\u00e4tt - Vilzing",
+     "league": "Germany: Regionalliga - Bayern",
+     "pick": "1st Half - Handicap 1:0 - Home (1:0)",
+     "model": "S3",
+     "odds": 1.22,
+     "market": "Handicap Result - First Half",
+     "selection": "Home +1"
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "model": "A5",
+   "tier": "Away Favourite X2",
+   "sporty": "Double Chance - Draw or Away",
+   "target": 3.0,
+   "odds": 3.64,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.8,
+    "picks": 130,
+    "avg_odds": 1.25
+   },
+   "legs": [
+    {
+     "fid": 1630361,
+     "kickoff": "10/13/2026 5:00:00 PM",
+     "match": "Al Seeb - Al Hussein",
+     "league": "World: AFC Champions League Two",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.4,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1586261,
+     "kickoff": "10/13/2026 6:00:00 PM",
+     "match": "Greuther F\u00fcrth II - Memmingen",
+     "league": "Germany: Regionalliga - Bayern",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.34,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1612258,
+     "kickoff": "10/13/2026 6:00:00 PM",
+     "match": "Petrojet - Wadi Degla",
+     "league": "Egypt: Premier League",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.27,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1556869,
+     "kickoff": "10/13/2026 7:45:00 PM",
+     "match": "Queen's Park - Inverness CT",
+     "league": "Scotland: Championship",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.14,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1596929,
+     "kickoff": "10/13/2026 7:45:00 PM",
+     "match": "Halesowen Town - Alvechurch",
+     "league": "England: Non League Premier - Southern Central",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.34,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "model": "A1",
+   "tier": "Away Favourite Scores",
+   "sporty": "Home Team Clean Sheet - No",
+   "target": 3.0,
+   "odds": 3.42,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 87.6,
+    "picks": 217,
+    "avg_odds": 1.2
+   },
+   "legs": [
+    {
+     "fid": 1629935,
+     "kickoff": "10/13/2026 11:00:00 AM",
+     "match": "Pohang Steelers - Johor Darul Takzim FC",
+     "league": "World: AFC Champions League Elite",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.2,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1611411,
+     "kickoff": "10/13/2026 5:45:00 PM",
+     "match": "ASO Chlef - MC Alger",
+     "league": "Algeria: Ligue 1",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.3,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1635721,
+     "kickoff": "10/13/2026 5:45:00 PM",
+     "match": "Sabah FA - Slavia Praha",
+     "league": "World: UEFA Champions League",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.17,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1584028,
+     "kickoff": "10/13/2026 6:00:00 PM",
+     "match": "FC Saarbr\u00fccken - MSV Duisburg",
+     "league": "Germany: 3. Liga",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.22,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1584030,
+     "kickoff": "10/13/2026 6:00:00 PM",
+     "match": "Havelse - W\u00fcrzburger Kickers",
+     "league": "Germany: 3. Liga",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.18,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1612258,
+     "kickoff": "10/13/2026 6:00:00 PM",
+     "match": "Petrojet - Wadi Degla",
+     "league": "Egypt: Premier League",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.3,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    }
+   ]
+  }
+ ]
+}
