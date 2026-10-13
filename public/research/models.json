@@ -13,12 +13,12 @@
      "roi": 14.4
     },
     "live": {
-     "picks": 219,
-     "won": 42,
-     "hit": 19.2,
+     "picks": 220,
+     "won": 43,
+     "hit": 19.5,
      "avg_odds": 4.31,
-     "profit": -41.04,
-     "roi": -18.7
+     "profit": -37.99,
+     "roi": -17.3
     }
    },
    {
@@ -33,12 +33,12 @@
      "roi": 26.1
     },
     "live": {
-     "picks": 212,
-     "won": 55,
-     "hit": 25.9,
+     "picks": 213,
+     "won": 56,
+     "hit": 26.3,
      "avg_odds": 3.56,
-     "profit": -19.61,
-     "roi": -9.3
+     "profit": -17.43,
+     "roi": -8.2
     }
    },
    {
@@ -73,12 +73,12 @@
      "roi": 36.7
     },
     "live": {
-     "picks": 209,
+     "picks": 210,
      "won": 45,
-     "hit": 21.5,
+     "hit": 21.4,
      "avg_odds": 4.1,
-     "profit": -32.95,
-     "roi": -15.8
+     "profit": -33.95,
+     "roi": -16.2
     }
    },
    {
@@ -93,12 +93,12 @@
      "roi": 21.2
     },
     "live": {
-     "picks": 296,
+     "picks": 298,
      "won": 54,
-     "hit": 18.2,
+     "hit": 18.1,
      "avg_odds": 5.02,
-     "profit": -32.94,
-     "roi": -11.1
+     "profit": -34.94,
+     "roi": -11.7
     }
    }
   ],
@@ -116,7 +116,10 @@
       "pick": "Half Time/Full Time - Draw/Home",
       "odds": 4.05,
       "market": "HT/FT Double",
-      "selection": "Draw/Home"
+      "selection": "Draw/Home",
+      "status": "WON",
+      "score": "1-0",
+      "ht": "0-0"
      },
      {
       "model": "D1",
@@ -435,7 +438,10 @@
       "pick": "1st Half - Over/Under - Under 0.5",
       "odds": 3.18,
       "market": "Goals Over/Under First Half",
-      "selection": "Under 0.5"
+      "selection": "Under 0.5",
+      "status": "WON",
+      "score": "1-0",
+      "ht": "0-0"
      },
      {
       "model": "D2",
@@ -834,7 +840,10 @@
       "pick": "Home Team to Win to Nil - Yes",
       "odds": 4.0,
       "market": "Win To Nil",
-      "selection": "Home"
+      "selection": "Home",
+      "status": "LOST",
+      "score": "1-1",
+      "ht": "0-0"
      },
      {
       "model": "D4",
@@ -999,7 +1008,10 @@
       "pick": "1X2 & GG/NG - Away & Yes",
       "odds": 4.0,
       "market": "Results/Both Teams Score",
-      "selection": "Away/Yes"
+      "selection": "Away/Yes",
+      "status": "LOST",
+      "score": "0-2",
+      "ht": "0-0"
      },
      {
       "model": "D5",
@@ -1010,7 +1022,10 @@
       "pick": "1X2 & GG/NG - Away & Yes",
       "odds": 5.5,
       "market": "Results/Both Teams Score",
-      "selection": "Away/Yes"
+      "selection": "Away/Yes",
+      "status": "LOST",
+      "score": "1-1",
+      "ht": "0-0"
      },
      {
       "model": "D5",
@@ -18272,7 +18287,9 @@
        "odds": 1.25,
        "market": "Handicap Result - First Half",
        "selection": "Home +1",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "1-1",
+       "ht": "0-0"
       },
       {
        "fid": 1531008,
@@ -18542,7 +18559,9 @@
        "odds": 1.2,
        "market": "Clean Sheet - Home",
        "selection": "No",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "0-2",
+       "ht": "0-0"
       },
       {
        "fid": 1611411,
@@ -18783,7 +18802,9 @@
         "odds": 1.25,
         "market": "Handicap Result - First Half",
         "selection": "Home +1",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "1-1",
+        "ht": "0-0"
        },
        {
         "fid": 1531008,
@@ -19053,7 +19074,9 @@
         "odds": 1.2,
         "market": "Clean Sheet - Home",
         "selection": "No",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "0-2",
+        "ht": "0-0"
        },
        {
         "fid": 1611411,
@@ -27490,7 +27513,11 @@
      "o25": 1.69,
      "odds": 1.17,
      "fav_side": "Home",
-     "o15": 1.19
+     "o15": 1.19,
+     "score": "1-0",
+     "status": "WON",
+     "o15_status": "LOST",
+     "fav_status": "WON"
     },
     {
      "fid": 1631764,
@@ -27852,7 +27879,11 @@
       "o25": 1.69,
       "odds": 1.17,
       "fav_side": "Home",
-      "o15": 1.19
+      "o15": 1.19,
+      "score": "1-0",
+      "status": "WON",
+      "o15_status": "LOST",
+      "fav_status": "WON"
      },
      {
       "fid": 1631764,
@@ -33784,8 +33815,8 @@
   ],
   "live": {
    "Wide": {
-    "picks": 339,
-    "won": 299
+    "picks": 340,
+    "won": 300
    },
    "Sweet": {
     "picks": 116,
@@ -35052,9 +35083,11 @@
        "cat": "HOME 1+",
        "consistency": 98,
        "neighbours": "49 / 50",
-       "odds": 1.07
+       "odds": 1.07,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-0"
     },
     {
      "fid": 1629935,
@@ -35073,9 +35106,11 @@
        "cat": "X2",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.35
+       "odds": 1.35,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "0-2"
     },
     {
      "fid": 1629938,
@@ -36916,9 +36951,11 @@
         "cat": "HOME 1+",
         "consistency": 98,
         "neighbours": "49 / 50",
-        "odds": 1.07
+        "odds": 1.07,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-0"
      },
      {
       "fid": 1629935,
@@ -36937,9 +36974,11 @@
         "cat": "X2",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.35
+        "odds": 1.35,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "0-2"
      },
      {
       "fid": 1629938,
@@ -66922,13 +66961,21 @@
    }
   ],
   "live": {
+   "HOME 1+": {
+    "picks": 221,
+    "won": 209
+   },
+   "TOP FINGERPRINT": {
+    "picks": 1098,
+    "won": 922
+   },
+   "X2": {
+    "picks": 231,
+    "won": 197
+   },
    "OVER 1.5": {
     "picks": 261,
     "won": 223
-   },
-   "TOP FINGERPRINT": {
-    "picks": 1096,
-    "won": 920
    },
    "UNDER 3.5": {
     "picks": 391,
@@ -66938,17 +66985,9 @@
     "picks": 224,
     "won": 207
    },
-   "HOME 1+": {
-    "picks": 220,
-    "won": 208
-   },
    "OVER 2.5": {
     "picks": 195,
     "won": 128
-   },
-   "X2": {
-    "picks": 230,
-    "won": 196
    },
    "AWAY 1+": {
     "picks": 44,
@@ -67021,7 +67060,9 @@
        "odds": 1.2,
        "market": "Clean Sheet - Home",
        "selection": "No",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "0-2",
+       "ht": "0-0"
       },
       {
        "fid": 1629936,
@@ -67033,7 +67074,9 @@
        "odds": 1.2,
        "market": "Clean Sheet - Away",
        "selection": "No",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "1-1",
+       "ht": "0-0"
       },
       {
        "fid": 1629937,
@@ -67501,7 +67544,9 @@
        "odds": 1.33,
        "market": "Away Team Total Goals(1st Half)",
        "selection": "Under 0.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "1-0",
+       "ht": "0-0"
       },
       {
        "fid": 1557268,
@@ -67892,7 +67937,9 @@
         "odds": 1.2,
         "market": "Clean Sheet - Home",
         "selection": "No",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "0-2",
+        "ht": "0-0"
        },
        {
         "fid": 1629936,
@@ -67904,7 +67951,9 @@
         "odds": 1.2,
         "market": "Clean Sheet - Away",
         "selection": "No",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "1-1",
+        "ht": "0-0"
        },
        {
         "fid": 1629937,
@@ -68372,7 +68421,9 @@
         "odds": 1.33,
         "market": "Away Team Total Goals(1st Half)",
         "selection": "Under 0.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "1-0",
+        "ht": "0-0"
        },
        {
         "fid": 1557268,
@@ -79772,9 +79823,17 @@
     "id": "A1",
     "name": "Away Favourite Scores",
     "sporty": "Home Team Clean Sheet - No",
+    "picks": 51,
+    "won": 35,
+    "hit": 68.6
+   },
+   {
+    "id": "M9",
+    "name": "Away Blank in First Half",
+    "sporty": "1st Half - Away Team Under 0.5",
     "picks": 50,
-    "won": 34,
-    "hit": 68.0
+    "won": 36,
+    "hit": 72.0
    },
    {
     "id": "M1",
@@ -79785,20 +79844,12 @@
     "hit": 66.0
    },
    {
-    "id": "M9",
-    "name": "Away Blank in First Half",
-    "sporty": "1st Half - Away Team Under 0.5",
-    "picks": 49,
-    "won": 35,
-    "hit": 71.4
-   },
-   {
     "id": "A9",
     "name": "Home Team Scores",
     "sporty": "Away Team Clean Sheet - No",
-    "picks": 42,
-    "won": 31,
-    "hit": 73.8
+    "picks": 43,
+    "won": 32,
+    "hit": 74.4
    },
    {
     "id": "A5",
@@ -110956,7 +111007,7 @@
    "about": "Mixed markets, built until the ticket reaches 20 odds. Rare wins, big payout."
   }
  },
- "generated": "2026-10-13 12:44",
+ "generated": "2026-10-13 13:40",
  "split": "2026-09-26",
  "note": "Candidates only. Selected as the best of 21,335 tested patterns over 6 days; some of this record is luck and will fade. Flat 1-unit stakes at the typical (median) bookmaker price. Prices captured about 1 hour before kick-off.",
  "models": [
