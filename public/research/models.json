@@ -13,12 +13,12 @@
      "roi": 14.4
     },
     "live": {
-     "picks": 247,
+     "picks": 248,
      "won": 49,
      "hit": 19.8,
-     "avg_odds": 4.31,
-     "profit": -39.6,
-     "roi": -16.0
+     "avg_odds": 4.32,
+     "profit": -40.6,
+     "roi": -16.4
     }
    },
    {
@@ -33,12 +33,12 @@
      "roi": 26.1
     },
     "live": {
-     "picks": 230,
+     "picks": 231,
      "won": 60,
-     "hit": 26.1,
+     "hit": 26.0,
      "avg_odds": 3.58,
-     "profit": -20.92,
-     "roi": -9.1
+     "profit": -21.92,
+     "roi": -9.5
     }
    },
    {
@@ -53,12 +53,12 @@
      "roi": 23.3
     },
     "live": {
-     "picks": 279,
-     "won": 48,
-     "hit": 17.2,
+     "picks": 280,
+     "won": 49,
+     "hit": 17.5,
      "avg_odds": 4.43,
-     "profit": -65.92,
-     "roi": -23.6
+     "profit": -62.59,
+     "roi": -22.4
     }
    },
    {
@@ -73,12 +73,12 @@
      "roi": 36.7
     },
     "live": {
-     "picks": 224,
+     "picks": 225,
      "won": 45,
-     "hit": 20.1,
+     "hit": 20.0,
      "avg_odds": 4.08,
-     "profit": -47.95,
-     "roi": -21.4
+     "profit": -48.95,
+     "roi": -21.8
     }
    },
    {
@@ -490,7 +490,10 @@
       "pick": "Exact Goals - 3",
       "odds": 4.33,
       "market": "Exact Goals Number",
-      "selection": "3"
+      "selection": "3",
+      "status": "WON",
+      "score": "1-2",
+      "ht": "0-1"
      },
      {
       "model": "D3",
@@ -567,7 +570,10 @@
       "pick": "Home Team to Win to Nil - Yes",
       "odds": 4.0,
       "market": "Win To Nil",
-      "selection": "Home"
+      "selection": "Home",
+      "status": "LOST",
+      "score": "1-2",
+      "ht": "0-1"
      },
      {
       "model": "D4",
@@ -1229,7 +1235,10 @@
       "pick": "Half Time/Full Time - Draw/Home",
       "odds": 4.78,
       "market": "HT/FT Double",
-      "selection": "Draw/Home"
+      "selection": "Draw/Home",
+      "status": "LOST",
+      "score": "3-1",
+      "ht": "2-0"
      },
      {
       "model": "D2",
@@ -1506,7 +1515,10 @@
       "pick": "1st Half - Over/Under - Under 0.5",
       "odds": 4.25,
       "market": "Goals Over/Under First Half",
-      "selection": "Under 0.5"
+      "selection": "Under 0.5",
+      "status": "LOST",
+      "score": "3-1",
+      "ht": "2-0"
      },
      {
       "model": "D3",
@@ -30123,7 +30135,11 @@
       "o25": 1.33,
       "odds": 1.11,
       "fav_side": "Home",
-      "o15": 1.1
+      "o15": 1.1,
+      "score": "3-1",
+      "status": "WON",
+      "o15_status": "WON",
+      "fav_status": "WON"
      },
      {
       "fid": 1619506,
@@ -36033,8 +36049,8 @@
     "won": 112
    },
    "Wide": {
-    "picks": 364,
-    "won": 323
+    "picks": 365,
+    "won": 324
    }
   },
   "extras": {
@@ -36450,9 +36466,11 @@
        "cat": "UNDER 3.5",
        "consistency": 82,
        "neighbours": "41 / 50",
-       "odds": 1.32
+       "odds": 1.32,
+       "status": "WON"
       }
-     ]
+     ],
+     "score": "1-2"
     },
     {
      "fid": 1560846,
@@ -37780,9 +37798,11 @@
         "cat": "UNDER 3.5",
         "consistency": 82,
         "neighbours": "41 / 50",
-        "odds": 1.32
+        "odds": 1.32,
+        "status": "WON"
        }
-      ]
+      ],
+      "score": "1-2"
      },
      {
       "fid": 1560846,
@@ -70150,13 +70170,17 @@
    }
   ],
   "live": {
+   "UNDER 3.5": {
+    "picks": 413,
+    "won": 320
+   },
+   "TOP FINGERPRINT": {
+    "picks": 1169,
+    "won": 985
+   },
    "HOME 1+": {
     "picks": 242,
     "won": 229
-   },
-   "TOP FINGERPRINT": {
-    "picks": 1168,
-    "won": 984
    },
    "1X": {
     "picks": 242,
@@ -70173,10 +70197,6 @@
    "X2": {
     "picks": 246,
     "won": 211
-   },
-   "UNDER 3.5": {
-    "picks": 412,
-    "won": 319
    },
    "AWAY 1+": {
     "picks": 47,
@@ -73890,9 +73910,9 @@
         "odds": 1.38,
         "market": "Away Team Total Goals(1st Half)",
         "selection": "Under 0.5",
-        "status": "LOST",
+        "status": "WON",
         "score": "2-1",
-        "ht": "0-1"
+        "ht": "1-0"
        },
        {
         "fid": 1638106,
@@ -73966,7 +73986,7 @@
        }
       ],
       "status": "LOST",
-      "lost_legs": 2
+      "lost_legs": 1
      },
      {
       "no": 10,
@@ -84107,8 +84127,8 @@
     "name": "Away Blank in First Half",
     "sporty": "1st Half - Away Team Under 0.5",
     "picks": 53,
-    "won": 38,
-    "hit": 71.7
+    "won": 39,
+    "hit": 73.6
    },
    {
     "id": "A9",
@@ -114695,7 +114715,7 @@
    "about": "Mixed markets, built until the ticket reaches 20 odds. Rare wins, big payout."
   }
  },
- "generated": "2026-10-14 02:03",
+ "generated": "2026-10-14 10:30",
  "split": "2026-09-26",
  "note": "Candidates only. Selected as the best of 21,335 tested patterns over 6 days; some of this record is luck and will fade. Flat 1-unit stakes at the typical (median) bookmaker price. Prices captured about 1 hour before kick-off.",
  "models": [
