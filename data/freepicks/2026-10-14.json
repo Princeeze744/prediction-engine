@@ -1,0 +1,1329 @@
+{
+ "date": "2026-10-14",
+ "created": "2026-10-14 02:03",
+ "items": [
+  {
+   "fid": 1493164,
+   "home": "Sarmiento Junin",
+   "away": "River Plate",
+   "league": "Argentina: Liga Profesional Argentina",
+   "kickoff": "10/14/2026 11:00:00 PM",
+   "odds": [
+    5.41,
+    3.31,
+    1.73
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1495975,
+   "home": "Bryne",
+   "away": "Raufoss",
+   "league": "Norway: 1. Division",
+   "kickoff": "10/14/2026 6:00:00 PM",
+   "odds": [
+    1.25,
+    6.0,
+    9.39
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.31
+    }
+   ]
+  },
+  {
+   "fid": 1495976,
+   "home": "Haugesund",
+   "away": "Lyn",
+   "league": "Norway: 1. Division",
+   "kickoff": "10/14/2026 6:00:00 PM",
+   "odds": [
+    1.21,
+    6.75,
+    9.62
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1495977,
+   "home": "hodd",
+   "away": "Ranheim",
+   "league": "Norway: 1. Division",
+   "kickoff": "10/14/2026 6:00:00 PM",
+   "odds": [
+    3.06,
+    4.05,
+    1.99
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.32
+    }
+   ]
+  },
+  {
+   "fid": 1495980,
+   "home": "Stabaek",
+   "away": "Sandnes ULF",
+   "league": "Norway: 1. Division",
+   "kickoff": "10/14/2026 6:00:00 PM",
+   "odds": [
+    1.4,
+    5.05,
+    5.89
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1495982,
+   "home": "Stromsgodset",
+   "away": "Kongsvinger",
+   "league": "Norway: 1. Division",
+   "kickoff": "10/14/2026 6:00:00 PM",
+   "odds": [
+    1.76,
+    4.29,
+    3.68
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1496491,
+   "home": "Asker",
+   "away": "Frigg",
+   "league": "Norway: 3. Division - Girone 1",
+   "kickoff": "10/14/2026 6:00:00 PM",
+   "odds": [
+    1.19,
+    6.95,
+    8.53
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1513646,
+   "home": "Trans Narva",
+   "away": "Kuressaare",
+   "league": "Estonia: Meistriliiga",
+   "kickoff": "10/14/2026 2:00:00 PM",
+   "odds": [
+    1.98,
+    3.4,
+    3.26
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.37
+    }
+   ]
+  },
+  {
+   "fid": 1513647,
+   "home": "Paide",
+   "away": "Tammeka",
+   "league": "Estonia: Meistriliiga",
+   "kickoff": "10/14/2026 5:00:00 PM",
+   "odds": [
+    1.61,
+    3.9,
+    4.3
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1519658,
+   "home": "FCI Levadia II",
+   "away": "N\u00f5mme Kalju II",
+   "league": "Estonia: Esiliiga A",
+   "kickoff": "10/14/2026 5:00:00 PM",
+   "odds": [
+    1.35,
+    5.6,
+    5.39
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1521706,
+   "home": "Parnu JK Vaprus U21",
+   "away": "JK Tabasalu",
+   "league": "Estonia: Esiliiga B",
+   "kickoff": "10/14/2026 4:00:00 PM",
+   "odds": [
+    1.46,
+    5.5,
+    4.29
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1549665,
+   "home": "Real Cundinamarca",
+   "away": "Bogota FC",
+   "league": "Colombia: Primera B",
+   "kickoff": "10/14/2026 11:00:00 PM",
+   "odds": [
+    1.72,
+    3.33,
+    4.62
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1549721,
+   "home": "Junior",
+   "away": "Deportivo Pereira",
+   "league": "Colombia: Primera A",
+   "kickoff": "10/14/2026 10:30:00 PM",
+   "odds": [
+    1.24,
+    5.65,
+    11.22
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.05
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.5
+    }
+   ]
+  },
+  {
+   "fid": 1551699,
+   "home": "San Carlos",
+   "away": "Inter San Carlos",
+   "league": "Costa-Rica: Primera Divisi\u00f3n",
+   "kickoff": "10/14/2026 3:00:00 AM",
+   "odds": [
+    2.3,
+    2.95,
+    3.03
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.32
+    }
+   ]
+  },
+  {
+   "fid": 1560846,
+   "home": "Club Atletico Barinas",
+   "away": "Real Frontera",
+   "league": "Venezuela: Copa Venezuela",
+   "kickoff": "10/14/2026 8:30:00 PM",
+   "odds": [
+    1.27,
+    4.9,
+    7.5
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1560852,
+   "home": "Monagas SC",
+   "away": "Dinamo de Puerto La Cruz",
+   "league": "Venezuela: Copa Venezuela",
+   "kickoff": "10/14/2026 11:00:00 PM",
+   "odds": [
+    1.23,
+    5.1,
+    8.43
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.55
+    }
+   ]
+  },
+  {
+   "fid": 1560853,
+   "home": "Trujillanos FC",
+   "away": "Rayo Zuliano",
+   "league": "Venezuela: Copa Venezuela",
+   "kickoff": "10/14/2026 9:00:00 PM",
+   "odds": [
+    2.69,
+    3.15,
+    2.31
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1562723,
+   "home": "Ban\u00edk Sou\u0161",
+   "away": "Ben\u00e1tky nad Jizerou",
+   "league": "Czech-Republic: 3. liga - CFL B",
+   "kickoff": "10/14/2026 2:30:00 PM",
+   "odds": [
+    1.92,
+    3.38,
+    3.41
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.3
+    }
+   ]
+  },
+  {
+   "fid": 1563659,
+   "home": "Akhmat",
+   "away": "Dynamo",
+   "league": "Russia: Cup",
+   "kickoff": "10/14/2026 4:30:00 PM",
+   "odds": [
+    2.84,
+    3.52,
+    2.46
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.23
+    }
+   ]
+  },
+  {
+   "fid": 1563661,
+   "home": "Dinamo Makhachkala",
+   "away": "Zenit",
+   "league": "Russia: Cup",
+   "kickoff": "10/14/2026 4:30:00 PM",
+   "odds": [
+    5.32,
+    4.32,
+    1.61
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1563663,
+   "home": "Krylia Sovetov",
+   "away": "Baltika",
+   "league": "Russia: Cup",
+   "kickoff": "10/14/2026 2:15:00 PM",
+   "odds": [
+    3.15,
+    3.16,
+    2.44
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.22
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.38
+    }
+   ]
+  },
+  {
+   "fid": 1568806,
+   "home": "Lech Pozna\u0144 II",
+   "away": "Wda \u015awiecie",
+   "league": "Poland: III Liga - Group 2",
+   "kickoff": "10/14/2026 11:00:00 AM",
+   "odds": [
+    1.63,
+    3.88,
+    4.06
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.43
+    }
+   ]
+  },
+  {
+   "fid": 1584026,
+   "home": "Preu\u00dfen M\u00fcnster",
+   "away": "Fortuna D\u00fcsseldorf",
+   "league": "Germany: 3. Liga",
+   "kickoff": "10/14/2026 6:00:00 PM",
+   "odds": [
+    2.73,
+    3.4,
+    2.24
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.67
+    }
+   ]
+  },
+  {
+   "fid": 1585781,
+   "home": "Batman Petrolspor",
+   "away": "\u0130stanbulspor",
+   "league": "Turkey: 1. Lig",
+   "kickoff": "10/14/2026 12:30:00 PM",
+   "odds": [
+    1.61,
+    3.8,
+    4.55
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1611414,
+   "home": "ES Setif",
+   "away": "JS Kabylie",
+   "league": "Algeria: Ligue 1",
+   "kickoff": "10/14/2026 6:00:00 PM",
+   "odds": [
+    2.08,
+    2.76,
+    3.8
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1611417,
+   "home": "T\u00e9mouchent",
+   "away": "MB Rouisset",
+   "league": "Algeria: Ligue 1",
+   "kickoff": "10/14/2026 6:00:00 PM",
+   "odds": [
+    2.03,
+    2.77,
+    3.95
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1612097,
+   "home": "Estudiantes La Plata Res",
+   "away": "Lan\u00fas Res.",
+   "league": "Argentina: Reserve League",
+   "kickoff": "10/14/2026 7:00:00 PM",
+   "odds": [
+    1.97,
+    3.37,
+    3.26
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.28
+    }
+   ]
+  },
+  {
+   "fid": 1629064,
+   "home": "Mombasa Elite",
+   "away": "Homeboyz",
+   "league": "Kenya: FKF Premier League",
+   "kickoff": "10/14/2026 1:00:00 PM",
+   "odds": [
+    2.8,
+    2.88,
+    2.41
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1629065,
+   "home": "AFC Leopards",
+   "away": "Bandari",
+   "league": "Kenya: FKF Premier League",
+   "kickoff": "10/14/2026 1:00:00 PM",
+   "odds": [
+    1.86,
+    2.89,
+    4.34
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1629941,
+   "home": "Kashiwa Reysol",
+   "away": "Port FC",
+   "league": "World: AFC Champions League Elite",
+   "kickoff": "10/14/2026 11:00:00 AM",
+   "odds": [
+    1.18,
+    7.83,
+    10.97
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.31
+    }
+   ]
+  },
+  {
+   "fid": 1631593,
+   "home": "Kheybar Khorramabad",
+   "away": "Persepolis FC",
+   "league": "Iran: Persian Gulf Pro League",
+   "kickoff": "10/14/2026 2:30:00 PM",
+   "odds": [
+    6.67,
+    3.68,
+    1.45
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1635614,
+   "home": "AS Roma",
+   "away": "Real Madrid",
+   "league": "World: UEFA Champions League",
+   "kickoff": "10/14/2026 8:00:00 PM",
+   "odds": [
+    3.65,
+    4.03,
+    1.97
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1635674,
+   "home": "Lask Linz",
+   "away": "Liverpool",
+   "league": "World: UEFA Champions League",
+   "kickoff": "10/14/2026 5:45:00 PM",
+   "odds": [
+    9.18,
+    6.13,
+    1.31
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1635725,
+   "home": "Shakhtar Donetsk",
+   "away": "AEK Athens FC",
+   "league": "World: UEFA Champions League",
+   "kickoff": "10/14/2026 8:00:00 PM",
+   "odds": [
+    2.7,
+    3.46,
+    2.67
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.33
+    }
+   ]
+  },
+  {
+   "fid": 1635733,
+   "home": "Slovan Bratislava",
+   "away": "VfB Stuttgart",
+   "league": "World: UEFA Champions League",
+   "kickoff": "10/14/2026 8:00:00 PM",
+   "odds": [
+    9.57,
+    6.23,
+    1.29
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.07
+    },
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1637335,
+   "home": "Aston Villa U19",
+   "away": "Fenerbahce U19",
+   "league": "World: UEFA Youth League",
+   "kickoff": "10/14/2026 2:00:00 PM",
+   "odds": [
+    1.4,
+    4.7,
+    5.67
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1637342,
+   "home": "Slovan Bratislava U19",
+   "away": "Stuttgart U19",
+   "league": "World: UEFA Youth League",
+   "kickoff": "10/14/2026 1:00:00 PM",
+   "odds": [
+    6.35,
+    6.1,
+    1.28
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1639251,
+   "home": "Pie\u0161\u0165any",
+   "away": "Spartak Trnava",
+   "league": "Slovakia: Cup",
+   "kickoff": "10/14/2026 2:00:00 PM",
+   "odds": [
+    25.0,
+    11.0,
+    1.01
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1639255,
+   "home": "Vranov nad Top\u013eou",
+   "away": "Dukla Bansk\u00e1 Bystrica",
+   "league": "Slovakia: Cup",
+   "kickoff": "10/14/2026 2:00:00 PM",
+   "odds": [
+    7.95,
+    5.75,
+    1.24
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1639259,
+   "home": "Nizhny Novgorod",
+   "away": "Shinnik Yaroslavl",
+   "league": "Russia: Cup",
+   "kickoff": "10/14/2026 5:15:00 PM",
+   "odds": [
+    1.59,
+    4.67,
+    4.31
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.05
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.14
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.58
+    }
+   ]
+  },
+  {
+   "fid": 1639262,
+   "home": "Volga Ulyanovsk",
+   "away": "Murom",
+   "league": "Russia: Cup",
+   "kickoff": "10/14/2026 3:00:00 PM",
+   "odds": [
+    1.75,
+    3.49,
+    4.62
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1639264,
+   "home": "Enisey",
+   "away": "Kaluga",
+   "league": "Russia: Cup",
+   "kickoff": "10/14/2026 12:30:00 PM",
+   "odds": [
+    2.08,
+    2.91,
+    3.97
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.22
+    }
+   ]
+  },
+  {
+   "fid": 1639861,
+   "home": "Spartak Myjava",
+   "away": "Ru\u017eomberok",
+   "league": "Slovakia: Cup",
+   "kickoff": "10/14/2026 1:30:00 PM",
+   "odds": [
+    6.71,
+    4.4,
+    1.36
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.04
+    }
+   ]
+  },
+  {
+   "fid": 1640557,
+   "home": "Atletico-MG",
+   "away": "Atletico Torque",
+   "league": "World: CONMEBOL Sudamericana",
+   "kickoff": "10/14/2026 11:00:00 PM",
+   "odds": [
+    1.37,
+    4.61,
+    9.39
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1641824,
+   "home": "Uni\u00e3o Santar\u00e9m",
+   "away": "GIL Vicente",
+   "league": "Portugal: Ta\u00e7a de Portugal",
+   "kickoff": "10/14/2026 7:00:00 PM",
+   "odds": [
+    7.45,
+    3.98,
+    1.42
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1642106,
+   "home": "Dukagjini",
+   "away": "Vushtrria",
+   "league": "Kosovo: Superliga",
+   "kickoff": "10/14/2026 5:00:00 PM",
+   "odds": [
+    1.1,
+    6.05,
+    19.5
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.16
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.62
+    }
+   ]
+  },
+  {
+   "fid": 1643266,
+   "home": "Gainare Tottori",
+   "away": "Cerezo Osaka",
+   "league": "Japan: J-League Cup",
+   "kickoff": "10/14/2026 11:00:00 AM",
+   "odds": [
+    7.56,
+    4.75,
+    1.36
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1643271,
+   "home": "Matsumoto Yamaga",
+   "away": "Sanfrecce Hiroshima",
+   "league": "Japan: J-League Cup",
+   "kickoff": "10/14/2026 11:00:00 AM",
+   "odds": [
+    11.5,
+    5.65,
+    1.21
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1643455,
+   "home": "Bokelj",
+   "away": "Buducnost Podgorica",
+   "league": "Montenegro: Cup",
+   "kickoff": "10/14/2026 2:00:00 PM",
+   "odds": [
+    2.48,
+    2.94,
+    2.64
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1643961,
+   "home": "MO Constantine",
+   "away": "Azazga",
+   "league": "Algeria: Ligue 2",
+   "kickoff": "10/14/2026 3:00:00 PM",
+   "odds": [
+    2.13,
+    2.86,
+    3.4
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1643967,
+   "home": "WA Mostaganem",
+   "away": "RC Kouba",
+   "league": "Algeria: Ligue 2",
+   "kickoff": "10/14/2026 3:00:00 PM",
+   "odds": [
+    3.9,
+    2.99,
+    1.9
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1644213,
+   "home": "Ittihad Tanger",
+   "away": "Maghreb F\u00e8s",
+   "league": "Morocco: Botola Pro",
+   "kickoff": "10/14/2026 9:00:00 PM",
+   "odds": [
+    4.02,
+    2.61,
+    2.09
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1645600,
+   "home": "Al-Duhail SC",
+   "away": "Al-Shabab",
+   "league": "World: AGCFF Gulf Champions League",
+   "kickoff": "10/14/2026 3:45:00 PM",
+   "odds": [
+    1.23,
+    5.05,
+    9.6
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.07
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.22
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.75
+    }
+   ]
+  }
+ ]
+}
