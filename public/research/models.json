@@ -13,12 +13,12 @@
      "roi": 14.4
     },
     "live": {
-     "picks": 248,
-     "won": 49,
-     "hit": 19.8,
+     "picks": 249,
+     "won": 50,
+     "hit": 20.1,
      "avg_odds": 4.32,
-     "profit": -40.6,
-     "roi": -16.4
+     "profit": -37.4,
+     "roi": -15.0
     }
    },
    {
@@ -292,7 +292,10 @@
       "pick": "Half Time/Full Time - Draw/Home",
       "odds": 4.2,
       "market": "HT/FT Double",
-      "selection": "Draw/Home"
+      "selection": "Draw/Home",
+      "status": "WON",
+      "score": "3-0",
+      "ht": "0-0"
      },
      {
       "model": "D2",
@@ -19794,7 +19797,9 @@
        "odds": 1.23,
        "market": "Asian Handicap First Half",
        "selection": "Home +0.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "3-0",
+       "ht": "0-0"
       }
      ],
      "status": "PENDING"
@@ -20497,7 +20502,9 @@
         "odds": 1.23,
         "market": "Asian Handicap First Half",
         "selection": "Home +0.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "3-0",
+        "ht": "0-0"
        }
       ],
       "status": "PENDING"
@@ -71037,7 +71044,9 @@
        "odds": 1.23,
        "market": "Asian Handicap First Half",
        "selection": "Home +0.5",
-       "status": "PENDING"
+       "status": "WON",
+       "score": "3-0",
+       "ht": "0-0"
       },
       {
        "fid": 1644213,
@@ -71956,7 +71965,9 @@
         "odds": 1.23,
         "market": "Asian Handicap First Half",
         "selection": "Home +0.5",
-        "status": "PENDING"
+        "status": "WON",
+        "score": "3-0",
+        "ht": "0-0"
        },
        {
         "fid": 1644213,
@@ -84086,9 +84097,9 @@
     "id": "A2",
     "name": "Home Favourite Not Behind at Half-Time",
     "sporty": "1st Half - Double Chance - Home or Draw",
-    "picks": 71,
-    "won": 51,
-    "hit": 71.8
+    "picks": 72,
+    "won": 52,
+    "hit": 72.2
    },
    {
     "id": "A4",
@@ -114715,7 +114726,7 @@
    "about": "Mixed markets, built until the ticket reaches 20 odds. Rare wins, big payout."
   }
  },
- "generated": "2026-10-14 10:30",
+ "generated": "2026-10-14 11:07",
  "split": "2026-09-26",
  "note": "Candidates only. Selected as the best of 21,335 tested patterns over 6 days; some of this record is luck and will fade. Flat 1-unit stakes at the typical (median) bookmaker price. Prices captured about 1 hour before kick-off.",
  "models": [
