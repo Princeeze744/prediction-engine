@@ -1,0 +1,1567 @@
+{
+ "date": "2026-10-15",
+ "created": "2026-10-15 00:07",
+ "items": [
+  {
+   "fid": 1490526,
+   "home": "Inter Miami",
+   "away": "New York City FC",
+   "league": "USA: Major League Soccer",
+   "kickoff": "10/15/2026 12:30:00 AM",
+   "odds": [
+    1.55,
+    4.75,
+    5.1
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1490528,
+   "home": "FC Cincinnati",
+   "away": "New England Revolution",
+   "league": "USA: Major League Soccer",
+   "kickoff": "10/15/2026 12:30:00 AM",
+   "odds": [
+    1.83,
+    4.33,
+    3.6
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.08
+    }
+   ]
+  },
+  {
+   "fid": 1490531,
+   "home": "DC United",
+   "away": "New York Red Bulls",
+   "league": "USA: Major League Soccer",
+   "kickoff": "10/15/2026 12:30:00 AM",
+   "odds": [
+    2.26,
+    3.92,
+    2.75
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1490534,
+   "home": "St. Louis City",
+   "away": "Vancouver Whitecaps",
+   "league": "USA: Major League Soccer",
+   "kickoff": "10/15/2026 1:30:00 AM",
+   "odds": [
+    2.23,
+    3.8,
+    2.92
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1490535,
+   "home": "Nashville SC",
+   "away": "Sporting Kansas City",
+   "league": "USA: Major League Soccer",
+   "kickoff": "10/15/2026 1:30:00 AM",
+   "odds": [
+    1.22,
+    6.8,
+    10.75
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.28
+    }
+   ]
+  },
+  {
+   "fid": 1490536,
+   "home": "Colorado Rapids",
+   "away": "Minnesota United FC",
+   "league": "USA: Major League Soccer",
+   "kickoff": "10/15/2026 2:30:00 AM",
+   "odds": [
+    1.81,
+    3.75,
+    4.28
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.21
+    }
+   ]
+  },
+  {
+   "fid": 1490538,
+   "home": "Los Angeles FC",
+   "away": "Austin",
+   "league": "USA: Major League Soccer",
+   "kickoff": "10/15/2026 3:30:00 AM",
+   "odds": [
+    1.44,
+    4.75,
+    6.58
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.07
+    }
+   ]
+  },
+  {
+   "fid": 1493725,
+   "home": "Hartford Athletic",
+   "away": "Charleston Battery",
+   "league": "USA: USL Championship",
+   "kickoff": "10/15/2026 12:00:00 AM",
+   "odds": [
+    2.51,
+    3.48,
+    2.35
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.21
+    }
+   ]
+  },
+  {
+   "fid": 1513648,
+   "home": "Flora Tallinn",
+   "away": "FC Levadia Tallinn",
+   "league": "Estonia: Meistriliiga",
+   "kickoff": "10/15/2026 5:00:00 PM",
+   "odds": [
+    5.5,
+    4.5,
+    1.42
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.37
+    }
+   ]
+  },
+  {
+   "fid": 1515897,
+   "home": "R\u012bgas FS",
+   "away": "Super Nova",
+   "league": "Latvia: Virsliga",
+   "kickoff": "10/15/2026 3:00:00 PM",
+   "odds": [
+    1.09,
+    8.0,
+    15.62
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.28
+    }
+   ]
+  },
+  {
+   "fid": 1516153,
+   "home": "Andijan",
+   "away": "Qizilqum",
+   "league": "Uzbekistan: Super League",
+   "kickoff": "10/15/2026 3:00:00 PM",
+   "odds": [
+    1.75,
+    3.41,
+    4.44
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.25
+    }
+   ]
+  },
+  {
+   "fid": 1516158,
+   "home": "Mash'al",
+   "away": "Olmaliq",
+   "league": "Uzbekistan: Super League",
+   "kickoff": "10/15/2026 3:00:00 PM",
+   "odds": [
+    6.64,
+    4.37,
+    1.43
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1549659,
+   "home": "Barranquilla",
+   "away": "Tigres FC",
+   "league": "Colombia: Primera B",
+   "kickoff": "10/15/2026 10:00:00 PM",
+   "odds": [
+    2.4,
+    2.94,
+    2.93
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1551697,
+   "home": "LD Alajuelense",
+   "away": "CS Herediano",
+   "league": "Costa-Rica: Primera Divisi\u00f3n",
+   "kickoff": "10/15/2026 3:00:00 AM",
+   "odds": [
+    1.83,
+    3.34,
+    3.83
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.23
+    }
+   ]
+  },
+  {
+   "fid": 1559669,
+   "home": "Guastatoya",
+   "away": "Antigua GFC",
+   "league": "Guatemala: Liga Nacional",
+   "kickoff": "10/15/2026 2:00:00 AM",
+   "odds": [
+    2.19,
+    2.67,
+    3.6
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.16
+    }
+   ]
+  },
+  {
+   "fid": 1563665,
+   "home": "Rodina Moskva",
+   "away": "Spartak Moscow",
+   "league": "Russia: Cup",
+   "kickoff": "10/15/2026 6:45:00 PM",
+   "odds": [
+    6.35,
+    4.94,
+    1.46
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.13
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.44
+    }
+   ]
+  },
+  {
+   "fid": 1563666,
+   "home": "Rubin",
+   "away": "FC Orenburg",
+   "league": "Russia: Cup",
+   "kickoff": "10/15/2026 4:30:00 PM",
+   "odds": [
+    1.97,
+    3.58,
+    3.9
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.24
+    }
+   ]
+  },
+  {
+   "fid": 1585785,
+   "home": "Mu\u011flaspor",
+   "away": "Bursaspor",
+   "league": "Turkey: 1. Lig",
+   "kickoff": "10/15/2026 6:00:00 PM",
+   "odds": [
+    4.85,
+    3.72,
+    1.59
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1594868,
+   "home": "El Dakhleya",
+   "away": "Itesalat",
+   "league": "Egypt: Second League",
+   "kickoff": "10/15/2026 1:30:00 PM",
+   "odds": [
+    3.8,
+    2.8,
+    2.03
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.11
+    }
+   ]
+  },
+  {
+   "fid": 1594869,
+   "home": "El Mansura",
+   "away": "AL Nasr SC",
+   "league": "Egypt: Second League",
+   "kickoff": "10/15/2026 1:30:00 PM",
+   "odds": [
+    2.51,
+    2.65,
+    2.94
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1594871,
+   "home": "La Viena FC",
+   "away": "Haras El Hodood",
+   "league": "Egypt: Second League",
+   "kickoff": "10/15/2026 1:30:00 PM",
+   "odds": [
+    5.08,
+    2.91,
+    1.75
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1603044,
+   "home": "Al-Ahli Jeddah",
+   "away": "Al-Nassr",
+   "league": "Saudi-Arabia: Pro League",
+   "kickoff": "10/15/2026 7:00:00 PM",
+   "odds": [
+    3.01,
+    3.67,
+    2.04
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.33
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.58
+    }
+   ]
+  },
+  {
+   "fid": 1612094,
+   "home": "Boca Juniors Res.",
+   "away": "Ferro 2",
+   "league": "Argentina: Reserve League",
+   "kickoff": "10/15/2026 11:00:00 PM",
+   "odds": [
+    1.16,
+    5.95,
+    12.97
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.19
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.69
+    }
+   ]
+  },
+  {
+   "fid": 1630370,
+   "home": "Wofoo Tai Po",
+   "away": "Home United",
+   "league": "World: AFC Champions League Two",
+   "kickoff": "10/15/2026 11:00:00 AM",
+   "odds": [
+    6.41,
+    4.65,
+    1.35
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.41
+    }
+   ]
+  },
+  {
+   "fid": 1630374,
+   "home": "Tampines Rovers",
+   "away": "Machida Zelvia",
+   "league": "World: AFC Champions League Two",
+   "kickoff": "10/15/2026 1:15:00 PM",
+   "odds": [
+    7.74,
+    4.21,
+    1.33
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1630452,
+   "home": "Xank\u0259ndi FK",
+   "away": "\u015eahda\u011f",
+   "league": "Azerbaijan: Birinci Dasta",
+   "kickoff": "10/15/2026 12:00:00 PM",
+   "odds": [
+    5.04,
+    3.5,
+    1.64
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.2
+    }
+   ]
+  },
+  {
+   "fid": 1630454,
+   "home": "Zaqatala",
+   "away": "S\u0259bail",
+   "league": "Azerbaijan: Birinci Dasta",
+   "kickoff": "10/15/2026 12:00:00 PM",
+   "odds": [
+    7.59,
+    5.33,
+    1.35
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1630593,
+   "home": "Makeni All Stars",
+   "away": "Zanaco",
+   "league": "Zambia: Super League",
+   "kickoff": "10/15/2026 2:00:00 PM",
+   "odds": [
+    3.0,
+    2.8,
+    2.35
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.3
+    },
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1636222,
+   "home": "AZ Alkmaar",
+   "away": "Hapoel Beer Sheva",
+   "league": "World: UEFA Europa League",
+   "kickoff": "10/15/2026 5:45:00 PM",
+   "odds": [
+    1.31,
+    5.79,
+    9.35
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.11
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.46
+    }
+   ]
+  },
+  {
+   "fid": 1636228,
+   "home": "Benfica",
+   "away": "Celtic",
+   "league": "World: UEFA Europa League",
+   "kickoff": "10/15/2026 8:00:00 PM",
+   "odds": [
+    1.26,
+    6.3,
+    11.35
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.05
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.43
+    }
+   ]
+  },
+  {
+   "fid": 1636236,
+   "home": "Bournemouth",
+   "away": "Sturm Graz",
+   "league": "World: UEFA Europa League",
+   "kickoff": "10/15/2026 8:00:00 PM",
+   "odds": [
+    1.19,
+    7.65,
+    13.48
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.03
+    }
+   ]
+  },
+  {
+   "fid": 1636239,
+   "home": "Celje",
+   "away": "Omonia Nicosia",
+   "league": "World: UEFA Europa League",
+   "kickoff": "10/15/2026 5:45:00 PM",
+   "odds": [
+    2.64,
+    3.39,
+    2.71
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.33
+    }
+   ]
+  },
+  {
+   "fid": 1636274,
+   "home": "Jagiellonia",
+   "away": "Ararat-Armenia",
+   "league": "World: UEFA Europa League",
+   "kickoff": "10/15/2026 8:00:00 PM",
+   "odds": [
+    1.4,
+    5.02,
+    7.55
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1636326,
+   "home": "Rennes",
+   "away": "OFI",
+   "league": "World: UEFA Europa League",
+   "kickoff": "10/15/2026 8:00:00 PM",
+   "odds": [
+    1.24,
+    6.64,
+    12.12
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.43
+    }
+   ]
+  },
+  {
+   "fid": 1636338,
+   "home": "Sparta Praha",
+   "away": "Lillestrom",
+   "league": "World: UEFA Europa League",
+   "kickoff": "10/15/2026 5:45:00 PM",
+   "odds": [
+    1.35,
+    5.44,
+    8.46
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1636350,
+   "home": "Torreense",
+   "away": "Sunderland",
+   "league": "World: UEFA Europa League",
+   "kickoff": "10/15/2026 5:45:00 PM",
+   "odds": [
+    7.7,
+    5.25,
+    1.38
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1636382,
+   "home": "Atalanta",
+   "away": "Pafos",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 8:00:00 PM",
+   "odds": [
+    1.35,
+    4.99,
+    8.75
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1636392,
+   "home": "Brann",
+   "away": "Lincoln Red Imps FC",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 8:00:00 PM",
+   "odds": [
+    1.15,
+    8.33,
+    17.25
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.09
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.35
+    }
+   ]
+  },
+  {
+   "fid": 1636396,
+   "home": "Brighton",
+   "away": "Kauno \u017dalgiris",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 8:00:00 PM",
+   "odds": [
+    1.02,
+    20.87,
+    46.56
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": null
+    },
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 100,
+     "neighbours": "50 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1636401,
+   "home": "CSKA Sofia",
+   "away": "Monaco",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 5:45:00 PM",
+   "odds": [
+    6.17,
+    4.71,
+    1.5
+   ],
+   "picks": [
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.08
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1636404,
+   "home": "Egnatia Rrogozhin\u00eb",
+   "away": "FC Midtjylland",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 5:45:00 PM",
+   "odds": [
+    6.01,
+    4.19,
+    1.54
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1636406,
+   "home": "FC Copenhagen",
+   "away": "SC Braga",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 8:00:00 PM",
+   "odds": [
+    2.54,
+    3.09,
+    3.01
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.25
+    }
+   ]
+  },
+  {
+   "fid": 1636411,
+   "home": "SC Freiburg",
+   "away": "FK Jablonec",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 8:00:00 PM",
+   "odds": [
+    1.25,
+    5.71,
+    11.88
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.12
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.47
+    }
+   ]
+  },
+  {
+   "fid": 1636423,
+   "home": "Heart Of Midlothian",
+   "away": "FC Nordsjaelland",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 8:00:00 PM",
+   "odds": [
+    3.09,
+    3.75,
+    2.15
+   ],
+   "picks": [
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.5
+    }
+   ]
+  },
+  {
+   "fid": 1636440,
+   "home": "KuPS",
+   "away": "Trabzonspor",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 5:45:00 PM",
+   "odds": [
+    6.62,
+    4.49,
+    1.46
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1636445,
+   "home": "FC Lugano",
+   "away": "FK Crvena Zvezda",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 5:45:00 PM",
+   "odds": [
+    2.66,
+    3.58,
+    2.49
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.18
+    },
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.47
+    }
+   ]
+  },
+  {
+   "fid": 1636453,
+   "home": "Mjallby AIF",
+   "away": "Inter Club d'Escaldes",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 5:45:00 PM",
+   "odds": [
+    1.31,
+    5.33,
+    9.22
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.06
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.18
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.65
+    }
+   ]
+  },
+  {
+   "fid": 1636464,
+   "home": "Panathinaikos",
+   "away": "Borac Banja Luka",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 5:45:00 PM",
+   "odds": [
+    1.22,
+    6.48,
+    12.1
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.04
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.5
+    }
+   ]
+  },
+  {
+   "fid": 1636468,
+   "home": "Riga",
+   "away": "Kairat Almaty",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 5:45:00 PM",
+   "odds": [
+    1.92,
+    3.47,
+    4.06
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.27
+    }
+   ]
+  },
+  {
+   "fid": 1636471,
+   "home": "St. Truiden",
+   "away": "FC Iberia 1999",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 8:00:00 PM",
+   "odds": [
+    1.29,
+    5.53,
+    9.92
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.05
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.16
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.56
+    }
+   ]
+  },
+  {
+   "fid": 1636480,
+   "home": "Twente",
+   "away": "FC Thun",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 8:00:00 PM",
+   "odds": [
+    1.21,
+    7.2,
+    11.08
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.31
+    }
+   ]
+  },
+  {
+   "fid": 1636482,
+   "home": "Universitatea Craiova",
+   "away": "Getafe",
+   "league": "World: UEFA Europa Conference League",
+   "kickoff": "10/15/2026 5:45:00 PM",
+   "odds": [
+    3.21,
+    3.22,
+    2.33
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.19
+    }
+   ]
+  },
+  {
+   "fid": 1640020,
+   "home": "Fluminense",
+   "away": "Palmeiras",
+   "league": "World: CONMEBOL Libertadores",
+   "kickoff": "10/15/2026 1:30:00 AM",
+   "odds": [
+    2.92,
+    2.91,
+    2.71
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.13
+    }
+   ]
+  },
+  {
+   "fid": 1642107,
+   "home": "Malisheva",
+   "away": "Prishtina",
+   "league": "Kosovo: Superliga",
+   "kickoff": "10/15/2026 1:00:00 PM",
+   "odds": [
+    1.79,
+    3.38,
+    3.82
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 84,
+     "neighbours": "42 / 50",
+     "odds": 1.25
+    }
+   ]
+  },
+  {
+   "fid": 1643391,
+   "home": "Deportivo Maldonado",
+   "away": "Albion FC",
+   "league": "Uruguay: Copa Uruguay",
+   "kickoff": "10/15/2026 1:00:00 AM",
+   "odds": [
+    1.92,
+    3.08,
+    3.73
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.17
+    }
+   ]
+  },
+  {
+   "fid": 1643459,
+   "home": "Petrovac",
+   "away": "Kom",
+   "league": "Montenegro: Cup",
+   "kickoff": "10/15/2026 2:00:00 PM",
+   "odds": [
+    1.72,
+    3.33,
+    4.36
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1643957,
+   "home": "Usm El Harrach",
+   "away": "RC Arba",
+   "league": "Algeria: Ligue 2",
+   "kickoff": "10/15/2026 3:00:00 PM",
+   "odds": [
+    1.07,
+    6.15,
+    38.0
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.03
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 2.1
+    }
+   ]
+  },
+  {
+   "fid": 1645243,
+   "home": "Leo Victor",
+   "away": "Notch",
+   "league": "Suriname: Eerste Divisie",
+   "kickoff": "10/15/2026 1:15:00 AM",
+   "odds": [
+    1.27,
+    4.55,
+    9.2
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": 1.02
+    }
+   ]
+  },
+  {
+   "fid": 1645635,
+   "home": "Managua",
+   "away": "San Marcos",
+   "league": "Nicaragua: Primera Division",
+   "kickoff": "10/15/2026 1:00:00 AM",
+   "odds": [
+    1.14,
+    6.92,
+    11.87
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 76,
+     "neighbours": "38 / 50",
+     "odds": 1.32
+    }
+   ]
+  }
+ ]
+}

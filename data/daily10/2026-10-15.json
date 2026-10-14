@@ -1,0 +1,777 @@
+{
+ "date": "2026-10-15",
+ "created": "2026-10-15 00:07",
+ "tickets": [
+  {
+   "no": 1,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.01,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1559667,
+     "kickoff": "10/15/2026 10:00:00 PM",
+     "match": "Cob\u00e1n Imperial - Municipal",
+     "league": "Guatemala: Liga Nacional",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.33,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1630369,
+     "kickoff": "10/15/2026 11:00:00 AM",
+     "match": "Gangwon FC - Phnom Penh Crown",
+     "league": "World: AFC Champions League Two",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.19,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1493725,
+     "kickoff": "10/15/2026 12:00:00 AM",
+     "match": "Hartford Athletic - Charleston Battery",
+     "league": "USA: USL Championship",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.22,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1490530,
+     "kickoff": "10/15/2026 12:30:00 AM",
+     "match": "CF Montreal - Atlanta United FC",
+     "league": "USA: Major League Soccer",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.18,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    },
+    {
+     "fid": 1640552,
+     "kickoff": "10/15/2026 1:00:00 AM",
+     "match": "Club Sando - Mount Pleasant Academy",
+     "league": "World: CONCACAF Caribbean Club Championship",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.32,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.02,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1643391,
+     "kickoff": "10/15/2026 1:00:00 AM",
+     "match": "Deportivo Maldonado - Albion FC",
+     "league": "Uruguay: Copa Uruguay",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.38,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1603047,
+     "kickoff": "10/15/2026 4:15:00 PM",
+     "match": "Al-Hazm - Al-Fateh",
+     "league": "Saudi-Arabia: Pro League",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.22,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    },
+    {
+     "fid": 1558206,
+     "kickoff": "10/15/2026 5:30:00 PM",
+     "match": "Pogo\u0144 Siedlce - Puszcza Niepo\u0142omice",
+     "league": "Poland: I Liga",
+     "pick": "Double Chance - Draw or Away",
+     "model": "A5",
+     "odds": 1.4,
+     "market": "Double Chance",
+     "selection": "Draw/Away"
+    },
+    {
+     "fid": 1645769,
+     "kickoff": "10/15/2026 8:00:00 PM",
+     "match": "Liberia U20 - Gambia U20",
+     "league": "World: Africa Cup of Nations U20",
+     "pick": "Handicap 0:1 - Away (0:1)",
+     "model": "A7",
+     "odds": 1.28,
+     "market": "Handicap Result",
+     "selection": "Away -1"
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "tier": "3 odds",
+   "target": 3.0,
+   "odds": 3.09,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1630370,
+     "kickoff": "10/15/2026 11:00:00 AM",
+     "match": "Wofoo Tai Po - Home United",
+     "league": "World: AFC Champions League Two",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.23,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1490527,
+     "kickoff": "10/15/2026 12:30:00 AM",
+     "match": "Columbus Crew - Charlotte",
+     "league": "USA: Major League Soccer",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.33,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1645784,
+     "kickoff": "10/15/2026 1:00:00 PM",
+     "match": "Central African Rep. U20 - Chad U20",
+     "league": "World: Africa Cup of Nations U20",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.27,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1630372,
+     "kickoff": "10/15/2026 1:15:00 PM",
+     "match": "BG Pathum United - Adelaide United",
+     "league": "World: AFC Champions League Two",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.26,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1636293,
+     "kickoff": "10/15/2026 5:45:00 PM",
+     "match": "Lyon - Crystal Palace",
+     "league": "World: UEFA Europa League",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.18,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.12,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1490526,
+     "kickoff": "10/15/2026 12:30:00 AM",
+     "match": "Inter Miami - New York City FC",
+     "league": "USA: Major League Soccer",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.29,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1490529,
+     "kickoff": "10/15/2026 12:30:00 AM",
+     "match": "Toronto FC - Orlando City SC",
+     "league": "USA: Major League Soccer",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.47,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1643459,
+     "kickoff": "10/15/2026 2:00:00 PM",
+     "match": "Petrovac - Kom",
+     "league": "Montenegro: Cup",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.38,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1490536,
+     "kickoff": "10/15/2026 2:30:00 AM",
+     "match": "Colorado Rapids - Minnesota United FC",
+     "league": "USA: Major League Soccer",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.23,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1516158,
+     "kickoff": "10/15/2026 3:00:00 PM",
+     "match": "Mash'al - Olmaliq",
+     "league": "Uzbekistan: Super League",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.59,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.08,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1490528,
+     "kickoff": "10/15/2026 12:30:00 AM",
+     "match": "FC Cincinnati - New England Revolution",
+     "league": "USA: Major League Soccer",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.37,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1490531,
+     "kickoff": "10/15/2026 12:30:00 AM",
+     "match": "DC United - New York Red Bulls",
+     "league": "USA: Major League Soccer",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.45,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1630371,
+     "kickoff": "10/15/2026 1:15:00 PM",
+     "match": "Kuching FA - Kitchee",
+     "league": "World: AFC Champions League Two",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.27,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1490532,
+     "kickoff": "10/15/2026 1:30:00 AM",
+     "match": "FC Dallas - Seattle Sounders",
+     "league": "USA: Major League Soccer",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.28,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1644750,
+     "kickoff": "10/15/2026 2:30:00 AM",
+     "match": "Atletico Nacional - Independiente Medellin",
+     "league": "Colombia: Copa Colombia",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.22,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1490540,
+     "kickoff": "10/15/2026 3:30:00 AM",
+     "match": "San Diego - Houston Dynamo",
+     "league": "USA: Major League Soccer",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.29,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "tier": "5 odds",
+   "target": 5.0,
+   "odds": 5.32,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1490535,
+     "kickoff": "10/15/2026 1:30:00 AM",
+     "match": "Nashville SC - Sporting Kansas City",
+     "league": "USA: Major League Soccer",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.25,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1490533,
+     "kickoff": "10/15/2026 1:30:00 AM",
+     "match": "Chicago Fire - Philadelphia Union",
+     "league": "USA: Major League Soccer",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.53,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1490534,
+     "kickoff": "10/15/2026 1:30:00 AM",
+     "match": "St. Louis City - Vancouver Whitecaps",
+     "league": "USA: Major League Soccer",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.29,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1563666,
+     "kickoff": "10/15/2026 4:30:00 PM",
+     "match": "Rubin - FC Orenburg",
+     "league": "Russia: Cup",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.32,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1645768,
+     "kickoff": "10/15/2026 5:00:00 PM",
+     "match": "Mali U20 - Guinea U20",
+     "league": "World: Africa Cup of Nations U20",
+     "pick": "Over/Under - Over 1.5",
+     "model": "A8",
+     "odds": 1.21,
+     "market": "Goals Over/Under",
+     "selection": "Over 1.5"
+    },
+    {
+     "fid": 1636328,
+     "kickoff": "10/15/2026 5:45:00 PM",
+     "match": "Union St. Gilloise - Real Sociedad",
+     "league": "World: UEFA Europa League",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.35,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 10.65,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1612095,
+     "kickoff": "10/15/2026 11:00:00 PM",
+     "match": "Central C\u00f3rdoba SdE Res. - Belgrano C\u00f3rdoba Res.",
+     "league": "Argentina: Reserve League",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.55,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1493744,
+     "kickoff": "10/15/2026 12:00:00 AM",
+     "match": "Sporting JAX - Birmingham Legion",
+     "league": "USA: USL Championship",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.44,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1493805,
+     "kickoff": "10/15/2026 12:00:00 AM",
+     "match": "Greenville Triumph - Spokane Velocity",
+     "league": "USA: USL League One",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.61,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1491553,
+     "kickoff": "10/15/2026 12:30:00 AM",
+     "match": "Rhode Island - Loudoun United",
+     "league": "USA: USL Championship",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.46,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1490537,
+     "kickoff": "10/15/2026 2:30:00 AM",
+     "match": "Real Salt Lake - San Jose Earthquakes",
+     "league": "USA: Major League Soccer",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.31,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1490538,
+     "kickoff": "10/15/2026 3:30:00 AM",
+     "match": "Los Angeles FC - Austin",
+     "league": "USA: Major League Soccer",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.22,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1574761,
+     "kickoff": "10/15/2026 7:45:00 PM",
+     "match": "Caen - La Roche VF",
+     "league": "France: Ligue 3",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.27,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 12.02,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1645635,
+     "kickoff": "10/15/2026 1:00:00 AM",
+     "match": "Managua - San Marcos",
+     "league": "Nicaragua: Primera Division",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.33,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1630373,
+     "kickoff": "10/15/2026 1:15:00 PM",
+     "match": "Svay Rieng - Shanghai Shenhua",
+     "league": "World: AFC Champions League Two",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.39,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1630374,
+     "kickoff": "10/15/2026 1:15:00 PM",
+     "match": "Tampines Rovers - Machida Zelvia",
+     "league": "World: AFC Champions League Two",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.68,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    },
+    {
+     "fid": 1640020,
+     "kickoff": "10/15/2026 1:30:00 AM",
+     "match": "Fluminense - Palmeiras",
+     "league": "World: CONMEBOL Libertadores",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.44,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1490539,
+     "kickoff": "10/15/2026 3:30:00 AM",
+     "match": "Los Angeles Galaxy - Portland Timbers",
+     "league": "USA: Major League Soccer",
+     "pick": "Double Chance - Home or Draw",
+     "model": "A6",
+     "odds": 1.39,
+     "market": "Asian Handicap",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1513648,
+     "kickoff": "10/15/2026 5:00:00 PM",
+     "match": "Flora Tallinn - FC Levadia Tallinn",
+     "league": "Estonia: Meistriliiga",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.25,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1636222,
+     "kickoff": "10/15/2026 5:45:00 PM",
+     "match": "AZ Alkmaar - Hapoel Beer Sheva",
+     "league": "World: UEFA Europa League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.19,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1564359,
+     "kickoff": "10/15/2026 8:00:00 PM",
+     "match": "Mansfield Town - Oxford United",
+     "league": "England: League One",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.3,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "tier": "10 odds",
+   "target": 10.0,
+   "odds": 10.76,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1645243,
+     "kickoff": "10/15/2026 1:15:00 AM",
+     "match": "Leo Victor - Notch",
+     "league": "Suriname: Eerste Divisie",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.25,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1645636,
+     "kickoff": "10/15/2026 2:00:00 AM",
+     "match": "Matagalpa - Walter Ferretti",
+     "league": "Nicaragua: Primera Division",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.7,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1636338,
+     "kickoff": "10/15/2026 5:45:00 PM",
+     "match": "Sparta Praha - Lillestrom",
+     "league": "World: UEFA Europa League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.18,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1636279,
+     "kickoff": "10/15/2026 5:45:00 PM",
+     "match": "Lech Poznan - Bayer Leverkusen",
+     "league": "World: UEFA Europa League",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.3,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1636445,
+     "kickoff": "10/15/2026 5:45:00 PM",
+     "match": "FC Lugano - FK Crvena Zvezda",
+     "league": "World: UEFA Europa Conference League",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.25,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1636350,
+     "kickoff": "10/15/2026 5:45:00 PM",
+     "match": "Torreense - Sunderland",
+     "league": "World: UEFA Europa League",
+     "pick": "Away Team to Score in Both Halves - No",
+     "model": "A3",
+     "odds": 1.79,
+     "market": "Away team will score in both halves",
+     "selection": "No"
+    },
+    {
+     "fid": 1636260,
+     "kickoff": "10/15/2026 8:00:00 PM",
+     "match": "Ferencvarosi TC - Plzen",
+     "league": "World: UEFA Europa League",
+     "pick": "1st Half - Double Chance - Home or Draw",
+     "model": "A2",
+     "odds": 1.25,
+     "market": "Asian Handicap First Half",
+     "selection": "Home +0.5"
+    },
+    {
+     "fid": 1636228,
+     "kickoff": "10/15/2026 8:00:00 PM",
+     "match": "Benfica - Celtic",
+     "league": "World: UEFA Europa League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.18,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "tier": "20 odds",
+   "target": 20.0,
+   "odds": 20.87,
+   "reached": true,
+   "repeats": false,
+   "legs": [
+    {
+     "fid": 1642107,
+     "kickoff": "10/15/2026 1:00:00 PM",
+     "match": "Malisheva - Prishtina",
+     "league": "Kosovo: Superliga",
+     "pick": "Away Team Odd/Even - Even",
+     "model": "M7",
+     "odds": 1.62,
+     "market": "Away Odd/Even",
+     "selection": "Even"
+    },
+    {
+     "fid": 1643454,
+     "kickoff": "10/15/2026 2:00:00 PM",
+     "match": "Berane - Jedinstvo",
+     "league": "Montenegro: Cup",
+     "pick": "2nd Half - Away Team Over 0.5",
+     "model": "M2",
+     "odds": 1.54,
+     "market": "Away Team Total Goals(2nd Half)",
+     "selection": "Over 0.5"
+    },
+    {
+     "fid": 1551697,
+     "kickoff": "10/15/2026 3:00:00 AM",
+     "match": "LD Alajuelense - CS Herediano",
+     "league": "Costa-Rica: Primera Divisi\u00f3n",
+     "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+     "model": "M4",
+     "odds": 1.93,
+     "market": "Goals Over/Under First Half",
+     "selection": "Over 1.0"
+    },
+    {
+     "fid": 1515897,
+     "kickoff": "10/15/2026 3:00:00 PM",
+     "match": "R\u012bgas FS - Super Nova",
+     "league": "Latvia: Virsliga",
+     "pick": "1st Half - Away Team Under 0.5",
+     "model": "M9",
+     "odds": 1.22,
+     "market": "Away Team Total Goals(1st Half)",
+     "selection": "Under 0.5"
+    },
+    {
+     "fid": 1516153,
+     "kickoff": "10/15/2026 3:00:00 PM",
+     "match": "Andijan - Qizilqum",
+     "league": "Uzbekistan: Super League",
+     "pick": "1st Half - Over 1 (stake back on exactly 1 goal)",
+     "model": "M4",
+     "odds": 1.87,
+     "market": "Goals Over/Under First Half",
+     "selection": "Over 1.0"
+    },
+    {
+     "fid": 1636332,
+     "kickoff": "10/15/2026 5:45:00 PM",
+     "match": "Red Bull Salzburg - AC Milan",
+     "league": "World: UEFA Europa League",
+     "pick": "Away Team to Win Either Half - Yes",
+     "model": "M1",
+     "odds": 1.57,
+     "market": "To Win Either Half",
+     "selection": "Away"
+    },
+    {
+     "fid": 1636236,
+     "kickoff": "10/15/2026 8:00:00 PM",
+     "match": "Bournemouth - Sturm Graz",
+     "league": "World: UEFA Europa League",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A10",
+     "odds": 1.21,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    }
+   ]
+  }
+ ]
+}
