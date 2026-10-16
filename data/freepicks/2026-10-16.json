@@ -1,0 +1,433 @@
+{
+ "date": "2026-10-16",
+ "created": "2026-10-16 01:27",
+ "items": [
+  {
+   "fid": 1492783,
+   "home": "Galway United",
+   "away": "Shamrock Rovers",
+   "league": "Ireland: Premier Division",
+   "kickoff": "10/16/2026 7:45:00 PM",
+   "odds": [
+    4.1,
+    3.8,
+    1.77
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.21
+    }
+   ]
+  },
+  {
+   "fid": 1492995,
+   "home": "Finn Harps",
+   "away": "Bray Wanderers",
+   "league": "Ireland: First Division",
+   "kickoff": "10/16/2026 7:45:00 PM",
+   "odds": [
+    6.16,
+    4.7,
+    1.37
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 88,
+     "neighbours": "44 / 50",
+     "odds": 1.05
+    }
+   ]
+  },
+  {
+   "fid": 1492996,
+   "home": "Kerry",
+   "away": "Cork City",
+   "league": "Ireland: First Division",
+   "kickoff": "10/16/2026 7:45:00 PM",
+   "odds": [
+    2.5,
+    3.5,
+    2.35
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1492997,
+   "home": "Longford Town",
+   "away": "Athlone Town",
+   "league": "Ireland: First Division",
+   "kickoff": "10/16/2026 7:45:00 PM",
+   "odds": [
+    2.66,
+    3.52,
+    2.21
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 90,
+     "neighbours": "45 / 50",
+     "odds": 1.15
+    }
+   ]
+  },
+  {
+   "fid": 1493186,
+   "home": "Defensa Y Justicia",
+   "away": "Instituto Cordoba",
+   "league": "Argentina: Liga Profesional Argentina",
+   "kickoff": "10/16/2026 11:00:00 PM",
+   "odds": [
+    2.63,
+    3.01,
+    2.91
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.18
+    }
+   ]
+  },
+  {
+   "fid": 1494298,
+   "home": "IF Brommapojkarna",
+   "away": "Djurgardens IF",
+   "league": "Sweden: Allsvenskan",
+   "kickoff": "10/16/2026 6:00:00 PM",
+   "odds": [
+    5.86,
+    4.64,
+    1.48
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 86,
+     "neighbours": "43 / 50",
+     "odds": 1.11
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 78,
+     "neighbours": "39 / 50",
+     "odds": 1.48
+    }
+   ]
+  },
+  {
+   "fid": 1505304,
+   "home": "Stocksund",
+   "away": "Enk\u00f6ping",
+   "league": "Sweden: Ettan - Norra",
+   "kickoff": "10/16/2026 6:30:00 PM",
+   "odds": [
+    4.88,
+    5.65,
+    1.39
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.09
+    }
+   ]
+  },
+  {
+   "fid": 1507465,
+   "home": "Lokomotivi Tbilisi",
+   "away": "Merani Tbilisi",
+   "league": "Georgia: Liga 3",
+   "kickoff": "10/16/2026 3:00:00 PM",
+   "odds": [
+    2.54,
+    3.57,
+    2.33
+   ],
+   "picks": [
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.2
+    }
+   ]
+  },
+  {
+   "fid": 1516154,
+   "home": "Bunyodkor",
+   "away": "Sogdiana",
+   "league": "Uzbekistan: Super League",
+   "kickoff": "10/16/2026 3:00:00 PM",
+   "odds": [
+    3.02,
+    3.31,
+    2.2
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.3
+    }
+   ]
+  },
+  {
+   "fid": 1516156,
+   "home": "Kokand-1912",
+   "away": "Neftchi",
+   "league": "Uzbekistan: Super League",
+   "kickoff": "10/16/2026 3:00:00 PM",
+   "odds": [
+    4.99,
+    3.83,
+    1.58
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.12
+    }
+   ]
+  },
+  {
+   "fid": 1519170,
+   "home": "Chertanovo U20",
+   "away": "CSKA Moskva U19",
+   "league": "Russia: Youth Championship",
+   "kickoff": "10/16/2026 11:00:00 AM",
+   "odds": [
+    9.9,
+    6.8,
+    1.15
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.01
+    }
+   ]
+  },
+  {
+   "fid": 1519173,
+   "home": "Krasnodar U19",
+   "away": "Nizhny Novgorod U19",
+   "league": "Russia: Youth Championship",
+   "kickoff": "10/16/2026 1:00:00 PM",
+   "odds": [
+    1.1,
+    7.6,
+    13.0
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 98,
+     "neighbours": "49 / 50",
+     "odds": null
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": null
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.14
+    }
+   ]
+  },
+  {
+   "fid": 1519176,
+   "home": "Ural U20",
+   "away": "Lokomotiv Moskva U19",
+   "league": "Russia: Youth Championship",
+   "kickoff": "10/16/2026 9:00:00 AM",
+   "odds": [
+    4.99,
+    5.0,
+    1.4
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 80,
+     "neighbours": "40 / 50",
+     "odds": 1.1
+    }
+   ]
+  },
+  {
+   "fid": 1519230,
+   "home": "Zenit U19",
+   "away": "Almaz Antey U19",
+   "league": "Russia: Youth Championship",
+   "kickoff": "10/16/2026 3:00:00 PM",
+   "odds": [
+    1.25,
+    5.5,
+    7.47
+   ],
+   "picks": [
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Over 1.5",
+     "cat": "OVER 1.5",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": 1.05
+    },
+    {
+     "option": "Over 2.5",
+     "cat": "OVER 2.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.16
+    }
+   ]
+  },
+  {
+   "fid": 1520936,
+   "home": "Ponte Preta",
+   "away": "Atletico Goianiense",
+   "league": "Brazil: Serie B",
+   "kickoff": "10/16/2026 11:30:00 PM",
+   "odds": [
+    9.72,
+    4.95,
+    1.29
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.02
+    },
+    {
+     "option": "Away team to score 1+",
+     "cat": "AWAY 1+",
+     "consistency": 96,
+     "neighbours": "48 / 50",
+     "odds": 1.06
+    }
+   ]
+  },
+  {
+   "fid": 1534474,
+   "home": "BATE II",
+   "away": "FC Slutsk",
+   "league": "Belarus: 1. Division",
+   "kickoff": "10/16/2026 1:30:00 PM",
+   "odds": [
+    9.6,
+    5.65,
+    1.21
+   ],
+   "picks": [
+    {
+     "option": "X2",
+     "cat": "X2",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1534876,
+   "home": "Turan Turkistan",
+   "away": "Shakhter Karagandy",
+   "league": "Kazakhstan: 1. Division",
+   "kickoff": "10/16/2026 1:00:00 PM",
+   "odds": [
+    1.27,
+    5.1,
+    7.95
+   ],
+   "picks": [
+    {
+     "option": "Home team to score 1+",
+     "cat": "HOME 1+",
+     "consistency": 94,
+     "neighbours": "47 / 50",
+     "odds": null
+    },
+    {
+     "option": "1X",
+     "cat": "1X",
+     "consistency": 92,
+     "neighbours": "46 / 50",
+     "odds": null
+    }
+   ]
+  },
+  {
+   "fid": 1536491,
+   "home": "Zvezda St. Petersburg",
+   "away": "Cherepovets",
+   "league": "Russia: Second League - Group 2",
+   "kickoff": "10/16/2026 12:00:00 PM",
+   "odds": [
+    2.38,
+    3.0,
+    2.95
+   ],
+   "picks": [
+    {
+     "option": "Under 3.5",
+     "cat": "UNDER 3.5",
+     "consistency": 82,
+     "neighbours": "41 / 50",
+     "odds": 1.35
+    }
+   ]
+  }
+ ]
+}

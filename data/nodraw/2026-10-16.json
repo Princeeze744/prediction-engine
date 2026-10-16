@@ -1,0 +1,71 @@
+{
+ "date": "2026-10-16",
+ "created": "2026-10-16 01:27",
+ "items": [
+  {
+   "fid": 1519170,
+   "tier": "Sweet",
+   "home": "Chertanovo U20",
+   "away": "CSKA Moskva U19",
+   "league": "Russia: Youth Championship",
+   "kickoff": "10/16/2026 11:00:00 AM",
+   "fav": 1.15,
+   "o25": 1.16,
+   "odds": 1.03,
+   "fav_side": "Away",
+   "o15": 1.03
+  },
+  {
+   "fid": 1519230,
+   "tier": "Wide",
+   "home": "Zenit U19",
+   "away": "Almaz Antey U19",
+   "league": "Russia: Youth Championship",
+   "kickoff": "10/16/2026 3:00:00 PM",
+   "fav": 1.25,
+   "o25": 1.16,
+   "odds": 1.07,
+   "fav_side": "Home",
+   "o15": 1.05
+  },
+  {
+   "fid": 1492995,
+   "tier": "Wide",
+   "home": "Finn Harps",
+   "away": "Bray Wanderers",
+   "league": "Ireland: First Division",
+   "kickoff": "10/16/2026 7:45:00 PM",
+   "fav": 1.37,
+   "o25": 1.41,
+   "odds": 1.1,
+   "fav_side": "Away",
+   "o15": 1.1
+  },
+  {
+   "fid": 1505304,
+   "tier": "Wide",
+   "home": "Stocksund",
+   "away": "Enk\u00f6ping",
+   "league": "Sweden: Ettan - Norra",
+   "kickoff": "10/16/2026 6:30:00 PM",
+   "fav": 1.39,
+   "o25": 1.25,
+   "odds": 1.06,
+   "fav_side": "Away",
+   "o15": 1.03
+  },
+  {
+   "fid": 1519176,
+   "tier": "Wide",
+   "home": "Ural U20",
+   "away": "Lokomotiv Moskva U19",
+   "league": "Russia: Youth Championship",
+   "kickoff": "10/16/2026 9:00:00 AM",
+   "fav": 1.4,
+   "o25": 1.22,
+   "odds": 1.09,
+   "fav_side": "Away",
+   "o15": 1.02
+  }
+ ]
+}

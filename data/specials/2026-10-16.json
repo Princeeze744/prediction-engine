@@ -1,0 +1,272 @@
+{
+ "date": "2026-10-16",
+ "created": "2026-10-16 01:27",
+ "tickets": [
+  {
+   "no": 1,
+   "model": "A1",
+   "tier": "Away Favourite Scores",
+   "sporty": "Home Team Clean Sheet - No",
+   "target": 3.0,
+   "odds": 2.44,
+   "reached": false,
+   "repeats": false,
+   "record": {
+    "hit": 87.6,
+    "picks": 217,
+    "avg_odds": 1.2
+   },
+   "legs": [
+    {
+     "fid": 1492782,
+     "kickoff": "10/16/2026 7:45:00 PM",
+     "match": "Drogheda United - Derry City",
+     "league": "Ireland: Premier Division",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.22,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1492783,
+     "kickoff": "10/16/2026 7:45:00 PM",
+     "match": "Galway United - Shamrock Rovers",
+     "league": "Ireland: Premier Division",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.14,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1492996,
+     "kickoff": "10/16/2026 7:45:00 PM",
+     "match": "Kerry - Cork City",
+     "league": "Ireland: First Division",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.22,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1492997,
+     "kickoff": "10/16/2026 7:45:00 PM",
+     "match": "Longford Town - Athlone Town",
+     "league": "Ireland: First Division",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.2,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    },
+    {
+     "fid": 1492998,
+     "kickoff": "10/16/2026 7:45:00 PM",
+     "match": "Treaty United - Cobh Ramblers",
+     "league": "Ireland: First Division",
+     "pick": "Home Team Clean Sheet - No",
+     "model": "A1",
+     "odds": 1.2,
+     "market": "Clean Sheet - Home",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "model": "A4",
+   "tier": "No First-Half GG",
+   "sporty": "1st Half - GG/NG - No",
+   "target": 3.0,
+   "odds": 3.23,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.3,
+    "picks": 234,
+    "avg_odds": 1.22
+   },
+   "legs": [
+    {
+     "fid": 1519170,
+     "kickoff": "10/16/2026 11:00:00 AM",
+     "match": "Chertanovo U20 - CSKA Moskva U19",
+     "league": "Russia: Youth Championship",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.31,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1519173,
+     "kickoff": "10/16/2026 1:00:00 PM",
+     "match": "Krasnodar U19 - Nizhny Novgorod U19",
+     "league": "Russia: Youth Championship",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.29,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1534876,
+     "kickoff": "10/16/2026 1:00:00 PM",
+     "match": "Turan Turkistan - Shakhter Karagandy",
+     "league": "Kazakhstan: 1. Division",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.18,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1534474,
+     "kickoff": "10/16/2026 1:30:00 PM",
+     "match": "BATE II - FC Slutsk",
+     "league": "Belarus: 1. Division",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.2,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1519230,
+     "kickoff": "10/16/2026 3:00:00 PM",
+     "match": "Zenit U19 - Almaz Antey U19",
+     "league": "Russia: Youth Championship",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.35,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "model": "A4",
+   "tier": "No First-Half GG",
+   "sporty": "1st Half - GG/NG - No",
+   "target": 3.0,
+   "odds": 3.45,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 83.3,
+    "picks": 234,
+    "avg_odds": 1.22
+   },
+   "legs": [
+    {
+     "fid": 1494298,
+     "kickoff": "10/16/2026 6:00:00 PM",
+     "match": "IF Brommapojkarna - Djurgardens IF",
+     "league": "Sweden: Allsvenskan",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.22,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1505304,
+     "kickoff": "10/16/2026 6:30:00 PM",
+     "match": "Stocksund - Enk\u00f6ping",
+     "league": "Sweden: Ettan - Norra",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.31,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1492781,
+     "kickoff": "10/16/2026 7:45:00 PM",
+     "match": "Bohemians - Waterford",
+     "league": "Ireland: Premier Division",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.28,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1492995,
+     "kickoff": "10/16/2026 7:45:00 PM",
+     "match": "Finn Harps - Bray Wanderers",
+     "league": "Ireland: First Division",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.25,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    },
+    {
+     "fid": 1519176,
+     "kickoff": "10/16/2026 9:00:00 AM",
+     "match": "Ural U20 - Lokomotiv Moskva U19",
+     "league": "Russia: Youth Championship",
+     "pick": "1st Half - GG/NG - No",
+     "model": "A4",
+     "odds": 1.35,
+     "market": "Both Teams Score - First Half",
+     "selection": "No"
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "model": "A9",
+   "tier": "Home Team Scores",
+   "sporty": "Away Team Clean Sheet - No",
+   "target": 3.0,
+   "odds": 3.21,
+   "reached": true,
+   "repeats": false,
+   "record": {
+    "hit": 85.0,
+    "picks": 153,
+    "avg_odds": 1.22
+   },
+   "legs": [
+    {
+     "fid": 1520936,
+     "kickoff": "10/16/2026 11:30:00 PM",
+     "match": "Ponte Preta - Atletico Goianiense",
+     "league": "Brazil: Serie B",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.83,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    },
+    {
+     "fid": 1504583,
+     "kickoff": "10/16/2026 6:00:00 PM",
+     "match": "Lund - Trelleborg",
+     "league": "Sweden: Ettan - S\u00f6dra",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.22,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    },
+    {
+     "fid": 1492783,
+     "kickoff": "10/16/2026 7:45:00 PM",
+     "match": "Galway United - Shamrock Rovers",
+     "league": "Ireland: Premier Division",
+     "pick": "Away Team Clean Sheet - No",
+     "model": "A9",
+     "odds": 1.44,
+     "market": "Clean Sheet - Away",
+     "selection": "No"
+    }
+   ]
+  }
+ ]
+}
